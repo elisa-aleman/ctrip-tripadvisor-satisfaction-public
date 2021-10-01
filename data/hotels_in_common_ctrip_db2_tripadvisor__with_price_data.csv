@@ -1,0 +1,1115 @@
+RID,Ctrip_HotelID,HotelName,EnglishHotelName,HotelScore,LocationScore,tripadvisor_hotel_id,ServicesScore,FacilitiesScore,HealthScore,HotelPrice,hotel_name,hotel_url,hotel_rating,city_id,postal_code,prefecture,locality,street,ext_address,address,price_lower,price_upper,rooms
+220,6535584,"新Itaya酒店
+Hotel New Itaya",Hotel New Itaya,5.0,4.5,11304,4.0,4.5,4.5,9994.0,Hotel New Itaya,https://www.tripadvisor.com/Hotel_Review-g298183-d1095424-Reviews-Hotel_New_Itaya-Utsunomiya_Tochigi_Prefecture_Kanto.html,3.5,157,320-0811,栃木県,宇都宮市,大通り2-4-6,,〒320-0811 栃木県宇都宮市大通り2-4-6,5820.0,13432.0,230
+372,6345417,"福井终点酒店
+Terminal Hotel Fukui",Terminal Hotel Fukui,4.2,4.2,10028,4.0,4.2,4.1,5584.0,Terminal Hotel Fukui,https://www.tripadvisor.com/Hotel_Review-g298110-d1078548-Reviews-Terminal_Hotel_Fukui-Fukui_Fukui_Prefecture_Chubu.html,3.5,125,910-0859,福井県,福井市,日之出1-18-1,,〒910-0859 福井県福井市日之出1-18-1,5820.0,10969.0,77
+464,686220,"红屋顶加大阪南巴酒店
+Red Roof Plus Osaka Namba",Red Roof Plus Osaka Namba,4.8,4.5,1310,4.4,4.6,4.6,14183.0,Red Roof Plus Osaka Namba,https://www.tripadvisor.com/Hotel_Review-g298566-d1081453-Reviews-Red_Roof_Plus_Osaka_Namba-Osaka_Osaka_Prefecture_Kinki.html,4.0,3,542-0074,大阪府,大阪市中央区千日前,1-9-7,,〒542-0074 大阪府大阪市中央区千日前1-9-7,9439.0,23876.0,232
+465,686222,"西乐雷斯酒店
+Hotel Hillarys",Hotel Hillarys,4.4,4.3,1323,3.8,4.3,4.2,7000.0,Hotel Hillarys,https://www.tripadvisor.com/Hotel_Review-g298566-d1092195-Reviews-Hotel_Hillarys-Osaka_Osaka_Prefecture_Kinki.html,4.0,3,556-0006,大阪府,大阪市浪速区,日本橋3-4-10,,〒556-0006 大阪府大阪市浪速区日本橋3-4-10,5330.0,13326.0,148
+475,686245,"池袋新星酒店
+Hotel New Star Ikebukuro",Hotel New Star Ikebukuro,4.3,4.0,564,3.8,3.9,4.0,5824.0,Hotel New Star Ikebukuro,https://www.tripadvisor.com/Hotel_Review-g1066460-d800212-Reviews-Hotel_New_Star_Ikebukuro-Toshima_Tokyo_Tokyo_Prefecture_Kanto.html,3.0,1,171-0014,東京都,豊島区,池袋2-61-6,,〒171-0014 東京都豊島区池袋2-61-6,6441.0,10550.0,91
+476,686246,"WING国际酒店-池袋
+Hotel Wing International Ikebukuro",Hotel Wing International Ikebukuro,4.1,4.3,181,3.5,4.3,4.0,15988.0,Hotel Wing International Ikebukuro,https://www.tripadvisor.com/Hotel_Review-g1066460-d1085802-Reviews-Hotel_Wing_International_Ikebukuro-Toshima_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,170-0013,東京都,豊島区,東池袋3-10-7,,〒170-0013 東京都豊島区東池袋3-10-7,7551.0,23098.0,85
+484,686255,"涩谷格兰贝尔酒店
+Shibuya Granbell Hotel",Shibuya Granbell Hotel,4.6,4.3,61,4.2,4.5,4.4,16355.0,Shibuya Granbell Hotel,https://www.tripadvisor.com/Hotel_Review-g1066456-d630480-Reviews-Shibuya_Granbell_Hotel-Shibuya_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,150-0031,東京都,渋谷区,桜丘町15-17,,〒150-0031 東京都渋谷区桜丘町15-17,12771.0,50194.0,105
+489,686264,"大阪北滨大和ROYNET酒店
+Daiwa Roynet Hotel Osaka Kitahama",Daiwa Roynet Hotel Osaka Kitahama,4.8,4.8,1239,4.7,4.9,4.8,9235.0,Daiwa Roynet Hotel Osaka Kitahama,https://www.tripadvisor.com/Hotel_Review-g298566-d4071371-Reviews-Daiwa_Roynet_Hotel_Osaka_Kitahama-Osaka_Osaka_Prefecture_Kinki.html,4.5,3,541-0043,大阪府,大阪市,中央区高麗橋2-2-14,,〒541-0043 大阪府大阪市中央区高麗橋2-2-14,6330.0,19545.0,260
+493,686270,"东京黎凡特东武酒店
+Tobu Hotel Levant Tokyo",Tobu Hotel Levant Tokyo,4.8,4.8,52,4.7,4.8,4.8,13942.0,Tobu Hotel Levant Tokyo,https://www.tripadvisor.com/Hotel_Review-g1066459-d1083549-Reviews-Tobu_Hotel_Levant_Tokyo-Sumida_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,130-0013,東京都,墨田区,錦糸1-2-2,,〒130-0013 東京都墨田区錦糸1-2-2,11549.0,40422.0,383
+496,686276,"半蔵门格兰亚克酒店
+Hotel Grand Arc Hanzomon",Hotel Grand Arc Hanzomon,4.7,4.6,381,4.4,4.5,4.5,11466.0,Hotel Grand Arc Hanzomon,https://www.tripadvisor.com/Hotel_Review-g1066443-d304288-Reviews-Hotel_Grand_Arc_Hanzomon-Chiyoda_Tokyo_Tokyo_Prefecture_Kanto.html,4.5,1,102-0092,東京都,千代田区,隼町1-1,,〒102-0092 東京都千代田区隼町1-1,10994.0,20988.0,204
+498,686284,"角屋酒店
+Kadoya Hotel",Kadoya Hotel,4.6,4.1,82,3.9,4.1,4.2,8846.0,Kadoya Hotel,https://www.tripadvisor.com/Hotel_Review-g1066457-d574958-Reviews-Kadoya_Hotel-Shinjuku_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,160-0023,東京都,新宿区,西新宿1-23-1,,〒160-0023 東京都新宿区西新宿1-23-1,10994.0,20322.0,94
+507,686306,"东京大酒店
+Tokyo Grand Hotel",Tokyo Grand Hotel,4.4,4.5,311,4.4,4.6,4.5,7681.0,Tokyo Grand Hotel,https://www.tripadvisor.com/Hotel_Review-g1066451-d1082883-Reviews-Tokyo_Grand_Hotel-Minato_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,105-0014,東京都,港区,芝2-5-2,,〒105-0014 東京都港区芝2-5-2,9217.0,16991.0,156
+509,686310,"涩谷东武酒店
+Shibuya Tobu Hotel",Shibuya Tobu Hotel,4.5,4.3,35,4.0,4.3,4.3,10703.0,Shibuya Tobu Hotel,https://www.tripadvisor.com/Hotel_Review-g1066456-d506006-Reviews-Shibuya_Tobu_Hotel-Shibuya_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,150-0042,東京都,渋谷区,宇田川町3-1,,〒150-0042 東京都渋谷区宇田川町3-1,12438.0,27207.0,205
+512,686313,"东京绿宫大饭店
+Tokyo Green Palace",Tokyo Green Palace,4.3,4.4,268,4.5,4.7,4.5,6753.0,Tokyo Green Palace,https://www.tripadvisor.com/Hotel_Review-g1066443-d658580-Reviews-Tokyo_Green_Palace-Chiyoda_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,102-0084,東京都,千代田区,二番町2,,〒102-0084 東京都千代田区二番町2,8662.0,16546.0,238
+513,686314,"八重洲明珠大酒店
+Pearl Hotel Yaesu",Pearl Hotel Yaesu,4.6,4.2,512,4.1,4.4,4.3,11125.0,Pearl Hotel Yaesu,https://www.tripadvisor.com/Hotel_Review-g1066444-d1089708-Reviews-Pearl_Hotel_Yaesu-Chuo_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,103-0028,東京都,中央区八重洲,1-2-6,,〒103-0028 東京都中央区八重洲1-2-6,10661.0,23320.0,150
+514,686316,"东京站大饭店
+The Tokyo Station Hotel",The Tokyo Station Hotel,4.7,4.7,18,4.6,4.8,4.7,38831.0,The Tokyo Station Hotel,https://www.tripadvisor.com/Hotel_Review-g1066443-d310308-Reviews-The_Tokyo_Station_Hotel-Chiyoda_Tokyo_Tokyo_Prefecture_Kanto.html,4.5,1,100-0005,東京都,千代田区,丸の内1-9-1,,〒100-0005 東京都千代田区丸の内1-9-1,38645.0,158579.0,150
+541,686353,"堺东大和ROYNET酒店
+Daiwa Roynet Hotel Sakai Higashi",Daiwa Roynet Hotel Sakai Higashi,4.4,4.7,16048,4.5,4.7,4.6,9707.0,Daiwa Roynet Hotel Sakai Higashi,https://www.tripadvisor.com/Hotel_Review-g654326-d2103931-Reviews-Daiwa_Roynet_Hotel_Sakai_Higashi-Sakai_Osaka_Prefecture_Kinki.html,4.0,381,590-0079,大阪府,堺市,堺区新町5-13,,〒590-0079 大阪府堺市堺区新町5-13,7596.0,14298.0,230
+544,686358,"梅田地标酒店
+Hotel Landmark Umeda",Hotel Landmark Umeda,4.7,4.1,1280,3.8,4.4,4.2,7000.0,Hotel Landmark Umeda,https://www.tripadvisor.com/Hotel_Review-g298566-d557780-Reviews-Hotel_Landmark_Umeda-Osaka_Osaka_Prefecture_Kinki.html,3.5,3,530-0012,大阪府,大阪市,北区芝田2-3-22,,〒530-0012 大阪府大阪市北区芝田2-3-22,7107.0,12882.0,140
+546,686361,"大阪厄尔瑟雷酒店
+Hotel Elsereine Osaka",Hotel Elsereine Osaka,4.6,4.5,1286,4.5,4.7,4.6,18858.0,Hotel Elsereine Osaka,https://www.tripadvisor.com/Hotel_Review-g298566-d1831070-Reviews-Hotel_Elsereine_Osaka-Osaka_Osaka_Prefecture_Kinki.html,4.0,3,530-0003,大阪府,大阪市北区,堂島1-5-25,,〒530-0003 大阪府大阪市北区堂島1-5-25,9883.0,30872.0,137
+549,686427,"柏克酒店
+Hotel Daiki",Hotel Daiki,4.1,3.8,1436,3.4,4.0,3.8,10467.0,Hotel Daiki,https://www.tripadvisor.com/Hotel_Review-g298566-d1081593-Reviews-Hotel_Daiki-Osaka_Osaka_Prefecture_Kinki.html,3.5,3,530-0041,大阪府,大阪市,北区天神橋4-9-5,,〒530-0041 大阪府大阪市北区天神橋4-9-5,4430.0,17386.0,14
+557,686460,"仓本酒店
+Hotel Kuramoto",Hotel Kuramoto,4.6,4.3,1330,3.9,3.9,4.2,17500.0,Hotel Kuramoto,https://www.tripadvisor.com/Hotel_Review-g298566-d584632-Reviews-Hotel_Kuramoto-Osaka_Osaka_Prefecture_Kinki.html,4.0,3,542-0082,大阪府,大阪市,中央区島之内2-11-7,,〒542-0082 大阪府大阪市中央区島之内2-11-7,8306.0,26578.0,24
+567,686485,"难波利夫马克斯酒店
+Hotel Livemax Namba",Hotel Livemax Namba,4.0,4.1,1447,4.1,3.7,4.0,9015.0,Hotel Livemax Namba,https://www.tripadvisor.com/Hotel_Review-g298566-d1093109-Reviews-Hotel_Livemax_Namba-Osaka_Osaka_Prefecture_Kinki.html,3.5,3,556-0023,大阪府,大阪市浪速区,浪速区 稲荷2-1-3,,〒556-0023 大阪府大阪市浪速区浪速区 稲荷2-1-3,5997.0,19878.0,51
+568,686488,"大阪心斋桥狮子石酒店
+Hotel Shinsaibashi Lions Rock",Hotel Shinsaibashi Lions Rock,4.4,4.1,1462,3.6,4.0,4.0,8653.0,Hotel Shinsaibashi Lions Rock,https://www.tripadvisor.com/Hotel_Review-g298566-d1084437-Reviews-Hotel_Shinsaibashi_Lions_Rock-Osaka_Osaka_Prefecture_Kinki.html,3.0,3,542-0086,大阪府,大阪市中央区,西心斎橋2-18-10,,〒542-0086 大阪府大阪市中央区西心斎橋2-18-10,5205.0,14839.0,75
+585,686522,"东京悦榕庄酒店
+Tokyo Banyan Hotel",Tokyo Banyan Hotel,3.9,3.8,568,3.8,3.9,3.8,7980.0,Tokyo Banyan Hotel,https://www.tripadvisor.com/Hotel_Review-g1066854-d1092154-Reviews-Tokyo_Banyan_Hotel-Shinagawa_Tokyo_Tokyo_Prefecture_Kanto.html,3.0,1,140-0014,東京都,品川区,大井1-44-3,,〒140-0014 東京都品川区大井1-44-3,6996.0,18989.0,39
+587,686525,"府中市利夫马克斯公寓式酒店
+Hotel Livemax Fuchu",Hotel Livemax Fuchu,3.4,3.4,18092,3.4,3.4,3.4,5301.0,Hotel Livemax Fuchu,https://www.tripadvisor.com/Hotel_Review-g1060903-d1863822-Reviews-Hotel_Livemax_Fuchu-Fuchu_Tokyo_Prefecture_Kanto.html,3.0,543,183-0022,東京都,府中市,宮西町3-8-5,,〒183-0022 東京都府中市宮西町3-8-5,4580.0,24799.0,44
+589,686528,"东京雅蓓丝塔目黑酒店
+Hotel Abest Meguro",Hotel Abest Meguro,4.5,4.0,567,3.6,3.7,4.0,10129.0,Hotel Abest Meguro,https://www.tripadvisor.com/Hotel_Review-g1066854-d1036688-Reviews-Hotel_Abest_Meguro-Shinagawa_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,141-0021,東京都,品川区,上大崎2-26-5,（旧ホテルワトソン）,〒141-0021 東京都品川区上大崎2-26-5（旧ホテルワトソン）,9550.0,27429.0,86
+591,686530,"东京田町相铁Fresa-Inn酒店
+Sotetsu Fresa Inn Tokyo Tamachi",Sotetsu Fresa Inn Tokyo Tamachi,4.6,4.2,251,4.1,4.5,4.4,10015.0,Sotetsu Fresa Inn Tokyo Tamachi,https://www.tripadvisor.com/Hotel_Review-g1066451-d1115507-Reviews-Sotetsu_Fresa_Inn_Tokyo_Tamachi-Minato_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,108-0023,東京都,港区,芝浦3-14-21,,〒108-0023 東京都港区芝浦3-14-21,6996.0,15325.0,123
+593,686532,"里士满浅草酒店
+Richmond Hotel Asakusa",Richmond Hotel Asakusa,4.8,4.9,138,4.8,4.9,4.8,18251.0,Richmond Hotel Asakusa,https://www.tripadvisor.com/Hotel_Review-g1066461-d2526943-Reviews-Richmond_Hotel_Asakusa-Taito_Tokyo_Tokyo_Prefecture_Kanto.html,4.5,1,111-0032,東京都,台東区,浅草2-7-10,,〒111-0032 東京都台東区浅草2-7-10,8995.0,21877.0,140
+594,686533,"瑞江第一酒店
+Mizue Dai-Ichi Hotel",Mizue Dai-Ichi Hotel,4.5,4.1,371,4.0,4.2,4.2,6280.0,Mizue Dai-Ichi Hotel,https://www.tripadvisor.com/Hotel_Review-g1066445-d557599-Reviews-Mizue_Dai_Ichi_Hotel-Edogawa_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,132-0011,東京都,江戸川区,瑞江2-6-16,,〒132-0011 東京都江戸川区瑞江2-6-16,6774.0,9994.0,178
+602,686543,"日本亚洲会馆酒店
+Hotel Asia Center of Japan",Hotel Asia Center of Japan,4.7,4.7,95,4.3,4.8,4.6,6934.0,Hotel Asia Center of Japan,https://www.tripadvisor.com/Hotel_Review-g1066451-d304284-Reviews-Hotel_Asia_Center_of_Japan-Minato_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,107-0052,東京都,港区,赤坂8-10-32,,〒107-0052 東京都港区赤坂8-10-32,8662.0,17102.0,175
+607,686553,"开赛卢米埃尔酒店
+Hotel Lumiere Kasai",Hotel Lumiere Kasai,4.7,4.5,167,4.3,4.4,4.5,10897.0,Hotel Lumiere Kasai,https://www.tripadvisor.com/Hotel_Review-g1066445-d1105300-Reviews-Hotel_Lumiere_Kasai-Edogawa_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,134-0083,東京都,江戸川区,中葛西5-41-20,,〒134-0083 東京都江戸川区中葛西5-41-20,6108.0,23765.0,152
+608,686555,"卢米埃尔西葛西酒店
+Hotel Lumiere Nishikasai",Hotel Lumiere Nishikasai,4.3,4.4,88,4.3,4.4,4.3,8991.0,Hotel Lumiere Nishikasai,https://www.tripadvisor.com/Hotel_Review-g1066445-d1115239-Reviews-Hotel_Lumiere_Nishikasai-Edogawa_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,134-0088,東京都,江戸川区,西葛西6-20-3,,〒134-0088 東京都江戸川区西葛西6-20-3,5441.0,21210.0,192
+609,686556,"东京木场酒店
+Tokyo Kiba Hotel",Tokyo Kiba Hotel,4.2,4.2,110,3.8,4.2,4.1,4092.0,Tokyo Kiba Hotel,https://www.tripadvisor.com/Hotel_Review-g1066449-d1082951-Reviews-Tokyo_Kiba_Hotel-Koto_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,135-0042,東京都,江東区,木場1-4-3,,〒135-0042 東京都江東区木場1-4-3,4997.0,22654.0,189
+612,686559,"弗莱论坛酒店
+Refre Forum",Refre Forum,3.8,3.8,623,3.7,3.8,3.8,12744.0,Refre Forum,https://www.tripadvisor.com/Hotel_Review-g1066449-d1105472-Reviews-Refre_Forum-Koto_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,136-0072,東京都,江東区,大島7-37-11,,〒136-0072 東京都江東区大島7-37-11,6774.0,13437.0,62
+620,686576,"关西珍珠酒店
+Pearl Hotel Kasai",Pearl Hotel Kasai,4.5,4.2,534,4.0,4.3,4.2,8025.0,Pearl Hotel Kasai,https://www.tripadvisor.com/Hotel_Review-g1066445-d559388-Reviews-Pearl_Hotel_Kasai-Edogawa_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,134-0084,東京都,江戸川区,東葛西6-1-7,,〒134-0084 東京都江戸川区東葛西6-1-7,5664.0,16102.0,109
+635,686615,"锡耶纳酒店
+Hotel Siena",Hotel Siena,4.3,4.2,598,4.0,4.2,4.2,29087.0,Hotel Siena,https://www.tripadvisor.com/Hotel_Review-g1066457-d1095022-Reviews-Hotel_Siena-Shinjuku_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,160-0021,東京都,新宿区歌舞伎町,歌舞伎町2-22-1,,〒160-0021 東京都新宿区歌舞伎町歌舞伎町2-22-1,9217.0,12882.0,83
+637,686624,"大冢城市酒店
+Otsuka City Hotel",Otsuka City Hotel,4.6,3.8,362,3.6,4.1,4.0,6213.0,Otsuka City Hotel,https://www.tripadvisor.com/Hotel_Review-g1066460-d1085821-Reviews-Otsuka_City_Hotel-Toshima_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,170-0005,東京都,豊島区,南大塚2丁目44-5,,〒170-0005 東京都豊島区南大塚2丁目44-5,6219.0,10883.0,35
+645,686689,"四谷东急酒店
+Tokyu Stay Yotsuya",Tokyu Stay Yotsuya,4.9,4.5,418,4.5,4.6,4.6,10325.0,Tokyu Stay Yotsuya,https://www.tripadvisor.com/Hotel_Review-g1066457-d1036676-Reviews-Tokyu_Stay_Yotsuya-Shinjuku_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,160-0004,東京都,新宿区,四谷2-1,,〒160-0004 東京都新宿区四谷2-1,11882.0,24875.0,148
+647,686692,"蓼科酒店
+Hotel Tateshina",Hotel Tateshina,4.4,4.2,129,3.9,4.2,4.2,11715.0,Hotel Tateshina,https://www.tripadvisor.com/Hotel_Review-g1066457-d729852-Reviews-Hotel_Tateshina-Shinjuku_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,160-0022,東京都,新宿区,新宿5-8-6,,〒160-0022 東京都新宿区新宿5-8-6,7773.0,15991.0,67
+652,686701,"幡谷樱花酒店
+Sakura Hotel Hatagaya",Sakura Hotel Hatagaya,4.2,3.8,223,3.5,4.1,3.9,9405.0,Sakura Hotel Hatagaya,https://www.tripadvisor.com/Hotel_Review-g1066456-d1083444-Reviews-Sakura_Hotel_Hatagaya-Shibuya_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,151-0072,東京都,渋谷区,幡ケ谷1-32-3,,〒151-0072 東京都渋谷区幡ケ谷1-32-3,6219.0,19878.0,74
+657,686804,"利马克斯尼泊瑞酒店
+Hotel Livemax Nippori",Hotel Livemax Nippori,3.9,3.3,571,3.3,3.5,3.5,6996.0,Hotel Livemax Nippori,https://www.tripadvisor.com/Hotel_Review-g1066461-d2312136-Reviews-Hotel_Livemax_Nippori-Taito_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,110-0001,東京都,台東区,谷中3-2-12,,〒110-0001 東京都台東区谷中3-2-12,6219.0,16213.0,45
+663,687190,"池袋星广场酒店
+Hotel Star Plaza Ikebukuro",Hotel Star Plaza Ikebukuro,4.1,4.1,533,3.7,4.1,4.0,7973.0,Hotel Star Plaza Ikebukuro,https://www.tripadvisor.com/Hotel_Review-g1066460-d1085796-Reviews-Hotel_Star_Plaza_Ikebukuro-Toshima_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,171-0014,東京都,豊島区,池袋2-10-2,,〒171-0014 東京都豊島区池袋2-10-2,6996.0,11216.0,79
+664,687240,"新宿西铁酒店
+Nishitetsu Inn Shinjuku",Nishitetsu Inn Shinjuku,4.7,4.7,113,4.5,4.7,4.6,11632.0,Nishitetsu Inn Shinjuku,https://www.tripadvisor.com/Hotel_Review-g1066457-d1090409-Reviews-Nishitetsu_Inn_Shinjuku-Shinjuku_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,160-0023,東京都,新宿区西新宿,7-23-2,,〒160-0023 東京都新宿区西新宿7-23-2,11660.0,22321.0,302
+665,687269,"涩谷东急住宿酒店
+Tokyu Stay Shibuya",Tokyu Stay Shibuya,4.7,4.7,273,4.4,4.6,4.6,14383.0,Tokyu Stay Shibuya,https://www.tripadvisor.com/Hotel_Review-g1066456-d1115744-Reviews-Tokyu_Stay_Shibuya-Shibuya_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,150-0045,東京都,渋谷区,神泉町8-14,,〒150-0045 東京都渋谷区神泉町8-14,12660.0,24986.0,125
+666,687316,"亚那基巴适酒店
+Hotel Yanagibashi",Hotel Yanagibashi,4.5,4.4,236,3.7,4.5,4.3,6466.0,Hotel Yanagibashi,https://www.tripadvisor.com/Hotel_Review-g1066461-d1085871-Reviews-Hotel_Yanagibashi-Taito_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,111-0052,東京都,台東区浅草橋,柳橋1-3-12,,〒111-0052 東京都台東区浅草橋柳橋1-3-12,6885.0,10994.0,28
+672,687346,"后乐园永安国际酒店
+Hotel Wing International Korakuen",Hotel Wing International Korakuen,4.6,4.6,86,4.1,4.5,4.5,8742.0,Hotel Wing International Korakuen,https://www.tripadvisor.com/Hotel_Review-g1066442-d1082375-Reviews-Hotel_Wing_International_Korakuen-Bunkyo_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,113-0033,東京都,文京区,本郷1-25-11,,〒113-0033 東京都文京区本郷1-25-11,6441.0,18101.0,116
+675,687357,"上野不忍可可大酒店
+Hotel Coco Grand Ueno Shinobazu",Hotel Coco Grand Ueno Shinobazu,4.7,4.8,203,4.6,4.8,4.7,29849.0,Hotel Coco Grand Ueno Shinobazu,https://www.tripadvisor.com/Hotel_Review-g1066461-d1866161-Reviews-Hotel_Coco_Grand_Ueno_Shinobazu-Taito_Tokyo_Tokyo_Prefecture_Kanto.html,4.5,1,110-0005,東京都,台東区上野,上野2-12-14,,〒110-0005 東京都台東区上野上野2-12-14,13104.0,26208.0,58
+677,687363,"后乐园利夫马克斯酒店
+Hotel Livemax Korakuen",Hotel Livemax Korakuen,3.8,3.6,631,3.3,3.7,3.6,3001.0,Hotel Livemax Korakuen,https://www.tripadvisor.com/Hotel_Review-g1066442-d1114492-Reviews-Hotel_Livemax_Korakuen-Bunkyo_Tokyo_Tokyo_Prefecture_Kanto.html,3.0,1,112-0002,東京都,文京区,小石川3-1-2,,〒112-0002 東京都文京区小石川3-1-2,5664.0,21099.0,27
+678,687397,"急住酒店
+Tokyu Stay Aoyama Premier",Tokyu Stay Aoyama Premier,4.6,4.6,166,4.4,4.7,4.6,13597.0,Tokyu Stay Aoyama Premier,https://www.tripadvisor.com/Hotel_Review-g1066451-d1115512-Reviews-Tokyu_Stay_Aoyama_Premier-Minato_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,107-0062,東京都,港区南青山,南青山2-27-18,,〒107-0062 東京都港区南青山南青山2-27-18,12438.0,21544.0,170
+682,688060,"贝尔蒙酒店
+Belmont Hotel",Belmont Hotel,4.3,4.4,318,3.9,4.2,4.2,6280.0,Belmont Hotel,https://www.tripadvisor.com/Hotel_Review-g1066461-d634729-Reviews-Belmont_Hotel-Taito_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,111-0052,東京都,台東区,柳橋1-2-8,,〒111-0052 東京都台東区柳橋1-2-8,6885.0,17768.0,82
+688,688075,"橡树酒店
+Stayto",Stayto,4.6,4.7,228,3.8,4.5,4.4,7405.0,Stayto,https://www.tripadvisor.com/Hotel_Review-g1066461-d632118-Reviews-Stayto-Taito_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,110-0015,東京都,台東区,東上野6-1-2,,〒110-0015 東京都台東区東上野6-1-2,4886.0,12326.0,71
+699,688108,"相铁夫里萨新桥西必亚酒店
+Sotetsu Fresa Inn Shimbashi Hibiyaguchi",Sotetsu Fresa Inn Shimbashi Hibiyaguchi,4.7,4.2,157,3.9,4.3,4.3,10814.0,Sotetsu Fresa Inn Shimbashi Hibiyaguchi,https://www.tripadvisor.com/Hotel_Review-g1066451-d3264476-Reviews-Sotetsu_Fresa_Inn_Shimbashi_Hibiyaguchi-Minato_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,105-0004,東京都,港区新橋,新橋1-14-3,,〒105-0004 東京都港区新橋新橋1-14-3,9661.0,20655.0,147
+702,688114,"格兰贝尔酒店
+Akasaka Granbell Hotel",Akasaka Granbell Hotel,4.5,4.3,301,4.0,4.4,4.3,11970.0,Akasaka Granbell Hotel,https://www.tripadvisor.com/Hotel_Review-g1066451-d1036724-Reviews-Akasaka_Granbell_Hotel-Minato_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,107-0052,東京都,港区赤坂,赤坂3丁目10-9,,〒107-0052 東京都港区赤坂赤坂3丁目10-9,11105.0,29206.0,61
+708,688127,"涩谷娴雅酒店
+Hotel Suave Shibuya",Hotel Suave Shibuya,4.5,4.3,349,3.1,4.6,4.1,13064.0,Hotel Suave Shibuya,https://www.tripadvisor.com/Hotel_Review-g1066450-d1082864-Reviews-Hotel_Suave_Shibuya-Meguro_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,153-0044,東京都,目黒区,大橋2-24-4,,〒153-0044 東京都目黒区大橋2-24-4,9883.0,18545.0,133
+712,688132,"东京目黑佑天寺酒店
+Tokyu Stay Meguro Yutenji",Tokyu Stay Meguro Yutenji,4.2,3.7,345,3.8,3.7,3.9,12446.0,Tokyu Stay Meguro Yutenji,https://www.tripadvisor.com/Hotel_Review-g1066450-d1115462-Reviews-Tokyu_Stay_Meguro_Yutenji-Meguro_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,153-0052,東京都,目黒区,祐天寺2-15-7,,〒153-0052 東京都目黒区祐天寺2-15-7,10550.0,20766.0,69
+718,688140,"樱花芙蓉青山酒店
+Sakura Fleur Aoyama",Sakura Fleur Aoyama,4.6,4.4,198,4.0,4.4,4.4,11936.0,Sakura Fleur Aoyama,https://www.tripadvisor.com/Hotel_Review-g1066456-d620666-Reviews-Sakura_Fleur_Aoyama-Shibuya_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,150-0002,東京都,渋谷区,渋谷2-14-15,,〒150-0002 東京都渋谷区渋谷2-14-15,10328.0,17768.0,133
+720,688144,"克拉斯卡
+Claska",Claska,4.0,4.6,255,4.5,4.3,4.4,27942.0,Claska,https://www.tripadvisor.com/Hotel_Review-g1066450-d566638-Reviews-Claska-Meguro_Tokyo_Tokyo_Prefecture_Kanto.html,4.5,1,152-0001,東京都,目黒区,中央町1-3-18,,〒152-0001 東京都目黒区中央町1-3-18,22765.0,95725.0,20
+726,688150,"南海大阪辉盛国际公寓
+Fraser Residence Nankai Osaka",Fraser Residence Nankai Osaka,4.9,4.7,1243,4.7,4.8,4.8,55427.0,Fraser Residence Nankai Osaka,https://www.tripadvisor.com/Hotel_Review-g298566-d1833741-Reviews-Fraser_Residence_Nankai_Osaka-Osaka_Osaka_Prefecture_Kinki.html,4.5,3,556-0011,大阪府,大阪市浪速区,浪速区難波中1-17-11,,〒556-0011 大阪府大阪市浪速区浪速区難波中1-17-11,16768.0,38978.0,114
+730,688155,"GrandPark帕奈克斯酒店-东京
+Grand Park Hotel Panex Tokyo",Grand Park Hotel Panex Tokyo,4.1,3.7,505,3.8,3.7,3.9,10805.0,Grand Park Hotel Panex Tokyo,https://www.tripadvisor.com/Hotel_Review-g1066454-d1083068-Reviews-Grand_Park_Hotel_Panex_Tokyo-Ota_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,144-0052,東京都,大田区,蒲田5-9-19,,〒144-0052 東京都大田区蒲田5-9-19,5330.0,13881.0,134
+732,688157,"东京羽田蒲田市区酒店
+Urbain Tokyo Haneda Kamata",Urbain Tokyo Haneda Kamata,4.1,4.2,694,4.0,4.1,4.1,8256.0,Urbain Tokyo Haneda Kamata,https://www.tripadvisor.com/Hotel_Review-g1066454-d1090291-Reviews-Urbain_Tokyo_Haneda_Kamata-Ota_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,144-0051,東京都,大田区,西蒲田7-25-10,,〒144-0051 東京都大田区西蒲田7-25-10,7218.0,16213.0,100
+734,688159,"东京蒲田住宿酒店,
+Tokyu Stay Kamata",Tokyu Stay Kamata,4.9,4.6,172,4.2,4.6,4.6,11884.0,Tokyu Stay Kamata,https://www.tripadvisor.com/Hotel_Review-g1066454-d2177373-Reviews-Tokyu_Stay_Kamata-Ota_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,144-0052,東京都,大田区,蒲田4-23-1,,〒144-0052 東京都大田区蒲田4-23-1,9550.0,17213.0,141
+741,688171,"东京龙名馆酒店
+Hotel Ryumeikan Tokyo",Hotel Ryumeikan Tokyo,4.8,4.8,4,4.7,4.9,4.8,19374.0,Hotel Ryumeikan Tokyo,https://www.tripadvisor.com/Hotel_Review-g1066444-d1479297-Reviews-Hotel_Ryumeikan_Tokyo-Chuo_Tokyo_Tokyo_Prefecture_Kanto.html,4.5,1,103-0028,東京都,中央区,八重洲 1-3-22,,〒103-0028 東京都中央区八重洲 1-3-22,15991.0,36646.0,135
+743,688174,"东京日本桥酒店
+Tokyu Stay Nihombashi",Tokyu Stay Nihombashi,4.3,4.3,218,4.3,4.3,4.3,11950.0,Tokyu Stay Nihombashi,https://www.tripadvisor.com/Hotel_Review-g1066444-d1114758-Reviews-Tokyu_Stay_Nihombashi-Chuo_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,103-0023,東京都,中央区,日本橋本町4-7-9,,〒103-0023 東京都中央区日本橋本町4-7-9,8662.0,14992.0,123
+747,688178,"水道桥托克宇寄宿酒店
+Tokyu Stay Suidobashi",Tokyu Stay Suidobashi,4.3,4.1,364,4.3,4.6,4.3,10943.0,Tokyu Stay Suidobashi,https://www.tripadvisor.com/Hotel_Review-g1066443-d1114754-Reviews-Tokyu_Stay_Suidobashi-Chiyoda_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,101-0061,東京都,千代田区,三崎町1-1-12,,〒101-0061 東京都千代田区三崎町1-1-12,10772.0,19100.0,156
+752,688184,"神保町樱花酒店
+Sakura Hotel Jimbocho",Sakura Hotel Jimbocho,4.4,4.3,144,3.8,4.2,4.2,3275.0,Sakura Hotel Jimbocho,https://www.tripadvisor.com/Hotel_Review-g1066443-d304296-Reviews-Sakura_Hotel_Jimbocho-Chiyoda_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,101-0051,東京都,千代田区,神田神保町2-21-4,,〒101-0051 東京都千代田区神田神保町2-21-4,2998.0,11327.0,43
+761,688197,"大阪蒙特利酒店
+Hotel Monterey Osaka",Hotel Monterey Osaka,4.7,4.6,1261,4.5,4.8,4.6,9249.0,Hotel Monterey Osaka,https://www.tripadvisor.com/Hotel_Review-g298566-d504992-Reviews-Hotel_Monterey_Osaka-Osaka_Osaka_Prefecture_Kinki.html,4.0,3,530-0001,大阪府,大阪市,北区梅田3-3-45,,〒530-0001 大阪府大阪市北区梅田3-3-45,8107.0,27318.0,194
+765,688202,"三井花园酒店大阪淀屋桥
+Mitsui Garden Hotel Osaka Yodoyabashi",Mitsui Garden Hotel Osaka Yodoyabashi,4.6,4.6,1272,4.5,4.7,4.6,6699.0,Mitsui Garden Hotel Osaka Yodoyabashi,https://www.tripadvisor.com/Hotel_Review-g298566-d479810-Reviews-Mitsui_Garden_Hotel_Osaka_Yodoyabashi-Osaka_Osaka_Prefecture_Kinki.html,4.0,3,541-0043,大阪府,大阪市中央区,高麗橋 2-5-7,,〒541-0043 大阪府大阪市中央区高麗橋 2-5-7,6663.0,20100.0,306
+766,688203,"大阪广场酒店
+Hotel Plaza Osaka",Hotel Plaza Osaka,4.2,4.2,1384,4.0,4.3,4.2,4533.0,Hotel Plaza Osaka,https://www.tripadvisor.com/Hotel_Review-g298566-d325781-Reviews-Hotel_Plaza_Osaka-Osaka_Osaka_Prefecture_Kinki.html,3.5,3,532-0025,大阪府,大阪市,淀川区新北野1-9-15,,〒532-0025 大阪府大阪市淀川区新北野1-9-15,6774.0,17546.0,653
+771,688209,"大阪日航酒店
+Hotel Nikko Osaka",Hotel Nikko Osaka,4.9,4.8,1258,4.6,4.8,4.8,20463.0,Hotel Nikko Osaka,https://www.tripadvisor.com/Hotel_Review-g298566-d302313-Reviews-Hotel_Nikko_Osaka-Osaka_Osaka_Prefecture_Kinki.html,4.0,3,542-0086,大阪府,大阪市,中央区西心斎橋1-3-3,,〒542-0086 大阪府大阪市中央区西心斎橋1-3-3,14950.0,52713.0,635
+775,688216,"大阪蒙特利格拉斯米尔酒店
+Hotel Monterey Grasmere Osaka",Hotel Monterey Grasmere Osaka,4.8,4.6,1236,4.6,4.7,4.7,18860.0,Hotel Monterey Grasmere Osaka,https://www.tripadvisor.com/Hotel_Review-g298566-d1426655-Reviews-Hotel_Monterey_Grasmere_Osaka-Osaka_Osaka_Prefecture_Kinki.html,4.0,3,556-0017,大阪府,大阪市浪速区,湊町1-2-3,,〒556-0017 大阪府大阪市浪速区湊町1-2-3,12771.0,33315.0,348
+779,688222,"关空JOYTEL酒店
+Kanku Joytel Hotel",Kanku Joytel Hotel,4.1,4.4,15558,4.2,4.4,4.3,7599.0,Kanku Joytel Hotel,https://www.tripadvisor.com/Hotel_Review-g298200-d649466-Reviews-Kanku_Joytel_Hotel-Izumisano_Osaka_Prefecture_Kinki.html,3.5,348,598-0021,大阪府,泉佐野市,日根野4066,,〒598-0021 大阪府泉佐野市日根野4066,9383.0,20889.0,270
+780,688223,"大阪本町Chisun Inn酒店
+Chisun Inn Osaka Hommachi",Chisun Inn Osaka Hommachi,4.3,4.5,1322,4.4,4.6,4.4,4322.0,Chisun Inn Osaka Hommachi,https://www.tripadvisor.com/Hotel_Review-g298566-d1526443-Reviews-Chisun_Inn_Osaka_Hommachi-Osaka_Osaka_Prefecture_Kinki.html,3.5,3,541-0059,大阪府,大阪市中央区,博労町2-3-8,,〒541-0059 大阪府大阪市中央区博労町2-3-8,6219.0,20766.0,130
+788,688233,"东京阿佐谷微笑酒店
+Smile Hotel Tokyo Asagaya",Smile Hotel Tokyo Asagaya,4.5,4.5,325,4.3,4.6,4.5,5318.0,Smile Hotel Tokyo Asagaya,https://www.tripadvisor.com/Hotel_Review-g1066458-d506000-Reviews-Smile_Hotel_Tokyo_Asagaya-Suginami_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,166-0004,東京都,杉並区,阿佐谷南3-37-11,,〒166-0004 東京都杉並区阿佐谷南3-37-11,6330.0,16657.0,112
+791,688237,"东京海堡第一酒店
+Dai-Ichi Hotel Tokyo Seafort",Dai-Ichi Hotel Tokyo Seafort,4.4,4.4,68,4.3,4.6,4.4,10549.0,Dai-Ichi Hotel Tokyo Seafort,https://www.tripadvisor.com/Hotel_Review-g1066854-d307331-Reviews-Dai_Ichi_Hotel_Tokyo_Seafort-Shinagawa_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,140-‐0002,東京都,品川区,東品川2-3-15,,〒140-‐0002 東京都品川区東品川2-3-15,11882.0,30761.0,127
+793,688241,"阪神住之江酒店
+Osaka Joytel Hotel",Osaka Joytel Hotel,4.2,4.3,1351,4.1,4.5,4.3,6027.0,Osaka Joytel Hotel,https://www.tripadvisor.com/Hotel_Review-g298566-d498964-Reviews-Osaka_Joytel_Hotel-Osaka_Osaka_Prefecture_Kinki.html,3.5,3,559-0024,大阪府,大阪市住之江区,新北島1-2-1,,〒559-0024 大阪府大阪市住之江区新北島1-2-1,6663.0,18212.0,229
+794,688242,"东京新宿太阳成员酒店
+Sun Members Tokyo Shinjuku",Sun Members Tokyo Shinjuku,4.2,4.3,506,4.1,4.5,4.3,9707.0,Sun Members Tokyo Shinjuku,https://www.tripadvisor.com/Hotel_Review-g1066457-d1090410-Reviews-Sun_Members_Tokyo_Shinjuku-Shinjuku_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,160-0023,東京都,新宿区西新宿,西新宿3-5-13,,〒160-0023 東京都新宿区西新宿西新宿3-5-13,9328.0,29539.0,178
+795,688243,"东京三井花园饭店上野
+Mitsui Garden Hotel Ueno",Mitsui Garden Hotel Ueno,4.8,4.8,47,4.7,4.8,4.8,14132.0,Mitsui Garden Hotel Ueno,https://www.tripadvisor.com/Hotel_Review-g1066461-d1813567-Reviews-Mitsui_Garden_Hotel_Ueno-Taito_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,110-0015,東京都,台東区,東上野 3-19-7,,〒110-0015 東京都台東区東上野 3-19-7,12882.0,27318.0,245
+800,688252,"格拉斯丽银座酒店
+Hotel Gracery Ginza",Hotel Gracery Ginza,4.7,4.5,42,4.3,4.5,4.5,35000.0,Hotel Gracery Ginza,https://www.tripadvisor.com/Hotel_Review-g1066444-d628577-Reviews-Hotel_Gracery_Ginza-Chuo_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,104-0061,東京都,中央区,銀座7-10-1,,〒104-0061 東京都中央区銀座銀座7-10-1,11993.0,25097.0,270
+803,688256,"福雷卡赤坂大酒店
+Hotel Grand Fresa Akasaka",Hotel Grand Fresa Akasaka,4.5,4.4,185,4.2,4.6,4.4,8002.0,Hotel Grand Fresa Akasaka,https://www.tripadvisor.com/Hotel_Review-g1066451-d648195-Reviews-Hotel_Grand_Fresa_Akasaka-Minato_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,107-0052,東京都,港区,赤坂6-3-17,,〒107-0052 東京都港区赤坂6-3-17,7440.0,19878.0,136
+808,688263,"东京羽田日航都市酒店
+Hotel JAL City Haneda Tokyo",Hotel JAL City Haneda Tokyo,4.7,4.7,38,4.5,4.8,4.7,11294.0,Hotel JAL City Haneda Tokyo,https://www.tripadvisor.com/Hotel_Review-g1066454-d543524-Reviews-Hotel_JAL_City_Haneda_Tokyo-Ota_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,144-0042,東京都,大田区,羽田旭町4-11,,〒144-0042 東京都大田区羽田旭町4-11,10550.0,19878.0,308
+809,688267,"浅草灿路都大饭店
+Hotel Sunroute Asakusa",Hotel Sunroute Asakusa,4.7,4.4,286,4.1,4.3,4.4,5132.0,Hotel Sunroute Asakusa,https://www.tripadvisor.com/Hotel_Review-g1066461-d320580-Reviews-Hotel_Sunroute_Asakusa-Taito_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,111-0034,東京都,台東区,雷門1-8-5,,〒111-0034 東京都台東区雷門1-8-5,7218.0,18323.0,120
+815,688287,"东京西葛西贝斯特韦斯特酒店
+Best Western Tokyo Nishikasai",Best Western Tokyo Nishikasai,4.6,4.6,45,4.4,4.7,4.6,7507.0,Best Western Tokyo Nishikasai,https://www.tripadvisor.com/Hotel_Review-g1066445-d535140-Reviews-Best_Western_Tokyo_Nishikasai-Edogawa_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,134-0088,東京都,江戸川区,西葛西6-17-9,,〒134-0088 東京都江戸川区西葛西6-17-9,6330.0,23876.0,184
+820,688313,"新宿灿路都广场大饭店
+Hotel Sunroute Plaza Shinjuku",Hotel Sunroute Plaza Shinjuku,4.8,4.6,15,4.4,4.6,4.6,16309.0,Hotel Sunroute Plaza Shinjuku,https://www.tripadvisor.com/Hotel_Review-g1066456-d320581-Reviews-Hotel_Sunroute_Plaza_Shinjuku-Shibuya_Tokyo_Tokyo_Prefecture_Kanto.html,4.5,1,151-0053,東京都,渋谷区代々木,代々木 2-3-1,,〒151-0053 東京都渋谷区代々木代々木 2-3-1,14770.0,27762.0,624
+823,688327,"上野东金屋酒店
+Ueno Touganeya Hotel",Ueno Touganeya Hotel,4.5,4.7,111,4.3,4.6,4.5,5723.0,Ueno Touganeya Hotel,https://www.tripadvisor.com/Hotel_Review-g1066461-d607423-Reviews-Ueno_Touganeya_Hotel-Taito_Tokyo_Tokyo_Prefecture_Kanto.html,4.5,1,110-0015,東京都,台東区,東上野3-17-5,,〒110-0015 東京都台東区東上野3-17-5,8440.0,10883.0,55
+828,688362,"滨松町岐山酒店
+Chisun Hotel Hamamatsucho",Chisun Hotel Hamamatsucho,4.3,4.5,565,4.3,4.5,4.4,6010.0,Chisun Hotel Hamamatsucho,https://www.tripadvisor.com/Hotel_Review-g1066451-d487278-Reviews-Chisun_Hotel_Hamamatsucho-Minato_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,105-0023,東京都,港区,芝浦1-3-10,,〒105-0023 東京都港区芝浦1-3-10,7107.0,18434.0,304
+834,688390,"the b 东京 赤坂见附酒店
+the b tokyo akasaka-mitsuke",the b tokyo akasaka-mitsuke,4.8,4.4,6262,4.4,4.5,4.5,8171.0,the b tokyo akasaka-mitsuke,https://www.tripadvisor.com/Hotel_Review-g1066451-d608077-Reviews-The_b_tokyo_akasaka_mitsuke-Minato_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,48,107-0052,東京都,港区,赤坂 3-21-7,,〒107-0052 東京都港区赤坂 3-21-7,7277.0,23623.0,122
+836,688397,"东京新大谷旅馆
+New Otani Inn Tokyo",New Otani Inn Tokyo,4.7,4.4,224,4.3,4.5,4.5,10266.0,New Otani Inn Tokyo,https://www.tripadvisor.com/Hotel_Review-g1066854-d301294-Reviews-New_Otani_Inn_Tokyo-Shinagawa_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,141-0032,東京都,品川区,大崎1-6-2,,〒141-0032 東京都品川区大崎1-6-2,11549.0,30428.0,427
+837,688400,"大森庭苑灿路都大饭店
+Hotel Sunroute Patio Omori",Hotel Sunroute Patio Omori,4.9,4.6,281,4.4,4.5,4.6,7800.0,Hotel Sunroute Patio Omori,https://www.tripadvisor.com/Hotel_Review-g1066854-d557538-Reviews-Hotel_Sunroute_Patio_Omori-Shinagawa_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,140-0013,東京都,品川区,南大井3-33-3,,〒140-0013 東京都品川区南大井3-33-3,6108.0,16991.0,86
+838,688402,"品川海滨灿路都大饭店
+Hotel Sunroute Shinagawa Seaside",Hotel Sunroute Shinagawa Seaside,4.7,4.7,271,4.7,4.9,4.8,8610.0,Hotel Sunroute Shinagawa Seaside,https://www.tripadvisor.com/Hotel_Review-g1066854-d648194-Reviews-Hotel_Sunroute_Shinagawa_Seaside-Shinagawa_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,140-0002,東京都,品川区,東品川4-12-8,,〒140-0002 東京都品川区東品川4-12-8,7551.0,16657.0,300
+839,688406,"东京喜来登都酒店
+Sheraton Miyako Hotel Tokyo",Sheraton Miyako Hotel Tokyo,4.4,4.7,40,4.5,4.7,4.6,18382.0,Sheraton Miyako Hotel Tokyo,https://www.tripadvisor.com/Hotel_Review-g1066451-d306375-Reviews-Sheraton_Miyako_Hotel_Tokyo-Minato_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,108-8640,東京都,港区,白金台1-1−50,,〒108-8640 東京都港区白金台1-1−50,22654.0,40533.0,494
+845,688422,"东京大都会东京城饭店
+Hotel Metropolitan Edmont Tokyo",Hotel Metropolitan Edmont Tokyo,4.8,4.9,7,4.7,4.8,4.8,10450.0,Hotel Metropolitan Edmont Tokyo,https://www.tripadvisor.com/Hotel_Review-g1066443-d307351-Reviews-Hotel_Metropolitan_Edmont_Tokyo-Chiyoda_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,102-8130,東京都,千代田区,飯田橋3-10-8,,〒102-8130 東京都千代田区飯田橋3-10-8,10772.0,29650.0,668
+847,688427,"东京庭之酒店
+Hotel Niwa Tokyo",Hotel Niwa Tokyo,4.6,4.7,37,4.6,4.8,4.7,10549.0,Hotel Niwa Tokyo,https://www.tripadvisor.com/Hotel_Review-g1066443-d1475716-Reviews-Hotel_Niwa_Tokyo-Chiyoda_Tokyo_Tokyo_Prefecture_Kanto.html,4.5,1,101-0061,東京都,千代田区,神田三崎町1-1-16,,〒101-0061 東京都千代田区神田三崎町1-1-16,11327.0,30872.0,238
+848,688429,"the b 东京 御茶水酒店
+the b tokyo ochanomizu",the b tokyo ochanomizu,4.8,4.8,72,4.5,4.7,4.7,6837.0,the b tokyo ochanomizu,https://www.tripadvisor.com/Hotel_Review-g1066443-d1105276-Reviews-The_b_tokyo_ochanomizu-Chiyoda_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,101-0063,東京都,千代田区,神田淡路町1-7-5,,〒101-0063 東京都千代田区神田淡路町1-7-5,6330.0,21433.0,72
+858,688479,"大阪鹤桥站前东横旅馆
+Toyoko Inn Osaka Tsuruhashi Ekimae",Toyoko Inn Osaka Tsuruhashi Ekimae,4.5,4.2,1360,4.4,4.7,4.5,7020.0,Toyoko Inn Osaka Tsuruhashi Ekimae,https://www.tripadvisor.com/Hotel_Review-g298566-d1945343-Reviews-Toyoko_Inn_Osaka_Tsuruhashi_Ekimae-Osaka_Osaka_Prefecture_Kinki.html,4.0,3,543-0024,大阪府,大阪市天王寺区,舟橋町15-31,,〒543-0024 大阪府大阪市天王寺区舟橋町15-31,6885.0,10772.0,119
+861,688489,"东横旅馆-大阪梅田东
+Toyoko Inn Osaka Umeda Higashi",Toyoko Inn Osaka Umeda Higashi,4.5,4.6,1338,4.5,4.8,4.6,7884.0,Toyoko Inn Osaka Umeda Higashi,https://www.tripadvisor.com/Hotel_Review-g298566-d1124272-Reviews-Toyoko_Inn_Osaka_Umeda_Higashi-Osaka_Osaka_Prefecture_Kinki.html,3.5,3,530-0047,大阪府,大阪市北区,西天満 5-3-25,,〒530-0047 大阪府大阪市北区西天満 5-3-25,6774.0,9772.0,241
+862,688493,"UNIZO酒店-大阪淀屋桥
+HOTEL UNIZO Osaka Yodoyabashi",HOTEL UNIZO Osaka Yodoyabashi,4.7,4.5,1253,4.4,4.6,4.6,9099.0,HOTEL UNIZO Osaka Yodoyabashi,https://www.tripadvisor.com/Hotel_Review-g298566-d1439005-Reviews-HOTEL_UNIZO_Osaka_Yodoyabashi-Osaka_Osaka_Prefecture_Kinki.html,4.0,3,541-0043,大阪府,大阪市中央区,高麗橋4-2-7,,〒541-0043 大阪府大阪市中央区高麗橋4-2-7,6663.0,19989.0,333
+867,688514,"东横旅馆-大阪船场东
+Toyoko Inn Osaka Semba Higashi",Toyoko Inn Osaka Semba Higashi,3.9,4.2,1332,3.8,4.3,4.1,6264.0,Toyoko Inn Osaka Semba Higashi,https://www.tripadvisor.com/Hotel_Review-g298566-d1090165-Reviews-Toyoko_Inn_Osaka_Semba_Higashi-Osaka_Osaka_Prefecture_Kinki.html,3.5,3,540-0011,大阪府,大阪市中央区,農人橋2-4-29,,〒540-0011 大阪府大阪市中央区農人橋2-4-29,6330.0,11105.0,188
+874,688551,"东京皇宫酒店
+Palace Hotel Tokyo",Palace Hotel Tokyo,4.9,4.9,24,4.8,4.9,4.9,50058.0,Palace Hotel Tokyo,https://www.tripadvisor.com/Hotel_Review-g1066443-d2528953-Reviews-Palace_Hotel_Tokyo-Chiyoda_Tokyo_Tokyo_Prefecture_Kanto.html,4.5,1,100-0005,東京都,千代田区,丸の内1-1-1,,〒100-0005 東京都千代田区丸の内1-1-1,61855.0,108384.0,290
+879,688569,"东京 (卡马塔景观酒店)
+Hotel Vista Kamata Tokyo",Hotel Vista Kamata Tokyo,4.6,4.5,142,4.5,4.6,4.6,5436.0,Hotel Vista Kamata Tokyo,https://www.tripadvisor.com/Hotel_Review-g1066454-d634733-Reviews-Hotel_Vista_Kamata_Tokyo-Ota_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,144-0051,東京都,大田区,西蒲田8-20-11,,〒144-0051 東京都大田区西蒲田8-20-11,7107.0,17657.0,105
+887,688577,"新宿蔷薇花园饭店
+Hotel Rose Garden Shinjuku",Hotel Rose Garden Shinjuku,4.7,4.7,54,4.4,4.7,4.6,9945.0,Hotel Rose Garden Shinjuku,https://www.tripadvisor.com/Hotel_Review-g1066457-d386881-Reviews-Hotel_Rose_Garden_Shinjuku-Shinjuku_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,542-0082,東京都,新宿区,西新宿8-1-3,,〒542-0082 東京都新宿区西新宿8-1-3,10105.0,29539.0,101
+898,688621,"东京皇家王子大酒店花园塔
+The Prince Park Tower Tokyo",The Prince Park Tower Tokyo,4.7,4.8,64,4.7,4.8,4.8,17032.0,The Prince Park Tower Tokyo,https://www.tripadvisor.com/Hotel_Review-g1066451-d579136-Reviews-The_Prince_Park_Tower_Tokyo-Minato_Tokyo_Tokyo_Prefecture_Kanto.html,4.5,1,105-8563,東京都,港区芝公園,芝公園4-8-1,,〒105-8563 東京都港区芝公園芝公園4-8-1,27762.0,95947.0,603
+900,688624,"东京威斯汀酒店
+The Westin Tokyo",The Westin Tokyo,4.7,4.8,2,4.8,4.8,4.8,25515.0,The Westin Tokyo,https://www.tripadvisor.com/Hotel_Review-g1066450-d301789-Reviews-The_Westin_Tokyo-Meguro_Tokyo_Tokyo_Prefecture_Kanto.html,4.5,1,153-8580,東京都,目黒区,三田1-4-1,恵比寿ガーデンプレイス内,〒153-8580 東京都目黒区三田1-4-1恵比寿ガーデンプレイス内,35869.0,75847.0,438
+901,688625,"公主花园酒店
+Hotel Princess Garden",Hotel Princess Garden,4.8,4.6,83,4.2,4.6,4.5,8931.0,Hotel Princess Garden,https://www.tripadvisor.com/Hotel_Review-g1066854-d505872-Reviews-Hotel_Princess_Garden-Shinagawa_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,141-0021,東京都,品川区,上大崎2-23-7,,〒141-0021 東京都品川区上大崎2-23-7,10217.0,17990.0,205
+915,688655,"东横日本桥人形町旅馆
+Toyoko Inn Tokyo Nihombashi Ningyocho",Toyoko Inn Tokyo Nihombashi Ningyocho,4.6,4.5,518,4.4,4.7,4.5,7884.0,Toyoko Inn Tokyo Nihombashi Ningyocho,https://www.tripadvisor.com/Hotel_Review-g1066444-d1181311-Reviews-Toyoko_Inn_Tokyo_Nihombashi_Ningyocho-Chuo_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,103-0014,東京都,中央区,日本橋蛎殻町1-10-2,,〒103-0014 東京都中央区日本橋蛎殻町1-10-2,8773.0,11882.0,142
+917,688659,"东横东京日本桥酒店
+Toyoko Inn Tokyo Nihombashi",Toyoko Inn Tokyo Nihombashi,4.4,4.4,205,4.3,4.4,4.4,,Toyoko Inn Tokyo Nihombashi,https://www.tripadvisor.com/Hotel_Review-g1066444-d1497050-Reviews-Toyoko_Inn_Tokyo_Nihombashi-Chuo_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,103-0011,東京都,中央区,日本橋大伝馬町14-16,,〒103-0011 東京都中央区日本橋大伝馬町14-16,7885.0,12215.0,33
+924,703215,"白马温泉酒店
+Hakuba Springs Hotel",Hakuba Springs Hotel,4.8,4.8,1614,4.8,4.7,4.8,,Hakuba Springs Hotel,https://www.tripadvisor.com/Hotel_Review-g1120615-d1803495-Reviews-Hakuba_Springs_Hotel-Hakuba_mura_Kitaazumi_gun_Nagano_Prefecture_Chubu.html,4.5,4,399-9301,長野県,北安曇郡白馬村,北城5090,,〒399-9301 長野県北安曇郡白馬村北城5090,33001.0,48394.0,35
+936,703319,"川崎明珠酒店
+Pearl Hotel Kawasaki",Pearl Hotel Kawasaki,4.0,4.0,9841,4.1,4.2,4.1,4933.0,Pearl Hotel Kawasaki,https://www.tripadvisor.com/Hotel_Review-g298172-d1079543-Reviews-Pearl_Hotel_Kawasaki-Kawasaki_Kanagawa_Prefecture_Kanto.html,3.5,120,210-0023,神奈川県,川崎市川崎区,小川町16-9,,〒210-0023 神奈川県川崎市川崎区小川町16-9,6603.0,14996.0,96
+938,703321,"志摩西班牙村酒店
+Hotel Shima Spain Mura",Hotel Shima Spain Mura,4.1,4.1,4605,4.1,4.1,4.1,9400.0,Hotel Shima Spain Mura,https://www.tripadvisor.com/Hotel_Review-g1019679-d325784-Reviews-Hotel_Shima_Spain_Mura-Shima_Mie_Prefecture_Chubu.html,4.0,31,517-0212,三重県,志摩市,磯部町坂崎952-22,,〒517-0212 三重県志摩市磯部町坂崎952-22,16458.0,36498.0,252
+941,703324,"微笑长野酒店
+Smile Hotel Nagano",Smile Hotel Nagano,4.0,4.0,5969,4.0,3.9,3.9,5366.0,Smile Hotel Nagano,https://www.tripadvisor.com/Hotel_Review-g298565-d1099167-Reviews-Smile_Hotel_Nagano-Nagano_Nagano_Prefecture_Chubu.html,3.5,45,380-0821,長野県,長野市,鶴賀上千歳町1177-3,,〒380-0821 長野県長野市鶴賀上千歳町1177-3,5262.0,11084.0,184
+957,703355,"函馆WBF格兰大酒店
+Hotel WBF Grande Hakodate",Hotel WBF Grande Hakodate,4.6,4.7,6579,4.5,4.7,4.7,6550.0,Hotel WBF Grande Hakodate,https://www.tripadvisor.com/Hotel_Review-g298151-d1117568-Reviews-Hotel_WBF_Grande_Hakodate-Hakodate_Hokkaido.html,4.0,57,040-0043,北海道,函館市,宝来町22-15,,〒040-0043 北海道函館市宝来町22-15,4704.0,34946.0,136
+960,703366,"札幌站北口mystays酒店
+HOTEL MYSTAYS Sapporo Station",HOTEL MYSTAYS Sapporo Station,4.8,4.6,3748,4.5,4.7,4.6,10049.0,HOTEL MYSTAYS Sapporo Station,https://www.tripadvisor.com/Hotel_Review-g298560-d1091418-Reviews-HOTEL_MYSTAYS_Sapporo_Station-Sapporo_Hokkaido.html,4.0,21,060-0808,北海道,札幌市北区,北区北8条西4-15,,〒060-0808 北海道札幌市北区北区北8条西4-15,6159.0,28219.0,242
+962,703372,"札幌三位神大酒店
+Hotel Resol Trinity Sapporo",Hotel Resol Trinity Sapporo,4.7,4.4,3709,4.4,4.8,4.6,11598.0,Hotel Resol Trinity Sapporo,https://www.tripadvisor.com/Hotel_Review-g298560-d1091424-Reviews-Hotel_Resol_Trinity_Sapporo-Sapporo_Hokkaido.html,4.0,21,060-0042,北海道,札幌市中央区,大通西5-3,,〒060-0042 北海道札幌市中央区大通西5-3,8063.0,43561.0,305
+964,703378,"札幌阿斯潘我的住宿酒店
+HOTEL MYSTAYS Sapporo Aspen",HOTEL MYSTAYS Sapporo Aspen,4.8,4.7,3751,4.5,4.8,4.7,14316.0,HOTEL MYSTAYS Sapporo Aspen,https://www.tripadvisor.com/Hotel_Review-g298560-d319652-Reviews-HOTEL_MYSTAYS_Sapporo_Aspen-Sapporo_Hokkaido.html,4.0,21,060-0808,北海道,札幌市北区,北8条西4-5,,〒060-0808 北海道札幌市北区北8条西4-5,4367.0,32699.0,305
+972,703397,"札幌法华俱乐部酒店
+Hotel Hokke Club Sapporo",Hotel Hokke Club Sapporo,4.7,4.5,3757,4.4,4.4,4.5,7438.0,Hotel Hokke Club Sapporo,https://www.tripadvisor.com/Hotel_Review-g298560-d547198-Reviews-Hotel_Hokke_Club_Sapporo-Sapporo_Hokkaido.html,4.0,21,060-0002,北海道,札幌市中央区,中央区北2条西3,,〒060-0002 北海道札幌市中央区中央区北2条西3,6159.0,18029.0,146
+974,703404,"札幌新大谷酒店
+New Otani Inn Sapporo",New Otani Inn Sapporo,4.7,4.6,3749,4.4,4.6,4.6,9100.0,New Otani Inn Sapporo,https://www.tripadvisor.com/Hotel_Review-g298560-d301286-Reviews-New_Otani_Inn_Sapporo-Sapporo_Hokkaido.html,4.0,21,060-0002,北海道,札幌市中央区,北2条西1-1-1,,〒060-0002 北海道札幌市中央区北2条西1-1-1,7839.0,39418.0,340
+982,703422,"钏路站前路酒店
+Hotel Route-Inn Kushiro Ekimae",Hotel Route-Inn Kushiro Ekimae,4.7,4.6,10317,4.3,4.4,4.5,6416.0,Hotel Route-Inn Kushiro Ekimae,https://www.tripadvisor.com/Hotel_Review-g298147-d1091141-Reviews-Hotel_Route_Inn_Kushiro_Ekimae-Kushiro_Hokkaido.html,4.0,134,085-0015,北海道,釧路市,北大通13-2-10,,〒085-0015 北海道釧路市北大通13-2-10,6828.0,16006.0,220
+988,703463,"北国带广日航酒店
+Hotel Nikko Northland Obihiro",Hotel Nikko Northland Obihiro,4.8,4.9,13812,4.7,4.8,4.8,9977.0,Hotel Nikko Northland Obihiro,https://www.tripadvisor.com/Hotel_Review-g608507-d487520-Reviews-Hotel_Nikko_Northland_Obihiro-Obihiro_Hokkaido.html,4.5,260,080-0012,北海道,帯広市,西二条南13-1,,〒080-0012 北海道帯広市西二条南13-1,3806.0,25856.0,171
+994,703470,"索尼娅小樽酒店
+Hotel Sonia Otaru",Hotel Sonia Otaru,4.8,4.4,12863,4.2,4.5,4.4,19905.0,Hotel Sonia Otaru,https://www.tripadvisor.com/Hotel_Review-g298153-d1082383-Reviews-Hotel_Sonia_Otaru-Otaru_Hokkaido.html,3.5,215,047-0031,北海道,小樽市,色内1-4-20,,〒047-0031 北海道小樽市色内1-4-20,6823.0,35235.0,149
+995,703471,"札幌克拉比酒店
+Hotel Clubby Sapporo",Hotel Clubby Sapporo,4.0,4.5,3733,4.6,4.4,4.4,11132.0,Hotel Clubby Sapporo,https://www.tripadvisor.com/Hotel_Review-g298560-d1082462-Reviews-Hotel_Clubby_Sapporo-Sapporo_Hokkaido.html,4.5,21,060-0032,北海道,札幌市中央区,北2条東3,,〒060-0032 北海道札幌市中央区北2条東3,6831.0,31131.0,118
+998,703474,"拉碧斯达函馆湾
+La Vista Hakodate Bay",La Vista Hakodate Bay,4.8,4.7,6577,4.7,4.8,4.8,17166.0,La Vista Hakodate Bay,https://www.tripadvisor.com/Hotel_Review-g298151-d1091396-Reviews-La_Vista_Hakodate_Bay-Hakodate_Hokkaido.html,4.5,57,040-0065,北海道,函館市,豊川町12-6,,〒040-0065 北海道函館市豊川町12-6,18473.0,54075.0,356
+999,703475,"北小樽市酒店
+Hotel Nord Otaru",Hotel Nord Otaru,4.8,4.7,12866,4.5,4.8,4.7,16629.0,Hotel Nord Otaru,https://www.tripadvisor.com/Hotel_Review-g298153-d1082381-Reviews-Hotel_Nord_Otaru-Otaru_Hokkaido.html,4.0,215,047-0031,北海道,小樽市,色内1-4-16,,〒047-0031 北海道小樽市色内1-4-16,7271.0,38143.0,98
+1002,703479,"札幌灿路都大饭店
+Hotel Sunroute Sapporo",Hotel Sunroute Sapporo,4.3,4.2,3728,3.8,4.3,4.1,13500.0,Hotel Sunroute Sapporo,https://www.tripadvisor.com/Hotel_Review-g298560-d557890-Reviews-Hotel_Sunroute_Sapporo-Sapporo_Hokkaido.html,3.5,21,060-0807,北海道,札幌市北区,北7条西1-1-22,,〒060-0807 北海道札幌市北区北7条西1-1-22,5487.0,17133.0,78
+1003,703482,"札幌马克斯旅馆
+Marks Inn Sapporo",Marks Inn Sapporo,4.4,4.5,3788,3.8,4.5,4.3,5063.0,Marks Inn Sapporo,https://www.tripadvisor.com/Hotel_Review-g298560-d1081777-Reviews-Marks_Inn_Sapporo-Sapporo_Hokkaido.html,3.5,21,064-0808,北海道,札幌市中央区,南8条西3丁目,,〒064-0808 北海道札幌市中央区南8条西3丁目,4367.0,12094.0,162
+1004,703483,"札幌大通内丝特酒店
+Nest Hotel Sapporo Odori",Nest Hotel Sapporo Odori,4.7,4.7,3727,4.6,4.7,4.7,5463.0,Nest Hotel Sapporo Odori,https://www.tripadvisor.com/Hotel_Review-g298560-d1082436-Reviews-Nest_Hotel_Sapporo_Odori-Sapporo_Hokkaido.html,4.0,21,060-0062,北海道,札幌市中央区,中央区南2条西5-26-1,,〒060-0062 北海道札幌市中央区中央区南2条西5-26-1,4255.0,52968.0,117
+1005,703489,"札幌东武酒店
+Sapporo Tobu Hotel",Sapporo Tobu Hotel,4.7,4.6,3758,4.3,4.7,4.6,6480.0,Sapporo Tobu Hotel,https://www.tripadvisor.com/Hotel_Review-g298560-d1082818-Reviews-Sapporo_Tobu_Hotel-Sapporo_Hokkaido.html,4.0,21,060-0054,北海道,札幌市中央区,南4条東1,,〒060-0054 北海道札幌市中央区南4条東1,5151.0,30571.0,252
+1007,703493,"罗伊顿札幌酒店
+Royton Sapporo",Royton Sapporo,4.3,4.4,3707,4.4,4.5,4.4,10414.0,Royton Sapporo,https://www.tripadvisor.com/Hotel_Review-g298560-d325627-Reviews-Royton_Sapporo-Sapporo_Hokkaido.html,4.0,21,060-0001,北海道,札幌市中央区,北1条西11-1,,〒060-0001 北海道札幌市中央区北1条西11-1,5823.0,52632.0,292
+1012,703504,"带广站前路线酒店
+Hotel Route-Inn Obihiro Ekimae",Hotel Route-Inn Obihiro Ekimae,3.9,4.2,13818,3.6,4.0,3.9,14199.0,Hotel Route-Inn Obihiro Ekimae,https://www.tripadvisor.com/Hotel_Review-g608507-d1081248-Reviews-Hotel_Route_Inn_Obihiro_Ekimae-Obihiro_Hokkaido.html,3.5,260,080-0013,北海道,帯広市,西三条南11-8,,〒080-0013 北海道帯広市西三条南11-8,6376.0,16890.0,180
+1018,703513,"小樽欧森酒店
+Authent Hotel Otaru",Authent Hotel Otaru,4.7,4.8,12870,4.7,4.8,4.7,8949.0,Authent Hotel Otaru,https://www.tripadvisor.com/Hotel_Review-g298153-d1082392-Reviews-Authent_Hotel_Otaru-Otaru_Hokkaido.html,4.0,215,047-0032,北海道,小樽市,稲穂2-15-1,,〒047-0032 北海道小樽市稲穂2-15-1,7047.0,37136.0,195
+1019,703515,"敦贺站前路线酒店
+Hotel Route-Inn Tsuruga Ekimae",Hotel Route-Inn Tsuruga Ekimae,3.9,4.0,14115,4.0,3.9,3.9,10309.0,Hotel Route-Inn Tsuruga Ekimae,https://www.tripadvisor.com/Hotel_Review-g1021151-d1096856-Reviews-Hotel_Route_Inn_Tsuruga_Ekimae-Tsuruga_Fukui_Prefecture_Chubu.html,3.5,273,914-0055,福井県,敦賀市,鉄輪町1-6-2,,〒914-0055 福井県敦賀市鉄輪町1-6-2,7830.0,18456.0,185
+1026,703533,"杉乃井酒店
+Suginoi Hotel",Suginoi Hotel,4.3,4.6,5305,4.3,4.5,4.4,35140.0,Suginoi Hotel,https://www.tripadvisor.com/Hotel_Review-g298219-d320314-Reviews-Suginoi_Hotel-Beppu_Oita_Prefecture_Kyushu_Okinawa.html,4.0,38,874-0822,大分県,別府市,観海寺 1,,〒874-0822 大分県別府市観海寺 1,23847.0,72660.0,647
+1037,703549,"大分大和ROYNET酒店
+Daiwa Roynet Hotel Oita",Daiwa Roynet Hotel Oita,4.5,4.3,11056,4.0,4.4,4.3,7209.0,Daiwa Roynet Hotel Oita,https://www.tripadvisor.com/Hotel_Review-g298220-d1092051-Reviews-Daiwa_Roynet_Hotel_Oita-Oita_Oita_Prefecture_Kyushu_Okinawa.html,4.5,152,870-0046,大分県,大分市,荷揚町2-3‎,,〒870-0046 大分県大分市荷揚町2-3‎,5485.0,25409.0,240
+1038,703551,"伦勃朗大分酒店
+Rembrandt Hotel Oita",Rembrandt Hotel Oita,4.1,4.1,11057,4.3,4.4,4.2,7134.0,Rembrandt Hotel Oita,https://www.tripadvisor.com/Hotel_Review-g298220-d302025-Reviews-Rembrandt_Hotel_Oita-Oita_Oita_Prefecture_Kyushu_Okinawa.html,4.0,152,870-0816,大分県,大分市,田室町9-20,(旧大分東洋ホテル),〒870-0816 大分県大分市田室町9-20(旧大分東洋ホテル),5820.0,16902.0,144
+1039,703554,"大分站前干线酒店
+Hotel Route-Inn Oita Ekimae",Hotel Route-Inn Oita Ekimae,4.4,4.3,11051,4.2,4.3,4.3,5520.0,Hotel Route-Inn Oita Ekimae,https://www.tripadvisor.com/Hotel_Review-g298220-d1080051-Reviews-Hotel_Route_Inn_Oita_Ekimae-Oita_Oita_Prefecture_Kyushu_Okinawa.html,3.5,152,870-0026,大分県,大分市,金池町1-3-1,,〒870-0026 大分県大分市金池町1-3-1,7052.0,13880.0,127
+1041,703560,"喜来登顶级海洋度假酒店
+Sheraton Grande Ocean Resort",Sheraton Grande Ocean Resort,4.7,4.4,8445,4.7,4.5,4.6,15588.0,Sheraton Grande Ocean Resort,https://www.tripadvisor.com/Hotel_Review-g298215-d301797-Reviews-Sheraton_Grande_Ocean_Resort-Miyazaki_Miyazaki_Prefecture_Kyushu_Okinawa.html,4.5,88,880-8545,宮崎県,宮崎市,山崎町浜山,,〒880-8545 宮崎県宮崎市山崎町浜山,15555.0,59311.0,736
+1048,703579,"金泽花园酒店
+Garden Hotel Kanazawa",Garden Hotel Kanazawa,4.7,4.4,5703,4.0,4.1,4.3,5814.0,Garden Hotel Kanazawa,https://www.tripadvisor.com/Hotel_Review-g298115-d628293-Reviews-Garden_Hotel_Kanazawa-Kanazawa_Ishikawa_Prefecture_Chubu.html,3.5,42,920-0853,石川県,金沢市,本町2-16-16,,〒920-0853 石川県金沢市本町2-16-16,5934.0,14330.0,160
+1069,703659,"Route-Inn格兰蒂亚那覇酒店
+Route Inn Grantia Naha",Route Inn Grantia Naha,4.0,4.6,3432,4.4,4.4,4.4,6162.0,Route Inn Grantia Naha,https://www.tripadvisor.com/Hotel_Review-g298224-d1080179-Reviews-Route_Inn_Grantia_Naha-Naha_Okinawa_Prefecture_Kyushu_Okinawa.html,3.5,18,900-0036,沖縄県,那覇市,西2-25-12,,〒900-0036 沖縄県那覇市西2-25-12,6275.0,19925.0,150
+1078,703688,"川越王子大饭店
+Kawagoe Prince Hotel",Kawagoe Prince Hotel,4.0,3.9,17534,3.8,4.0,3.9,10246.0,Kawagoe Prince Hotel,https://www.tripadvisor.com/Hotel_Review-g298177-d301208-Reviews-Kawagoe_Prince_Hotel-Kawagoe_Saitama_Prefecture_Kanto.html,3.5,494,350-8501,埼玉県,川越市,新富町1-22,,〒350-8501 埼玉県川越市新富町1-22,13740.0,30161.0,110
+1080,703694,"志摩观光酒店 经典馆
+Shima Kanko Hotel the Classic",Shima Kanko Hotel the Classic,4.2,4.2,4600,4.1,4.1,4.2,22457.0,Shima Kanko Hotel the Classic,https://www.tripadvisor.com/Hotel_Review-g1019679-d324876-Reviews-Shima_Kanko_Hotel_the_Classic-Shima_Mie_Prefecture_Chubu.html,4.5,31,517-0502,三重県,志摩市,阿児町神明731,(賢島),〒517-0502 三重県志摩市阿児町神明731(賢島),25414.0,92924.0,114
+1089,703748,"名古屋千代田酒店
+Chiyoda Hotel Nagoya",Chiyoda Hotel Nagoya,3.8,3.8,3607,3.6,3.8,3.8,10500.0,Chiyoda Hotel Nagoya,https://www.tripadvisor.com/Hotel_Review-g298106-d11930377-Reviews-Chiyoda_Hotel_Nagoya-Nagoya_Aichi_Prefecture_Chubu.html,3.5,20,460-0003,愛知県,名古屋市,中区錦1-16-10,,〒460-0003 愛知県名古屋市中区錦1-16-10,4815.0,15342.0,JapanChubuTokaiAichi PrefectureNagoya
+1098,703762,"东横名古屋丸旅馆
+Toyoko Inn Nagoya Marunouchi",Toyoko Inn Nagoya Marunouchi,4.1,4.3,3592,4.0,4.4,4.2,7668.0,Toyoko Inn Nagoya Marunouchi,https://www.tripadvisor.com/Hotel_Review-g298106-d558147-Reviews-Toyoko_Inn_Nagoya_Marunouchi-Nagoya_Aichi_Prefecture_Chubu.html,3.5,20,460-0002,愛知県,名古屋市,中区丸の内1-4-20,,〒460-0002 愛知県名古屋市中区丸の内1-4-20,6719.0,9854.0,236
+1101,703773,"Trusty酒店-名古屋
+Hotel Trusty Nagoya",Hotel Trusty Nagoya,4.6,4.7,3546,4.6,4.7,4.7,6432.0,Hotel Trusty Nagoya,https://www.tripadvisor.com/Hotel_Review-g298106-d1078688-Reviews-Hotel_Trusty_Nagoya-Nagoya_Aichi_Prefecture_Chubu.html,3.5,20,460-0003,愛知県,名古屋市,中区錦2-11-32,,〒460-0003 愛知県名古屋市中区錦2-11-32,5064.0,14971.0,250
+1136,703866,"千叶华盛顿酒店
+Chiba Washington Hotel",Chiba Washington Hotel,4.4,4.2,11565,4.1,4.4,4.3,5385.0,Chiba Washington Hotel,https://www.tripadvisor.com/Hotel_Review-g298158-d626334-Reviews-Chiba_Washington_Hotel-Chiba_Chiba_Prefecture_Kanto.html,3.5,167,260-0015,千葉県,千葉市,中央区富士見1-13-1,,〒260-0015 千葉県千葉市中央区富士見1-13-1,5593.0,16219.0,181
+1145,703887,"成田丽笙酒店
+Radisson Hotel Narita",Radisson Hotel Narita,4.3,4.5,17545,4.5,4.5,4.4,11649.0,Radisson Hotel Narita,https://www.tripadvisor.com/Hotel_Review-g1021270-d307195-Reviews-Radisson_Hotel_Narita-Tomisato_Chiba_Prefecture_Kanto.html,4.0,495,286-0221,千葉県,富里市,七栄650-35,,〒286-0221 千葉県富里市七栄650-35,8155.0,18767.0,490
+1146,703889,"佐贺新大谷酒店
+Hotel New Otani Saga",Hotel New Otani Saga,3.9,4.3,12341,4.0,4.2,4.1,10129.0,Hotel New Otani Saga,https://www.tripadvisor.com/Hotel_Review-g298227-d301322-Reviews-Hotel_New_Otani_Saga-Saga_Saga_Prefecture_Kyushu_Okinawa.html,4.0,193,840-0047,佐賀県,佐賀市,与賀町1-2,,〒840-0047 佐賀県佐賀市与賀町1-2,10291.0,23602.0,102
+1169,703917,"福岛西知乡舍酒店
+Chisun Inn Fukushima Nishi IC",Chisun Inn Fukushima Nishi IC,4.3,4.5,6988,4.3,4.2,4.3,4980.0,Chisun Inn Fukushima Nishi IC,https://www.tripadvisor.com/Hotel_Review-g298244-d1086438-Reviews-Chisun_Inn_Fukushima_Nishi_IC-Fukushima_Fukushima_Prefecture_Tohoku.html,4.0,65,960-1108,福島県,福島市,成川字杵清水20-1,,〒960-1108 福島県福島市成川字杵清水20-1,5600.0,12097.0,98
+1181,703935,"京都灿路都大饭店
+Hotel Sunroute Kyoto",Hotel Sunroute Kyoto,4.7,4.7,853,4.6,4.7,4.7,7889.0,Hotel Sunroute Kyoto,https://www.tripadvisor.com/Hotel_Review-g298564-d325769-Reviews-Hotel_Sunroute_Kyoto-Kyoto_Kyoto_Prefecture_Kinki.html,4.0,2,600-8027,京都府,京都市下京区,下京区河原町通松原下ル難波町406,,〒600-8027 京都府京都市下京区下京区河原町通松原下ル難波町406,4775.0,25652.0,144
+1187,703942,"瑞斯尔皮亚阿塔米酒店
+Hotel Resorpia Atami",Hotel Resorpia Atami,4.1,4.0,5112,3.8,3.9,3.9,32512.0,Hotel Resorpia Atami,https://www.tripadvisor.com/Hotel_Review-g298122-d1102409-Reviews-Hotel_Resorpia_Atami-Atami_Shizuoka_Prefecture_Chubu.html,3.5,36,413-0012,静岡県,熱海市,東海岸町13-93,,〒413-0012 静岡県熱海市東海岸町13-93,16234.0,58889.0,196
+1188,703943,"伊塔奇塔噶鲁特旅馆
+Hotel Route-Inn Hitachitaga",Hotel Route-Inn Hitachitaga,3.8,3.8,12505,3.6,3.8,3.8,6034.0,Hotel Route-Inn Hitachitaga,https://www.tripadvisor.com/Hotel_Review-g303154-d1059684-Reviews-Hotel_Route_Inn_Hitachitaga-Hitachi_Ibaraki_Prefecture_Kanto.html,3.5,200,316-0003,茨城県,日立市,多賀町2-15-11,,〒316-0003 茨城県日立市多賀町2-15-11,6935.0,13647.0,113
+1198,703954,"米库拉斯酒店
+Hotel Micuras",Hotel Micuras,4.6,4.5,5109,4.4,4.7,4.5,21379.0,Hotel Micuras,https://www.tripadvisor.com/Hotel_Review-g298122-d1063960-Reviews-Hotel_Micuras-Atami_Shizuoka_Prefecture_Chubu.html,4.0,36,413-0012,静岡県,熱海市,東海岸町3-19,,〒413-0012 静岡県熱海市東海岸町3-19,19928.0,96619.0,62
+1204,703960,"金泽站前伊可诺酒店
+Hotel Econo Kanazawa Ekimae",Hotel Econo Kanazawa Ekimae,3.9,3.9,5731,3.6,3.8,3.8,3967.0,Hotel Econo Kanazawa Ekimae,https://www.tripadvisor.com/Hotel_Review-g298115-d1083033-Reviews-Hotel_Econo_Kanazawa_Ekimae-Kanazawa_Ishikawa_Prefecture_Chubu.html,3.5,42,920-0852,石川県,金沢市,此花町8-8,,〒920-0852 石川県金沢市此花町8-8,5486.0,12763.0,105
+1206,703963,"清水远景酒店
+Hotel Vista Shimizu",Hotel Vista Shimizu,4.4,4.4,6820,4.3,4.7,4.4,6452.0,Hotel Vista Shimizu,https://www.tripadvisor.com/Hotel_Review-g298124-d1126196-Reviews-Hotel_Vista_Shimizu-Shizuoka_Shizuoka_Prefecture_Chubu.html,4.0,60,424-0816,静岡県,静岡市,清水区真砂町1-23,,〒424-0816 静岡県静岡市清水区真砂町1-23,4030.0,19816.0,152
+1216,703980,"UNIZO旅馆-仙台
+UNIZO INN Sendai",UNIZO INN Sendai,4.8,4.5,5840,4.0,4.5,4.4,6000.0,UNIZO INN Sendai,https://www.tripadvisor.com/Hotel_Review-g298249-d482006-Reviews-UNIZO_INN_Sendai-Sendai_Miyagi_Prefecture_Tohoku.html,3.0,43,980-0021,宮城県,仙台市青葉区,中央4-8-7,,〒980-0021 宮城県仙台市青葉区中央4-8-7,4478.0,15226.0,250
+1230,704003,"仙台法华俱乐部酒店
+Hotel Hokke Club Sendai",Hotel Hokke Club Sendai,4.4,4.4,5807,4.3,4.4,4.3,5723.0,Hotel Hokke Club Sendai,https://www.tripadvisor.com/Hotel_Review-g298249-d479515-Reviews-Hotel_Hokke_Club_Sendai-Sendai_Miyagi_Prefecture_Tohoku.html,4.0,43,980-0014,宮城県,仙台市青葉区,本町2-11-30,,〒980-0014 宮城県仙台市青葉区本町2-11-30,5150.0,15562.0,151
+1248,704030,"东京巨蛋酒店
+Tokyo Dome Hotel",Tokyo Dome Hotel,4.8,4.8,26,4.7,4.9,4.8,13478.0,Tokyo Dome Hotel,https://www.tripadvisor.com/Hotel_Review-g1066442-d307395-Reviews-Tokyo_Dome_Hotel-Bunkyo_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,112-8562,東京都,文京区,後楽1-3-61,,〒112-8562 東京都文京区後楽1-3-61,14214.0,37091.0,1006
+1256,704039,"新泻上越艺术酒店
+Art Hotel Joetsu",Art Hotel Joetsu,4.5,5.0,9359,3.0,5.0,4.4,6070.0,Art Hotel Joetsu,https://www.tripadvisor.com/Hotel_Review-g1021353-d1081962-Reviews-Art_Hotel_Joetsu-Joetsu_Niigata_Prefecture_Chubu.html,4.0,108,943-0832,新潟県,上越市,本町5-1-11,,〒943-0832 新潟県上越市本町5-1-11,8281.0,23389.0,192
+1266,704050,"斯托尔可酒店
+Hotel Stork",Hotel Stork,4.5,4.5,3373,4.3,4.5,4.5,3210.0,Hotel Stork,https://www.tripadvisor.com/Hotel_Review-g298224-d1509799-Reviews-Hotel_Stork-Naha_Okinawa_Prefecture_Kyushu_Okinawa.html,4.0,18,900-0006,沖縄県,那覇市,おもろまち2-6-40,,〒900-0006 沖縄県那覇市おもろまち2-6-40,3633.0,6165.0,130
+1299,704090,"名古屋纳屋桥里士满酒店
+Richmond Hotel Nagoya Nayabashi",Richmond Hotel Nagoya Nayabashi,4.6,4.6,3545,4.6,4.7,4.6,10653.0,Richmond Hotel Nagoya Nayabashi,https://www.tripadvisor.com/Hotel_Review-g298106-d1080773-Reviews-Richmond_Hotel_Nagoya_Nayabashi-Nagoya_Aichi_Prefecture_Chubu.html,4.0,20,460-0008,愛知県,名古屋市中区,栄1-2-7,,〒460-0008 愛知県名古屋市中区栄1-2-7,5504.0,22677.0,238
+1301,704093,"日光尼克自然花园酒店
+Hotel Natural Garden Nikko",Hotel Natural Garden Nikko,3.5,3.9,2663,3.7,3.9,3.8,6196.0,Hotel Natural Garden Nikko,https://www.tripadvisor.com/Hotel_Review-g298182-d1056517-Reviews-Hotel_Natural_Garden_Nikko-Nikko_Tochigi_Prefecture_Kanto.html,3.5,12,321-1435,栃木県,日光市,花石町1825-3,,〒321-1435 栃木県日光市花石町1825-3,8416.0,28128.0,35
+1320,704131,"宫古岛和平岛酒店
+Hotel Peace Island Miyakojima",Hotel Peace Island Miyakojima,4.9,4.5,5225,4.1,4.1,4.4,8675.0,Hotel Peace Island Miyakojima,https://www.tripadvisor.com/Hotel_Review-g680765-d1825812-Reviews-Hotel_Peace_Island_Miyakojima-Miyakojima_Okinawa_Prefecture_Kyushu_Okinawa.html,4.0,37,906-0012,沖縄県,宮古島市,平良西里310,,〒906-0012 沖縄県宮古島市平良西里310,7053.0,16010.0,93
+1328,704143,"大雪山远景酒店
+La Vista Daisetsuzan",La Vista Daisetsuzan,4.6,4.6,18104,4.6,4.6,4.6,41313.0,La Vista Daisetsuzan,https://www.tripadvisor.com/Hotel_Review-g1120349-d1167009-Reviews-La_Vista_Daisetsuzan-Higashikawa_cho_Kamikawa_gun_Hokkaido.html,4.5,545,071-1472,北海道,上川郡東川町,旭岳温泉,,〒071-1472 北海道上川郡東川町旭岳温泉,26586.0,60545.0,85
+1341,704165,"贝尔帕瑞埃颂度假酒店
+Resort Hotel Bel Paraiso",Resort Hotel Bel Paraiso,2.9,3.3,9152,3.1,3.3,3.2,11429.0,Resort Hotel Bel Paraiso,https://www.tripadvisor.com/Hotel_Review-g1025647-d1125230-Reviews-Resort_Hotel_Bel_Paraiso-Nakijin_son_Kunigami_gun_Okinawa_Prefecture_Kyushu_Okinawa.html,3.5,100,905-0403,沖縄県,国頭郡今帰仁村,運天1069,,〒905-0403 沖縄県国頭郡今帰仁村運天1069,11526.0,31558.0,84
+1356,704185,"长崎蒙特利酒店
+Hotel Monterey Nagasaki",Hotel Monterey Nagasaki,4.6,4.5,7931,4.4,4.5,4.5,6295.0,Hotel Monterey Nagasaki,https://www.tripadvisor.com/Hotel_Review-g298568-d324011-Reviews-Hotel_Monterey_Nagasaki-Nagasaki_Nagasaki_Prefecture_Kyushu_Okinawa.html,4.0,78,850-0918,長崎県,長崎市,大浦町1-22,,〒850-0918 長崎県長崎市大浦町1-22,5824.0,22625.0,123
+1367,704197,"大阪法华俱乐部酒店
+Hotel Hokke Club Osaka",Hotel Hokke Club Osaka,4.2,4.6,1264,4.5,4.6,4.5,8157.0,Hotel Hokke Club Osaka,https://www.tripadvisor.com/Hotel_Review-g298566-d1092197-Reviews-Hotel_Hokke_Club_Osaka-Osaka_Osaka_Prefecture_Kinki.html,4.0,3,530-0056,大阪府,大阪市北区,兎我野町12-19,,〒530-0056 大阪府大阪市北区兎我野町12-19,6885.0,15769.0,220
+1369,704200,"与论岛普利西亚度假酒店
+Pricia Resort Yoron",Pricia Resort Yoron,3.7,3.6,16952,3.6,3.6,3.6,16781.0,Pricia Resort Yoron,https://www.tripadvisor.com/Hotel_Review-g1121611-d1124287-Reviews-Pricia_Resort_Yoron-Oshima_gun_Yoron_cho_Yoron_jima_Kagoshima_Prefecture_Kyushu_Okina.html,3.5,448,891-9302,鹿児島県,大島郡与論町,立長358-1,,〒891-9302 鹿児島県大島郡与論町立長358-1,13628.0,41890.0,120
+1392,704234,"那霸AZAT酒店
+Hotel Azat",Hotel Azat,4.7,4.6,3372,4.4,4.7,4.6,9041.0,Hotel Azat,https://www.tripadvisor.com/Hotel_Review-g298224-d1094112-Reviews-Hotel_Azat-Naha_Okinawa_Prefecture_Kyushu_Okinawa.html,4.0,18,902-0067,沖縄県,那覇市,安里2-8-8,,〒902-0067 沖縄県那覇市安里2-8-8,5945.0,16513.0,172
+1395,704237,"UNIZO酒店-福冈天神
+HOTEL UNIZO Fukuoka Tenjin",HOTEL UNIZO Fukuoka Tenjin,4.8,4.2,3184,4.3,4.7,4.5,9492.0,HOTEL UNIZO Fukuoka Tenjin,https://www.tripadvisor.com/Hotel_Review-g298207-d1054992-Reviews-HOTEL_UNIZO_Fukuoka_Tenjin-Fukuoka_Fukuoka_Prefecture_Kyushu_Okinawa.html,4.0,17,810-0021,福岡県,福岡市中央区,今泉1-22-14,,〒810-0021 福岡県福岡市中央区今泉1-22-14,9137.0,27191.0,159
+1397,704239,"福冈天神东横酒店
+Toyoko Inn Fukuoka Tenjin",Toyoko Inn Fukuoka Tenjin,4.6,4.2,3241,4.2,4.5,4.4,8208.0,Toyoko Inn Fukuoka Tenjin,https://www.tripadvisor.com/Hotel_Review-g298207-d1799520-Reviews-Toyoko_Inn_Fukuoka_Tenjin-Fukuoka_Fukuoka_Prefecture_Kyushu_Okinawa.html,3.5,17,810-0004,福岡県,福岡市,中央区渡辺通5-15-14,,〒810-0004 福岡県福岡市中央区渡辺通5-15-14,6935.0,10788.0,33
+1415,704261,"那霸大酒店
+Naha Grand Hotel",Naha Grand Hotel,4.8,4.7,3437,4.2,4.6,4.6,10679.0,Naha Grand Hotel,https://www.tripadvisor.com/Hotel_Review-g298224-d1092946-Reviews-Naha_Grand_Hotel-Naha_Okinawa_Prefecture_Kyushu_Okinawa.html,3.5,18,900-0014,沖縄県,那覇市,松尾1-5-7,,〒900-0014 沖縄県那覇市松尾1-5-7,5064.0,12880.0,125
+1419,704267,"箱根酒店
+Hakone Hotel",Hakone Hotel,4.5,4.3,2124,4.1,4.4,4.3,44580.0,Hakone Hotel,https://www.tripadvisor.com/Hotel_Review-g298171-d1126040-Reviews-Hakone_Hotel-Hakone_machi_Ashigarashimo_gun_Kanagawa_Prefecture_Kanto.html,4.0,7,250-0521,神奈川県,足柄下郡箱根町,箱根65,富士屋ホテルレイクビューアネックス,〒250-0521 神奈川県足柄下郡箱根町箱根65富士屋ホテルレイクビューアネックス,20266.0,54264.0,49
+1421,704269,"箱根芦之湖王子酒店
+The Prince Hakone Lake Ashinoko",The Prince Hakone Lake Ashinoko,4.6,4.7,2080,4.7,4.8,4.7,29511.0,The Prince Hakone Lake Ashinoko,https://www.tripadvisor.com/Hotel_Review-g298171-d300901-Reviews-The_Prince_Hakone_Lake_Ashinoko-Hakone_machi_Ashigarashimo_gun_Kanagawa_Prefecture_Kant.html,4.0,7,250-0592,神奈川県,足柄下郡箱根町,元箱根144,,〒250-0592 神奈川県足柄下郡箱根町元箱根144,22259.0,70543.0,92
+1422,704271,"箱根汤元温泉 南风荘酒店
+Hotel Nanpuso",Hotel Nanpuso,4.6,4.5,2144,4.6,4.7,4.6,27000.0,Hotel Nanpuso,https://www.tripadvisor.com/Hotel_Review-g298171-d479518-Reviews-Hotel_Nanpuso-Hakone_machi_Ashigarashimo_gun_Kanagawa_Prefecture_Kanto.html,4.0,7,250-0312,神奈川県,足柄下郡箱根町,湯本茶屋179,,〒250-0312 神奈川県足柄下郡箱根町湯本茶屋179,21988.0,66519.0,108
+1431,704285,"湘南藤泽法华俱乐部酒店
+Hotel Hokke Club Shonan Fujisawa",Hotel Hokke Club Shonan Fujisawa,4.6,4.7,15585,4.6,4.7,4.6,4862.0,Hotel Hokke Club Shonan Fujisawa,https://www.tripadvisor.com/Hotel_Review-g1021277-d1036565-Reviews-Hotel_Hokke_Club_Shonan_Fujisawa-Fujisawa_Kanagawa_Prefecture_Kanto.html,4.0,350,251-0025,神奈川県,藤沢市,鵠沼石上1-6-1,,〒251-0025 神奈川県藤沢市鵠沼石上1-6-1,6256.0,16533.0,160
+1441,704299,"和平之地酒店
+Hotel Peace Land",Hotel Peace Land,3.8,3.8,3450,3.6,3.9,3.8,5368.0,Hotel Peace Land,https://www.tripadvisor.com/Hotel_Review-g298224-d1090664-Reviews-Hotel_Peace_Land-Naha_Okinawa_Prefecture_Kyushu_Okinawa.html,3.5,18,900-0016,沖縄県,那覇市,前島3-23,,〒900-0016 沖縄県那覇市前島3-23,4954.0,12109.0,51
+1448,704309,"泰拉酒店
+Hotel Taira",Hotel Taira,3.9,3.9,3445,3.5,3.8,3.8,4541.0,Hotel Taira,https://www.tripadvisor.com/Hotel_Review-g298224-d1092883-Reviews-Hotel_Taira-Naha_Okinawa_Prefecture_Kyushu_Okinawa.html,3.5,18,900-0032,沖縄県,那覇市,松山1-14-13,,〒900-0032 沖縄県那覇市松山1-14-13,4073.0,10568.0,95
+1449,704310,"横滨辛克亚苏站前东横旅馆
+Toyoko Inn Yokohama Shinkoyasu Ekimae",Toyoko Inn Yokohama Shinkoyasu Ekimae,4.7,5.0,4837,4.7,5.0,4.8,9504.0,Toyoko Inn Yokohama Shinkoyasu Ekimae,https://www.tripadvisor.com/Hotel_Review-g298173-d1495512-Reviews-Toyoko_Inn_Yokohama_Shinkoyasu_Ekimae-Yokohama_Kanagawa_Prefecture_Kanto.html,3.5,33,221-0021,神奈川県,横浜市,神奈川区子安通2-240-32,,〒221-0021 神奈川県横浜市神奈川区子安通2-240-32,7389.0,10412.0,173
+1478,704360,"富山大和ROYNET酒店
+Daiwa Roynet Hotel Toyama",Daiwa Roynet Hotel Toyama,4.4,4.6,8263,4.4,4.5,4.5,5264.0,Daiwa Roynet Hotel Toyama,https://www.tripadvisor.com/Hotel_Review-g298126-d1078569-Reviews-Daiwa_Roynet_Hotel_Toyama-Toyama_Toyama_Prefecture_Chubu.html,4.0,84,930-0028,富山県,富山市,荒町6-1,,〒930-0028 富山県富山市荒町6-1,7050.0,20591.0,227
+1479,704363,"富山东急饭店
+Toyama Excel Hotel Tokyu",Toyama Excel Hotel Tokyu,4.6,4.5,8258,4.3,4.4,4.4,8103.0,Toyama Excel Hotel Tokyu,https://www.tripadvisor.com/Hotel_Review-g298126-d505895-Reviews-Toyama_Excel_Hotel_Tokyu-Toyama_Toyama_Prefecture_Chubu.html,4.0,84,930-0002,富山県,富山市,新富町1-2-3,CICビル,〒930-0002 富山県富山市新富町1-2-3CICビル,12645.0,38048.0,210
+1488,704379,"新冲绳酒店
+Hotel New Okinawa",Hotel New Okinawa,4.8,4.7,3406,4.2,4.5,4.6,5284.0,Hotel New Okinawa,https://www.tripadvisor.com/Hotel_Review-g298224-d1080174-Reviews-Hotel_New_Okinawa-Naha_Okinawa_Prefecture_Kyushu_Okinawa.html,3.5,18,900-0014,沖縄県,那覇市,松尾1-4-5,,〒900-0014 沖縄県那覇市松尾1-4-5,5284.0,14751.0,74
+1491,704384,"河口湖瑞吉娜酒店
+Hotel Regina Kawaguchiko",Hotel Regina Kawaguchiko,4.6,4.7,2429,4.6,4.7,4.6,30372.0,Hotel Regina Kawaguchiko,https://www.tripadvisor.com/Hotel_Review-g1165976-d729719-Reviews-Hotel_Regina_Kawaguchiko-Fujikawaguchiko_machi_Minamitsuru_gun_Yamanashi_Prefecture_Ch.html,4.0,9,401-0301,山梨県,南都留郡富士河口湖町,船津5239-1,,〒401-0301 山梨県南都留郡富士河口湖町船津5239-1,14436.0,44864.0,68
+1497,704398,"河口湖酒店
+Kawaguchiko Hotel",Kawaguchiko Hotel,4.6,4.4,2410,3.8,4.2,4.3,12018.0,Kawaguchiko Hotel,https://www.tripadvisor.com/Hotel_Review-g1165976-d1169206-Reviews-Kawaguchiko_Hotel-Fujikawaguchiko_machi_Minamitsuru_gun_Yamanashi_Prefecture_Chubu.html,3.0,9,401-0301,山梨県,南都留郡富士河口湖町,船津200,,〒401-0301 山梨県南都留郡富士河口湖町船津200,8749.0,45072.0,38
+1513,704426,"广岛智慧酒店别馆
+Hiroshima Intelligent Hotel Annex",Hiroshima Intelligent Hotel Annex,3.8,3.8,4962,3.8,3.8,3.8,7633.0,Hiroshima Intelligent Hotel Annex,https://www.tripadvisor.com/Hotel_Review-g298561-d653350-Reviews-Hiroshima_Intelligent_Hotel_Annex-Hiroshima_Hiroshima_Prefecture_Chugoku.html,3.5,34,732-0827,広島県,広島市南区,南区稲荷町3番27号,,〒732-0827 広島県広島市南区南区稲荷町3番27号,5822.0,17801.0,225
+1515,704431,"冲绳孙酒店
+Hotel Sun Okinawa",Hotel Sun Okinawa,4.8,4.5,3393,4.2,4.5,4.5,,Hotel Sun Okinawa,https://www.tripadvisor.com/Hotel_Review-g298224-d1080202-Reviews-Hotel_Sun_Okinawa-Naha_Okinawa_Prefecture_Kyushu_Okinawa.html,4.0,18,900-0015,沖縄県,那覇市,久茂地1-5-15,,〒900-0015 沖縄県那覇市久茂地1-5-15,9027.0,23558.0,200
+1523,704444,"UNIZO旅馆-广岛
+UNIZO INN Hiroshima",UNIZO INN Hiroshima,3.6,3.7,4946,3.8,4.0,3.8,11534.0,UNIZO INN Hiroshima,https://www.tripadvisor.com/Hotel_Review-g298561-d558105-Reviews-UNIZO_INN_Hiroshima-Hiroshima_Hiroshima_Prefecture_Chugoku.html,3.5,34,730-0012,広島県,広島市中区,上八丁堀7-25,,〒730-0012 広島県広島市中区上八丁堀7-25,5486.0,15002.0,171
+1525,704447,"古色石垣岛酒店
+Hotel Patina Ishigakijima",Hotel Patina Ishigakijima,4.2,4.0,4160,4.1,4.2,4.1,16672.0,Hotel Patina Ishigakijima,https://www.tripadvisor.com/Hotel_Review-g298223-d1087899-Reviews-Hotel_Patina_Ishigakijima-Ishigaki_Okinawa_Prefecture_Kyushu_Okinawa.html,4.5,24,907-0011,沖縄県,石垣市,八島町1-8-5,,〒907-0011 沖縄県石垣市八島町1-8-5,11086.0,20045.0,27
+1554,704496,"鸟取新大谷酒店
+Hotel New Otani Tottori",Hotel New Otani Tottori,4.6,4.5,11198,3.9,4.3,4.3,11519.0,Hotel New Otani Tottori,https://www.tripadvisor.com/Hotel_Review-g298138-d301318-Reviews-Hotel_New_Otani_Tottori-Tottori_Tottori_Prefecture_Chugoku.html,4.0,155,680-0822,鳥取県,鳥取市,今町2-153,,〒680-0822 鳥取県鳥取市今町2-153,7499.0,21043.0,137
+1621,704596,"利索尔名古屋酒店
+Hotel Resol Nagoya",Hotel Resol Nagoya,4.7,4.5,3575,4.3,4.6,4.5,16224.0,Hotel Resol Nagoya,https://www.tripadvisor.com/Hotel_Review-g298106-d320101-Reviews-Hotel_Resol_Nagoya-Nagoya_Aichi_Prefecture_Chubu.html,3.5,20,450-0002,愛知県,名古屋市中村区,名駅3-25-6,,〒450-0002 愛知県名古屋市中村区名駅3-25-6,7503.0,19933.0,101
+1623,704599,"京都五条大宫东横旅馆
+Toyoko Inn Kyoto Gojo-Omiya",Toyoko Inn Kyoto Gojo-Omiya,4.2,4.5,1098,4.3,4.8,4.4,8424.0,Toyoko Inn Kyoto Gojo-Omiya,https://www.tripadvisor.com/Hotel_Review-g298564-d1872360-Reviews-Toyoko_Inn_Kyoto_Gojo_Omiya-Kyoto_Kyoto_Prefecture_Kinki.html,3.5,2,600-8362,京都府,京都市下京区,大宮通五条下る2丁目西側中堂寺前町502-5,,〒600-8362 京都府京都市下京区大宮通五条下る2丁目西側中堂寺前町502-5,8329.0,17768.0,156
+1647,704633,"热海站前东横旅馆
+Toyoko Inn Atami Ekimae",Toyoko Inn Atami Ekimae,4.2,3.7,5114,3.8,4.1,3.9,6588.0,Toyoko Inn Atami Ekimae,https://www.tripadvisor.com/Hotel_Review-g298122-d1497067-Reviews-Toyoko_Inn_Atami_Ekimae-Atami_Shizuoka_Prefecture_Chubu.html,3.5,36,413-0005,静岡県,熱海市,春日町12-4,,〒413-0005 静岡県熱海市春日町12-4,7949.0,10524.0,38
+1654,704643,"稻取东海酒店汤苑
+Inatori Tokai Hotel Yuen",Inatori Tokai Hotel Yuen,4.4,4.2,8026,4.0,4.6,4.3,32356.0,Inatori Tokai Hotel Yuen,https://www.tripadvisor.com/Hotel_Review-g1121205-d1125037-Reviews-Inatori_Tokai_Hotel_Yuen-Higashiizu_cho_Kamo_gun_Shizuoka_Prefecture_Chubu.html,4.0,80,413-0411,静岡県,賀茂郡東伊豆町,稲取1599-1,,〒413-0411 静岡県賀茂郡東伊豆町稲取1599-1,17346.0,51365.0,42
+1674,704665,"名古屋公寓酒店
+Hotel Livemax Nagoya",Hotel Livemax Nagoya,3.5,3.5,3616,3.4,3.6,3.5,,Hotel Livemax Nagoya,https://www.tripadvisor.com/Hotel_Review-g298106-d1520447-Reviews-Hotel_Livemax_Nagoya-Nagoya_Aichi_Prefecture_Chubu.html,3.0,20,454-0012,愛知県,名古屋市,中川区尾頭橋3-1-22,,〒454-0012 愛知県名古屋市中川区尾頭橋3-1-22,4591.0,37962.0,48
+1679,704671,"第一富士酒店
+Daiichi Fuji Hotel",Daiichi Fuji Hotel,4.6,4.0,3610,3.9,4.2,4.2,8890.0,Daiichi Fuji Hotel,https://www.tripadvisor.com/Hotel_Review-g298106-d628533-Reviews-Daiichi_Fuji_Hotel-Nagoya_Aichi_Prefecture_Chubu.html,3.5,20,453-0015,愛知県,名古屋市中村区,椿町13-17,,〒453-0015 愛知県名古屋市中村区椿町13-17,6495.0,15006.0,179
+1696,704700,"秋田多米酒店
+Hotel Dormy Inn Akita",Hotel Dormy Inn Akita,4.8,4.6,10853,4.8,4.8,4.8,9089.0,Hotel Dormy Inn Akita,https://www.tripadvisor.com/Hotel_Review-g298239-d1083393-Reviews-Hotel_Dormy_Inn_Akita-Akita_Akita_Prefecture_Tohoku.html,4.0,147,010-0001,秋田県,秋田市,中通2-3-1,,〒010-0001 秋田県秋田市中通2-3-1,7052.0,24065.0,297
+1700,704706,"京都城市酒店
+Urban Hotel Kyoto",Urban Hotel Kyoto,4.4,4.6,976,4.5,4.8,4.6,5031.0,Urban Hotel Kyoto,https://www.tripadvisor.com/Hotel_Review-g298564-d639822-Reviews-Urban_Hotel_Kyoto-Kyoto_Kyoto_Prefecture_Kinki.html,3.5,2,612-0029,京都府,京都市伏見区,深草西浦町4-59,,〒612-0029 京都府京都市伏見区深草西浦町4-59,5108.0,12993.0,199
+1722,704758,"京都兰威特酒店
+Aranvert Hotel Kyoto",Aranvert Hotel Kyoto,4.7,4.7,854,4.6,4.8,4.7,5892.0,Aranvert Hotel Kyoto,https://www.tripadvisor.com/Hotel_Review-g298564-d582007-Reviews-Aranvert_Hotel_Kyoto-Kyoto_Kyoto_Prefecture_Kinki.html,4.0,2,600-8107,京都府,京都市下京区,下京区五条通東錺屋町179,,〒600-8107 京都府京都市下京区下京区五条通東錺屋町179,6885.0,24764.0,183
+1733,704776,"GrandPark帕奈克斯酒店-千叶
+Grand Park Hotel Panex Chiba",Grand Park Hotel Panex Chiba,3.3,3.3,11572,3.3,3.1,3.2,4995.0,Grand Park Hotel Panex Chiba,https://www.tripadvisor.com/Hotel_Review-g298158-d1078584-Reviews-Grand_Park_Hotel_Panex_Chiba-Chiba_Chiba_Prefecture_Kanto.html,3.5,167,264-0036,千葉県,千葉市,若葉区殿台町123-4,,〒264-0036 千葉県千葉市若葉区殿台町123-4,5485.0,11417.0,72
+1741,704791,"会津若松华盛顿酒店
+Aizuwakamatsu Washington Hotel",Aizuwakamatsu Washington Hotel,4.4,4.4,10997,4.4,4.4,4.4,6601.0,Aizuwakamatsu Washington Hotel,https://www.tripadvisor.com/Hotel_Review-g780850-d1074121-Reviews-Aizuwakamatsu_Washington_Hotel-Aizuwakamatsu_Fukushima_Prefecture_Tohoku.html,3.5,151,965-0024,福島県,会津若松市,白虎町201,,〒965-0024 福島県会津若松市白虎町201,6268.0,16118.0,153
+1744,704798,"美图海韵酒店
+Hotel Sealuck Pal Mito",Hotel Sealuck Pal Mito,4.3,5.0,12890,4.8,4.8,4.7,5267.0,Hotel Sealuck Pal Mito,https://www.tripadvisor.com/Hotel_Review-g298166-d1057418-Reviews-Hotel_Sealuck_Pal_Mito-Mito_Ibaraki_Prefecture_Kanto.html,4.0,216,310-0852,茨城県,水戸市,笠原町600-60,,〒310-0852 茨城県水戸市笠原町600-60,5705.0,8837.0,161
+1745,704800,"盛冈爱斯酒店
+Hotel Ace Morioka",Hotel Ace Morioka,4.5,4.5,10808,3.8,4.3,4.3,8040.0,Hotel Ace Morioka,https://www.tripadvisor.com/Hotel_Review-g298247-d628342-Reviews-Hotel_Ace_Morioka-Morioka_Iwate_Prefecture_Tohoku.html,4.0,146,020-0021,岩手県,盛岡市,中央通2-11-35,,〒020-0021 岩手県盛岡市中央通2-11-35,5932.0,10074.0,275
+1752,704842,"京都富豪酒店
+Kyoto Rich Hotel",Kyoto Rich Hotel,4.6,4.4,1033,4.2,4.5,4.4,8188.0,Kyoto Rich Hotel,https://www.tripadvisor.com/Hotel_Review-g298564-d457032-Reviews-Kyoto_Rich_Hotel-Kyoto_Kyoto_Prefecture_Kinki.html,3.5,2,600-8029,京都府,京都市下京区,河原町通五条上ル,,〒600-8029 京都府京都市下京区河原町通五条上ル,3998.0,18212.0,109
+1754,704846,"京都法华俱乐部酒店
+Hotel Hokke Club Kyoto",Hotel Hokke Club Kyoto,4.9,4.7,859,4.5,4.7,4.7,12105.0,Hotel Hokke Club Kyoto,https://www.tripadvisor.com/Hotel_Review-g298564-d321363-Reviews-Hotel_Hokke_Club_Kyoto-Kyoto_Kyoto_Prefecture_Kinki.html,4.0,2,600-8216,京都府,京都市下京区,東塩小路町579-16,,〒600-8216 京都府京都市下京区東塩小路町579-16,6996.0,24542.0,172
+1765,704860,"三井花园饭店京都三条
+Mitsui Garden Hotel Kyoto Sanjo",Mitsui Garden Hotel Kyoto Sanjo,4.7,4.8,843,4.5,4.8,4.7,8787.0,Mitsui Garden Hotel Kyoto Sanjo,https://www.tripadvisor.com/Hotel_Review-g298564-d659109-Reviews-Mitsui_Garden_Hotel_Kyoto_Sanjo-Kyoto_Kyoto_Prefecture_Kinki.html,4.0,2,604-8166,京都府,京都市,中京区三条通烏丸西入御倉町80,,〒604-8166 京都府京都市中京区三条通烏丸西入御倉町80,8995.0,31316.0,169
+1769,704864,"京都哈顿酒店
+Hearton Hotel Kyoto",Hearton Hotel Kyoto,4.6,4.6,860,4.4,4.7,4.6,7209.0,Hearton Hotel Kyoto,https://www.tripadvisor.com/Hotel_Review-g298564-d558349-Reviews-Hearton_Hotel_Kyoto-Kyoto_Kyoto_Prefecture_Kinki.html,4.0,2,604-0836,京都府,京都市中京区,中京区東洞院通御池上ル船屋町405,,〒604-0836 京都府京都市中京区中京区東洞院通御池上ル船屋町405,6774.0,20988.0,294
+1773,704869,"京都银门酒店
+Hotel Gimmond Kyoto",Hotel Gimmond Kyoto,4.4,4.3,869,3.8,4.1,4.1,6668.0,Hotel Gimmond Kyoto,https://www.tripadvisor.com/Hotel_Review-g298564-d321360-Reviews-Hotel_Gimmond_Kyoto-Kyoto_Kyoto_Prefecture_Kinki.html,4.0,2,604-8105,京都府,京都市中京区,御池通高倉西入ル亀甲屋町595,,〒604-8105 京都府京都市中京区御池通高倉西入ル亀甲屋町595,5108.0,24875.0,140
+1774,704870,"佐世保站前东横酒店
+Toyoko Inn Sasebo Ekimae",Toyoko Inn Sasebo Ekimae,4.9,4.8,10495,4.7,4.8,4.8,,Toyoko Inn Sasebo Ekimae,https://www.tripadvisor.com/Hotel_Review-g298217-d1497082-Reviews-Toyoko_Inn_Sasebo_Ekimae-Sasebo_Nagasaki_Prefecture_Kyushu_Okinawa.html,4.0,139,857-0863,長崎県,佐世保市,三浦町1-4,,〒857-0863 長崎県佐世保市三浦町1-4,7947.0,9626.0,272
+1776,704873,"日航豪斯登堡酒店
+Hotel Nikko Huis Ten Bosch",Hotel Nikko Huis Ten Bosch,4.5,4.5,10491,4.4,4.5,4.5,16813.0,Hotel Nikko Huis Ten Bosch,https://www.tripadvisor.com/Hotel_Review-g298217-d302381-Reviews-Hotel_Nikko_Huis_Ten_Bosch-Sasebo_Nagasaki_Prefecture_Kyushu_Okinawa.html,4.0,139,859-3243,長崎県,佐世保市,ハウステンボス町6,,〒859-3243 長崎県佐世保市ハウステンボス町6,13880.0,35035.0,380
+1777,704875,"京都日航公主酒店
+Hotel Nikko Princess Kyoto",Hotel Nikko Princess Kyoto,4.6,4.7,889,4.5,4.8,4.6,16174.0,Hotel Nikko Princess Kyoto,https://www.tripadvisor.com/Hotel_Review-g298564-d307652-Reviews-Hotel_Nikko_Princess_Kyoto-Kyoto_Kyoto_Prefecture_Kinki.html,4.5,2,600-8096,京都府,京都市,下京区烏丸高辻東入高橋町630番地,,〒600-8096 京都府京都市下京区烏丸高辻東入高橋町630番地,15436.0,57524.0,216
+1789,704894,"京都八条口大和ROYNET酒店
+Daiwa Roynet Hotel Kyoto-Hachijoguchi",Daiwa Roynet Hotel Kyoto-Hachijoguchi,4.7,4.6,862,4.6,4.8,4.7,8041.0,Daiwa Roynet Hotel Kyoto-Hachijoguchi,https://www.tripadvisor.com/Hotel_Review-g298564-d1872358-Reviews-Daiwa_Roynet_Hotel_Kyoto_Hachijoguchi-Kyoto_Kyoto_Prefecture_Kinki.html,4.5,2,601-8017,京都府,京都市南区,東九条北烏丸町9-2,,〒601-8017 京都府京都市南区東九条北烏丸町9-2,7218.0,24320.0,192
+1791,704897,"熊本交通中心前东横酒店
+Toyoko Inn Kumamoto Kotsu Center Mae",Toyoko Inn Kumamoto Kotsu Center Mae,3.8,4.0,7474,3.8,3.9,3.9,7020.0,Toyoko Inn Kumamoto Kotsu Center Mae,https://www.tripadvisor.com/Hotel_Review-g298213-d1123187-Reviews-Toyoko_Inn_Kumamoto_Kotsu_Center_Mae-Kumamoto_Kumamoto_Prefecture_Kyushu_Okinawa.html,4.0,71,860-0012,熊本県,熊本市,中央区紺屋今町1−24,,〒860-0012 熊本県熊本市中央区紺屋今町1−24,5710.0,8845.0,153
+1794,704903,"熊本县站前东横旅馆
+Toyoko Inn Kumamoto Ekimae",Toyoko Inn Kumamoto Ekimae,4.7,4.5,7456,4.4,4.7,4.6,7560.0,Toyoko Inn Kumamoto Ekimae,https://www.tripadvisor.com/Hotel_Review-g298213-d1106840-Reviews-Toyoko_Inn_Kumamoto_Ekimae-Kumamoto_Kumamoto_Prefecture_Kyushu_Okinawa.html,4.0,71,860-0047,熊本県,熊本市,春日2-8-10,,〒860-0047 熊本県熊本市西区春日2-8-10,5936.0,11089.0,332
+1799,704912,"京都森特诺姆酒店
+Hotel Centnovum Kyoto",Hotel Centnovum Kyoto,4.6,4.6,922,4.4,4.7,4.6,4829.0,Hotel Centnovum Kyoto,https://www.tripadvisor.com/Hotel_Review-g298564-d590446-Reviews-Hotel_Centnovum_Kyoto-Kyoto_Kyoto_Prefecture_Kinki.html,4.0,2,601-8004,京都府,京都市,南区東九条東山王町19-1,,〒601-8004 京都府京都市南区東九条東山王町19-1,7218.0,27540.0,70
+1802,704915,"京都阿尔蒙特旅馆
+Almont Hotel Kyoto",Almont Hotel Kyoto,4.4,4.7,844,4.6,4.9,4.7,5581.0,Almont Hotel Kyoto,https://www.tripadvisor.com/Hotel_Review-g298564-d3343640-Reviews-Almont_Hotel_Kyoto-Kyoto_Kyoto_Prefecture_Kinki.html,4.5,2,601-8005,京都府,京都市南区,東九条西岩本町26-1,,〒601-8005 京都府京都市南区東九条西岩本町26-1,6774.0,26097.0,169
+1806,704924,"大和ROYNET神户三宫酒店
+Daiwa Roynet Hotel Kobe Sannomiya",Daiwa Roynet Hotel Kobe Sannomiya,4.7,4.6,6045,4.6,4.8,4.7,7507.0,Daiwa Roynet Hotel Kobe Sannomiya,https://www.tripadvisor.com/Hotel_Review-g298562-d1067486-Reviews-Daiwa_Roynet_Hotel_Kobe_Sannomiya-Kobe_Hyogo_Prefecture_Kinki.html,4.0,46,651-0087,兵庫県,神戸市中央区,御幸通5-1-6,,〒651-0087 兵庫県神戸市中央区御幸通5-1-6,7277.0,22615.0,225
+1827,704959,"宇都宫站前东横酒店
+Toyoko Inn Utsunomiya Ekimae",Toyoko Inn Utsunomiya Ekimae,5.0,5.0,11301,4.9,5.0,4.9,8748.0,Toyoko Inn Utsunomiya Ekimae,https://www.tripadvisor.com/Hotel_Review-g298183-d1495514-Reviews-Toyoko_Inn_Utsunomiya_Ekimae-Utsunomiya_Tochigi_Prefecture_Kanto.html,3.5,157,321-0966,栃木県,宇都宮市,今泉1-4-29,,〒321-0966 栃木県宇都宮市今泉1-4-29,6604.0,9850.0,354
+1859,705020,"东横米托齐南口酒店
+Toyoko Inn Mitoeki Minamiguchi",Toyoko Inn Mitoeki Minamiguchi,4.6,4.6,12889,4.6,4.8,4.7,7344.0,Toyoko Inn Mitoeki Minamiguchi,https://www.tripadvisor.com/Hotel_Review-g298166-d1057554-Reviews-Toyoko_Inn_Mitoeki_Minamiguchi-Mito_Ibaraki_Prefecture_Kanto.html,3.5,216,310-0801,茨城県,水戸市,桜川2-3-40,,〒310-0801 茨城県水戸市桜川2-3-40,6040.0,9284.0,216
+1860,705021,"京都新白河駅前旅馆
+Toyoko Inn Shin-Shirakawa Ekimae",Toyoko Inn Shin-Shirakawa Ekimae,4.7,4.8,18748,4.6,4.8,4.7,7884.0,Toyoko Inn Shin-Shirakawa Ekimae,https://www.tripadvisor.com/Hotel_Review-g1121005-d1514688-Reviews-Toyoko_Inn_Shin_Shirakawa_Ekimae-Nishigo_mura_Nishishirakawa_gun_Fukushima_Prefecture.html,3.5,612,961-8055,福島県,西白河郡西郷村,道南西111,,〒961-8055 福島県西白河郡西郷村道南西111,7373.0,11171.0,196
+1862,705025,"东横会津若松市站前酒店
+Toyoko Inn Aizuwakamatsu Ekimae",Toyoko Inn Aizuwakamatsu Ekimae,4.4,4.0,11002,3.9,4.4,4.2,6048.0,Toyoko Inn Aizuwakamatsu Ekimae,https://www.tripadvisor.com/Hotel_Review-g780850-d1497094-Reviews-Toyoko_Inn_Aizuwakamatsu_Ekimae-Aizuwakamatsu_Fukushima_Prefecture_Tohoku.html,3.5,151,965-0024,福島県,会津若松市,白虎町 222-1,,〒965-0024 福島県会津若松市白虎町 222-1,7164.0,10969.0,164
+1880,705047,"幕张绿塔酒店
+Hotel Green Tower Makuhari",Hotel Green Tower Makuhari,4.3,4.2,11569,3.9,4.3,4.2,5732.0,Hotel Green Tower Makuhari,https://www.tripadvisor.com/Hotel_Review-g298158-d1078588-Reviews-Hotel_Green_Tower_Makuhari-Chiba_Chiba_Prefecture_Kanto.html,3.5,167,261-0021,千葉県,千葉市,美浜区ひび野2-10-3,,〒261-0021 千葉県千葉市美浜区ひび野2-10-3,6040.0,28859.0,204
+1881,705048,"东横千叶站前旅馆
+Toyoko Inn Chiba Ekimae",Toyoko Inn Chiba Ekimae,3.9,3.9,11577,4.0,4.0,3.9,6264.0,Toyoko Inn Chiba Ekimae,https://www.tripadvisor.com/Hotel_Review-g298158-d1495487-Reviews-Toyoko_Inn_Chiba_Ekimae-Chiba_Chiba_Prefecture_Kanto.html,3.5,167,260-0015,千葉県,千葉市,中央区富士見1-14-6,,〒260-0015 千葉県千葉市中央区富士見1-14-6,6268.0,17573.0,46
+1889,705061,"弘前广场酒店
+Hirosaki Plaza Hotel",Hirosaki Plaza Hotel,3.8,3.8,12086,3.8,3.8,3.8,11920.0,Hirosaki Plaza Hotel,https://www.tripadvisor.com/Hotel_Review-g303161-d1075184-Reviews-Hirosaki_Plaza_Hotel-Hirosaki_Aomori_Prefecture_Tohoku.html,3.0,183,036-8001,青森県,弘前市,代官町101-1,,〒036-8001 青森県弘前市代官町101-1,4925.0,22051.0,100
+1895,705068,"青森国际酒店
+Aomori Kokusai Hotel",Aomori Kokusai Hotel,4.5,4.3,10396,4.0,4.4,4.3,5899.0,Aomori Kokusai Hotel,https://www.tripadvisor.com/Hotel_Review-g298241-d1050378-Reviews-Aomori_Kokusai_Hotel-Aomori_Aomori_Prefecture_Tohoku.html,3.5,135,030-0801,青森県,青森市,新町1-6-18,,〒030-0801 青森県青森市新町1-6-18,7388.0,17797.0,67
+1901,705074,"东京名古屋荣酒店
+Toyoko Inn Nagoya Sakae",Toyoko Inn Nagoya Sakae,4.4,4.4,3597,4.3,4.4,4.4,7668.0,Toyoko Inn Nagoya Sakae,https://www.tripadvisor.com/Hotel_Review-g298106-d1497058-Reviews-Toyoko_Inn_Nagoya_Sakae-Nagoya_Aichi_Prefecture_Chubu.html,3.5,20,460-0005,愛知県,名古屋市中区,東桜2丁目22-21,,〒460-0005 愛知県名古屋市中区東桜2丁目22-21,6719.0,9742.0,308
+1902,705075,"名古屋锦东横旅馆
+Toyoko Inn Nagoya Nishiki",Toyoko Inn Nagoya Nishiki,4.1,4.1,3561,3.9,4.1,4.1,6804.0,Toyoko Inn Nagoya Nishiki,https://www.tripadvisor.com/Hotel_Review-g298106-d1493251-Reviews-Toyoko_Inn_Nagoya_Nishiki-Nagoya_Aichi_Prefecture_Chubu.html,3.5,20,460-0003,愛知県,名古屋市,中区錦3-9-3,,〒460-0003 愛知県名古屋市中区錦3-9-3,6943.0,9966.0,96
+1923,705111,"冈山格兰比亚酒店
+Hotel Granvia Okayama",Hotel Granvia Okayama,4.9,4.7,8806,4.5,4.8,4.7,13699.0,Hotel Granvia Okayama,https://www.tripadvisor.com/Hotel_Review-g298134-d323957-Reviews-Hotel_Granvia_Okayama-Okayama_Okayama_Prefecture_Chugoku.html,4.0,94,700-0024,岡山県,岡山市,駅元町1ー5,,〒700-0024 岡山県岡山市北区駅元町1ー5,9400.0,29767.0,328
+1952,705143,"那须Epinard酒店
+Hotel Epinard Nasu",Hotel Epinard Nasu,4.3,4.4,2337,4.3,4.4,4.3,19819.0,Hotel Epinard Nasu,https://www.tripadvisor.com/Hotel_Review-g1121057-d1135887-Reviews-Hotel_Epinard_Nasu-Nasu_machi_Nasu_gun_Tochigi_Prefecture_Kanto.html,4.0,8,325-0302,栃木県,那須郡那須町,高久丙1,,〒325-0302 栃木県那須郡那須町高久丙1,14881.0,73293.0,306
+1978,705181,"Route-Inn博多站南酒店
+Hotel Route-Inn Hakata Ekiminami",Hotel Route-Inn Hakata Ekiminami,3.4,3.5,3279,3.3,3.6,3.4,5824.0,Hotel Route-Inn Hakata Ekiminami,https://www.tripadvisor.com/Hotel_Review-g298207-d1054757-Reviews-Hotel_Route_Inn_Hakata_Ekiminami-Fukuoka_Fukuoka_Prefecture_Kyushu_Okinawa.html,3.5,17,812-0016,福岡県,福岡市博多区,博多区博多駅南2-8-19,,〒812-0016 福岡県福岡市博多区博多区博多駅南2-8-19,7155.0,16843.0,128
+1982,705188,"博多微笑酒店
+Smile Hotel Hakata",Smile Hotel Hakata,3.7,4.1,3287,3.3,4.0,3.8,4093.0,Smile Hotel Hakata,https://www.tripadvisor.com/Hotel_Review-g298207-d1055020-Reviews-Smile_Hotel_Hakata-Fukuoka_Fukuoka_Prefecture_Kyushu_Okinawa.html,3.5,17,812-0022,福岡県,福岡市博多区,神屋町3-5,,〒812-0022 福岡県福岡市博多区神屋町3-5,5284.0,32034.0,53
+1996,705204,"博多灿路都大饭店
+Hotel Sunroute Hakata",Hotel Sunroute Hakata,4.4,4.4,3187,3.9,4.4,4.2,6180.0,Hotel Sunroute Hakata,https://www.tripadvisor.com/Hotel_Review-g298207-d505442-Reviews-Hotel_Sunroute_Hakata-Fukuoka_Fukuoka_Prefecture_Kyushu_Okinawa.html,3.5,17,812-0012,福岡県,福岡市博多区,博多駅中央街4-10,,〒812-0012 福岡県福岡市博多区博多駅中央街4-10,7486.0,19595.0,200
+2006,705215,"福冈天神里士满酒店
+Richmond Hotel Fukuoka Tenjin",Richmond Hotel Fukuoka Tenjin,4.8,4.7,3189,4.6,4.7,4.7,11007.0,Richmond Hotel Fukuoka Tenjin,https://www.tripadvisor.com/Hotel_Review-g298207-d1055007-Reviews-Richmond_Hotel_Fukuoka_Tenjin-Fukuoka_Fukuoka_Prefecture_Kyushu_Okinawa.html,4.5,17,810-0004,福岡県,福岡市中央区,渡辺通4-8-25,,〒810-0004 福岡県福岡市中央区渡辺通4-8-25,7926.0,17283.0,250
+2017,705228,"皇宫酒店
+Hotel Il Palazzo",Hotel Il Palazzo,4.2,4.2,3190,4.0,4.4,4.2,10936.0,Hotel Il Palazzo,https://www.tripadvisor.com/Hotel_Review-g298207-d320329-Reviews-Hotel_Il_Palazzo-Fukuoka_Fukuoka_Prefecture_Kyushu_Okinawa.html,4.0,17,810-0003,福岡県,福岡市,中央区春吉3-13-1,,〒810-0003 福岡県福岡市中央区春吉3-13-1,10018.0,66711.0,62
+2028,705242,"总理广场酒店
+Plaza Hotel Premier",Plaza Hotel Premier,4.4,4.1,3197,3.9,4.4,4.2,9775.0,Plaza Hotel Premier,https://www.tripadvisor.com/Hotel_Review-g298207-d1054754-Reviews-Plaza_Hotel_Premier-Fukuoka_Fukuoka_Prefecture_Kyushu_Okinawa.html,4.0,17,810-0041,福岡県,福岡市,中央区大名1-14-13,,〒810-0041 福岡県福岡市中央区大名1-14-13,5945.0,13430.0,170
+2031,705245,"福冈Ascent酒店
+Hotel Ascent Fukuoka",Hotel Ascent Fukuoka,4.7,4.3,3207,4.1,4.4,4.4,6871.0,Hotel Ascent Fukuoka,https://www.tripadvisor.com/Hotel_Review-g298207-d1055638-Reviews-Hotel_Ascent_Fukuoka-Fukuoka_Fukuoka_Prefecture_Kyushu_Okinawa.html,3.5,17,810-0001,福岡県,福岡市,中央区天神3-3-14,,〒810-0001 福岡県福岡市中央区天神3-3-14,6055.0,19375.0,263
+2032,705246,"瓦利天金酒店
+Valie Hotel Tenjin",Valie Hotel Tenjin,4.1,3.6,3249,3.7,3.5,3.7,7356.0,Valie Hotel Tenjin,https://www.tripadvisor.com/Hotel_Review-g298207-d1055000-Reviews-Valie_Hotel_Tenjin-Fukuoka_Fukuoka_Prefecture_Kyushu_Okinawa.html,3.5,17,810-0041,福岡県,福岡市中央区,大名2-8-12,,〒810-0041 福岡県福岡市中央区大名2-8-12,5834.0,30493.0,77
+2053,705280,"札幌罗姗酒店
+Hotel Ronshan Sapporo",Hotel Ronshan Sapporo,4.7,4.7,3782,4.6,4.8,4.7,8233.0,Hotel Ronshan Sapporo,https://www.tripadvisor.com/Hotel_Review-g298560-d1082471-Reviews-Hotel_Ronshan_Sapporo-Sapporo_Hokkaido.html,4.0,21,060-0055,北海道,札幌市中央区,中央区南5条東1丁目,,〒060-0055 北海道札幌市中央区中央区南5条東1丁目,4815.0,14782.0,135
+2055,705283,"琴绿酒店
+Kotoni Green Hotel",Kotoni Green Hotel,3.9,4.0,3811,3.8,4.0,3.9,11600.0,Kotoni Green Hotel,https://www.tripadvisor.com/Hotel_Review-g298560-d1082802-Reviews-Kotoni_Green_Hotel-Sapporo_Hokkaido.html,3.0,21,063-0813,北海道,札幌市西区,琴似3条1-1-20,,〒063-0813 北海道札幌市西区琴似3条1-1-20,9183.0,26316.0,149
+2061,705292,"大友时尚酒店
+Swanky Hotel Otomo",Swanky Hotel Otomo,3.5,3.7,3743,3.4,4.2,3.7,7321.0,Swanky Hotel Otomo,https://www.tripadvisor.com/Hotel_Review-g298560-d1094156-Reviews-Swanky_Hotel_Otomo-Sapporo_Hokkaido.html,3.5,21,064-0806,北海道,札幌市中央区,南6条西6丁目6‐14,,〒064-0806 北海道札幌市中央区南6条西6丁目6‐14,4031.0,17245.0,108
+2062,705293,"长野日航城市酒店
+Hotel JAL City Nagano",Hotel JAL City Nagano,4.0,4.0,5964,4.0,4.0,4.0,5926.0,Hotel JAL City Nagano,https://www.tripadvisor.com/Hotel_Review-g298565-d570096-Reviews-Hotel_JAL_City_Nagano-Nagano_Nagano_Prefecture_Chubu.html,4.0,45,380-0834,長野県,長野市,問御所町1221,,〒380-0834 長野県長野市問御所町1221,6717.0,17129.0,242
+2078,705314,"小樽朝里Classe 酒店
+Otaru Asari Classe Hotel",Otaru Asari Classe Hotel,4.1,4.2,12865,4.4,4.4,4.3,16410.0,Otaru Asari Classe Hotel,https://www.tripadvisor.com/Hotel_Review-g298153-d1082394-Reviews-Otaru_Asari_Classe_Hotel-Otaru_Hokkaido.html,4.0,215,047-0154,北海道,小樽市,朝里川温泉2-676,,〒047-0154 北海道小樽市朝里川温泉2-676,11298.0,41946.0,120
+2079,705315,"天神广场酒店
+Hotel Tenjin Place",Hotel Tenjin Place,4.0,3.9,3212,3.9,4.6,4.1,10700.0,Hotel Tenjin Place,https://www.tripadvisor.com/Hotel_Review-g298207-d1112429-Reviews-Hotel_Tenjin_Place-Fukuoka_Fukuoka_Prefecture_Kyushu_Okinawa.html,4.0,17,810-0021,福岡県,福岡市,中央区今泉1-2-23,,〒810-0021 福岡県福岡市中央区今泉1-2-23,7155.0,15522.0,96
+2083,705320,"福冈丽都山顶大饭店及水疗中心
+Agora Fukuoka Hilltop Hotel & Spa",Agora Fukuoka Hilltop Hotel & Spa,4.1,4.3,3250,4.3,4.3,4.3,9792.0,Agora Fukuoka Hilltop Hotel & Spa,https://www.tripadvisor.com/Hotel_Review-g298207-d558281-Reviews-Agora_Fukuoka_Hilltop_Hotel_Spa-Fukuoka_Fukuoka_Prefecture_Kyushu_Okinawa.html,3.5,17,810-0032,福岡県,福岡市,中央区輝国1-1-33,,〒810-0032 福岡県福岡市中央区輝国1-1-33,17944.0,65720.0,48
+2085,705322,"特托拉斯普利札幌酒店
+Hotel Tetora Spirit Sapporo",Hotel Tetora Spirit Sapporo,3.6,3.6,3771,3.3,3.6,3.5,8294.0,Hotel Tetora Spirit Sapporo,https://www.tripadvisor.com/Hotel_Review-g298560-d1094159-Reviews-Hotel_Tetora_Spirit_Sapporo-Sapporo_Hokkaido.html,4.0,21,060-0063,北海道,札幌市中央区,南3条西9,(狸小路側),〒060-0063 北海道札幌市中央区南3条西9(狸小路側),4591.0,15230.0,47
+2089,705327,"福冈博多西铁克鲁姆酒店
+Nishitetsu Hotel Croom Hakata",Nishitetsu Hotel Croom Hakata,4.7,4.5,3227,4.4,4.6,4.6,10298.0,Nishitetsu Hotel Croom Hakata,https://www.tripadvisor.com/Hotel_Review-g298207-d1053978-Reviews-Nishitetsu_Hotel_Croom_Hakata-Fukuoka_Fukuoka_Prefecture_Kyushu_Okinawa.html,4.0,17,812-0011,福岡県,福岡市博多区,博多駅前1-17-6,,〒812-0011 福岡県福岡市博多区博多駅前1-17-6,11449.0,23448.0,503
+2092,705330,"翔札幌酒店
+Hotel Sho Sapporo",Hotel Sho Sapporo,4.2,3.8,3764,3.7,4.1,3.9,4306.0,Hotel Sho Sapporo,https://www.tripadvisor.com/Hotel_Review-g298560-d1118659-Reviews-Hotel_Sho_Sapporo-Sapporo_Hokkaido.html,3.5,21,064-0809,北海道,札幌市中央区,南九条西3-1-18,,〒064-0809 北海道札幌市中央区南九条西3-1-18,3695.0,11198.0,79
+2096,705334,"札幌公寓式酒店
+Hotel Livemax Sapporo",Hotel Livemax Sapporo,4.1,4.1,3787,4.1,4.2,4.1,50000.0,Hotel Livemax Sapporo,https://www.tripadvisor.com/Hotel_Review-g298560-d557809-Reviews-Hotel_Livemax_Sapporo-Sapporo_Hokkaido.html,4.0,21,064-0809,北海道,札幌市中央区,南9条西3-1-26,,〒064-0809 北海道札幌市中央区南9条西3-1-26,4367.0,37402.0,61
+2114,705363,"冲绳酒店
+Okinawa Hotel",Okinawa Hotel,4.4,4.4,3404,3.6,4.2,4.1,6179.0,Okinawa Hotel,https://www.tripadvisor.com/Hotel_Review-g298224-d1094803-Reviews-Okinawa_Hotel-Naha_Okinawa_Prefecture_Kyushu_Okinawa.html,3.5,18,902-0066,沖縄県,那覇市,大道35,,〒902-0066 沖縄県那覇市大道35,5394.0,19375.0,78
+2116,705365,"那霸酒店
+Hotel Rocore Naha",Hotel Rocore Naha,4.5,4.5,3387,4.3,4.6,4.5,8931.0,Hotel Rocore Naha,https://www.tripadvisor.com/Hotel_Review-g298224-d1109843-Reviews-Hotel_Rocore_Naha-Naha_Okinawa_Prefecture_Kyushu_Okinawa.html,4.5,18,900-0014,沖縄県,那覇市,松尾1-1-2,,〒900-0014 沖縄県那覇市松尾1-1-2,10238.0,26420.0,222
+2126,705377,"名古屋锦太阳酒店
+Sun Hotel Nagoya Nishiki",Sun Hotel Nagoya Nishiki,4.4,3.9,3605,3.6,3.9,4.0,7087.0,Sun Hotel Nagoya Nishiki,https://www.tripadvisor.com/Hotel_Review-g298106-d558162-Reviews-Sun_Hotel_Nagoya_Nishiki-Nagoya_Aichi_Prefecture_Chubu.html,3.0,20,460-0003,愛知県,名古屋市中区,錦3-13-30,,〒460-0003 愛知県名古屋市中区錦3-13-30,5039.0,15006.0,49
+2127,705378,"格兰德里奥阿苏度假酒店
+Aso Resort Grandvrio Hotel",Aso Resort Grandvrio Hotel,4.0,3.8,10096,3.9,4.0,3.9,12197.0,Aso Resort Grandvrio Hotel,https://www.tripadvisor.com/Hotel_Review-g670169-d300885-Reviews-Aso_Resort_Grandvrio_Hotel-Aso_Kumamoto_Prefecture_Kyushu_Okinawa.html,3.5,127,869-2232,熊本県,阿蘇市,赤水米塚温泉,,〒869-2232 熊本県阿蘇市赤水米塚温泉,11305.0,28431.0,180
+2129,705380,"名古屋特拉斯蒂酒店
+Hotel Trusty Nagoya Sakae",Hotel Trusty Nagoya Sakae,4.5,4.3,3540,4.2,4.3,4.3,12409.0,Hotel Trusty Nagoya Sakae,https://www.tripadvisor.com/Hotel_Review-g298106-d1078691-Reviews-Hotel_Trusty_Nagoya_Sakae-Nagoya_Aichi_Prefecture_Chubu.html,4.0,20,460-0003,愛知県,名古屋市中区,錦3-15-21,,〒460-0003 愛知県名古屋市中区錦3-15-21,6275.0,15632.0,204
+2136,705391,"熊本日航酒店
+Hotel Nikko Kumamoto",Hotel Nikko Kumamoto,4.7,4.7,7462,4.4,4.7,4.6,10146.0,Hotel Nikko Kumamoto,https://www.tripadvisor.com/Hotel_Review-g298213-d301989-Reviews-Hotel_Nikko_Kumamoto-Kumamoto_Kumamoto_Prefecture_Kyushu_Okinawa.html,4.5,71,860-8536,熊本県,熊本市,中央区上通町2-1,,〒860-8536 熊本県熊本市中央区上通町2-1,12539.0,29557.0,191
+2140,705396,"熊本华盛顿广场酒店
+Kumamoto Washington Hotel Plaza",Kumamoto Washington Hotel Plaza,4.1,3.9,7459,3.6,3.9,3.9,7335.0,Kumamoto Washington Hotel Plaza,https://www.tripadvisor.com/Hotel_Review-g298213-d1071761-Reviews-Kumamoto_Washington_Hotel_Plaza-Kumamoto_Kumamoto_Prefecture_Kyushu_Okinawa.html,3.5,71,860-0807,熊本県,熊本市,中央区下通2-3-10,,〒860-0807 熊本県熊本市中央区下通2-3-10,6382.0,14219.0,350
+2144,705408,"福冈高仓酒店
+Takakura Hotel Fukuoka",Takakura Hotel Fukuoka,4.3,4.3,3181,4.3,4.3,4.3,10439.0,Takakura Hotel Fukuoka,https://www.tripadvisor.com/Hotel_Review-g298207-d1024102-Reviews-Takakura_Hotel_Fukuoka-Fukuoka_Fukuoka_Prefecture_Kyushu_Okinawa.html,4.0,17,810-0004,福岡県,福岡市中央区,渡辺通2-7-21,,〒810-0004 福岡県福岡市中央区渡辺通2-7-21,7816.0,49648.0,107
+2149,705414,"名古屋易克诺酒店
+Hotel Econo Nagoya Sakae",Hotel Econo Nagoya Sakae,4.4,4.5,3609,4.2,4.2,4.3,14046.0,Hotel Econo Nagoya Sakae,https://www.tripadvisor.com/Hotel_Review-g298106-d558238-Reviews-Hotel_Econo_Nagoya_Sakae-Nagoya_Aichi_Prefecture_Chubu.html,3.5,20,460-0003,愛知県,名古屋市,中区錦3-6-15,,〒460-0003 愛知県名古屋市中区錦3-6-15,5151.0,12542.0,141
+2150,705415,"平和台荒户酒店
+Heiwadai Hotel Arato",Heiwadai Hotel Arato,4.5,4.5,3328,3.8,4.1,4.2,4051.0,Heiwadai Hotel Arato,https://www.tripadvisor.com/Hotel_Review-g298207-d558263-Reviews-Heiwadai_Hotel_Arato-Fukuoka_Fukuoka_Prefecture_Kyushu_Okinawa.html,3.5,17,810-0062,福岡県,福岡市中央区,荒戸1-5-27,,〒810-0062 福岡県福岡市中央区荒戸1-5-27,4073.0,8476.0,72
+2155,705425,"北九州第一酒店
+Kitakyushu Daiichi Hotel",Kitakyushu Daiichi Hotel,3.4,3.5,9444,3.2,3.4,3.4,3005.0,Kitakyushu Daiichi Hotel,https://www.tripadvisor.com/Hotel_Review-g303160-d583627-Reviews-Kitakyushu_Daiichi_Hotel-Kitakyushu_Fukuoka_Prefecture_Kyushu_Okinawa.html,3.0,109,802-0081,福岡県,北九州市,小倉北区紺屋町11-20,,〒802-0081 福岡県北九州市小倉北区紺屋町11-20,3581.0,8729.0,102
+2165,705436,"四北九州酒店
+Hotel Tetora Kitakyushu",Hotel Tetora Kitakyushu,3.0,2.8,9432,2.8,2.9,2.9,3950.0,Hotel Tetora Kitakyushu,https://www.tripadvisor.com/Hotel_Review-g303160-d1053816-Reviews-Hotel_Tetora_Kitakyushu-Kitakyushu_Fukuoka_Prefecture_Kyushu_Okinawa.html,4.0,109,802-0004,福岡県,北九州市小倉北区,鍛冶町1-9-8,,〒802-0004 福岡県北九州市小倉北区鍛冶町1-9-8,5819.0,12198.0,303
+2169,705441,"雷姆鹿儿岛酒店
+Remm Kagoshima",Remm Kagoshima,4.7,4.5,7777,4.5,4.8,4.6,8796.0,Remm Kagoshima,https://www.tripadvisor.com/Hotel_Review-g298211-d2232773-Reviews-Remm_Kagoshima-Kagoshima_Kagoshima_Prefecture_Kyushu_Okinawa.html,4.5,76,892-0842,鹿児島県,鹿児島市,東千石町1-32,,〒892-0842 鹿児島県鹿児島市東千石町1-32,5822.0,15786.0,251
+2170,705442,"小仓湾第一酒店
+Kokura Bay Hotel Daiichi",Kokura Bay Hotel Daiichi,3.8,4.0,9430,4.0,4.0,3.9,3072.0,Kokura Bay Hotel Daiichi,https://www.tripadvisor.com/Hotel_Review-g303160-d1086138-Reviews-Kokura_Bay_Hotel_Daiichi-Kitakyushu_Fukuoka_Prefecture_Kyushu_Okinawa.html,3.5,109,802-0001,福岡県,北九州市小倉北区,小倉北区浅野2-17-31,,〒802-0001 福岡県北九州市小倉北区小倉北区浅野2-17-31,4029.0,9288.0,92
+2180,705452,"横滨鹤见利夫马克斯酒店
+Hotel Livemax Yokohama Tsurumi",Hotel Livemax Yokohama Tsurumi,4.0,3.9,4855,3.9,3.9,3.9,4406.0,Hotel Livemax Yokohama Tsurumi,https://www.tripadvisor.com/Hotel_Review-g298173-d1909219-Reviews-Hotel_Livemax_Yokohama_Tsurumi-Yokohama_Kanagawa_Prefecture_Kanto.html,3.0,33,230-0051,神奈川県,横浜市,鶴見区鶴見中央1-21-13,,〒230-0051 神奈川県横浜市鶴見区鶴見中央1-21-13,5934.0,29109.0,144
+2190,705468,"嘎斯霍夫酒店
+Hotel Gasthof",Hotel Gasthof,4.1,4.2,7784,3.8,4.1,4.0,5014.0,Hotel Gasthof,https://www.tripadvisor.com/Hotel_Review-g298211-d324641-Reviews-Hotel_Gasthof-Kagoshima_Kagoshima_Prefecture_Kyushu_Okinawa.html,4.0,76,890-0053,鹿児島県,鹿児島市,中央町7-1,,〒890-0053 鹿児島県鹿児島市中央町7-1,5598.0,11196.0,48
+2193,705472,"博多KKR酒店
+KKR Hotel Hakata",KKR Hotel Hakata,3.9,4.0,3242,3.9,4.1,4.0,8068.0,KKR Hotel Hakata,https://www.tripadvisor.com/Hotel_Review-g298207-d1053938-Reviews-KKR_Hotel_Hakata-Fukuoka_Fukuoka_Prefecture_Kyushu_Okinawa.html,4.0,17,810-0022,福岡県,福岡市,中央区薬院4-21-1,,〒810-0022 福岡県福岡市中央区薬院4-21-1,6605.0,21356.0,130
+2198,705477,"静冈挂川大酒店
+Kakegawa Grand Hotel",Kakegawa Grand Hotel,4.5,4.4,14820,3.8,4.3,4.2,6010.0,Kakegawa Grand Hotel,https://www.tripadvisor.com/Hotel_Review-g1019667-d1072768-Reviews-Kakegawa_Grand_Hotel-Kakegawa_Shizuoka_Prefecture_Chubu.html,3.5,309,436-0028,静岡県,掛川市,亀の甲1-3-1,,〒436-0028 静岡県掛川市亀の甲1-3-1,8043.0,20777.0,93
+2203,705482,"福冈风格酒店
+With the Style Fukuoka",With the Style Fukuoka,4.4,4.4,3204,4.4,4.4,4.4,44112.0,With the Style Fukuoka,https://www.tripadvisor.com/Hotel_Review-g298207-d587891-Reviews-With_the_Style_Fukuoka-Fukuoka_Fukuoka_Prefecture_Kyushu_Okinawa.html,4.5,17,812-0016,福岡県,福岡市,博多区博多駅南1-9-18,,〒812-0016 福岡県福岡市博多区博多駅南1-9-18,34786.0,112506.0,16
+2216,705502,"冈山站前大和ROYNET酒店
+Daiwa Roynet Hotel Okayama Ekimae",Daiwa Roynet Hotel Okayama Ekimae,4.6,4.2,8804,4.1,4.6,4.4,7901.0,Daiwa Roynet Hotel Okayama Ekimae,https://www.tripadvisor.com/Hotel_Review-g298134-d1089062-Reviews-Daiwa_Roynet_Hotel_Okayama_Ekimae-Okayama_Okayama_Prefecture_Chugoku.html,4.0,94,700-0023,岡山県,岡山市,駅前町1丁目1番1号,,〒700-0023 岡山県岡山市北区駅前町1丁目1番1号,6826.0,28872.0,216
+2217,705503,"博多中洲商务酒店
+Vessel Inn Hakata Nakasu",Vessel Inn Hakata Nakasu,4.8,4.3,3210,4.0,4.5,4.4,14046.0,Vessel Inn Hakata Nakasu,https://www.tripadvisor.com/Hotel_Review-g298207-d1720812-Reviews-Vessel_Inn_Hakata_Nakasu-Fukuoka_Fukuoka_Prefecture_Kyushu_Okinawa.html,4.0,17,810-0801,福岡県,福岡市博多区中洲,博多区中洲5丁目1-12,,〒810-0801 福岡県福岡市博多区中洲博多区中洲5丁目1-12,6935.0,19265.0,168
+2223,705512,"安科博多酒店
+Anchor Hotel Hakata",Anchor Hotel Hakata,4.0,4.0,3193,3.3,3.9,3.8,6399.0,Anchor Hotel Hakata,https://www.tripadvisor.com/Hotel_Review-g298207-d1055150-Reviews-Anchor_Hotel_Hakata-Fukuoka_Fukuoka_Prefecture_Kyushu_Okinawa.html,3.5,17,812-0016,福岡県,福岡市博多区,博多区博多駅南1-4-6,,〒812-0016 福岡県福岡市博多区博多区博多駅南1-4-6,5394.0,20255.0,96
+2230,705519,"宫岛诚酒店
+Miyajima Hotel Makoto",Miyajima Hotel Makoto,4.2,4.3,11758,4.3,4.3,4.2,22011.0,Miyajima Hotel Makoto,https://www.tripadvisor.com/Hotel_Review-g1022438-d1075651-Reviews-Miyajima_Hotel_Makoto-Hatsukaichi_Hiroshima_Prefecture_Chugoku.html,4.0,173,739-0518,広島県,廿日市市,宮島町755,,〒739-0518 広島県廿日市市宮島町755,18693.0,50481.0,54
+2232,705521,"川端冷泉阁酒店
+Reisenkaku Hotel Kawabata",Reisenkaku Hotel Kawabata,4.8,4.6,3261,4.4,4.6,4.6,14750.0,Reisenkaku Hotel Kawabata,https://www.tripadvisor.com/Hotel_Review-g298207-d1053960-Reviews-Reisenkaku_Hotel_Kawabata-Fukuoka_Fukuoka_Prefecture_Kyushu_Okinawa.html,3.5,17,812-0026,福岡県,福岡市,博多区上川端町8-21,,〒812-0026 福岡県福岡市博多区上川端町8-21,5504.0,13871.0,129
+2236,705525,"德岛华盛顿酒店
+Tokushima Washington Hotel Plaza",Tokushima Washington Hotel Plaza,3.5,3.5,10764,3.4,3.5,3.5,5200.0,Tokushima Washington Hotel Plaza,https://www.tripadvisor.com/Hotel_Review-g298236-d1047908-Reviews-Tokushima_Washington_Hotel_Plaza-Tokushima_Tokushima_Prefecture_Shikoku.html,3.5,145,770-0923,徳島県,徳島市,大道1-61-1,,〒770-0923 徳島県徳島市大道1-61-1,6380.0,12760.0,196
+2251,705543,"高松皇家花园酒店
+Royal Park Hotel Takamatsu",Royal Park Hotel Takamatsu,3.3,3.5,7954,3.3,3.5,3.4,12392.0,Royal Park Hotel Takamatsu,https://www.tripadvisor.com/Hotel_Review-g298232-d1083535-Reviews-Royal_Park_Hotel_Takamatsu-Takamatsu_Kagawa_Prefecture_Shikoku.html,4.0,79,760-0052,香川県,高松市,瓦町1丁目3-11,,〒760-0052 香川県高松市瓦町1丁目3-11,10519.0,31446.0,73
+2253,705545,"西鉄Inn酒店-福冈
+Nishitetsu Inn Fukuoka",Nishitetsu Inn Fukuoka,4.8,4.7,3205,4.1,4.6,4.5,9486.0,Nishitetsu Inn Fukuoka,https://www.tripadvisor.com/Hotel_Review-g298207-d1088782-Reviews-Nishitetsu_Inn_Fukuoka-Fukuoka_Fukuoka_Prefecture_Kyushu_Okinawa.html,4.0,17,810-0001,福岡県,福岡市中央区,中央区天神1-16-1,,〒810-0001 福岡県福岡市中央区中央区天神1-16-1,8366.0,23338.0,269
+2256,705548,"高松大和ROYNET酒店
+Daiwa Roynet Hotel Takamatsu",Daiwa Roynet Hotel Takamatsu,4.9,4.7,7956,4.5,4.8,4.7,10264.0,Daiwa Roynet Hotel Takamatsu,https://www.tripadvisor.com/Hotel_Review-g298232-d2653490-Reviews-Daiwa_Roynet_Hotel_Takamatsu-Takamatsu_Kagawa_Prefecture_Shikoku.html,4.0,79,760-0029,香川県,高松市,丸亀町8-23,,〒760-0029 香川県高松市丸亀町8-23,6826.0,18688.0,175
+2266,705559,"鹿儿岛美景酒店
+Hotel Welview Kagoshima",Hotel Welview Kagoshima,4.2,4.1,7790,4.0,4.1,4.1,11113.0,Hotel Welview Kagoshima,https://www.tripadvisor.com/Hotel_Review-g298211-d1061769-Reviews-Hotel_Welview_Kagoshima-Kagoshima_Kagoshima_Prefecture_Kyushu_Okinawa.html,4.0,76,890-0062,鹿児島県,鹿児島市,与次郎2-4-25,,〒890-0062 鹿児島県鹿児島市与次郎2-4-25,5374.0,24966.0,52
+2268,705561,"冲绳坎帕纳船舶酒店
+Vessel Hotel Campana Okinawa",Vessel Hotel Campana Okinawa,4.8,4.8,13954,4.8,4.9,4.8,20529.0,Vessel Hotel Campana Okinawa,https://www.tripadvisor.com/Hotel_Review-g1025634-d2528881-Reviews-Vessel_Hotel_Campana_Okinawa-Chatan_cho_Nakagami_gun_Okinawa_Prefecture_Kyushu_Okinaw.html,4.5,265,904-0115,沖縄県,中頭郡北谷町,美浜9-22,,〒904-0115 沖縄県中頭郡北谷町美浜9-22,13758.0,46421.0,324
+2270,705563,"屋久岛町三卡拉温泉酒店
+Sankara Hotel & Spa Yakushima",Sankara Hotel & Spa Yakushima,4.7,4.9,6264,4.6,4.9,4.8,65125.0,Sankara Hotel & Spa Yakushima,https://www.tripadvisor.com/Hotel_Review-g1121600-d1604431-Reviews-Sankara_Hotel_Spa_Yakushima-Kumage_gun_Yakushima_cho_Yakushima_Kagoshima_Prefecture_K.html,5.0,49,891-4402,鹿児島県,熊毛郡屋久島町,麦生字萩野上553,,〒891-4402 鹿児島県熊毛郡屋久島町麦生字萩野上553,65719.0,173869.0,29
+2292,705592,"长崎猎户座酒店
+Nagasaki Orion Hotel",Nagasaki Orion Hotel,4.4,4.4,7924,4.2,4.4,4.4,4744.0,Nagasaki Orion Hotel,https://www.tripadvisor.com/Hotel_Review-g298568-d562108-Reviews-Nagasaki_Orion_Hotel-Nagasaki_Nagasaki_Prefecture_Kyushu_Okinawa.html,3.5,78,850-0057,長崎県,長崎市,大黒町4-11,,〒850-0057 長崎県長崎市大黒町4-11,5707.0,10631.0,53
+2304,705609,"长野知豪大酒店
+Chisun Grand Nagano",Chisun Grand Nagano,4.4,4.3,5959,4.4,4.4,4.4,7445.0,Chisun Grand Nagano,https://www.tripadvisor.com/Hotel_Review-g298565-d306460-Reviews-Chisun_Grand_Nagano-Nagano_Nagano_Prefecture_Chubu.html,4.0,45,380-0823,長野県,長野市,南千歳2-17-1,,〒380-0823 長野県長野市南千歳2-17-1,6158.0,16458.0,136
+2308,705619,"高松多米酒店
+Hotel Dormy Inn Takamatsu",Hotel Dormy Inn Takamatsu,4.9,4.8,7955,4.6,4.8,4.8,9390.0,Hotel Dormy Inn Takamatsu,https://www.tripadvisor.com/Hotel_Review-g298232-d1083527-Reviews-Hotel_Dormy_Inn_Takamatsu-Takamatsu_Kagawa_Prefecture_Shikoku.html,4.0,79,760-0052,香川県,高松市,瓦町1-10-10,,〒760-0052 香川県高松市瓦町1-10-10,5931.0,22046.0,151
+2316,705635,"有本宫岛大酒店
+Miyajima Grand Hotel Arimoto",Miyajima Grand Hotel Arimoto,4.4,4.4,11764,4.4,4.4,4.4,39557.0,Miyajima Grand Hotel Arimoto,https://www.tripadvisor.com/Hotel_Review-g1022438-d669869-Reviews-Miyajima_Grand_Hotel_Arimoto-Hatsukaichi_Hiroshima_Prefecture_Chugoku.html,4.5,173,739-0522,広島県,廿日市市,宮島町南町364,,〒739-0522 広島県廿日市市宮島町南町364,31901.0,88986.0,55
+2319,705640,"白马皇家酒店
+Hakuba Royal Hotel",Hakuba Royal Hotel,3.8,3.8,1602,3.8,3.9,3.8,11590.0,Hakuba Royal Hotel,https://www.tripadvisor.com/Hotel_Review-g1120615-d1127347-Reviews-Hakuba_Royal_Hotel-Hakuba_mura_Kitaazumi_gun_Nagano_Prefecture_Chubu.html,3.5,4,399-9301,長野県,北安曇郡白馬村,北城2310,,〒399-9301 長野県北安曇郡白馬村北城2310,10328.0,44864.0,59
+2331,705656,"古欧莱酒店长崎站前
+Hotel Cuore Nagasaki Ekimae",Hotel Cuore Nagasaki Ekimae,4.7,4.1,7889,3.8,4.3,4.2,6263.0,Hotel Cuore Nagasaki Ekimae,https://www.tripadvisor.com/Hotel_Review-g298568-d1088396-Reviews-Hotel_Cuore_Nagasaki_Ekimae-Nagasaki_Nagasaki_Prefecture_Kyushu_Okinawa.html,4.0,78,850-0057,長崎県,長崎市,大黒町7番3号,,〒850-0057 長崎県長崎市大黒町7番3号,6717.0,10636.0,161
+2342,705673,"广岛国际酒店
+Hiroshima Kokusai Hotel",Hiroshima Kokusai Hotel,4.1,4.0,4956,3.8,3.8,3.9,5875.0,Hiroshima Kokusai Hotel,https://www.tripadvisor.com/Hotel_Review-g298561-d557963-Reviews-Hiroshima_Kokusai_Hotel-Hiroshima_Hiroshima_Prefecture_Chugoku.html,3.5,34,730-0032,広島県,広島市中区,立町3-13,,〒730-0032 広島県広島市中区立町3-13,5486.0,17129.0,74
+2353,705686,"藤田赛久酒店
+Sejour Fujita",Sejour Fujita,4.4,4.4,4960,4.2,4.5,4.4,6162.0,Sejour Fujita,https://www.tripadvisor.com/Hotel_Review-g298561-d1133347-Reviews-Sejour_Fujita-Hiroshima_Hiroshima_Prefecture_Chugoku.html,4.0,34,730-0841,広島県,広島市,中区舟入町1-10,,〒730-0841 広島県広島市中区舟入町1-10,5262.0,15226.0,33
+2366,705708,"伊川旅馆
+Ikawa Ryokan",Ikawa Ryokan,4.2,4.0,4978,3.7,4.0,4.0,5390.0,Ikawa Ryokan,https://www.tripadvisor.com/Hotel_Review-g298561-d304222-Reviews-Ikawa_Ryokan-Hiroshima_Hiroshima_Prefecture_Chugoku.html,3.0,34,730-0854,広島県,広島市中区,中区土橋町5-11,,〒730-0854 広島県広島市中区中区土橋町5-11,6717.0,14330.0,28
+2370,705713,"佐世保中央酒店
+Central Hotel Sasebo",Central Hotel Sasebo,4.3,4.3,10499,4.3,4.3,4.3,4845.0,Central Hotel Sasebo,https://www.tripadvisor.com/Hotel_Review-g298217-d1086023-Reviews-Central_Hotel_Sasebo-Sasebo_Nagasaki_Prefecture_Kyushu_Okinawa.html,4.0,139,857-0872,長崎県,佐世保市,上京町3-2,,〒857-0872 長崎県佐世保市上京町3-2,4813.0,12760.0,166
+2377,705723,"冈山方舟酒店
+Ark Hotel Okayama",Ark Hotel Okayama,3.8,3.6,8805,3.7,3.7,3.7,9589.0,Ark Hotel Okayama,https://www.tripadvisor.com/Hotel_Review-g298134-d323956-Reviews-Ark_Hotel_Okayama-Okayama_Okayama_Prefecture_Chugoku.html,3.5,94,700-0907,岡山県,岡山市,北区下石井2-6-1,,〒700-0907 岡山県岡山市北区下石井2-6-1,6714.0,16898.0,181
+2381,705728,"冈山中心酒店
+Central Hotel Okayama",Central Hotel Okayama,4.2,4.2,8802,4.2,4.2,4.2,5638.0,Central Hotel Okayama,https://www.tripadvisor.com/Hotel_Review-g298134-d1082721-Reviews-Central_Hotel_Okayama-Okayama_Okayama_Prefecture_Chugoku.html,4.0,94,700-0825,岡山県,岡山市,田町1-10-28,,〒700-0825 岡山県岡山市北区田町1-10-28,5372.0,11638.0,85
+2385,705732,"冈山园景酒店
+Okayama View Hotel",Okayama View Hotel,4.3,4.3,8811,4.0,4.3,4.2,5537.0,Okayama View Hotel,https://www.tripadvisor.com/Hotel_Review-g298134-d1082699-Reviews-Okayama_View_Hotel-Okayama_Okayama_Prefecture_Chugoku.html,4.0,94,700-0821,岡山県,岡山市,北区中山下1-11-17,,〒700-0821 岡山県岡山市北区中山下1-11-17,6155.0,14996.0,97
+2394,705745,"长野精选酒店
+Hotel Select Inn Nagano",Hotel Select Inn Nagano,3.8,3.9,5989,3.7,3.7,3.8,5105.0,Hotel Select Inn Nagano,https://www.tripadvisor.com/Hotel_Review-g298565-d1099137-Reviews-Hotel_Select_Inn_Nagano-Nagano_Nagano_Prefecture_Chubu.html,3.0,45,380-0822,長野県,長野市,南千歳町965,,〒380-0822 長野県長野市南千歳町965,5486.0,17129.0,74
+2397,705748,"长崎萨姆松酒店
+Samson Hotel",Samson Hotel,3.7,3.7,13688,3.7,3.7,3.7,20850.0,Samson Hotel,https://www.tripadvisor.com/Hotel_Review-g1022851-d1883218-Reviews-Samson_Hotel-Hirado_Nagasaki_Prefecture_Kyushu_Okinawa.html,3.5,252,859-4826,長崎県,平戸市,田平町野田免210-6,,〒859-4826 長崎県平戸市田平町野田免210-6,18904.0,30649.0,28
+2427,705793,"鸟取华盛顿酒店
+Tottori Washington Hotel Plaza",Tottori Washington Hotel Plaza,4.4,4.3,11193,4.0,4.3,4.2,7832.0,Tottori Washington Hotel Plaza,https://www.tripadvisor.com/Hotel_Review-g298138-d1072622-Reviews-Tottori_Washington_Hotel_Plaza-Tottori_Tottori_Prefecture_Chugoku.html,3.5,155,680-0835,鳥取県,鳥取市,東品治町102,,〒680-0835 鳥取県鳥取市東品治町102,6268.0,16342.0,163
+2455,705825,"函馆之网酒店
+Hotel Nets Hakodate",Hotel Nets Hakodate,4.3,4.6,6569,4.2,4.9,4.5,8781.0,Hotel Nets Hakodate,https://www.tripadvisor.com/Hotel_Review-g298151-d1091377-Reviews-Hotel_Nets_Hakodate-Hakodate_Hokkaido.html,4.0,57,040-0011,北海道,函館市,本町26-17,,〒040-0011 北海道函館市本町26-17,5934.0,22615.0,202
+2489,705871,"胜别姬路城堡酒店
+Himeji Castle Grandvrio Hotel",Himeji Castle Grandvrio Hotel,4.0,4.0,12754,4.0,4.0,4.0,9471.0,Himeji Castle Grandvrio Hotel,https://www.tripadvisor.com/Hotel_Review-g298191-d304195-Reviews-Himeji_Castle_Grandvrio_Hotel-Himeji_Hyogo_Prefecture_Kinki.html,3.5,211,670-0940,兵庫県,姫路市,三左衛門堀西の町210,,〒670-0940 兵庫県姫路市三左衛門堀西の町210,4922.0,17562.0,261
+2516,705903,"维科利西川口酒店
+Weekly Nishikawaguchi",Weekly Nishikawaguchi,4.0,4.0,18287,4.0,3.9,4.0,4524.0,Weekly Nishikawaguchi,https://www.tripadvisor.com/Hotel_Review-g1021366-d2552452-Reviews-Weekly_Nishikawaguchi-Kawaguchi_Saitama_Prefecture_Kanto.html,3.5,564,332-0034,埼玉県,川口市,並木3-15-10,,〒332-0034 埼玉県川口市並木3-15-10,6144.0,11394.0,58
+2519,705906,"日本神户三宫第一大酒店
+Daiichi Grand Hotel Kobe Sannomiya",Daiichi Grand Hotel Kobe Sannomiya,4.1,4.2,6075,3.9,4.1,4.1,13896.0,Daiichi Grand Hotel Kobe Sannomiya,https://www.tripadvisor.com/Hotel_Review-g298562-d1115791-Reviews-Daiichi_Grand_Hotel_Kobe_Sannomiya-Kobe_Hyogo_Prefecture_Kinki.html,3.5,46,650-0004,兵庫県,神戸市中央区,中央区中山手通2-1-23,,〒650-0004 兵庫県神戸市中央区中央区中山手通2-1-23,5822.0,18473.0,108
+2522,705909,"神户港塔酒店
+Kobe Port Tower Hotel",Kobe Port Tower Hotel,4.4,4.4,6077,4.0,4.3,4.3,6854.0,Kobe Port Tower Hotel,https://www.tripadvisor.com/Hotel_Review-g298562-d1524387-Reviews-Kobe_Port_Tower_Hotel-Kobe_Hyogo_Prefecture_Kinki.html,3.5,46,650-0042,兵庫県,神戸市中央区,波止場町6-1,,〒650-0042 兵庫県神戸市中央区波止場町6-1,5934.0,52172.0,161
+2565,705964,"富良野自然酒店
+Furano Natulux Hotel",Furano Natulux Hotel,4.6,4.6,10127,4.4,4.6,4.5,17907.0,Furano Natulux Hotel,https://www.tripadvisor.com/Hotel_Review-g674811-d1052380-Reviews-Furano_Natulux_Hotel-Furano_Hokkaido.html,4.5,128,076-0026,北海道,富良野市,朝日町1-35,,〒076-0026 北海道富良野市朝日町1-35,8843.0,30669.0,72
+2571,705974,"富良野自然森林酒店
+Hotel Naturwald Furano",Hotel Naturwald Furano,4.4,4.6,10128,4.4,4.6,4.5,13962.0,Hotel Naturwald Furano,https://www.tripadvisor.com/Hotel_Review-g674811-d1079611-Reviews-Hotel_Naturwald_Furano-Furano_Hokkaido.html,4.0,128,076-0034,北海道,富良野市,北の峰町14-46,,〒076-0034 北海道富良野市北の峰町14-46,9962.0,34363.0,81
+2576,705980,"定山溪 鹤雅休闲渡假温泉 森之謌
+Jozankei Tsuruga Resort Spa Mori No Uta",Jozankei Tsuruga Resort Spa Mori No Uta,4.6,4.8,3754,4.8,4.8,4.8,22640.0,Jozankei Tsuruga Resort Spa Mori No Uta,https://www.tripadvisor.com/Hotel_Review-g298560-d1857431-Reviews-Jozankei_Tsuruga_Resort_Spa_Mori_No_Uta-Sapporo_Hokkaido.html,4.5,21,061-2302,北海道,札幌市南区,定山渓温泉東3-192,,〒061-2302 北海道札幌市南区定山渓温泉東3-192,32587.0,77268.0,54
+2598,706006,"札幌弗莱姆酒店
+Frame Hotel Sapporo",Frame Hotel Sapporo,4.5,4.3,3714,3.5,4.2,4.1,5547.0,Frame Hotel Sapporo,https://www.tripadvisor.com/Hotel_Review-g298560-d2209161-Reviews-Frame_Hotel_Sapporo-Sapporo_Hokkaido.html,4.0,21,064-0805,北海道,札幌市中央区,南5条西7-8-1,,〒064-0805 北海道札幌市中央区南5条西7-8-1,3471.0,17917.0,58
+2604,706012,"弘扬函馆酒店
+Hotel Promote Hakodate",Hotel Promote Hakodate,4.6,4.4,6611,3.8,4.6,4.3,9235.0,Hotel Promote Hakodate,https://www.tripadvisor.com/Hotel_Review-g298151-d3653254-Reviews-Hotel_Promote_Hakodate-Hakodate_Hokkaido.html,4.0,57,040-0035,北海道,函館市,松風町16-18,,〒040-0035 北海道函館市松風町16-18,3918.0,11979.0,98
+2621,706036,"京都西站酒店
+Hotel Station Kyoto West",Hotel Station Kyoto West,4.9,4.6,963,4.4,4.6,4.6,7901.0,Hotel Station Kyoto West,https://www.tripadvisor.com/Hotel_Review-g298564-d1079648-Reviews-Hotel_Station_Kyoto_West-Kyoto_Kyoto_Prefecture_Kinki.html,3.5,2,600-8211,京都府,京都市,下京区真苧屋町200,,〒600-8211 京都府京都市下京区真苧屋町200,4886.0,19767.0,56
+2640,706072,"洞爷湖景乃之风度假酒店
+The Lake View Toya Nonokaze Resort",The Lake View Toya Nonokaze Resort,4.9,4.8,16211,4.8,4.9,4.8,32400.0,The Lake View Toya Nonokaze Resort,https://www.tripadvisor.com/Hotel_Review-g670061-d3523594-Reviews-The_Lake_View_Toya_Nonokaze_Resort-Toyako_cho_Abuta_gun_Hokkaido.html,4.5,393,049-5721,北海道,虻田郡洞爺湖町,洞爺湖温泉29-1,,〒049-5721 北海道虻田郡洞爺湖町洞爺湖温泉29-1,29937.0,73950.0,166
+2650,706089,"京都第一酒店
+Kyoto Daiichi Hotel",Kyoto Daiichi Hotel,4.6,4.7,1000,4.3,4.7,4.6,4220.0,Kyoto Daiichi Hotel,https://www.tripadvisor.com/Hotel_Review-g298564-d736748-Reviews-Kyoto_Daiichi_Hotel-Kyoto_Kyoto_Prefecture_Kinki.html,3.5,2,601-8047,京都府,京都市,南区東九条下殿田町45,,〒601-8047 京都府京都市南区東九条下殿田町45,6441.0,24209.0,165
+2653,706094,"京都四条乌丸大和ROYNET酒店
+Daiwa Roynet Hotel Kyoto Shijo Karasuma",Daiwa Roynet Hotel Kyoto Shijo Karasuma,4.7,4.7,861,4.7,4.8,4.7,8897.0,Daiwa Roynet Hotel Kyoto Shijo Karasuma,https://www.tripadvisor.com/Hotel_Review-g298564-d2530193-Reviews-Daiwa_Roynet_Hotel_Kyoto_Shijo_Karasuma-Kyoto_Kyoto_Prefecture_Kinki.html,4.5,2,600-8413,京都府,京都市,下京区烏丸通仏光寺下ル大政所町678,,〒600-8413 京都府京都市下京区烏丸通仏光寺下ル大政所町678,7218.0,27873.0,240
+2670,706114,"京都亚克酒店
+Ark Hotel Kyoto",Ark Hotel Kyoto,4.5,4.2,951,4.1,4.3,4.3,5098.0,Ark Hotel Kyoto,https://www.tripadvisor.com/Hotel_Review-g298564-d558346-Reviews-Ark_Hotel_Kyoto-Kyoto_Kyoto_Prefecture_Kinki.html,3.5,2,604-8811,京都府,京都市,中京区壬生賀陽御所町1,Omiya Nishi-iru Shijo St.,〒604-8811 京都府京都市中京区壬生賀陽御所町1Omiya Nishi-iru Shijo St.,5552.0,26319.0,160
+2671,706115,"京都甘乐酒店
+Hotel Kanra Kyoto",Hotel Kanra Kyoto,4.5,4.7,838,4.7,4.8,4.7,28808.0,Hotel Kanra Kyoto,https://www.tripadvisor.com/Hotel_Review-g298564-d1872361-Reviews-Hotel_Kanra_Kyoto-Kyoto_Kyoto_Prefecture_Kinki.html,4.5,2,600-8176,京都府,京都市,下京区烏丸通六条下る北町190,,〒600-8176 京都府京都市下京区烏丸通六条下る北町190,30316.0,119267.0,68
+2672,706116,"京都威斯特高贵酒店
+Hotel Vista Premio Kyoto",Hotel Vista Premio Kyoto,4.8,4.7,839,4.7,4.8,4.8,11142.0,Hotel Vista Premio Kyoto,https://www.tripadvisor.com/Hotel_Review-g298564-d2163994-Reviews-Hotel_Vista_Premio_Kyoto-Kyoto_Kyoto_Prefecture_Kinki.html,4.5,2,604-8034,京都府,京都市中京区,河原町通六角西入ル松ケ枝町457,,〒604-8034 京都府京都市中京区河原町通六角西入ル松ケ枝町457,8329.0,31982.0,84
+2675,706120,"京都花园酒店
+Kyoto Garden Hotel",Kyoto Garden Hotel,4.5,4.0,901,3.7,4.2,4.1,4744.0,Kyoto Garden Hotel,https://www.tripadvisor.com/Hotel_Review-g298564-d644766-Reviews-Kyoto_Garden_Hotel-Kyoto_Kyoto_Prefecture_Kinki.html,3.5,2,604-8175,京都府,京都市,中京区円福寺町351,,〒604-8175 京都府京都市中京区円福寺町351,4886.0,13992.0,129
+2676,706122,"京都堀川旅馆
+Kyoto Horikawa Inn",Kyoto Horikawa Inn,4.8,4.3,1037,4.2,4.5,4.4,5942.0,Kyoto Horikawa Inn,https://www.tripadvisor.com/Hotel_Review-g298564-d1080220-Reviews-Kyoto_Horikawa_Inn-Kyoto_Kyoto_Prefecture_Kinki.html,3.5,2,604-8263,京都府,京都市中京区,中京区東堀川通三条上る,,〒604-8263 京都府京都市中京区中京区東堀川通三条上る,5664.0,11549.0,126
+2694,706149,"京都四条微笑酒店
+Smile Hotel Kyoto Shijo",Smile Hotel Kyoto Shijo,4.4,4.3,910,4.1,4.5,4.4,5643.0,Smile Hotel Kyoto Shijo,https://www.tripadvisor.com/Hotel_Review-g298564-d1071192-Reviews-Smile_Hotel_Kyoto_Shijo-Kyoto_Kyoto_Prefecture_Kinki.html,3.5,2,600-8494,京都府,京都市下京区,四条西洞院西入ル傘鉾町59-61,,〒600-8494 京都府京都市下京区四条西洞院西入ル傘鉾町59-61,4220.0,38423.0,138
+2704,706160,"大分帝王酒店
+Oita Regal Hotel",Oita Regal Hotel,4.0,4.0,11054,3.9,3.9,3.9,6025.0,Oita Regal Hotel,https://www.tripadvisor.com/Hotel_Review-g298220-d1080078-Reviews-Oita_Regal_Hotel-Oita_Oita_Prefecture_Kyushu_Okinawa.html,3.5,152,870-0021,大分県,大分市,府内町1-1-29,,〒870-0021 大分県大分市府内町1-1-29,4589.0,10969.0,111
+2710,706167,"京都四条苑酒店
+Court Hotel Kyoto Shijo",Court Hotel Kyoto Shijo,4.5,4.4,972,4.2,4.3,4.3,3663.0,Court Hotel Kyoto Shijo,https://www.tripadvisor.com/Hotel_Review-g298564-d457033-Reviews-Court_Hotel_Kyoto_Shijo-Kyoto_Kyoto_Prefecture_Kinki.html,3.5,2,600-8472,京都府,京都市,下京区西洞院通四条下ル妙伝寺町698,,〒600-8472 京都府京都市下京区西洞院通四条下ル妙伝寺町698,3998.0,30872.0,108
+2721,706181,"生态与科技东京酒店
+Eco and Tec Kyoto",Eco and Tec Kyoto,4.2,4.2,896,4.1,4.1,4.1,5520.0,Eco and Tec Kyoto,https://www.tripadvisor.com/Hotel_Review-g298564-d1115224-Reviews-Eco_and_Tec_Kyoto-Kyoto_Kyoto_Prefecture_Kinki.html,4.5,2,605-0035,京都府,京都市,東山区栗田口三条坊町40,,〒605-0035 京都府京都市東山区栗田口三条坊町40,5330.0,13992.0,22
+2732,706196,"横滨户冢索特图斯弗雷撒酒店
+Sotetsu Fresa Inn Yokohama Totsuka",Sotetsu Fresa Inn Yokohama Totsuka,4.5,4.1,4834,4.3,4.5,4.3,9521.0,Sotetsu Fresa Inn Yokohama Totsuka,https://www.tripadvisor.com/Hotel_Review-g298173-d1869646-Reviews-Sotetsu_Fresa_Inn_Yokohama_Totsuka-Yokohama_Kanagawa_Prefecture_Kanto.html,4.0,33,244-0003,神奈川県,横浜市,戸塚区戸塚町16-8,,〒244-0003 神奈川県横浜市戸塚区戸塚町16-8,7165.0,15226.0,162
+2737,706204,"东山阁酒店
+Hotel Tozankaku",Hotel Tozankaku,4.7,4.8,868,4.3,4.6,4.6,7060.0,Hotel Tozankaku,https://www.tripadvisor.com/Hotel_Review-g298564-d1079654-Reviews-Hotel_Tozankaku-Kyoto_Kyoto_Prefecture_Kinki.html,3.5,2,605-0932,京都府,京都市,東山区妙法院前側町431,,〒605-0932 京都府京都市東山区妙法院前側町431,9217.0,43087.0,131
+2756,706240,"富山曼藤酒店
+Toyama Manten Hotel",Toyama Manten Hotel,4.4,4.6,8260,4.3,4.7,4.5,5655.0,Toyama Manten Hotel,https://www.tripadvisor.com/Hotel_Review-g298126-d1079626-Reviews-Toyama_Manten_Hotel-Toyama_Toyama_Prefecture_Chubu.html,4.0,84,930-0029,富山県,富山市,本町2-17,,〒930-0029 富山県富山市本町2-17,6826.0,16450.0,288
+2801,706371,"美富士园酒店
+Hotel Mifujien",Hotel Mifujien,4.5,4.1,2414,3.9,4.1,4.2,26624.0,Hotel Mifujien,https://www.tripadvisor.com/Hotel_Review-g1165976-d1169121-Reviews-Hotel_Mifujien-Fujikawaguchiko_machi_Minamitsuru_gun_Yamanashi_Prefecture_Chubu.html,3.0,9,401-0303,山梨県,南都留郡富士河口湖町,浅川207,,〒401-0303 山梨県南都留郡富士河口湖町浅川207,17990.0,47418.0,49
+2813,706392,"京都嵯峨太阳成员酒店
+Sun Members Kyoto Saga",Sun Members Kyoto Saga,3.8,4.2,1006,3.9,4.5,4.1,6803.0,Sun Members Kyoto Saga,https://www.tripadvisor.com/Hotel_Review-g298564-d2504791-Reviews-Sun_Members_Kyoto_Saga-Kyoto_Kyoto_Prefecture_Kinki.html,4.0,2,616-8304,京都府,京都市右京区,嵯峨広沢南野町27-1,,〒616-8304 京都府京都市右京区嵯峨広沢南野町27-1,7885.0,42421.0,67
+2830,706417,"京都安迪鲁酒店
+Hotel Anteroom Kyoto",Hotel Anteroom Kyoto,4.1,4.7,832,4.7,4.7,4.6,7196.0,Hotel Anteroom Kyoto,https://www.tripadvisor.com/Hotel_Review-g298564-d2168940-Reviews-Hotel_Anteroom_Kyoto-Kyoto_Kyoto_Prefecture_Kinki.html,4.5,2,601-8044,京都府,京都市,南区東九条明田町7,,〒601-8044 京都府京都市南区東九条明田町7,6219.0,20211.0,127
+2853,706446,"大本酒店
+Hotel Omoto",Hotel Omoto,4.1,4.4,2849,4.4,4.2,4.3,15031.0,Hotel Omoto,https://www.tripadvisor.com/Hotel_Review-g298118-d1098461-Reviews-Hotel_Omoto-Matsumoto_Nagano_Prefecture_Chubu.html,4.0,14,390-0303,長野県,松本市,浅間温泉3-13-10,,〒390-0303 長野県松本市浅間温泉3-13-10,12219.0,47886.0,40
+2856,706449,"诹访湖畔酒店
+Suwa Lakeside Hotel",Suwa Lakeside Hotel,3.3,3.3,12925,3.2,3.3,3.2,14457.0,Suwa Lakeside Hotel,https://www.tripadvisor.com/Hotel_Review-g1021311-d1076034-Reviews-Suwa_Lakeside_Hotel-Suwa_Nagano_Prefecture_Chubu.html,3.0,217,392-0022,長野県,諏訪市,高島2-1201-48,,〒392-0022 長野県諏訪市高島2-1201-48,7830.0,33221.0,63
+2860,706455,"轻井泽1130酒店
+Hotel Karuizawa 1130",Hotel Karuizawa 1130,3.5,3.3,8187,3.2,3.4,3.4,13253.0,Hotel Karuizawa 1130,https://www.tripadvisor.com/Hotel_Review-g1123094-d1167672-Reviews-Hotel_Karuizawa_1130-Tsumagoi_mura_Agatsuma_gun_Gunma_Prefecture_Kanto.html,4.0,82,377-1402,群馬県,吾妻郡嬬恋村,鎌原1453-2,,〒377-1402 群馬県吾妻郡嬬恋村鎌原1453-2,15107.0,92547.0,238
+2870,706469,"饭田屋酒店
+Hotel Iidaya",Hotel Iidaya,4.2,4.3,2881,4.2,4.2,4.2,6920.0,Hotel Iidaya,https://www.tripadvisor.com/Hotel_Review-g298118-d1080906-Reviews-Hotel_Iidaya-Matsumoto_Nagano_Prefecture_Chubu.html,3.5,14,390-0811,長野県,松本市,中央1-2-3,,〒390-0811 長野県松本市中央1-2-3,5724.0,10238.0,152
+2871,706471,"松本观光酒店
+Matsumoto Tourist Hotel",Matsumoto Tourist Hotel,3.7,3.7,2850,3.6,3.7,3.7,6338.0,Matsumoto Tourist Hotel,https://www.tripadvisor.com/Hotel_Review-g298118-d320191-Reviews-Matsumoto_Tourist_Hotel-Matsumoto_Nagano_Prefecture_Chubu.html,3.5,14,390-0815,長野県,松本市,深志2-4-24,,〒390-0815 長野県松本市深志2-4-24,4293.0,18824.0,201
+2881,706482,"阿云高山中心大酒店
+Ayun Takayama Central Hotel",Ayun Takayama Central Hotel,4.1,4.1,1916,4.0,4.1,4.1,8633.0,Ayun Takayama Central Hotel,https://www.tripadvisor.com/Hotel_Review-g298113-d1111691-Reviews-Ayun_Takayama_Central_Hotel-Takayama_Gifu_Prefecture_Chubu.html,3.5,6,506-0009,岐阜県,高山市,花岡町1-5-2,,〒506-0009 岐阜県高山市花岡町1-5-2,7107.0,11771.0,43
+2882,706485,"哈娜酒店
+Hotel Hana",Hotel Hana,4.4,4.4,1888,3.7,4.2,4.2,9271.0,Hotel Hana,https://www.tripadvisor.com/Hotel_Review-g298113-d1089551-Reviews-Hotel_Hana-Takayama_Gifu_Prefecture_Chubu.html,3.5,6,506-0007,岐阜県,高山市,総和町1-78,,〒506-0007 岐阜県高山市総和町1-78,6091.0,12957.0,43
+2886,706489,"阿克蒂酒店
+Hotel Acty",Hotel Acty,3.4,3.3,1902,3.2,3.4,3.3,12987.0,Hotel Acty,https://www.tripadvisor.com/Hotel_Review-g298113-d1076506-Reviews-Hotel_Acty-Takayama_Gifu_Prefecture_Chubu.html,3.5,6,506-0026,岐阜県,高山市,花里町3-46,,〒506-0026 岐阜県高山市花里町3-46,9772.0,28429.0,34
+2897,706506,"岐阜县华盛顿酒店
+Gifu Washington Hotel Plaza",Gifu Washington Hotel Plaza,4.3,4.0,12955,4.0,4.0,4.1,9924.0,Gifu Washington Hotel Plaza,https://www.tripadvisor.com/Hotel_Review-g298112-d809651-Reviews-Gifu_Washington_Hotel_Plaza-Gifu_Gifu_Prefecture_Chubu.html,3.0,220,500-8833,岐阜県,岐阜市,神田町7-7-4,,〒500-8833 岐阜県岐阜市神田町7-7-4,5928.0,14318.0,188
+2918,706535,"休闲度假酒店
+Relax Resort Hotel",Relax Resort Hotel,4.3,4.3,5113,4.5,4.1,4.3,65471.0,Relax Resort Hotel,https://www.tripadvisor.com/Hotel_Review-g298122-d1094091-Reviews-Relax_Resort_Hotel-Atami_Shizuoka_Prefecture_Chubu.html,4.0,36,413-0019,静岡県,熱海市,咲見町6-41,,〒413-0019 静岡県熱海市咲見町6-41,21608.0,125280.0,13
+2979,736862,"京阪京都格兰德酒店
+Hotel Keihan Kyoto Grande",Hotel Keihan Kyoto Grande,4.8,4.7,846,4.6,4.7,4.7,7413.0,Hotel Keihan Kyoto Grande,https://www.tripadvisor.com/Hotel_Review-g298564-d670556-Reviews-Hotel_Keihan_Kyoto_Grande-Kyoto_Kyoto_Prefecture_Kinki.html,3.5,2,601-8003,京都府,京都市南区,東九条西山王町31,,〒601-8003 京都府京都市南区東九条西山王町31,8440.0,40533.0,320
+2987,737054,"芬迪别墅东京汐留酒店
+Hotel Villa Fontaine Tokyo-Shiodome",Hotel Villa Fontaine Tokyo-Shiodome,4.7,4.6,98,4.5,4.7,4.7,12329.0,Hotel Villa Fontaine Tokyo-Shiodome,https://www.tripadvisor.com/Hotel_Review-g1066451-d609500-Reviews-Hotel_Villa_Fontaine_Tokyo_Shiodome-Minato_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,105-0021,東京都,港区,東新橋1-9-2,汐留住友ビル,〒105-0021 東京都港区東新橋1-9-2汐留住友ビル,10550.0,28318.0,497
+2990,737133,"京都凯悦酒店
+Hyatt Regency Kyoto",Hyatt Regency Kyoto,4.7,4.8,884,4.7,4.9,4.8,40514.0,Hyatt Regency Kyoto,https://www.tripadvisor.com/Hotel_Review-g298564-d601531-Reviews-Hyatt_Regency_Kyoto-Kyoto_Kyoto_Prefecture_Kinki.html,4.5,2,605-0941,京都府,京都市東山区,三十三間堂廻り644-2,,〒605-0941 京都府京都市東山区三十三間堂廻り644-2,37424.0,80178.0,187
+2992,737147,"乌丸京都酒店
+Karasuma Kyoto Hotel",Karasuma Kyoto Hotel,4.8,4.6,891,4.4,4.7,4.6,6083.0,Karasuma Kyoto Hotel,https://www.tripadvisor.com/Hotel_Review-g298564-d558372-Reviews-Karasuma_Kyoto_Hotel-Kyoto_Kyoto_Prefecture_Kinki.html,4.0,2,600-8412,京都府,京都市,下京区烏丸通四条下ル,,〒600-8412 京都府京都市下京区烏丸通四条下ル,9550.0,25541.0,255
+2993,737156,"京都新阪急饭店
+Hotel New Hankyu Kyoto",Hotel New Hankyu Kyoto,4.9,4.6,857,4.4,4.7,4.7,8052.0,Hotel New Hankyu Kyoto,https://www.tripadvisor.com/Hotel_Review-g298564-d302288-Reviews-Hotel_New_Hankyu_Kyoto-Kyoto_Kyoto_Prefecture_Kinki.html,3.5,2,600-8216,京都府,京都市下京区,塩小路通新町東入る東塩小路町579,,〒600-8216 京都府京都市下京区塩小路通新町東入る東塩小路町579,10439.0,30650.0,323
+2997,749521,"日本桥别墅酒店
+Hotel Nihonbashi Villa",Hotel Nihonbashi Villa,4.3,4.1,199,3.9,4.3,4.2,2782.0,Hotel Nihonbashi Villa,https://www.tripadvisor.com/Hotel_Review-g1066444-d506012-Reviews-Hotel_Nihonbashi_Villa-Chuo_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,103-0002,東京都,中央区,日本橋馬喰町2-2-1,,〒103-0002 東京都中央区日本橋馬喰町2-2-1,7551.0,18212.0,181
+3002,759807,"东京台场日航大酒店
+Grand Nikko Tokyo Daiba",Grand Nikko Tokyo Daiba,4.8,4.8,96,4.8,4.8,4.8,18453.0,Grand Nikko Tokyo Daiba,https://www.tripadvisor.com/Hotel_Review-g1066451-d302387-Reviews-Grand_Nikko_Tokyo_Daiba-Minato_Tokyo_Tokyo_Prefecture_Kanto.html,4.5,1,135-8701,東京都,港区台場,2-6-1,,〒135-8701 東京都港区台場2-6-1,15769.0,53637.0,882
+3006,759827,"新大阪永翼国际酒店
+Hotel Wing International Shin-Osaka",Hotel Wing International Shin-Osaka,4.3,4.3,1303,4.1,4.3,4.3,11463.0,Hotel Wing International Shin-Osaka,https://www.tripadvisor.com/Hotel_Review-g298566-d505039-Reviews-Hotel_Wing_International_Shin_Osaka-Osaka_Osaka_Prefecture_Kinki.html,4.0,3,532-0002,大阪府,大阪市,淀川区東三国 2-32-9,,〒532-0002 大阪府大阪市淀川区東三国 2-32-9,5205.0,11406.0,110
+3020,759857,"名古屋金山酒店
+Nagoya Kanayama Hotel",Nagoya Kanayama Hotel,4.7,4.2,3579,4.1,4.2,4.3,8726.0,Nagoya Kanayama Hotel,https://www.tripadvisor.com/Hotel_Review-g298106-d1080566-Reviews-Nagoya_Kanayama_Hotel-Nagoya_Aichi_Prefecture_Chubu.html,3.5,20,460-0022,愛知県,名古屋市中区,中区金山4-6-25,,〒460-0022 愛知県名古屋市中区中区金山4-6-25,8511.0,26092.0,183
+3021,759858,"名古屋荣华盛顿酒店
+Nagoya Sakae Washington Hotel Plaza",Nagoya Sakae Washington Hotel Plaza,4.6,4.6,3603,4.4,4.7,4.6,8726.0,Nagoya Sakae Washington Hotel Plaza,https://www.tripadvisor.com/Hotel_Review-g298106-d1080653-Reviews-Nagoya_Sakae_Washington_Hotel_Plaza-Nagoya_Aichi_Prefecture_Chubu.html,3.5,20,460-0008,愛知県,名古屋市中区栄,中区栄3-1-32,,〒460-0008 愛知県名古屋市中区栄中区栄3-1-32,5823.0,15566.0,308
+3028,6253643,"京都EI旅馆
+El Inn Kyoto",El Inn Kyoto,4.6,3.9,863,3.9,4.2,4.1,6872.0,El Inn Kyoto,https://www.tripadvisor.com/Hotel_Review-g298564-d1114922-Reviews-El_Inn_Kyoto-Kyoto_Kyoto_Prefecture_Kinki.html,4.0,2,601-8004,京都府,京都市南区,東九条東山王町13,,〒601-8004 京都府京都市南区東九条東山王町13,8662.0,27207.0,562
+3062,846405,"浅草中央酒店
+Asakusa Central Hotel",Asakusa Central Hotel,4.8,4.7,239,4.4,4.7,4.6,5976.0,Asakusa Central Hotel,https://www.tripadvisor.com/Hotel_Review-g1066461-d672038-Reviews-Asakusa_Central_Hotel-Taito_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,111-0032,東京都,台東区,浅草1-5-3,,〒111-0032 東京都台東区浅草1-5-3,6108.0,21099.0,137
+3072,856915,"新大阪站酒店
+Shin-Osaka Station Hotel",Shin-Osaka Station Hotel,4.5,4.6,1277,4.4,4.7,4.6,13658.0,Shin-Osaka Station Hotel,https://www.tripadvisor.com/Hotel_Review-g298566-d1084421-Reviews-Shin_Osaka_Station_Hotel-Osaka_Osaka_Prefecture_Kinki.html,4.0,3,533-0033,大阪府,大阪市東淀川区,東中島1丁目16番6号,,〒533-0033 大阪府大阪市東淀川区東中島1丁目16番6号,7885.0,16880.0,75
+3088,926335,"东京希尔顿酒店
+Hilton Tokyo",Hilton Tokyo,4.7,4.7,1,4.6,4.8,4.7,32652.0,Hilton Tokyo,https://www.tripadvisor.com/Hotel_Review-g1066457-d304289-Reviews-Hilton_Tokyo-Shinjuku_Tokyo_Tokyo_Prefecture_Kanto.html,4.5,1,160-0023,東京都,新宿区,西新宿6-6-2,Shinjuku-Ku,〒160-0023 東京都新宿区西新宿6-6-2Shinjuku-Ku,29650.0,68073.0,821
+3089,926338,"名古屋希尔顿酒店
+Hilton Nagoya",Hilton Nagoya,4.7,4.8,3510,4.6,4.8,4.7,18250.0,Hilton Nagoya,https://www.tripadvisor.com/Hotel_Review-g298106-d304246-Reviews-Hilton_Nagoya-Nagoya_Aichi_Prefecture_Chubu.html,4.5,20,460-0008,愛知県,名古屋市,中区栄1-3-3,,〒460-0008 愛知県名古屋市中区栄1-3-3,17723.0,48767.0,460
+3109,987089,"东京半岛酒店
+The Peninsula Tokyo",The Peninsula Tokyo,4.9,4.8,8442,4.9,4.9,4.9,58517.0,The Peninsula Tokyo,https://www.tripadvisor.com/Hotel_Review-g1066443-d580687-Reviews-The_Peninsula_Tokyo-Chiyoda_Tokyo_Tokyo_Prefecture_Kanto.html,4.5,87,100-0006,東京都,千代田区,有楽町1-8-1,,〒100-0006 東京都千代田区有楽町1-8-1,67032.0,187444.0,314
+3116,988063,"the b 东京 三轩茶屋酒店
+the b tokyo sangenjaya",the b tokyo sangenjaya,4.8,4.6,478,4.0,4.6,4.5,9268.0,the b tokyo sangenjaya,https://www.tripadvisor.com/Hotel_Review-g1066455-d1083405-Reviews-The_b_tokyo_sangenjaya-Setagaya_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,154-0004,東京都,世田谷区,太子堂2-17-9,,〒154-0004 東京都世田谷区太子堂2-17-9,8773.0,20766.0,118
+3117,988074,"the b 东京 赤坂酒店
+the b tokyo akasaka",the b tokyo akasaka,4.7,4.7,131,4.6,4.8,4.7,11597.0,the b tokyo akasaka,https://www.tripadvisor.com/Hotel_Review-g1066451-d549470-Reviews-The_b_tokyo_akasaka-Minato_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,107-0052,東京都,港区,赤坂 7-6-13,,〒107-0052 東京都港区赤坂 7-6-13,7440.0,23765.0,162
+3118,988187,"the b 东京 六本木酒店
+the b tokyo roppongi",the b tokyo roppongi,4.7,4.6,153,4.4,4.4,4.5,12978.0,the b tokyo roppongi,https://www.tripadvisor.com/Hotel_Review-g1066451-d456987-Reviews-The_b_tokyo_roppongi-Minato_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,106-0032,東京都,港区,六本木3-9-8,,〒106-0032 東京都港区六本木3-9-8,8884.0,27207.0,111
+3121,992355,"京都塔酒店别馆
+Kyoto Tower Hotel Annex",Kyoto Tower Hotel Annex,4.7,4.5,971,4.1,4.5,4.5,6893.0,Kyoto Tower Hotel Annex,https://www.tripadvisor.com/Hotel_Review-g298564-d325778-Reviews-Kyoto_Tower_Hotel_Annex-Kyoto_Kyoto_Prefecture_Kinki.html,3.5,2,600-8216,京都府,京都市,下京区新町通七条下ル東塩小路町 595番地の1,,〒600-8216 京都府京都市下京区新町通七条下ル東塩小路町 595番地の1,7107.0,26652.0,126
+3123,992394,"大阪心斋桥舒适酒店
+Comfort Hotel Osaka Shinsaibashi",Comfort Hotel Osaka Shinsaibashi,4.7,4.7,1294,4.5,4.7,4.6,15718.0,Comfort Hotel Osaka Shinsaibashi,https://www.tripadvisor.com/Hotel_Review-g298566-d299468-Reviews-Comfort_Hotel_Osaka_Shinsaibashi-Osaka_Osaka_Prefecture_Kinki.html,4.0,3,542-0083,大阪府,大阪市中央区,東心斎橋1-15-15,,〒542-0083 大阪府大阪市中央区東心斎橋1-15-15,7218.0,18767.0,193
+3133,993310,"大阪格兰帕斯酒店
+Grampus Inn Osaka",Grampus Inn Osaka,4.6,4.2,1438,3.8,4.2,4.2,10000.0,Grampus Inn Osaka,https://www.tripadvisor.com/Hotel_Review-g298566-d1092186-Reviews-Grampus_Inn_Osaka-Osaka_Osaka_Prefecture_Kinki.html,3.5,3,556-0011,大阪府,大阪市,浪速区難波中1-13-18,,〒556-0011 大阪府大阪市浪速区難波中1-13-18,5552.0,15436.0,41
+3140,993375,"北海道札幌格兰大酒店
+Sapporo Grand Hotel",Sapporo Grand Hotel,4.8,4.7,3746,4.5,4.7,4.7,12375.0,Sapporo Grand Hotel,https://www.tripadvisor.com/Hotel_Review-g298560-d319653-Reviews-Sapporo_Grand_Hotel-Sapporo_Hokkaido.html,4.0,21,060-0001,北海道,札幌市中央区,北一条西4,,〒060-0001 北海道札幌市中央区北一条西4,8399.0,63382.0,504
+3156,993455,"冲绳格兰美尔度假酒店
+Okinawa Grand Mer Resort",Okinawa Grand Mer Resort,4.0,4.6,14153,4.4,4.5,4.4,15156.0,Okinawa Grand Mer Resort,https://www.tripadvisor.com/Hotel_Review-g298225-d483283-Reviews-Okinawa_Grand_Mer_Resort-Okinawa_Okinawa_Prefecture_Kyushu_Okinawa.html,4.0,274,904-2174,沖縄県,沖縄市,与儀2-8-1,,〒904-2174 沖縄県沖縄市与儀2-8-1,8277.0,26510.0,300
+3169,993510,"东京帝国大酒店
+Imperial Hotel Tokyo",Imperial Hotel Tokyo,4.9,4.9,101,4.7,4.9,4.8,57537.0,Imperial Hotel Tokyo,https://www.tripadvisor.com/Hotel_Review-g1066443-d302435-Reviews-Imperial_Hotel_Tokyo-Chiyoda_Tokyo_Tokyo_Prefecture_Kanto.html,4.5,1,100-8558,東京都,千代田区内幸町,内幸町1-1-1,,〒100-8558 東京都千代田区内幸町内幸町1-1-1,36313.0,63964.0,931
+3171,993514,"东京柏悦酒店
+Park Hyatt Tokyo",Park Hyatt Tokyo,4.7,4.9,178,4.9,4.9,4.9,60003.0,Park Hyatt Tokyo,https://www.tripadvisor.com/Hotel_Review-g1066457-d307368-Reviews-Park_Hyatt_Tokyo-Shinjuku_Tokyo_Tokyo_Prefecture_Kanto.html,4.5,1,163-1055,東京都,新宿区西新宿,西新宿3-7-1-2,,〒163-1055 東京都新宿区西新宿西新宿3-7-1-2,62632.0,146585.0,177
+3172,993520,"广岛格兰王子大酒店
+Grand Prince Hotel Hiroshima",Grand Prince Hotel Hiroshima,4.3,4.4,4948,4.3,4.6,4.4,7060.0,Grand Prince Hotel Hiroshima,https://www.tripadvisor.com/Hotel_Review-g298561-d301201-Reviews-Grand_Prince_Hotel_Hiroshima-Hiroshima_Hiroshima_Prefecture_Chugoku.html,4.0,34,734-8543,広島県,広島市,南区元宇品町23-1,,〒734-8543 広島県広島市南区元宇品町23-1,6717.0,44223.0,530
+3175,993535,"福冈日航酒店
+Hotel Nikko Fukuoka",Hotel Nikko Fukuoka,4.9,4.8,3226,4.7,4.8,4.8,15329.0,Hotel Nikko Fukuoka,https://www.tripadvisor.com/Hotel_Review-g298207-d301961-Reviews-Hotel_Nikko_Fukuoka-Fukuoka_Fukuoka_Prefecture_Kyushu_Okinawa.html,4.5,17,812-0011,福岡県,福岡市博多区博多駅前,博多区博多駅前2-18-25,,〒812-0011 福岡県福岡市博多区博多駅前博多区博多駅前2-18-25,11339.0,42272.0,360
+3178,993900,"the b 东京 池袋酒店
+the b tokyo ikebukuro",the b tokyo ikebukuro,4.8,4.6,106,4.5,4.7,4.6,12746.0,the b tokyo ikebukuro,https://www.tripadvisor.com/Hotel_Review-g1066460-d1085781-Reviews-The_b_tokyo_ikebukuro-Toshima_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,170-0013,東京都,豊島区,東池袋1-39-4,,〒170-0013 東京都豊島区東池袋1-39-4,8995.0,20988.0,175
+3181,994528,"秋叶原华盛顿酒店
+Akihabara Washington Hotel",Akihabara Washington Hotel,4.9,4.7,105,4.6,4.8,4.7,10754.0,Akihabara Washington Hotel,https://www.tripadvisor.com/Hotel_Review-g1066443-d598313-Reviews-Akihabara_Washington_Hotel-Chiyoda_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,101-0025,東京都,千代田区,神田佐久間町1-8-3,,〒101-0025 東京都千代田区神田佐久間町1-8-3,10439.0,17768.0,369
+3182,994533,"有明灿路都大饭店
+Hotel Sunroute Ariake",Hotel Sunroute Ariake,4.6,4.6,23,4.6,4.7,4.6,13523.0,Hotel Sunroute Ariake,https://www.tripadvisor.com/Hotel_Review-g1066449-d1439033-Reviews-Hotel_Sunroute_Ariake-Koto_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,135-0063,東京都,江東区,有明3-6-6,,〒135-0063 東京都江東区有明3-6-6,7329.0,19767.0,790
+3188,994567,"浅草微笑酒店
+Smile Hotel Asakusa",Smile Hotel Asakusa,4.3,4.5,593,4.3,4.6,4.4,5385.0,Smile Hotel Asakusa,https://www.tripadvisor.com/Hotel_Review-g1066461-d311045-Reviews-Smile_Hotel_Asakusa-Taito_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,111-0032,東京都,台東区,浅草6-35-8,,〒111-0032 東京都台東区浅草6-35-8,4442.0,14659.0,95
+3191,994584,"东京太阳城王子大酒店
+Sunshine City Prince Hotel",Sunshine City Prince Hotel,4.7,4.5,415,4.3,4.5,4.5,16668.0,Sunshine City Prince Hotel,https://www.tripadvisor.com/Hotel_Review-g1066460-d301382-Reviews-Sunshine_City_Prince_Hotel-Toshima_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,170-8440,東京都,豊島区,東池袋3-1-5,,〒170-8440 東京都豊島区東池袋3-1-5,10328.0,28762.0,1146
+3192,994617,"东京凯悦酒店
+Hyatt Regency Tokyo",Hyatt Regency Tokyo,4.7,4.8,123,4.6,4.8,4.7,28515.0,Hyatt Regency Tokyo,https://www.tripadvisor.com/Hotel_Review-g1066457-d307324-Reviews-Hyatt_Regency_Tokyo-Shinjuku_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,160-0023,東京都,新宿区西新宿,2-7-2,,〒160-0023 東京都新宿区西新宿2-7-2,27540.0,52860.0,746
+3193,994622,"东京日本桥箱崎芬迪别墅酒店
+Hotel Villa Fontaine Tokyo-Nihombashi Hakozaki",Hotel Villa Fontaine Tokyo-Nihombashi Hakozaki,4.6,4.6,246,4.4,4.7,4.6,8120.0,Hotel Villa Fontaine Tokyo-Nihombashi Hakozaki,https://www.tripadvisor.com/Hotel_Review-g1066444-d1439812-Reviews-Hotel_Villa_Fontaine_Tokyo_Nihombashi_Hakozaki-Chuo_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,103-0015,東京都,中央区,日本橋箱崎町20-10,,〒103-0015 東京都中央区日本橋箱崎町20-10,6441.0,16991.0,163
+3197,994639,"东京京王广场酒店
+Keio Plaza Hotel Tokyo",Keio Plaza Hotel Tokyo,4.8,4.7,33,4.6,4.8,4.7,33502.0,Keio Plaza Hotel Tokyo,https://www.tripadvisor.com/Hotel_Review-g1066457-d304305-Reviews-Keio_Plaza_Hotel_Tokyo-Shinjuku_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,160-0023,東京都,新宿区,西新宿2-2-1,,〒160-0023 東京都新宿区西新宿2-2-1,23765.0,52415.0,1435
+3198,994895,"东京品川王子酒店
+Shinagawa Prince Hotel Tokyo",Shinagawa Prince Hotel Tokyo,4.8,4.6,5,4.4,4.6,4.6,16800.0,Shinagawa Prince Hotel Tokyo,https://www.tripadvisor.com/Hotel_Review-g1066451-d301378-Reviews-Shinagawa_Prince_Hotel_Tokyo-Minato_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,108-8611,東京都,港区,高輪4-10-30,,〒108-8611 東京都港区高輪4-10-30,13881.0,28318.0,3680
+3200,994902,"东京大仓饭店
+Hotel Okura Tokyo",Hotel Okura Tokyo,4.6,4.8,152,4.6,4.8,4.7,40000.0,Hotel Okura Tokyo,https://www.tripadvisor.com/Hotel_Review-g1066451-d301619-Reviews-Hotel_Okura_Tokyo-Minato_Tokyo_Tokyo_Prefecture_Kanto.html,4.5,1,105-0001,東京都,港区虎ノ門,2-10-4,,〒105-0001 東京都港区虎ノ門2-10-4,23876.0,45974.0,380
+3210,1005498,"冲绳蒙特利水疗度假酒店
+Hotel Monterey Okinawa Spa & Resort",Hotel Monterey Okinawa Spa & Resort,4.8,4.8,9269,4.8,4.9,4.8,37731.0,Hotel Monterey Okinawa Spa & Resort,https://www.tripadvisor.com/Hotel_Review-g1120809-d4223671-Reviews-Hotel_Monterey_Okinawa_Spa_Resort-Onna_son_Kunigami_gun_Okinawa_Prefecture_Kyushu_Oki.html,4.5,103,904-0413,沖縄県,国頭郡恩納村,冨着1550-1,,〒904-0413 沖縄県国頭郡恩納村冨着1550-1,18800.0,93330.0,339
+3231,1005582,"东京米尔帕尔克酒店
+Hotel Mielparque Tokyo",Hotel Mielparque Tokyo,4.3,4.3,515,4.2,4.3,4.3,7590.0,Hotel Mielparque Tokyo,https://www.tripadvisor.com/Hotel_Review-g1066451-d1089919-Reviews-Hotel_Mielparque_Tokyo-Minato_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,105-8582,東京都,港区,芝公園2-5-20,,〒105-8582 東京都港区芝公園2-5-20,8662.0,23320.0,122
+3261,1068771,"贝斯特韦斯特菲诺大阪心斋桥酒店
+Best Western Hotel Fino Osaka Shinsaibashi",Best Western Hotel Fino Osaka Shinsaibashi,4.7,4.5,1256,4.4,4.6,4.5,12797.0,Best Western Hotel Fino Osaka Shinsaibashi,https://www.tripadvisor.com/Hotel_Review-g298566-d1798409-Reviews-Best_Western_Hotel_Fino_Osaka_Shinsaibashi-Osaka_Osaka_Prefecture_Kinki.html,4.0,3,542-0083,大阪府,大阪市中央区,心斎橋 1-2-19,,〒542-0083 大阪府大阪市中央区心斎橋 1-2-19,6663.0,23320.0,179
+3275,1098725,"东十条弗莱斯泰公寓式酒店
+Flexstay Inn Higashi Jujo",Flexstay Inn Higashi Jujo,4.0,3.8,222,3.6,3.8,3.8,9087.0,Flexstay Inn Higashi Jujo,https://www.tripadvisor.com/Hotel_Review-g1066448-d1115299-Reviews-Flexstay_Inn_Higashi_Jujo-Kita_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,114-0032,東京都,北区,中十条2-10-2,,〒114-0032 東京都北区中十条2-10-2,4331.0,12215.0,163
+3278,1113592,"大阪万豪都酒店
+Osaka Marriott Miyako Hotel",Osaka Marriott Miyako Hotel,4.9,4.9,1240,4.9,4.9,4.9,45441.0,Osaka Marriott Miyako Hotel,https://www.tripadvisor.com/Hotel_Review-g298566-d5607013-Reviews-Osaka_Marriott_Miyako_Hotel-Osaka_Osaka_Prefecture_Kinki.html,4.5,3,545-0052,大阪府,大阪市阿倍野区,阿倍野筋1-1-43,,〒545-0052 大阪府大阪市阿倍野区阿倍野筋1-1-43,24986.0,65186.0,360
+3293,6162970,"青木屋酒店
+Aokiya",Aokiya,3.5,3.5,14110,3.5,3.5,3.5,,Aokiya,https://www.tripadvisor.com/Hotel_Review-g298167-d1057054-Reviews-Aokiya-Tsukuba_Ibaraki_Prefecture_Kanto.html,3.5,272,300-4352,茨城県,つくば市,筑波753-1,,〒300-4352 茨城県つくば市筑波753-1,24609.0,61633.0,40
+3353,1171934,"品川东武酒店
+Shinagawa Tobu Hotel",Shinagawa Tobu Hotel,4.2,4.2,485,4.2,4.3,4.2,8950.0,Shinagawa Tobu Hotel,https://www.tripadvisor.com/Hotel_Review-g1066451-d310305-Reviews-Shinagawa_Tobu_Hotel-Minato_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,108-0074,東京都,港区,高輪4-7-6,,〒108-0074 東京都港区高輪4-7-6,9550.0,30539.0,190
+3364,1181973,"青森颜色艺术酒店
+Art Hotel Color Aomori",Art Hotel Color Aomori,4.4,4.5,10372,4.4,4.5,4.4,4254.0,Art Hotel Color Aomori,https://www.tripadvisor.com/Hotel_Review-g298241-d1082092-Reviews-Art_Hotel_Color_Aomori-Aomori_Aomori_Prefecture_Tohoku.html,4.0,135,030-0801,青森県,青森市,新町2-5-6,,〒030-0801 青森県青森市新町2-5-6,4141.0,12424.0,89
+3371,1182065,"名古屋锦里比酒店
+R&B Hotel Nagoya Nishiki",R&B Hotel Nagoya Nishiki,4.2,4.2,3560,4.2,4.2,4.2,6944.0,R&B Hotel Nagoya Nishiki,https://www.tripadvisor.com/Hotel_Review-g298106-d1078831-Reviews-R_B_Hotel_Nagoya_Nishiki-Nagoya_Aichi_Prefecture_Chubu.html,3.5,20,460-0003,愛知県,名古屋市,中区錦3-2-13,,〒460-0003 愛知県名古屋市中区錦3-2-13,4479.0,10750.0,205
+3376,1182090,"江古田弗莱斯泰酒店
+Flexstay Inn Ekoda",Flexstay Inn Ekoda,4.6,4.1,19258,4.3,4.5,4.4,7175.0,Flexstay Inn Ekoda,https://www.tripadvisor.com/Hotel_Review-g1066453-d1082891-Reviews-Flexstay_Inn_Ekoda-Nerima_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,666,176-0006,東京都,練馬区,栄町8-6,,〒176-0006 東京都練馬区栄町8-6,7373.0,17315.0,210
+3383,1182137,"西鉄度假Inn酒店-别府
+Nishitetsu Resort Inn Beppu",Nishitetsu Resort Inn Beppu,4.6,4.7,5252,4.6,4.8,4.7,8490.0,Nishitetsu Resort Inn Beppu,https://www.tripadvisor.com/Hotel_Review-g298219-d1083572-Reviews-Nishitetsu_Resort_Inn_Beppu-Beppu_Oita_Prefecture_Kyushu_Okinawa.html,4.0,38,874-0920,大分県,別府市,北浜2-10-4,,〒874-0920 大分県別府市北浜2-10-4,8061.0,18249.0,184
+3384,1182146,"都心之天然温泉名古屋皇冠酒店
+Nagoya Crown Hotel",Nagoya Crown Hotel,4.5,4.6,3535,4.3,4.6,4.5,6300.0,Nagoya Crown Hotel,https://www.tripadvisor.com/Hotel_Review-g298106-d558215-Reviews-Nagoya_Crown_Hotel-Nagoya_Aichi_Prefecture_Chubu.html,3.5,20,460-0008,愛知県,名古屋市中区,栄1-8-33,,〒460-0008 愛知県名古屋市中区栄1-8-33,5945.0,13650.0,613
+3390,1182256,"浅草超级酒店
+Super Hotel Asakusa",Super Hotel Asakusa,4.5,4.5,233,4.5,4.5,4.5,11253.0,Super Hotel Asakusa,https://www.tripadvisor.com/Hotel_Review-g1066461-d2450406-Reviews-Super_Hotel_Asakusa-Taito_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,111-0032,東京都,台東区,浅草2-33-1,,〒111-0032 東京都台東区浅草2-33-1,7885.0,19767.0,112
+3402,6237156,"平田枫叶酒店
+Hirata Maple Hotel",Hirata Maple Hotel,5.0,5.0,10230,4.0,4.0,4.5,,Hirata Maple Hotel,https://www.tripadvisor.com/Hotel_Review-g1023583-d1072953-Reviews-Hirata_Maple_Hotel-Izumo_Shimane_Prefecture_Chugoku.html,3.5,131,691-0001,島根県,出雲市,平田町2451,,〒691-0001 島根県出雲市平田町2451,6828.0,11977.0,89
+3425,6695089,"商务北酒店
+Business Inn Norte",Business Inn Norte,4.1,4.4,3816,4.1,4.4,4.2,,Business Inn Norte,https://www.tripadvisor.com/Hotel_Review-g298560-d1082440-Reviews-Business_Inn_Norte-Sapporo_Hokkaido.html,3.5,21,064-0811,北海道,札幌市中央区,南11条西1-1-35,,〒064-0811 北海道札幌市中央区南11条西1-1-35,4031.0,13998.0,99
+3433,1248288,"希尔顿东京台场酒店
+Hilton Tokyo Odaiba",Hilton Tokyo Odaiba,4.9,4.7,22,4.7,4.8,4.8,22387.0,Hilton Tokyo Odaiba,https://www.tripadvisor.com/Hotel_Review-g1066451-d302399-Reviews-Hilton_Tokyo_Odaiba-Minato_Tokyo_Tokyo_Prefecture_Kanto.html,4.5,1,135-0091,東京都,港区,台場1丁目9番1号,,〒135-0091 東京都港区台場1丁目9番1号,22987.0,60744.0,453
+3434,1248294,"长野灿路都大饭店
+Hotel Sunroute Nagano",Hotel Sunroute Nagano,4.3,4.3,5961,4.2,4.3,4.3,7107.0,Hotel Sunroute Nagano,https://www.tripadvisor.com/Hotel_Review-g298565-d547170-Reviews-Hotel_Sunroute_Nagano-Nagano_Nagano_Prefecture_Chubu.html,4.0,45,380-0825,長野県,長野市,末広町1356,,〒380-0825 長野県長野市末広町1356,6829.0,15114.0,150
+3443,1280983,"西梅田哈顿酒店
+Hearton Hotel Nishi Umeda",Hearton Hotel Nishi Umeda,4.7,4.5,1257,4.2,4.5,4.5,9389.0,Hearton Hotel Nishi Umeda,https://www.tripadvisor.com/Hotel_Review-g298566-d1006425-Reviews-Hearton_Hotel_Nishi_Umeda-Osaka_Osaka_Prefecture_Kinki.html,4.0,3,530-0001,大阪府,大阪市,北区梅田3-3-55,,〒530-0001 大阪府大阪市北区梅田3-3-55,6663.0,21210.0,471
+3447,1308254,"金山广场酒店
+Kanayama Plaza Hotel",Kanayama Plaza Hotel,3.7,3.5,3539,3.4,3.5,3.5,5976.0,Kanayama Plaza Hotel,https://www.tripadvisor.com/Hotel_Review-g298106-d1078694-Reviews-Kanayama_Plaza_Hotel-Nagoya_Aichi_Prefecture_Chubu.html,3.5,20,460-0024,愛知県,名古屋市,中区正木3-7-15,,〒460-0024 愛知県名古屋市中区正木3-7-15,5614.0,10128.0,111
+3468,1310012,"青森精选酒店
+Hotel Select Inn Aomori",Hotel Select Inn Aomori,3.7,3.7,10370,3.7,3.7,3.7,5537.0,Hotel Select Inn Aomori,https://www.tripadvisor.com/Hotel_Review-g298241-d1482676-Reviews-Hotel_Select_Inn_Aomori-Aomori_Aomori_Prefecture_Tohoku.html,3.5,135,030-0862,青森県,青森市,古川2-9-1,,〒030-0862 青森県青森市古川2-9-1,3134.0,13432.0,84
+3472,1310147,"新桥利夫马克斯酒店
+Hotel Livemax Shimbashi",Hotel Livemax Shimbashi,3.7,3.8,305,3.7,3.9,3.8,5464.0,Hotel Livemax Shimbashi,https://www.tripadvisor.com/Hotel_Review-g1066451-d3694630-Reviews-Hotel_Livemax_Shimbashi-Minato_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,105-0004,東京都,港区,新橋6-20-1,,〒105-0004 東京都港区新橋6-20-1,8107.0,29761.0,63
+3485,1314560,"长野广场酒店
+Nagano Plaza Hotel",Nagano Plaza Hotel,3.8,3.8,5968,3.7,3.7,3.7,5754.0,Nagano Plaza Hotel,https://www.tripadvisor.com/Hotel_Review-g298565-d1081475-Reviews-Nagano_Plaza_Hotel-Nagano_Nagano_Prefecture_Chubu.html,4.0,45,380-0824,長野県,長野市,南石堂町1326,,〒380-0824 長野県長野市南石堂町1326,6158.0,16010.0,41
+3488,1314566,"神户1-2-3酒店
+Hotel 1-2-3 Kobe",Hotel 1-2-3 Kobe,4.6,4.6,6052,4.4,4.6,4.6,6044.0,Hotel 1-2-3 Kobe,https://www.tripadvisor.com/Hotel_Review-g298562-d1068122-Reviews-Hotel_1_2_3_Kobe-Kobe_Hyogo_Prefecture_Kinki.html,3.5,46,651-0086,兵庫県,神戸市,中央区磯上通4-1-12,,〒651-0086 兵庫県神戸市中央区磯上通4-1-12,5822.0,13659.0,98
+3500,1329588,"东京丸之内四季酒店
+Four Seasons Hotel Tokyo at Marunouchi",Four Seasons Hotel Tokyo at Marunouchi,4.8,4.8,149,4.6,4.8,4.7,98752.0,Four Seasons Hotel Tokyo at Marunouchi,https://www.tripadvisor.com/Hotel_Review-g1066443-d301911-Reviews-Four_Seasons_Hotel_Tokyo_at_Marunouchi-Chiyoda_Tokyo_Tokyo_Prefecture_Kanto.html,4.5,1,100-6277,東京都,千代田区丸の内,丸の内1-11-1,パシフィックセンチュリープレイス,〒100-6277 東京都千代田区丸の内丸の内1-11-1パシフィックセンチュリープレイス,66630.0,150139.0,57
+3501,1330921,"东京丸之內都市大饭店
+Hotel Metropolitan Tokyo Marunouchi",Hotel Metropolitan Tokyo Marunouchi,4.8,4.7,183,4.5,4.7,4.7,42326.0,Hotel Metropolitan Tokyo Marunouchi,https://www.tripadvisor.com/Hotel_Review-g1066443-d653033-Reviews-Hotel_Metropolitan_Tokyo_Marunouchi-Chiyoda_Tokyo_Tokyo_Prefecture_Kanto.html,4.5,1,100-0005,東京都,千代田区丸の内,1-7-12,,〒100-0005 東京都千代田区丸の内1-7-12,23320.0,42865.0,343
+3508,1410741,"京都广场酒店新馆
+Kyoto Plaza Hotel Annex",Kyoto Plaza Hotel Annex,4.3,4.5,1012,4.3,4.7,4.4,35000.0,Kyoto Plaza Hotel Annex,https://www.tripadvisor.com/Hotel_Review-g298564-d6783724-Reviews-Kyoto_Plaza_Hotel_Annex-Kyoto_Kyoto_Prefecture_Kinki.html,3.5,2,601-8414,京都府,京都市,南区西九条蔵王町28,,〒601-8414 京都府京都市南区西九条蔵王町28,5886.0,24320.0,98
+3512,1426722,"高轮皇家王子大饭店樱花塔东京
+The Prince Sakura Tower Tokyo",The Prince Sakura Tower Tokyo,4.8,4.8,17,4.8,4.9,4.8,52999.0,The Prince Sakura Tower Tokyo,https://www.tripadvisor.com/Hotel_Review-g1066451-d301385-Reviews-The_Prince_Sakura_Tower_Tokyo-Minato_Tokyo_Tokyo_Prefecture_Kanto.html,4.5,1,108-8612,東京都,港区,高輪3-13-1,,〒108-8612 東京都港区高輪3-13-1,32649.0,58745.0,309
+3531,1485234,"高山观光酒店
+Takayama Kanko Hotel",Takayama Kanko Hotel,4.4,4.4,1887,4.4,4.5,4.4,16000.0,Takayama Kanko Hotel,https://www.tripadvisor.com/Hotel_Review-g298113-d1088856-Reviews-Takayama_Kanko_Hotel-Takayama_Gifu_Prefecture_Chubu.html,4.0,6,506-0852,岐阜県,高山市,八幡町280,,〒506-0852 岐阜県高山市八幡町280,14507.0,48062.0,43
+3536,1485277,"太阳谷附楼酒店
+Hotel Sun Valley Annex",Hotel Sun Valley Annex,4.0,5.0,5261,4.0,5.0,4.5,8424.0,Hotel Sun Valley Annex,https://www.tripadvisor.com/Hotel_Review-g298219-d1078063-Reviews-Hotel_Sun_Valley_Annex-Beppu_Oita_Prefecture_Kyushu_Okinawa.html,3.5,38,874-0919,大分県,別府市,石垣東10-1-20,,〒874-0919 大分県別府市石垣東10-1-20,6494.0,17913.0,150
+3558,1487991,"望楼野口登别酒店
+Bourou Noguchi Noboribetsu",Bourou Noguchi Noboribetsu,4.7,4.8,17158,4.9,4.9,4.8,102750.0,Bourou Noguchi Noboribetsu,https://www.tripadvisor.com/Hotel_Review-g325583-d1155419-Reviews-Bourou_Noguchi_Noboribetsu-Noboribetsu_Hokkaido.html,4.0,463,059-0551,北海道,登別市,登別温泉町200番地1,,〒059-0551 北海道登別市登別温泉町200番地1,64790.0,103441.0,40
+3569,1488592,"轻井泽绿色广场酒店
+Hotel Green Plaza Karuizawa",Hotel Green Plaza Karuizawa,3.5,4.5,8180,4.0,4.5,4.1,15000.0,Hotel Green Plaza Karuizawa,https://www.tripadvisor.com/Hotel_Review-g1123094-d1230177-Reviews-Hotel_Green_Plaza_Karuizawa-Tsumagoi_mura_Agatsuma_gun_Gunma_Prefecture_Kanto.html,3.5,82,377-1512,群馬県,吾妻郡嬬恋村,大前細原2277,,〒377-1512 群馬県吾妻郡嬬恋村大前細原2277,16226.0,49575.0,453
+3576,1488864,"饭田酒店
+Hotel Iida",Hotel Iida,4.9,4.5,962,4.2,4.5,4.5,12470.0,Hotel Iida,https://www.tripadvisor.com/Hotel_Review-g298564-d1091344-Reviews-Hotel_Iida-Kyoto_Kyoto_Prefecture_Kinki.html,3.5,2,600-8216,京都府,京都市,下京区不明門通り塩小路上ル717,,〒600-8216 京都府京都市下京区不明門通り塩小路上ル717,9550.0,27318.0,27
+3581,1488905,"灵山酒店
+Hotel Ryozen",Hotel Ryozen,4.9,4.9,1108,4.5,4.8,4.8,29272.0,Hotel Ryozen,https://www.tripadvisor.com/Hotel_Review-g298564-d1079643-Reviews-Hotel_Ryozen-Kyoto_Kyoto_Prefecture_Kinki.html,4.0,2,605-0861,京都府,京都市東山区,東山区清閑寺霊山町7,,〒605-0861 京都府京都市東山区東山区清閑寺霊山町7,11771.0,53748.0,29
+3596,1489108,"东京池袋大都会饭店
+Hotel Metropolitan Tokyo Ikebukuro",Hotel Metropolitan Tokyo Ikebukuro,4.8,4.7,11,4.6,4.8,4.7,23858.0,Hotel Metropolitan Tokyo Ikebukuro,https://www.tripadvisor.com/Hotel_Review-g1066460-d304546-Reviews-Hotel_Metropolitan_Tokyo_Ikebukuro-Toshima_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,171-8505,東京都,豊島区,西池袋1-6-1,,〒171-8505 東京都豊島区西池袋1-6-1,14214.0,26874.0,807
+3608,1489253,"大阪阳光白色酒店
+Hotel Sun White",Hotel Sun White,4.7,4.6,1353,4.3,4.6,4.5,6415.0,Hotel Sun White,https://www.tripadvisor.com/Hotel_Review-g298566-d1083239-Reviews-Hotel_Sun_White-Osaka_Osaka_Prefecture_Kinki.html,3.5,3,540-0012,大阪府,大阪市中央区,谷町3-7-6,,〒540-0012 大阪府大阪市中央区谷町3-7-6,4540.0,15615.0,160
+3609,1489273,"阿文纳大阪酒店
+Hotel Awina Osaka",Hotel Awina Osaka,4.0,4.0,1355,3.8,4.1,4.0,10383.0,Hotel Awina Osaka,https://www.tripadvisor.com/Hotel_Review-g298566-d1081572-Reviews-Hotel_Awina_Osaka-Osaka_Osaka_Prefecture_Kinki.html,4.0,3,543-0031,大阪府,大阪市,天王寺区石ケ辻町19-12,,〒543-0031 大阪府大阪市天王寺区石ケ辻町19-12,6663.0,22876.0,120
+3616,1489782,"冈山商务饭店别馆
+Okayama Business Hotel Annex",Okayama Business Hotel Annex,3.5,3.6,8834,3.5,3.6,3.5,9025.0,Okayama Business Hotel Annex,https://www.tripadvisor.com/Hotel_Review-g298134-d1082698-Reviews-Okayama_Business_Hotel_Annex-Okayama_Okayama_Prefecture_Chugoku.html,3.5,94,700-0901,岡山県,岡山市,本町 9-16,,〒700-0901 岡山県岡山市北区本町 9-16,5595.0,14100.0,137
+3618,1489896,"克莱顿海湾酒店
+Clayton Bay Hotel",Clayton Bay Hotel,4.0,4.0,10733,4.0,4.0,4.0,11240.0,Clayton Bay Hotel,https://www.tripadvisor.com/Hotel_Review-g1022430-d1050790-Reviews-Clayton_Bay_Hotel-Kure_Hiroshima_Prefecture_Chugoku.html,4.0,144,737-0822,広島県,呉市,築地町3-3,Clayton Bay Hotel,〒737-0822 広島県呉市築地町3-3Clayton Bay Hotel,8283.0,50817.0,59
+3619,1489898,"弗莱斯酒店
+Hotel Flex",Hotel Flex,4.1,4.2,4943,4.1,4.2,4.2,,Hotel Flex,https://www.tripadvisor.com/Hotel_Review-g298561-d558102-Reviews-Hotel_Flex-Hiroshima_Hiroshima_Prefecture_Chugoku.html,3.5,34,730-0014,広島県,広島市中区,中区上幟町7-1,,〒730-0014 広島県広島市中区中区上幟町7-1,6158.0,21944.0,65
+3621,1489962,"鸟取城市酒店
+Tottori City Hotel",Tottori City Hotel,4.3,4.4,11195,4.3,4.3,4.3,24000.0,Tottori City Hotel,https://www.tripadvisor.com/Hotel_Review-g298138-d1072621-Reviews-Tottori_City_Hotel-Tottori_Tottori_Prefecture_Chugoku.html,3.5,155,680-0055,鳥取県,鳥取市,戎町471,,〒680-0055 鳥取県鳥取市戎町471,5485.0,11865.0,146
+3625,1490135,"神户海港拉套房酒店
+Hotel La Suite Kobe Harborland",Hotel La Suite Kobe Harborland,4.9,4.9,6040,4.9,5.0,4.9,43746.0,Hotel La Suite Kobe Harborland,https://www.tripadvisor.com/Hotel_Review-g298562-d1226619-Reviews-Hotel_La_Suite_Kobe_Harborland-Kobe_Hyogo_Prefecture_Kinki.html,4.5,46,650-0042,兵庫県,神戸市,中央区波止場町7-2,,〒650-0042 兵庫県神戸市中央区波止場町7-2,22503.0,74787.0,70
+3630,1497157,"东京贝尔经典酒店
+Hotel Bellclassic Tokyo",Hotel Bellclassic Tokyo,4.7,4.7,326,4.6,4.7,4.7,10996.0,Hotel Bellclassic Tokyo,https://www.tripadvisor.com/Hotel_Review-g1066460-d505316-Reviews-Hotel_Bellclassic_Tokyo-Toshima_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,170-0005,東京都,豊島区,南大塚3-33-6,,〒170-0005 東京都豊島区南大塚3-33-6,10328.0,27651.0,151
+3631,1497161,"游客酒店
+Tourist Hotel",Tourist Hotel,3.8,3.8,658,3.6,3.8,3.7,5903.0,Tourist Hotel,https://www.tripadvisor.com/Hotel_Review-g1066461-d1036691-Reviews-Tourist_Hotel-Taito_Tokyo_Tokyo_Prefecture_Kanto.html,3.0,1,110-0015,東京都,台東区,東上野3-18-11,,〒110-0015 東京都台東区東上野3-18-11,7551.0,19212.0,23
+3635,1497201,"苏雅国际酒店
+Hotel Soga International",Hotel Soga International,3.6,3.7,11564,3.6,3.6,3.6,7044.0,Hotel Soga International,https://www.tripadvisor.com/Hotel_Review-g298158-d1078597-Reviews-Hotel_Soga_International-Chiba_Chiba_Prefecture_Kanto.html,3.5,167,260-0842,千葉県,千葉市,中央区南町2-7-13,,〒260-0842 千葉県千葉市中央区南町2-7-13,6492.0,14215.0,112
+3642,1497273,"汤村常盘酒店
+Yumura Tokiwa Hotel",Yumura Tokiwa Hotel,5.0,5.0,11159,5.0,5.0,5.0,29600.0,Yumura Tokiwa Hotel,https://www.tripadvisor.com/Hotel_Review-g298128-d1085984-Reviews-Yumura_Tokiwa_Hotel-Kofu_Yamanashi_Prefecture_Chubu.html,4.0,154,400-0073,山梨県,甲府市,湯村2-5-21,,〒400-0073 山梨県甲府市湯村2-5-21,21939.0,78240.0,50
+3647,1497373,"热川王子日式旅馆
+Atagawa Prince Hotel",Atagawa Prince Hotel,3.4,4.1,8035,3.9,3.9,3.8,43200.0,Atagawa Prince Hotel,https://www.tripadvisor.com/Hotel_Review-g1121205-d1125017-Reviews-Atagawa_Prince_Hotel-Higashiizu_cho_Kamo_gun_Shizuoka_Prefecture_Chubu.html,4.0,80,413-0302,静岡県,賀茂郡東伊豆町,奈良本1248-3,,〒413-0302 静岡県賀茂郡東伊豆町奈良本1248-3,13093.0,51477.0,52
+3664,1497640,"白马高地酒店
+Hakuba Highland Hotel",Hakuba Highland Hotel,4.1,4.3,1618,4.3,4.1,4.2,35000.0,Hakuba Highland Hotel,https://www.tripadvisor.com/Hotel_Review-g1120615-d1127267-Reviews-Hakuba_Highland_Hotel-Hakuba_mura_Kitaazumi_gun_Nagano_Prefecture_Chubu.html,4.5,4,399-9301,長野県,北安曇郡白馬村,北城21582,,〒399-9301 長野県北安曇郡白馬村北城21582,17102.0,41199.0,73
+3675,1498347,"德岛灿路都大饭店
+Hotel Sunroute Tokushima",Hotel Sunroute Tokushima,4.4,4.3,10771,4.2,4.3,4.3,9193.0,Hotel Sunroute Tokushima,https://www.tripadvisor.com/Hotel_Review-g298236-d1082275-Reviews-Hotel_Sunroute_Tokushima-Tokushima_Tokushima_Prefecture_Shikoku.html,4.0,145,770-0834,徳島県,徳島市,元町1-5-1,,〒770-0834 徳島県徳島市元町1-5-1,8507.0,16342.0,239
+3681,1498416,"Momochi海滨酒店
+Seaside Hotel Twins Momochi",Seaside Hotel Twins Momochi,3.9,4.0,3252,4.0,4.1,4.0,8830.0,Seaside Hotel Twins Momochi,https://www.tripadvisor.com/Hotel_Review-g298207-d558327-Reviews-Seaside_Hotel_Twins_Momochi-Fukuoka_Fukuoka_Prefecture_Kyushu_Okinawa.html,3.5,17,814-0001,福岡県,福岡市早良区,百道浜1-7-4,,〒814-0001 福岡県福岡市早良区百道浜1-7-4,7155.0,17393.0,190
+3683,1498444,"御船山观光酒店
+Mifuneyama Kanko Hotel",Mifuneyama Kanko Hotel,4.8,5.0,16749,4.8,4.8,4.8,20000.0,Mifuneyama Kanko Hotel,https://www.tripadvisor.com/Hotel_Review-g1023552-d1065882-Reviews-Mifuneyama_Kanko_Hotel-Takeo_Saga_Prefecture_Kyushu_Okinawa.html,4.0,433,843-0022,佐賀県,武雄市,武雄町武雄4100,,〒843-0022 佐賀県武雄市武雄町武雄4100,9718.0,35746.0,37
+3686,1498477,"黑崎舒适酒店
+Comfort Hotel Kurosaki",Comfort Hotel Kurosaki,4.2,4.4,9412,4.4,4.4,4.4,6407.0,Comfort Hotel Kurosaki,https://www.tripadvisor.com/Hotel_Review-g303160-d1426164-Reviews-Comfort_Hotel_Kurosaki-Kitakyushu_Fukuoka_Prefecture_Kyushu_Okinawa.html,4.0,109,806-0021,福岡県,北九州市八幡西区,黒崎3丁目13-13,,〒806-0021 福岡県北九州市八幡西区黒崎3丁目13-13,5148.0,19808.0,151
+3694,1498582,"罗蕾莱酒店
+Hotel Lorelei",Hotel Lorelei,4.7,4.7,10492,4.7,4.3,4.6,12300.0,Hotel Lorelei,https://www.tripadvisor.com/Hotel_Review-g298217-d1092124-Reviews-Hotel_Lorelei-Sasebo_Nagasaki_Prefecture_Kyushu_Okinawa.html,4.0,139,859-3236,長崎県,佐世保市,南風崎町449,,〒859-3236 長崎県佐世保市南風崎町449,10634.0,24401.0,95
+3725,1500181,"名古屋市瑞驰锦酒店
+Nagoya Rich Hotel Nishiki",Nagoya Rich Hotel Nishiki,3.8,3.9,3613,3.6,3.7,3.8,5572.0,Nagoya Rich Hotel Nishiki,https://www.tripadvisor.com/Hotel_Review-g298106-d558210-Reviews-Nagoya_Rich_Hotel_Nishiki-Nagoya_Aichi_Prefecture_Chubu.html,3.0,20,460-0003,愛知県,名古屋市,中区錦1-8-22,,〒460-0003 愛知県名古屋市中区錦1-8-22,4479.0,12318.0,103
+3735,1500340,"旭桥裕崎士特酒店
+Hotel Yuquesta Asahibashi",Hotel Yuquesta Asahibashi,4.7,4.8,3369,4.5,4.8,4.7,11700.0,Hotel Yuquesta Asahibashi,https://www.tripadvisor.com/Hotel_Review-g298224-d1081371-Reviews-Hotel_Yuquesta_Asahibashi-Naha_Okinawa_Prefecture_Kyushu_Okinawa.html,4.0,18,900-0034,沖縄県,那覇市,東町5-19,,〒900-0034 沖縄県那覇市東町5-19,7596.0,15081.0,72
+3736,1500390,"宫古岛温泉酒店
+Miyakojima Onsen Hotel",Miyakojima Onsen Hotel,2.7,3.0,5222,3.3,5.0,3.5,10800.0,Miyakojima Onsen Hotel,https://www.tripadvisor.com/Hotel_Review-g680765-d4341794-Reviews-Miyakojima_Onsen_Hotel-Miyakojima_Okinawa_Prefecture_Kyushu_Okinawa.html,4.5,37,906-0011,沖縄県,宮古島市,平良東仲宗根添1898-19,,〒906-0011 沖縄県宮古島市平良東仲宗根添1898-19,8509.0,20152.0,36
+3744,1500449,"山水日式旅馆
+Ryokan Sansui",Ryokan Sansui,5.0,5.0,1898,4.5,5.0,4.9,,Ryokan Sansui,https://www.tripadvisor.com/Hotel_Review-g298113-d1090773-Reviews-Ryokan_Sansui-Takayama_Gifu_Prefecture_Chubu.html,4.0,6,506-1434,岐阜県,高山市,奥飛騨温泉郷福地850,,〒506-1434 岐阜県高山市奥飛騨温泉郷福地850,9217.0,44864.0,20
+3748,1500485,"水户京成酒店
+Mito Keisei Hotel",Mito Keisei Hotel,4.3,4.3,12891,4.3,4.3,4.3,9701.0,Mito Keisei Hotel,https://www.tripadvisor.com/Hotel_Review-g298166-d1057537-Reviews-Mito_Keisei_Hotel-Mito_Ibaraki_Prefecture_Kanto.html,4.0,216,310-0011,茨城県,水戸市,三の丸1-4-73,,〒310-0011 茨城県水戸市三の丸1-4-73,7830.0,18009.0,52
+3749,1500487,"卡瓦吉池克公园酒店
+Kawaguchiko Park Hotel",Kawaguchiko Park Hotel,4.4,4.7,2409,4.5,4.7,4.6,9906.0,Kawaguchiko Park Hotel,https://www.tripadvisor.com/Hotel_Review-g1165976-d1169196-Reviews-Kawaguchiko_Park_Hotel-Fujikawaguchiko_machi_Minamitsuru_gun_Yamanashi_Prefecture_Chu.html,3.5,9,401-0301,山梨県,南都留郡富士河口湖町,船津6713-6,,〒401-0301 山梨県南都留郡富士河口湖町船津6713-6,12993.0,38867.0,30
+3750,1500509,"名古屋狮子宫酒店
+Hotel Leopalace Nagoya",Hotel Leopalace Nagoya,3.6,3.7,3532,3.7,3.8,3.7,10750.0,Hotel Leopalace Nagoya,https://www.tripadvisor.com/Hotel_Review-g298106-d1080575-Reviews-Hotel_Leopalace_Nagoya-Nagoya_Aichi_Prefecture_Chubu.html,4.0,20,464-0075,愛知県,名古屋市,千種区内山3-4-4,,〒464-0075 愛知県名古屋市千種区内山3-4-4,8366.0,21907.0,113
+3756,1500571,"札幌花园宫殿
+Sapporo Garden Palace",Sapporo Garden Palace,4.3,4.4,3737,4.4,4.5,4.4,7133.0,Sapporo Garden Palace,https://www.tripadvisor.com/Hotel_Review-g298560-d557816-Reviews-Sapporo_Garden_Palace-Sapporo_Hokkaido.html,4.0,21,060-0001,北海道,札幌市中央区,北1条西6,,〒060-0001 北海道札幌市中央区北1条西6,6607.0,24972.0,164
+3762,1500988,"卡塔拉度假水疗酒店
+Hotel Katara Resort & Spa",Hotel Katara Resort & Spa,4.0,3.6,8024,3.6,4.0,3.8,30425.0,Hotel Katara Resort & Spa,https://www.tripadvisor.com/Hotel_Review-g1121205-d1125025-Reviews-Hotel_Katara_Resort_Spa-Higashiizu_cho_Kamo_gun_Shizuoka_Prefecture_Chubu.html,3.5,80,413-0302,静岡県,賀茂郡東伊豆町,奈良本992-1-2,,〒413-0302 静岡県賀茂郡東伊豆町奈良本992-1-2,21486.0,44427.0,74
+3764,1501072,"新大阪维亚酒店
+Via Inn Shin-Osaka",Via Inn Shin-Osaka,3.5,3.5,1309,4.0,4.0,3.8,17750.0,Via Inn Shin-Osaka,https://www.tripadvisor.com/Hotel_Review-g298566-d1084463-Reviews-Via_Inn_Shin_Osaka-Osaka_Osaka_Prefecture_Kinki.html,3.5,3,533-0031,大阪府,大阪市,東淀川区西淡路1-1-7,,〒533-0031 大阪府大阪市東淀川区西淡路1-1-7,6885.0,11882.0,228
+3772,1502034,"新桥太阳道酒店
+Hotel Sunroute Shimbashi",Hotel Sunroute Shimbashi,4.8,4.7,93,4.4,4.8,4.7,13046.0,Hotel Sunroute Shimbashi,https://www.tripadvisor.com/Hotel_Review-g1066451-d1089916-Reviews-Hotel_Sunroute_Shimbashi-Minato_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,105-0004,東京都,港区,新橋4-10-2,,〒105-0004 東京都港区新橋4-10-2,9661.0,19545.0,220
+3779,1546744,"东京安达仕酒店
+Andaz Tokyo Toranomon Hills",Andaz Tokyo Toranomon Hills,4.7,4.9,46,4.9,5.0,4.9,92141.0,Andaz Tokyo Toranomon Hills,https://www.tripadvisor.com/Hotel_Review-g1066451-d6485175-Reviews-Andaz_Tokyo_Toranomon_Hills-Minato_Tokyo_Tokyo_Prefecture_Kanto.html,4.5,1,105-0001,東京都,港区,虎ノ門1-23-4,,〒105-0001 東京都港区虎ノ門1-23-4,57524.0,129373.0,164
+3783,1572560,"北海道函馆中和福朋喜来登酒店
+Four Points by Sheraton Hakodate",Four Points by Sheraton Hakodate,4.8,4.5,6574,4.2,4.6,4.5,26523.0,Four Points by Sheraton Hakodate,https://www.tripadvisor.com/Hotel_Review-g298151-d300452-Reviews-Four_Points_by_Sheraton_Hakodate-Hakodate_Hokkaido.html,4.0,57,040-0063,北海道,函館市,若松町14-10,,〒040-0063 北海道函館市若松町14-10,7949.0,38961.0,199
+3785,1572571,"札幌坤特萨酒店
+Quintessa Hotel Sapporo",Quintessa Hotel Sapporo,4.3,4.4,3756,4.4,4.5,4.4,10163.0,Quintessa Hotel Sapporo,https://www.tripadvisor.com/Hotel_Review-g298560-d306509-Reviews-Quintessa_Hotel_Sapporo-Sapporo_Hokkaido.html,4.0,21,064-0808,北海道,札幌市中央区,南8条西5丁目,,〒064-0808 北海道札幌市中央区南8条西5丁目,6159.0,31467.0,167
+3788,1572622,"东京康莱德酒店
+Conrad Tokyo",Conrad Tokyo,4.9,4.9,14,4.9,5.0,4.9,56462.0,Conrad Tokyo,https://www.tripadvisor.com/Hotel_Review-g1066451-d571809-Reviews-Conrad_Tokyo-Minato_Tokyo_Tokyo_Prefecture_Kanto.html,4.5,1,105-7337,東京都,港区,東新橋1-9-1,,〒105-7337 東京都港区東新橋1-9-1,50861.0,122154.0,290
+3811,1589909,"山田日式旅馆
+Yamadaya Hotel",Yamadaya Hotel,4.8,5.0,2431,4.8,4.8,4.9,16366.0,Yamadaya Hotel,https://www.tripadvisor.com/Hotel_Review-g1165976-d1230439-Reviews-Yamadaya_Hotel-Fujikawaguchiko_machi_Minamitsuru_gun_Yamanashi_Prefecture_Chubu.html,4.0,9,401-0336,山梨県,南都留郡富士河口湖町,精進478,,〒401-0336 山梨県南都留郡富士河口湖町精進478,12846.0,38206.0,25
+3822,1635497,"绿色广场箱根酒店
+Hotel Green Plaza Hakone",Hotel Green Plaza Hakone,4.4,4.5,2129,4.3,4.5,4.4,26000.0,Hotel Green Plaza Hakone,https://www.tripadvisor.com/Hotel_Review-g298171-d1132722-Reviews-Hotel_Green_Plaza_Hakone-Hakone_machi_Ashigarashimo_gun_Kanagawa_Prefecture_Kanto.html,4.0,7,250-0631,神奈川県,足柄下郡箱根町,仙石原1244-2,,〒250-0631 神奈川県足柄下郡箱根町仙石原1244-2,24917.0,57586.0,123
+3823,1635503,"马罗德箱根酒店
+Hotel Marroad Hakone",Hotel Marroad Hakone,4.4,4.3,2069,4.2,4.4,4.3,17523.0,Hotel Marroad Hakone,https://www.tripadvisor.com/Hotel_Review-g298171-d1126139-Reviews-Hotel_Marroad_Hakone-Hakone_machi_Ashigarashimo_gun_Kanagawa_Prefecture_Kanto.html,3.5,7,250-0408,神奈川県,足柄下郡箱根町,強羅1320,,〒250-0408 神奈川県足柄下郡箱根町強羅1320,9883.0,41199.0,45
+3824,1635530,"汤泽新大谷酒店
+Yuzawa New Otani",Yuzawa New Otani,4.3,4.4,2484,4.2,4.5,4.3,7556.0,Yuzawa New Otani,https://www.tripadvisor.com/Hotel_Review-g1119245-d301290-Reviews-Yuzawa_New_Otani-Yuzawa_machi_Minamiuonuma_gun_Niigata_Prefecture_Chubu.html,4.0,10,949-6101,新潟県,南魚沼郡湯沢町,湯沢330,,〒949-6101 新潟県南魚沼郡湯沢町湯沢330,13326.0,45752.0,83
+3829,1635611,"幕张春天酒店
+Hotel Springs Makuhari",Hotel Springs Makuhari,4.6,4.2,11562,4.3,4.5,4.4,22224.0,Hotel Springs Makuhari,https://www.tripadvisor.com/Hotel_Review-g298158-d1087772-Reviews-Hotel_Springs_Makuhari-Chiba_Chiba_Prefecture_Kanto.html,3.5,167,261-0021,千葉県,千葉市,美浜区ひび野1-11,,〒261-0021 千葉県千葉市美浜区ひび野1-11,8613.0,30649.0,259
+3835,1635677,"东京目黒雅叙园
+Hotel Gajoen Tokyo",Hotel Gajoen Tokyo,4.9,5.0,39,4.9,5.0,4.9,46189.0,Hotel Gajoen Tokyo,https://www.tripadvisor.com/Hotel_Review-g1066450-d557525-Reviews-Hotel_Gajoen_Tokyo-Meguro_Tokyo_Tokyo_Prefecture_Kanto.html,4.5,1,153-0064,東京都,目黒区,下目黒1-8-1,,〒153-0064 東京都目黒区下目黒1-8-1,48306.0,105830.0,60
+3850,1636254,"特托然泽幕张稻毛海岸酒店
+Tetoranze Makuhari Inagekaigan Hotel",Tetoranze Makuhari Inagekaigan Hotel,4.5,4.4,11576,4.1,4.4,4.3,,Tetoranze Makuhari Inagekaigan Hotel,https://www.tripadvisor.com/Hotel_Review-g298158-d1078605-Reviews-Tetoranze_Makuhari_Inagekaigan_Hotel-Chiba_Chiba_Prefecture_Kanto.html,3.5,167,261-0004,千葉県,千葉市,美浜区高洲3-20-40,,〒261-0004 千葉県千葉市美浜区高洲3-20-40,5037.0,14887.0,86
+3869,1642073,"热海新富士屋酒店
+Atami New Fujiya Hotel",Atami New Fujiya Hotel,4.0,3.0,5138,4.0,3.0,3.5,12528.0,Atami New Fujiya Hotel,https://www.tripadvisor.com/Hotel_Review-g298122-d1093229-Reviews-Atami_New_Fujiya_Hotel-Atami_Shizuoka_Prefecture_Chubu.html,3.0,36,413-0013,静岡県,熱海市,銀座町1-16,,〒413-0013 静岡県熱海市銀座町1-16,12315.0,35378.0,350
+3879,1642169,"名古屋KKR酒店（国家公务员共济组合联合会名古屋共济会馆）
+KKR Hotel Nagoya",KKR Hotel Nagoya,5.0,5.0,3538,5.0,5.0,5.0,6000.0,KKR Hotel Nagoya,https://www.tripadvisor.com/Hotel_Review-g298106-d1080735-Reviews-KKR_Hotel_Nagoya-Nagoya_Aichi_Prefecture_Chubu.html,3.5,20,460-0001,愛知県,名古屋市中区,三の丸1-5-1,,〒460-0001 愛知県名古屋市中区三の丸1-5-1,5394.0,16072.0,106
+3880,1642191,"名古屋自由酒店
+Nagoya Liberty Hotel",Nagoya Liberty Hotel,4.4,4.3,3596,4.1,4.4,4.3,5917.0,Nagoya Liberty Hotel,https://www.tripadvisor.com/Hotel_Review-g298106-d558207-Reviews-Nagoya_Liberty_Hotel-Nagoya_Aichi_Prefecture_Chubu.html,3.5,20,453-0015,愛知県,名古屋市,中村区椿町21-20,,〒453-0015 愛知県名古屋市中村区椿町21-20,5711.0,14670.0,117
+3885,1642288,"佐贺华盛顿广场酒店
+Saga Washington Hotel Plaza",Saga Washington Hotel Plaza,4.1,4.0,12337,3.8,3.9,3.9,6945.0,Saga Washington Hotel Plaza,https://www.tripadvisor.com/Hotel_Review-g298227-d1067863-Reviews-Saga_Washington_Hotel_Plaza-Saga_Saga_Prefecture_Kyushu_Okinawa.html,3.5,193,840-0801,佐賀県,佐賀市,駅前中央1-164,,〒840-0801 佐賀県佐賀市駅前中央1-164,5705.0,14094.0,230
+3889,1642570,"柏树格兰酒店
+Cypress Garden Hotel",Cypress Garden Hotel,4.6,4.6,3537,4.6,4.6,4.6,13794.0,Cypress Garden Hotel,https://www.tripadvisor.com/Hotel_Review-g298106-d325549-Reviews-Cypress_Garden_Hotel-Nagoya_Aichi_Prefecture_Chubu.html,3.5,20,456-0002,愛知県,名古屋市,熱田区金山町1-9-8,,〒456-0002 愛知県名古屋市熱田区金山町1-9-8,8807.0,25429.0,203
+3890,1642598,"岐阜舒适酒店
+Comfort Hotel Gifu",Comfort Hotel Gifu,4.4,4.3,12961,4.2,4.4,4.3,6933.0,Comfort Hotel Gifu,https://www.tripadvisor.com/Hotel_Review-g298112-d306448-Reviews-Comfort_Hotel_Gifu-Gifu_Gifu_Prefecture_Chubu.html,4.0,220,500-8844,岐阜県,岐阜市,吉野町6-6,,〒500-8844 岐阜県岐阜市吉野町6-6,6488.0,28412.0,219
+3896,1642898,"东京KKR酒店
+KKR Hotel Tokyo",KKR Hotel Tokyo,4.6,4.5,252,4.5,4.6,4.6,14451.0,KKR Hotel Tokyo,https://www.tripadvisor.com/Hotel_Review-g1066443-d1082523-Reviews-KKR_Hotel_Tokyo-Chiyoda_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,100-0004,東京都,千代田区,大手町1-4-1,,〒100-0004 東京都千代田区大手町1-4-1,13548.0,33093.0,161
+3901,1642924,"五反田京王布莱索酒店
+Keio Presso Inn Gotanda",Keio Presso Inn Gotanda,5.0,4.7,692,4.7,4.7,4.8,,Keio Presso Inn Gotanda,https://www.tripadvisor.com/Hotel_Review-g1066854-d1116584-Reviews-Keio_Presso_Inn_Gotanda-Shinagawa_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,141-0031,東京都,品川区,西五反田2-17-12,,〒141-0031 東京都品川区西五反田2-17-12,6774.0,16324.0,178
+3910,1644570,"青森酒店
+Hotel Aomori",Hotel Aomori,4.3,4.7,10371,4.7,5.0,4.7,17000.0,Hotel Aomori,https://www.tripadvisor.com/Hotel_Review-g298241-d1082189-Reviews-Hotel_Aomori-Aomori_Aomori_Prefecture_Tohoku.html,4.0,135,030-0812,青森県,青森市,堤町1-1-23,,〒030-0812 青森県青森市堤町1-1-23,7611.0,22051.0,155
+3915,1645737,"神田奥林匹克旅馆
+Olympic Inn Kanda",Olympic Inn Kanda,4.7,4.6,284,4.7,4.8,4.7,,Olympic Inn Kanda,https://www.tripadvisor.com/Hotel_Review-g1066443-d1092305-Reviews-Olympic_Inn_Kanda-Chiyoda_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,101-0043,東京都,千代田区,神田富山町30-1,,〒101-0043 東京都千代田区神田富山町30-1,5664.0,18767.0,70
+3923,1646111,"馨乐庭中央东京新宿区酒店
+Citadines Central Shinjuku Tokyo",Citadines Central Shinjuku Tokyo,4.5,4.5,20,4.4,4.6,4.5,35000.0,Citadines Central Shinjuku Tokyo,https://www.tripadvisor.com/Hotel_Review-g1066457-d1070779-Reviews-Citadines_Central_Shinjuku_Tokyo-Shinjuku_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,160-0021,東京都,新宿区,歌舞伎町1-2-9,,〒160-0021 東京都新宿区歌舞伎町1-2-9,12438.0,31649.0,206
+3939,1646348,"富山露台豪华酒店
+Hotel Grand Terrace Toyama",Hotel Grand Terrace Toyama,4.0,4.0,8269,3.9,4.1,4.0,9805.0,Hotel Grand Terrace Toyama,https://www.tripadvisor.com/Hotel_Review-g298126-d1079573-Reviews-Hotel_Grand_Terrace_Toyama-Toyama_Toyama_Prefecture_Chubu.html,3.5,84,930-0004,富山県,富山市,桜橋通り2-28,,〒930-0004 富山県富山市桜橋通り2-28,6714.0,20703.0,129
+3941,1646385,"札幌里昂皇宫酒店
+Hotel Leopalace Sapporo",Hotel Leopalace Sapporo,4.6,4.7,3736,4.4,4.7,4.6,9268.0,Hotel Leopalace Sapporo,https://www.tripadvisor.com/Hotel_Review-g298560-d505343-Reviews-Hotel_Leopalace_Sapporo-Sapporo_Hokkaido.html,4.0,21,060-0062,北海道,札幌市中央区,南2条西8-6-1,,〒060-0062 北海道札幌市中央区南2条西8-6-1,6719.0,26204.0,86
+3953,1646875,"京都乌丸东横酒店
+Toyoko Inn Kyoto Shijo-Karasuma",Toyoko Inn Kyoto Shijo-Karasuma,4.8,4.7,929,4.5,4.8,4.7,7668.0,Toyoko Inn Kyoto Shijo-Karasuma,https://www.tripadvisor.com/Hotel_Review-g298564-d676053-Reviews-Toyoko_Inn_Kyoto_Shijo_Karasuma-Kyoto_Kyoto_Prefecture_Kinki.html,4.0,2,600-8008,京都府,京都市,下京区長刀鉾町28,,〒600-8008 京都府京都市下京区長刀鉾町28,7107.0,59634.0,223
+3960,1646943,"大阪梅田OS酒店
+Umeda OS Hotel",Umeda OS Hotel,4.8,4.7,1267,4.4,4.7,4.7,22184.0,Umeda OS Hotel,https://www.tripadvisor.com/Hotel_Review-g298566-d1084461-Reviews-Umeda_OS_Hotel-Osaka_Osaka_Prefecture_Kinki.html,3.5,3,530-0057,大阪府,大阪市,曽根崎2-11-5,,〒530-0057 大阪府大阪市北区曽根崎2-11-5,7551.0,17768.0,283
+3971,1647125,"弘前微笑酒店
+Smile Hotel Hirosaki",Smile Hotel Hirosaki,4.5,4.5,12082,4.5,4.5,4.5,6326.0,Smile Hotel Hirosaki,https://www.tripadvisor.com/Hotel_Review-g303161-d1075181-Reviews-Smile_Hotel_Hirosaki-Hirosaki_Aomori_Prefecture_Tohoku.html,4.0,183,036-8182,青森県,弘前市,土手町73-2,,〒036-8182 青森県弘前市土手町73-2,4701.0,19140.0,121
+3981,1647163,"札幌堇酒店
+Sapporo Sumire Hotel",Sapporo Sumire Hotel,4.3,4.3,3769,4.2,4.4,4.3,9558.0,Sapporo Sumire Hotel,https://www.tripadvisor.com/Hotel_Review-g298560-d1082817-Reviews-Sapporo_Sumire_Hotel-Sapporo_Hokkaido.html,3.5,21,060-0001,北海道,札幌市中央区,北1条西2丁目,,〒060-0001 北海道札幌市中央区北1条西2丁目,5599.0,22508.0,97
+4003,1647576,"彦根市舒适酒店
+Comfort Hotel Hikone",Comfort Hotel Hikone,4.5,4.3,15256,4.3,4.4,4.4,8110.0,Comfort Hotel Hikone,https://www.tripadvisor.com/Hotel_Review-g1023563-d1439838-Reviews-Comfort_Hotel_Hikone-Hikone_Shiga_Prefecture_Kinki.html,4.0,333,522-0010,滋賀県,彦根市,駅東町18-7,,〒522-0010 滋賀県彦根市駅東町18-7,6814.0,15304.0,154
+4006,1647806,"札幌美爵酒店
+Mercure Hotel Sapporo",Mercure Hotel Sapporo,4.8,4.6,3750,4.6,4.7,4.7,24429.0,Mercure Hotel Sapporo,https://www.tripadvisor.com/Hotel_Review-g298560-d1425917-Reviews-Mercure_Hotel_Sapporo-Sapporo_Hokkaido.html,4.5,21,064-0804,北海道,札幌市中央区,中央区南4条西2-2-4,,〒064-0804 北海道札幌市中央区中央区南4条西2-2-4,9630.0,34378.0,285
+4008,1648178,"冈山全日空皇冠假日酒店
+Ana Crowne Plaza Okayama",Ana Crowne Plaza Okayama,4.7,4.6,8803,4.3,4.7,4.6,10749.0,Ana Crowne Plaza Okayama,https://www.tripadvisor.com/Hotel_Review-g298134-d582420-Reviews-Ana_Crowne_Plaza_Okayama-Okayama_Okayama_Prefecture_Chugoku.html,4.5,94,700-0901,岡山県,岡山市,北区駅元町15-1,,〒700-0901 岡山県岡山市北区駅元町15-1,9512.0,29767.0,219
+4022,1648892,"新大阪西Via Inn酒店
+Via Inn Shin-Osaka West",Via Inn Shin-Osaka West,4.9,4.9,1281,4.7,4.9,4.8,17750.0,Via Inn Shin-Osaka West,https://www.tripadvisor.com/Hotel_Review-g298566-d1084465-Reviews-Via_Inn_Shin_Osaka_West-Osaka_Osaka_Prefecture_Kinki.html,3.5,3,532-0003,大阪府,大阪市淀川区,宮原4-1-21,,〒532-0003 大阪府大阪市淀川区宮原4-1-21,4775.0,14325.0,435
+4029,1649252,"海岸竹芝碧沙酒店
+Bayside Hotel Azur Takeshiba",Bayside Hotel Azur Takeshiba,4.5,4.6,272,4.3,4.6,4.5,8295.0,Bayside Hotel Azur Takeshiba,https://www.tripadvisor.com/Hotel_Review-g1066451-d601532-Reviews-Bayside_Hotel_Azur_Takeshiba-Minato_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,105-0022,東京都,港区,海岸1-11-2,,〒105-0022 東京都港区海岸1-11-2,9439.0,19767.0,118
+4037,1649449,"彩亭酒店
+Hotel Okabe Shiosaitei",Hotel Okabe Shiosaitei,4.3,4.3,13177,4.3,4.3,4.3,9752.0,Hotel Okabe Shiosaitei,https://www.tripadvisor.com/Hotel_Review-g298155-d1082404-Reviews-Hotel_Okabe_Shiosaitei-Wakkanai_Hokkaido.html,3.5,233,097-0022,北海道,稚内市,中央1-5-16,,〒097-0022 北海道稚内市中央1-5-16,9508.0,23602.0,36
+4040,1649500,"太阳珊瑚酒店
+Hotel Sun Coral",Hotel Sun Coral,4.0,4.0,3447,4.0,5.0,4.3,,Hotel Sun Coral,https://www.tripadvisor.com/Hotel_Review-g298224-d1080205-Reviews-Hotel_Sun_Coral-Naha_Okinawa_Prefecture_Kyushu_Okinawa.html,3.5,18,900-0032,沖縄県,那覇市,松山2-12-6,,〒900-0032 沖縄県那覇市松山2-12-6,4734.0,5064.0,41
+4056,1650224,"对马酒店
+Hotel Tsushima",Hotel Tsushima,5.0,5.0,12308,5.0,5.0,5.0,289750.0,Hotel Tsushima,https://www.tripadvisor.com/Hotel_Review-g1022846-d1085422-Reviews-Hotel_Tsushima-Tsushima_Nagasaki_Prefecture_Kyushu_Okinawa.html,3.0,191,817-0021,長崎県,対馬市,厳原町今屋敷765,,〒817-0021 長崎県対馬市厳原町今屋敷765,9396.0,21477.0,50
+4096,1654751,"香川郡坂出大酒店
+Sakaide Grand Hotel",Sakaide Grand Hotel,4.5,5.0,17025,4.5,4.5,4.6,9188.0,Sakaide Grand Hotel,https://www.tripadvisor.com/Hotel_Review-g1022917-d1072565-Reviews-Sakaide_Grand_Hotel-Sakaide_Kagawa_Prefecture_Shikoku.html,3.5,454,762-0053,香川県,坂出市,西大浜北 1-2-33,,〒762-0053 香川県坂出市西大浜北 1-2-33,5585.0,12846.0,119
+4101,1655037,"吴阪急酒店
+Kure Hankyu Hotel",Kure Hankyu Hotel,5.0,5.0,10735,4.7,4.7,4.8,12765.0,Kure Hankyu Hotel,https://www.tripadvisor.com/Hotel_Review-g1022430-d1050945-Reviews-Kure_Hankyu_Hotel-Kure_Hiroshima_Prefecture_Chugoku.html,4.0,144,737-0051,広島県,呉市,中央1-1-1,,〒737-0051 広島県呉市中央1-1-1,11193.0,34139.0,70
+4114,1656725,"东京第一酒店 鹤冈
+Tokyo Dai-Ichi Hotel Tsuruoka",Tokyo Dai-Ichi Hotel Tsuruoka,5.0,5.0,7570,5.0,5.0,5.0,9000.0,Tokyo Dai-Ichi Hotel Tsuruoka,https://www.tripadvisor.com/Hotel_Review-g1023682-d1073317-Reviews-Tokyo_Dai_Ichi_Hotel_Tsuruoka-Tsuruoka_Yamagata_Prefecture_Tohoku.html,4.0,72,997-0031,山形県,鶴岡市,錦町2-10,,〒997-0031 山形県鶴岡市錦町2-10,7056.0,15905.0,124
+4121,1660411,"草津温泉市井酒店
+Hotel Ichii",Hotel Ichii,4.5,4.5,5558,4.5,4.5,4.5,27000.0,Hotel Ichii,https://www.tripadvisor.com/Hotel_Review-g303152-d1124327-Reviews-Hotel_Ichii-Kusatsu_machi_Agatsuma_gun_Gunma_Prefecture_Kanto.html,4.0,41,377-1711,群馬県,吾妻郡草津町,草津411,,〒377-1711 群馬県吾妻郡草津町草津411,14442.0,59673.0,125
+4156,1675439,"东京穆提贝斯特韦斯特套房酒店
+Best Western Rembrandt Hotel Tokyo Machida",Best Western Rembrandt Hotel Tokyo Machida,4.4,4.4,19477,4.4,4.4,4.4,11856.0,Best Western Rembrandt Hotel Tokyo Machida,https://www.tripadvisor.com/Hotel_Review-g1060907-d1080769-Reviews-Best_Western_Rembrandt_Hotel_Tokyo_Machida-Machida_Tokyo_Prefecture_Kanto.html,3.5,696,194-0013,東京都,町田市,原町田3-2-9,,〒194-0013 東京都町田市原町田3-2-9,7708.0,15527.0,61
+4159,1675476,"市谷格兰山丘酒店
+Hotel Grand Hill Ichigaya",Hotel Grand Hill Ichigaya,4.6,4.6,372,4.5,4.7,4.6,12460.0,Hotel Grand Hill Ichigaya,https://www.tripadvisor.com/Hotel_Review-g1066457-d1115816-Reviews-Hotel_Grand_Hill_Ichigaya-Shinjuku_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,162-0845,東京都,新宿区,市谷本村町4-1,,〒162-0845 東京都新宿区市谷本村町4-1,9550.0,19323.0,161
+4160,1675565,"两国河流酒店
+Ryogoku River Hotel",Ryogoku River Hotel,4.8,4.5,637,4.2,4.5,4.5,9000.0,Ryogoku River Hotel,https://www.tripadvisor.com/Hotel_Review-g1066459-d1090628-Reviews-Ryogoku_River_Hotel-Sumida_Tokyo_Tokyo_Prefecture_Kanto.html,3.0,1,130-0026,東京都,墨田区,両国2-13-8,,〒130-0026 東京都墨田区両国2-13-8,6663.0,17213.0,97
+4163,1675705,"三之丸酒店
+Sannomaru Hotel",Sannomaru Hotel,5.0,5.0,12899,5.0,5.0,5.0,7500.0,Sannomaru Hotel,https://www.tripadvisor.com/Hotel_Review-g298166-d1057505-Reviews-Sannomaru_Hotel-Mito_Ibaraki_Prefecture_Kanto.html,4.0,216,310-0011,茨城県,水戸市,三の丸2-1-1,,〒310-0011 茨城県水戸市三の丸2-1-1,7494.0,14989.0,50
+4207,1677291,"胜川广场酒店
+Hotel Plaza Kachigawa",Hotel Plaza Kachigawa,4.8,5.0,20177,5.0,5.0,5.0,8000.0,Hotel Plaza Kachigawa,https://www.tripadvisor.com/Hotel_Review-g788302-d1074199-Reviews-Hotel_Plaza_Kachigawa-Kasugai_Aichi_Prefecture_Chubu.html,4.0,813,486-0931,愛知県,春日井市,松新町1-5,,〒486-0931 愛知県春日井市松新町1-5,6702.0,15639.0,90
+4222,1677550,"京都犀牛酒店
+Rhino Hotel Kyoto",Rhino Hotel Kyoto,4.7,4.8,852,4.7,4.9,4.8,,Rhino Hotel Kyoto,https://www.tripadvisor.com/Hotel_Review-g298564-d1071106-Reviews-Rhino_Hotel_Kyoto-Kyoto_Kyoto_Prefecture_Kinki.html,4.0,2,615-0021,京都府,京都市右京区,西院三蔵町17,,〒615-0021 京都府京都市右京区西院三蔵町17,5552.0,18545.0,85
+4238,1678457,"箱根汤本酒店
+Hakone Yumoto Hotel",Hakone Yumoto Hotel,4.7,4.9,2088,4.4,4.7,4.6,45000.0,Hakone Yumoto Hotel,https://www.tripadvisor.com/Hotel_Review-g298171-d1132688-Reviews-Hakone_Yumoto_Hotel-Hakone_machi_Ashigarashimo_gun_Kanagawa_Prefecture_Kanto.html,3.5,7,250-0312,神奈川県,足柄下郡箱根町,湯本茶屋97,,〒250-0312 神奈川県足柄下郡箱根町湯本茶屋97,20211.0,51083.0,40
+4243,1678519,"大阪KKR酒店
+KKR Hotel Osaka",KKR Hotel Osaka,4.6,4.8,1341,4.5,4.8,4.7,11793.0,KKR Hotel Osaka,https://www.tripadvisor.com/Hotel_Review-g298566-d1084485-Reviews-KKR_Hotel_Osaka-Osaka_Osaka_Prefecture_Kinki.html,3.5,3,540-0007,大阪府,大阪市中央区,馬場町2-24,,〒540-0007 大阪府大阪市中央区馬場町2-24,8329.0,22654.0,136
+4251,1678552,"松岛日式旅馆
+Matsushima Ichinobo",Matsushima Ichinobo,5.0,5.0,15235,5.0,5.0,5.0,23760.0,Matsushima Ichinobo,https://www.tripadvisor.com/Hotel_Review-g319095-d319856-Reviews-Matsushima_Ichinobo-Matsushima_machi_Miyagi_gun_Miyagi_Prefecture_Tohoku.html,4.0,332,981-0215,宮城県,宮城郡松島町,高城浜1-4,,〒981-0215 宮城県宮城郡松島町高城浜1-4,31836.0,92046.0,111
+4260,1678624,"月球海洋宜野湾公寓酒店
+Moon Ocean Ginowan Hotel & Residence",Moon Ocean Ginowan Hotel & Residence,4.5,4.7,14981,4.6,4.8,4.7,30684.0,Moon Ocean Ginowan Hotel & Residence,https://www.tripadvisor.com/Hotel_Review-g298222-d1737178-Reviews-Moon_Ocean_Ginowan_Hotel_Residence-Ginowan_Okinawa_Prefecture_Kyushu_Okinawa.html,4.5,317,901-2227,沖縄県,宜野湾市,宇地泊558-8,,〒901-2227 沖縄県宜野湾市宇地泊558-8,14969.0,59540.0,177
+4274,1679053,"新大阪酒店
+Shin Osaka Hotel",Shin Osaka Hotel,3.3,3.5,1339,3.3,3.4,3.4,17750.0,Shin Osaka Hotel,https://www.tripadvisor.com/Hotel_Review-g298566-d1094853-Reviews-Shin_Osaka_Hotel-Osaka_Osaka_Prefecture_Kinki.html,3.0,3,532-0011,大阪府,大阪市淀川区,西中島2-11-21,,〒532-0011 大阪府大阪市淀川区西中島2-11-21,5219.0,13992.0,108
+4287,1682919,"迦南酒店
+The Canaan Hotel",The Canaan Hotel,4.2,4.2,402,4.2,4.2,4.2,10600.0,The Canaan Hotel,https://www.tripadvisor.com/Hotel_Review-g1066454-d1083086-Reviews-The_Canaan_Hotel-Ota_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,144-0046,東京都,大田区,東六郷2-14-14,,〒144-0046 東京都大田区東六郷2-14-14,6219.0,11549.0,26
+4290,1683450,"东京新宿馨乐庭服务公寓
+Citadines Shinjuku Tokyo",Citadines Shinjuku Tokyo,4.4,4.3,335,4.4,4.6,4.4,35000.0,Citadines Shinjuku Tokyo,https://www.tripadvisor.com/Hotel_Review-g1066457-d1418991-Reviews-Citadines_Shinjuku_Tokyo-Shinjuku_Tokyo_Tokyo_Prefecture_Kanto.html,4.5,1,160-0022,東京都,新宿区,新宿1-28-13,,〒160-0022 東京都新宿区新宿1-28-13,13437.0,32982.0,160
+4296,1692339,"天王寺1-2-3酒店
+Hotel 1-2-3 Tennoji",Hotel 1-2-3 Tennoji,3.8,3.7,1412,3.6,3.9,3.7,6697.0,Hotel 1-2-3 Tennoji,https://www.tripadvisor.com/Hotel_Review-g298566-d1083257-Reviews-Hotel_1_2_3_Tennoji-Osaka_Osaka_Prefecture_Kinki.html,3.5,3,543-0045,大阪府,大阪市,天王寺区寺田町2-3-14,,〒543-0045 大阪府大阪市天王寺区寺田町2-3-14,5330.0,11216.0,60
+4308,1707477,"新大阪站附属酒店
+Shin-Osaka Station Hotel Annex",Shin-Osaka Station Hotel Annex,4.4,4.4,1260,4.1,4.4,4.3,22224.0,Shin-Osaka Station Hotel Annex,https://www.tripadvisor.com/Hotel_Review-g298566-d1084422-Reviews-Shin_Osaka_Station_Hotel_Annex-Osaka_Osaka_Prefecture_Kinki.html,4.0,3,533-0033,大阪府,大阪市,東淀川区東中島1-15-2,,〒533-0033 大阪府大阪市東淀川区東中島1-15-2,7662.0,24764.0,76
+4320,1709763,"丸一酒店
+Maruichi Hotel",Maruichi Hotel,3.8,3.8,1334,3.6,3.6,3.7,7800.0,Maruichi Hotel,https://www.tripadvisor.com/Hotel_Review-g298566-d1094888-Reviews-Maruichi_Hotel-Osaka_Osaka_Prefecture_Kinki.html,3.5,3,530-0056,大阪府,大阪市北区,兎我野町12-15,,〒530-0056 大阪府大阪市北区兎我野町12-15,5664.0,11549.0,43
+4340,1721125,"东京诗颖洲际酒店
+The Strings by InterContinental Tokyo",The Strings by InterContinental Tokyo,4.8,4.7,30,4.6,4.8,4.7,27052.0,The Strings by InterContinental Tokyo,https://www.tripadvisor.com/Hotel_Review-g1066451-d300471-Reviews-The_Strings_by_InterContinental_Tokyo-Minato_Tokyo_Tokyo_Prefecture_Kanto.html,4.5,1,108-0075,東京都,港区,港南2-16-1,品川イーストワンタワー26-32F,〒108-0075 東京都港区港南2-16-1品川イーストワンタワー26-32F,28984.0,78845.0,203
+4344,1721947,"酒井舒适酒店
+Comfort Hotel Sakai",Comfort Hotel Sakai,4.3,4.3,16053,4.3,4.3,4.3,7533.0,Comfort Hotel Sakai,https://www.tripadvisor.com/Hotel_Review-g654326-d1177852-Reviews-Comfort_Hotel_Sakai-Sakai_Osaka_Prefecture_Kinki.html,4.0,381,590-0972,大阪府,堺市,竜神橋町1-5-1,,〒590-0972 大阪府堺市堺区竜神橋町1-5-1,6367.0,15304.0,119
+4354,1729547,"大阪天王寺超级酒店
+Super Hotel Osaka Tennoji",Super Hotel Osaka Tennoji,4.4,4.4,1336,4.1,4.4,4.3,10866.0,Super Hotel Osaka Tennoji,https://www.tripadvisor.com/Hotel_Review-g298566-d1132546-Reviews-Super_Hotel_Osaka_Tennoji-Osaka_Osaka_Prefecture_Kinki.html,4.0,3,543-0062,大阪府,大阪市,天王寺区逢阪2-3-3,,〒543-0062 大阪府大阪市天王寺区逢阪2-3-3,6663.0,14214.0,124
+4362,1734860,"东京汤姆斯酒店
+Hotel Toms",Hotel Toms,3.1,3.5,370,2.9,3.2,3.2,5000.0,Hotel Toms,https://www.tripadvisor.com/Hotel_Review-g1066454-d1083072-Reviews-Hotel_Toms-Ota_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,144-0051,東京都,大田区,西蒲田7-21-5,,〒144-0051 東京都大田区西蒲田7-21-5,6108.0,14547.0,46
+4366,1734873,"麻布奥林匹克旅馆
+Olympic Inn Azabu",Olympic Inn Azabu,4.8,4.6,174,4.5,4.6,4.6,5724.0,Olympic Inn Azabu,https://www.tripadvisor.com/Hotel_Review-g1066451-d1092328-Reviews-Olympic_Inn_Azabu-Minato_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,106-0047,東京都,港区,南麻布1-7-37,,〒106-0047 東京都港区南麻布1-7-37,5441.0,15436.0,85
+4376,1734899,"中央大酒店
+Grand Central Hotel",Grand Central Hotel,4.6,4.5,276,4.4,4.6,4.5,10448.0,Grand Central Hotel,https://www.tripadvisor.com/Hotel_Review-g1066443-d565420-Reviews-Grand_Central_Hotel-Chiyoda_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,101-0048,東京都,千代田区,神田司町2-2,,〒101-0048 東京都千代田区神田司町2-2,6996.0,16435.0,157
+4377,1734901,"七海银座酒店
+Hotel Seven Seas Ginza",Hotel Seven Seas Ginza,3.5,3.6,209,3.7,3.6,3.6,8750.0,Hotel Seven Seas Ginza,https://www.tripadvisor.com/Hotel_Review-g1066444-d1485328-Reviews-Hotel_Seven_Seas_Ginza-Chuo_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,104-0041,東京都,中央区,新富2-2-2,,〒104-0041 東京都中央区新富2-2-2,5775.0,99389.0,43
+4384,1740361,"中央商务酒店
+Business Hotel Chuo",Business Hotel Chuo,4.5,4.5,1304,4.2,4.2,4.3,4266.0,Business Hotel Chuo,https://www.tripadvisor.com/Hotel_Review-g298566-d626223-Reviews-Business_Hotel_Chuo-Osaka_Osaka_Prefecture_Kinki.html,4.0,3,557-0002,大阪府,大阪市浪速区,西成区太子1-1-12,,〒557-0002 大阪府大阪市浪速区西成区太子1-1-12,2554.0,7662.0,115
+4389,1740750,"近畿酒店
+Hotel Kinki",Hotel Kinki,4.2,4.2,1335,4.2,4.3,4.2,6780.0,Hotel Kinki,https://www.tripadvisor.com/Hotel_Review-g298566-d1063385-Reviews-Hotel_Kinki-Osaka_Osaka_Prefecture_Kinki.html,4.0,3,530-0027,大阪府,大阪市北区,堂山町17-8,,〒530-0027 大阪府大阪市北区堂山町17-8,6885.0,14992.0,61
+4392,1741043,"大阪科罗纳酒店
+Osaka Corona Hotel",Osaka Corona Hotel,3.0,2.7,1415,2.7,3.3,2.9,7950.0,Osaka Corona Hotel,https://www.tripadvisor.com/Hotel_Review-g298566-d1083644-Reviews-Osaka_Corona_Hotel-Osaka_Osaka_Prefecture_Kinki.html,3.5,3,533-0031,大阪府,大阪市東淀川区,西淡路1-3-21,,〒533-0031 大阪府大阪市東淀川区西淡路1-3-21,5664.0,17990.0,132
+4412,1761498,"冲绳丽思卡尔顿酒店
+The Ritz-Carlton, Okinawa","The Ritz-Carlton, Okinawa",4.6,4.8,11530,4.7,4.9,4.8,101775.0,"The Ritz-Carlton, Okinawa",https://www.tripadvisor.com/Hotel_Review-g1023465-d2528913-Reviews-The_Ritz_Carlton_Okinawa-Nago_Okinawa_Prefecture_Kyushu_Okinawa.html,4.5,165,905-0026,沖縄県,名護市,喜瀬1343-1,,〒905-0026 沖縄県名護市喜瀬1343-1,38281.0,163421.0,97
+4435,1862013,"东京神田舒适酒店
+Comfort Hotel Tokyo Kanda",Comfort Hotel Tokyo Kanda,4.3,4.3,309,4.3,4.4,4.3,9291.0,Comfort Hotel Tokyo Kanda,https://www.tripadvisor.com/Hotel_Review-g1066443-d1025992-Reviews-Comfort_Hotel_Tokyo_Kanda-Chiyoda_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,101-0042,東京都,千代田区,神田東松下町11-2,,〒101-0042 東京都千代田区神田東松下町11-2,8884.0,16991.0,103
+4437,1877325,"新大阪酒店
+Hotel Shin Osaka",Hotel Shin Osaka,4.6,4.5,1307,4.3,4.4,4.5,17750.0,Hotel Shin Osaka,https://www.tripadvisor.com/Hotel_Review-g298566-d619195-Reviews-Hotel_Shin_Osaka-Osaka_Osaka_Prefecture_Kinki.html,3.5,3,533-0033,大阪府,大阪市東淀川区,東中島1-20-33,,〒533-0033 大阪府大阪市東淀川区東中島1-20-33,6441.0,17213.0,96
+4442,1916427,"奥利安酒店本部度假村
+Hotel Orion Motobu Resort & Spa",Hotel Orion Motobu Resort & Spa,4.7,4.9,9143,4.9,4.9,4.9,32724.0,Hotel Orion Motobu Resort & Spa,https://www.tripadvisor.com/Hotel_Review-g1120808-d6487730-Reviews-Hotel_Orion_Motobu_Resort_Spa-Motobu_cho_Kunigami_gun_Okinawa_Prefecture_Kyushu_Okina.html,4.5,100,905-0207,沖縄県,国頭郡本部町,備瀬148-1,,〒905-0207 沖縄県国頭郡本部町備瀬148-1,22717.0,95233.0,238
+4443,1921500,"博多舒适酒店
+Comfort Hotel Hakata",Comfort Hotel Hakata,4.8,4.4,3239,4.1,4.3,4.4,8200.0,Comfort Hotel Hakata,https://www.tripadvisor.com/Hotel_Review-g298207-d558326-Reviews-Comfort_Hotel_Hakata-Fukuoka_Fukuoka_Prefecture_Kyushu_Okinawa.html,3.5,17,812-0011,福岡県,福岡市,博多区博多駅前2-1-1,,〒812-0011 福岡県福岡市博多区博多駅前2-1-1,7155.0,18824.0,242
+4449,1978147,"东京四谷永安国际高级酒店
+Hotel Wing International Premium Tokyo Yotsuya",Hotel Wing International Premium Tokyo Yotsuya,4.7,4.6,99,4.4,4.6,4.6,17427.0,Hotel Wing International Premium Tokyo Yotsuya,https://www.tripadvisor.com/Hotel_Review-g1066457-d307344-Reviews-Hotel_Wing_International_Premium_Tokyo_Yotsuya-Shinjuku_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,160-0004,東京都,新宿区,四谷3-14-1,,〒160-0004 東京都新宿区四谷3-14-1,9106.0,98834.0,JapanKantoTokyo PrefectureTokyoShinjukuShinjuku
+4453,2031711,"新盖亚博多驿南酒店
+Hotel New Gaea Hakata-Eki Minami",Hotel New Gaea Hakata-Eki Minami,4.1,4.2,3254,4.2,4.1,4.1,5666.0,Hotel New Gaea Hakata-Eki Minami,https://www.tripadvisor.com/Hotel_Review-g298207-d2202413-Reviews-Hotel_New_Gaea_Hakata_Eki_Minami-Fukuoka_Fukuoka_Prefecture_Kyushu_Okinawa.html,4.0,17,812-0011,福岡県,福岡市博多区博多駅前,4-16-6,,〒812-0011 福岡県福岡市博多区博多駅前4-16-6,4844.0,14311.0,54
+4462,2073378,"新奥特酒店
+Hotel New Ohte",Hotel New Ohte,4.5,4.4,6612,4.2,4.5,4.4,7749.0,Hotel New Ohte,https://www.tripadvisor.com/Hotel_Review-g298151-d1081813-Reviews-Hotel_New_Ohte-Hakodate_Hokkaido.html,3.5,57,040-0063,北海道,函館市,若松町8番8号,,〒040-0063 北海道函館市若松町8番8号,5374.0,11867.0,45
+4514,2105672,"神箭酒店
+Arrow Hotel",Arrow Hotel,4.5,4.5,1366,4.2,4.6,4.4,7800.0,Arrow Hotel,https://www.tripadvisor.com/Hotel_Review-g298566-d1081246-Reviews-Arrow_Hotel-Osaka_Osaka_Prefecture_Kinki.html,3.5,3,542-0086,大阪府,大阪市中央区,西心斎橋2-9-32,,〒542-0086 大阪府大阪市中央区西心斎橋2-9-32,6441.0,12882.0,67
+4539,2141090,"京都格兰爱慕斯酒店
+Hotel Gran Ms Kyoto",Hotel Gran Ms Kyoto,4.8,4.7,847,4.6,4.8,4.7,7401.0,Hotel Gran Ms Kyoto,https://www.tripadvisor.com/Hotel_Review-g298564-d7109210-Reviews-Hotel_Gran_Ms_Kyoto-Kyoto_Kyoto_Prefecture_Kinki.html,4.0,2,604-8006,京都府,京都市中京区,河原町通三条上ル下丸屋町410-3,,〒604-8006 京都府京都市中京区河原町通三条上ル下丸屋町410-3,4442.0,28207.0,130
+4594,2197608,"东京目白里奇蒙德酒店
+Richmond Hotel Tokyo Mejiro",Richmond Hotel Tokyo Mejiro,4.5,4.5,169,4.5,4.6,4.5,7973.0,Richmond Hotel Tokyo Mejiro,https://www.tripadvisor.com/Hotel_Review-g1066460-d1085836-Reviews-Richmond_Hotel_Tokyo_Mejiro-Toshima_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,171-0031,東京都,豊島区,目白3-5-14,,〒171-0031 東京都豊島区目白3-5-14,8884.0,19989.0,120
+4598,2197809,"佐贺舒适酒店
+Comfort Hotel Saga",Comfort Hotel Saga,4.8,4.8,12340,4.5,4.8,4.7,7600.0,Comfort Hotel Saga,https://www.tripadvisor.com/Hotel_Review-g298227-d676405-Reviews-Comfort_Hotel_Saga-Saga_Saga_Prefecture_Kyushu_Okinawa.html,4.0,193,840-0801,佐賀県,佐賀市,駅前中央1-14-38,,〒840-0801 佐賀県佐賀市駅前中央1-14-38,7159.0,15548.0,134
+4616,2198496,"天原梦泉景别墅酒店
+Yumesenkei Besso Amahara",Yumesenkei Besso Amahara,3.7,4.3,6694,4.3,4.2,4.1,53732.0,Yumesenkei Besso Amahara,https://www.tripadvisor.com/Hotel_Review-g1022843-d1874630-Reviews-Yumesenkei_Besso_Amahara-Sumoto_Awaji_shima_Hyogo_Prefecture_Kinki.html,4.5,58,656-0023,兵庫県,洲本市,小路谷1052-2,,〒656-0023 兵庫県洲本市小路谷1052-2,45007.0,97850.0,18
+4639,2199102,"里士满东京水道桥酒店
+Richmond Hotel Tokyo Suidobashi",Richmond Hotel Tokyo Suidobashi,4.5,4.5,193,4.7,4.8,4.6,10383.0,Richmond Hotel Tokyo Suidobashi,https://www.tripadvisor.com/Hotel_Review-g1066442-d7034584-Reviews-Richmond_Hotel_Tokyo_Suidobashi-Bunkyo_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,113-0033,東京都,文京区,本郷1-33-9,,〒113-0033 東京都文京区本郷1-33-9,9661.0,24764.0,196
+4643,2199155,"UNIZO酒店-京都四条乌丸
+HOTEL UNIZO Kyoto Shijo Karasuma",HOTEL UNIZO Kyoto Shijo Karasuma,4.7,4.6,881,4.5,4.7,4.7,6162.0,HOTEL UNIZO Kyoto Shijo Karasuma,https://www.tripadvisor.com/Hotel_Review-g298564-d6959138-Reviews-HOTEL_UNIZO_Kyoto_Shijo_Karasuma-Kyoto_Kyoto_Prefecture_Kinki.html,4.0,2,600-8493,京都府,京都市下京区,四条通西洞院東入郭巨山町8番外,,〒600-8493 京都府京都市下京区四条通西洞院東入郭巨山町8番外,6441.0,21433.0,281
+4660,2199510,"雅蓓丝塔那霸国际大道店
+Hotel Abest Naha Kokusaidori",Hotel Abest Naha Kokusaidori,4.7,4.6,3417,4.3,4.6,4.6,19048.0,Hotel Abest Naha Kokusaidori,https://www.tripadvisor.com/Hotel_Review-g298224-d6996927-Reviews-Hotel_Abest_Naha_Kokusaidori-Naha_Okinawa_Prefecture_Kyushu_Okinawa.html,3.5,18,900-0015,沖縄県,那覇市,久茂地3-1-10,,〒900-0015 沖縄県那覇市久茂地3-1-10,6825.0,32475.0,JapanOkinawa PrefectureNaha
+4670,2199733,"大阪国际交流酒店
+Hotel International House Osaka",Hotel International House Osaka,4.6,4.6,1337,4.5,4.6,4.6,7394.0,Hotel International House Osaka,https://www.tripadvisor.com/Hotel_Review-g298566-d310293-Reviews-Hotel_International_House_Osaka-Osaka_Osaka_Prefecture_Kinki.html,3.5,3,543-0001,大阪府,大阪市天王寺区,天王寺区上本町 8-2-6,,〒543-0001 大阪府大阪市天王寺区天王寺区上本町 8-2-6,6866.0,15061.0,50
+4677,2204578,"贝里诺一关酒店
+Bellino Hotel Ichinoseki",Bellino Hotel Ichinoseki,3.0,5.0,11855,5.0,5.0,4.5,8880.0,Bellino Hotel Ichinoseki,https://www.tripadvisor.com/Hotel_Review-g1022875-d1073777-Reviews-Bellino_Hotel_Ichinoseki-Ichinoseki_Iwate_Prefecture_Tohoku.html,3.5,176,021-0051,岩手県,一関市,山目三反田179,,〒021-0051 岩手県一関市山目三反田179,8171.0,18357.0,46
+4681,2216506,"哈托娅酒店
+Hatoya Hotel",Hatoya Hotel,4.1,4.3,615,4.1,4.2,4.1,6852.0,Hatoya Hotel,https://www.tripadvisor.com/Hotel_Review-g1066460-d3475776-Reviews-Hatoya_Hotel-Toshima_Tokyo_Tokyo_Prefecture_Kanto.html,3.0,1,171-0014,東京都,豊島区,池袋2-56-2,,〒171-0014 東京都豊島区池袋2-56-2,5886.0,9883.0,13
+4685,2230132,"冈山皇家酒店
+Okayama Royal Hotel",Okayama Royal Hotel,3.8,4.0,8846,3.7,4.0,3.9,7546.0,Okayama Royal Hotel,https://www.tripadvisor.com/Hotel_Review-g298134-d505110-Reviews-Okayama_Royal_Hotel-Okayama_Okayama_Prefecture_Chugoku.html,3.0,94,700-0028,岡山県,岡山市,北区絵図町2-4,,〒700-0028 岡山県岡山市北区絵図町2-4,6267.0,16562.0,159
+4705,2315784,"长野大都会大饭店
+Hotel Metropolitan Nagano",Hotel Metropolitan Nagano,4.8,4.7,5960,4.6,4.7,4.7,11291.0,Hotel Metropolitan Nagano,https://www.tripadvisor.com/Hotel_Review-g298565-d306463-Reviews-Hotel_Metropolitan_Nagano-Nagano_Nagano_Prefecture_Chubu.html,4.0,45,380-0824,長野県,長野市,南石堂町1346,,〒380-0824 長野県長野市南石堂町1346,8733.0,26310.0,235
+4725,2356539,"名古屋Chisun Inn酒店
+Chisun Inn Nagoya",Chisun Inn Nagoya,4.5,4.5,3630,4.1,4.5,4.4,8490.0,Chisun Inn Nagoya,https://www.tripadvisor.com/Hotel_Review-g298106-d481478-Reviews-Chisun_Inn_Nagoya-Nagoya_Aichi_Prefecture_Chubu.html,3.0,20,453-0014,愛知県,名古屋市,中村区則武1-12-8,,〒453-0014 愛知県名古屋市中村区則武1-12-8,5823.0,14334.0,375
+4740,2485214,"御宿凯卡酒店
+Oyado Kaikatei",Oyado Kaikatei,4.5,4.6,4059,4.6,4.6,4.6,,Oyado Kaikatei,https://www.tripadvisor.com/Hotel_Review-g1023445-d1626673-Reviews-Oyado_Kaikatei-Yufu_Oita_Prefecture_Kyushu_Okinawa.html,5.0,23,879-5102,大分県,由布市,湯布院町川上馬場2150,,〒879-5102 大分県由布市湯布院町川上馬場2150,34155.0,55767.0,6
+4763,2495183,"小田急山酒店
+Odakyu Hotel de Yama",Odakyu Hotel de Yama,4.8,4.7,2120,4.6,4.9,4.8,22230.0,Odakyu Hotel de Yama,https://www.tripadvisor.com/Hotel_Review-g298171-d634775-Reviews-Odakyu_Hotel_de_Yama-Hakone_machi_Ashigarashimo_gun_Kanagawa_Prefecture_Kanto.html,4.5,7,250-0522,神奈川県,足柄下郡箱根町,元箱根80,,〒250-0522 神奈川県足柄下郡箱根町元箱根80,26800.0,62237.0,89
+4764,2496417,"京都中心旅舍
+Kyoto Central Inn",Kyoto Central Inn,4.4,4.4,980,4.3,4.4,4.4,6124.0,Kyoto Central Inn,https://www.tripadvisor.com/Hotel_Review-g298564-d321369-Reviews-Kyoto_Central_Inn-Kyoto_Kyoto_Prefecture_Kinki.html,3.5,2,600-8002,京都府,京都市下京区,四条寺町東入ル御旅町30,,〒600-8002 京都府京都市下京区四条寺町東入ル御旅町30,7773.0,17435.0,138
+4782,2505153,"札幌贝子酒店
+Hotel Kaiko Sapporo",Hotel Kaiko Sapporo,4.2,4.2,3735,4.2,4.2,4.2,7327.0,Hotel Kaiko Sapporo,https://www.tripadvisor.com/Hotel_Review-g298560-d4711892-Reviews-Hotel_Kaiko_Sapporo-Sapporo_Hokkaido.html,3.5,21,064-0807,北海道,札幌市中央区,南7条西5-1-7,,〒064-0807 北海道札幌市中央区南7条西5-1-7,4031.0,49048.0,96
+4796,2506811,"普莱姆富山酒店
+Hotel Prime Toyama",Hotel Prime Toyama,4.4,4.4,8266,4.2,4.4,4.3,8624.0,Hotel Prime Toyama,https://www.tripadvisor.com/Hotel_Review-g298126-d1079545-Reviews-Hotel_Prime_Toyama-Toyama_Toyama_Prefecture_Chubu.html,4.0,84,930-0003,富山県,富山市,桜町2-3-25,,〒930-0003 富山県富山市桜町2-3-25,6491.0,12869.0,153
+4846,2512792,"四日市莱尔酒店
+Reiah Hotel Yokkaichi",Reiah Hotel Yokkaichi,3.9,3.9,14847,3.9,3.9,3.9,6213.0,Reiah Hotel Yokkaichi,https://www.tripadvisor.com/Hotel_Review-g1019680-d1073553-Reviews-Reiah_Hotel_Yokkaichi-Yokkaichi_Mie_Prefecture_Chubu.html,4.0,310,510-0074,三重県,四日市市,鵜の森1-3-19,,〒510-0074 三重県四日市市鵜の森1-3-19,4692.0,9942.0,86
+4872,2548357,"彦根车站酒店
+Hikone Station Hotel",Hikone Station Hotel,3.5,3.5,15258,3.5,3.5,3.5,4167.0,Hikone Station Hotel,https://www.tripadvisor.com/Hotel_Review-g1023563-d1063397-Reviews-Hikone_Station_Hotel-Hikone_Shiga_Prefecture_Kinki.html,3.0,333,522-0007,滋賀県,彦根市,古沢町677,,〒522-0007 滋賀県彦根市古沢町677,4580.0,8266.0,120
+4882,2549389,"川崎王宝中心大酒店
+Kawasaki Central Hotel",Kawasaki Central Hotel,4.1,4.2,9853,4.1,4.1,4.1,6400.0,Kawasaki Central Hotel,https://www.tripadvisor.com/Hotel_Review-g298172-d1089971-Reviews-Kawasaki_Central_Hotel-Kawasaki_Kanagawa_Prefecture_Kanto.html,3.5,120,210-0005,神奈川県,川崎市,川崎区東田町9-1,,〒210-0005 神奈川県川崎市川崎区東田町9-1,6267.0,7945.0,120
+4908,2552300,"蒙瑟雷顿酒店
+Hotel Monselaton",Hotel Monselaton,3.9,3.9,11583,3.8,3.8,3.9,6946.0,Hotel Monselaton,https://www.tripadvisor.com/Hotel_Review-g298158-d1087762-Reviews-Hotel_Monselaton-Chiba_Chiba_Prefecture_Kanto.html,3.0,167,260-0021,千葉県,千葉市,中央区新宿2-5-1,,〒260-0021 千葉県千葉市中央区新宿2-5-1,6828.0,16678.0,37
+4939,2561446,"大和花园酒店
+Garden Hotel Yamato",Garden Hotel Yamato,2.7,2.8,15264,2.7,2.7,2.7,9261.0,Garden Hotel Yamato,https://www.tripadvisor.com/Hotel_Review-g1023563-d325787-Reviews-Garden_Hotel_Yamato-Hikone_Shiga_Prefecture_Kinki.html,3.0,333,522-0021,滋賀県,彦根市,幸町76,,〒522-0021 滋賀県彦根市幸町76,4468.0,14075.0,42
+4957,2563814,"名古屋伏见桑科旅馆
+Sanco Inn Nagoya Fushimi",Sanco Inn Nagoya Fushimi,4.0,4.0,3562,4.0,4.0,4.0,,Sanco Inn Nagoya Fushimi,https://www.tripadvisor.com/Hotel_Review-g298106-d1112103-Reviews-Sanco_Inn_Nagoya_Fushimi-Nagoya_Aichi_Prefecture_Chubu.html,4.0,20,460-0008,愛知県,名古屋市,中区栄1-7-7,,〒460-0008 愛知県名古屋市中区栄1-7-7,5151.0,11534.0,147
+4961,2564146,"名古屋新罗伦酒店
+Nagoya New Rolen Hotel",Nagoya New Rolen Hotel,3.5,3.5,3637,3.5,3.5,3.5,4100.0,Nagoya New Rolen Hotel,https://www.tripadvisor.com/Hotel_Review-g298106-d1080492-Reviews-Nagoya_New_Rolen_Hotel-Nagoya_Aichi_Prefecture_Chubu.html,3.0,20,460-0003,愛知県,名古屋市,中区錦1-8-40,,〒460-0003 愛知県名古屋市中区錦1-8-40,3583.0,8287.0,117
+4990,2646531,"银座大荣酒店
+Hotel Ginza Daiei",Hotel Ginza Daiei,4.0,4.0,367,4.0,4.0,4.0,7340.0,Hotel Ginza Daiei,https://www.tripadvisor.com/Hotel_Review-g1066444-d1082838-Reviews-Hotel_Ginza_Daiei-Chuo_Tokyo_Tokyo_Prefecture_Kanto.html,4.0,1,104-0061,東京都,中央区,銀座3-12-1,,〒104-0061 東京都中央区銀座3-12-1,7551.0,19100.0,126
+5033,2846027,"河口湖布瑞百湖度假酒店
+Breezbay Lake Resort Kawaguchiko",Breezbay Lake Resort Kawaguchiko,4.3,4.1,2405,3.7,4.3,4.1,17949.0,Breezbay Lake Resort Kawaguchiko,https://www.tripadvisor.com/Hotel_Review-g1165976-d1167574-Reviews-Breezbay_Lake_Resort_Kawaguchiko-Fujikawaguchiko_machi_Minamitsuru_gun_Yamanashi_Pref.html,3.5,9,401-0303,山梨県,南都留郡富士河口湖町,浅川1132-1,,〒401-0303 山梨県南都留郡富士河口湖町浅川1132-1,13770.0,57746.0,47
+5049,2858283,"新馆海洋酒店
+Marine Hotel Shinkan",Marine Hotel Shinkan,3.1,3.1,3290,3.1,3.1,3.1,,Marine Hotel Shinkan,https://www.tripadvisor.com/Hotel_Review-g298207-d558267-Reviews-Marine_Hotel_Shinkan-Fukuoka_Fukuoka_Prefecture_Kyushu_Okinawa.html,3.5,17,812-0023,福岡県,福岡市,博多区奈良屋町10-21,,〒812-0023 福岡県福岡市博多区奈良屋町10-21,3523.0,40731.0,90
+5071,2892458,"东京宝石饭店
+Hotel Sardonyx Tokyo",Hotel Sardonyx Tokyo,4.8,4.9,79,4.8,4.8,4.8,10670.0,Hotel Sardonyx Tokyo,https://www.tripadvisor.com/Hotel_Review-g1066444-d1105294-Reviews-Hotel_Sardonyx_Tokyo-Chuo_Tokyo_Tokyo_Prefecture_Kanto.html,4.5,1,104-0032,東京都,中央区,八丁堀1-13-7,,〒104-0032 東京都中央区八丁堀1-13-7,9439.0,22987.0,135
+5090,3042111,"奥飞弹药师之汤 本阵
+Okuhida Yakushi No Yu Honjin",Okuhida Yakushi No Yu Honjin,3.7,3.7,1897,3.6,3.7,3.7,22613.0,Okuhida Yakushi No Yu Honjin,https://www.tripadvisor.com/Hotel_Review-g298113-d1076537-Reviews-Okuhida_Yakushi_No_Yu_Honjin-Takayama_Gifu_Prefecture_Chubu.html,4.0,6,506-1432,岐阜県,高山市,奥飛騨温泉郷一重ケ根208-48,,〒506-1432 岐阜県高山市奥飛騨温泉郷一重ケ根208-48,11882.0,42199.0,60
+5109,3067052,"京都怀特酒店
+Kyoto White Hotel",Kyoto White Hotel,4.7,4.7,932,4.5,4.7,4.6,9079.0,Kyoto White Hotel,https://www.tripadvisor.com/Hotel_Review-g298564-d324042-Reviews-Kyoto_White_Hotel-Kyoto_Kyoto_Prefecture_Kinki.html,3.5,2,600-8216,京都府,京都市下京区,下京区東塩小路町556-1,,〒600-8216 京都府京都市下京区下京区東塩小路町556-1,4775.0,13104.0,36
+5156,3106223,"迭戈酒店
+Deigo Hotel",Deigo Hotel,3.9,4.0,13947,4.0,4.0,4.0,9898.0,Deigo Hotel,https://www.tripadvisor.com/Hotel_Review-g298225-d1145393-Reviews-Deigo_Hotel-Okinawa_Okinawa_Prefecture_Kyushu_Okinawa.html,4.0,265,904-0004,沖縄県,沖縄市,中央3-4-2,,〒904-0004 沖縄県沖縄市中央3-4-2,7718.0,10291.0,54
+5176,3110394,"神户西神东方饭店
+Kobe Seishin Oriental Hotel",Kobe Seishin Oriental Hotel,4.5,4.5,6081,4.5,4.8,4.6,10670.0,Kobe Seishin Oriental Hotel,https://www.tripadvisor.com/Hotel_Review-g298562-d1068162-Reviews-Kobe_Seishin_Oriental_Hotel-Kobe_Hyogo_Prefecture_Kinki.html,4.0,46,651-2273,兵庫県,神戸市西区,糀台5-6-3,,〒651-2273 兵庫県神戸市西区糀台5-6-3,7501.0,23847.0,184
+5200,3123166,"沼津寇寇奇酒店
+Cocochee Hotel Numazu",Cocochee Hotel Numazu,4.5,4.4,7631,4.4,4.6,4.5,9528.0,Cocochee Hotel Numazu,https://www.tripadvisor.com/Hotel_Review-g1019668-d2465799-Reviews-Cocochee_Hotel_Numazu-Numazu_Shizuoka_Prefecture_Chubu.html,4.5,73,410-0056,静岡県,沼津市,高島町1-12,,〒410-0056 静岡県沼津市高島町1-12,7165.0,20600.0,140
+5215,3123578,"筑波马一酒店
+Hotel Mark-1 Tsukuba",Hotel Mark-1 Tsukuba,4.3,4.3,14098,4.3,4.3,4.3,8380.0,Hotel Mark-1 Tsukuba,https://www.tripadvisor.com/Hotel_Review-g298167-d1909184-Reviews-Hotel_Mark_1_Tsukuba-Tsukuba_Ibaraki_Prefecture_Kanto.html,4.5,272,305-0817,茨城県,つくば市,研究学園5-13-5,,〒305-0817 茨城県つくば市研究学園5-13-5,6823.0,10515.0,161
+5225,3124302,"上田站前皇家酒店
+Ueda Ekimae Royal Hotel",Ueda Ekimae Royal Hotel,3.7,3.6,6312,3.5,3.6,3.6,5008.0,Ueda Ekimae Royal Hotel,https://www.tripadvisor.com/Hotel_Review-g1021326-d1081825-Reviews-Ueda_Ekimae_Royal_Hotel-Ueda_Nagano_Prefecture_Chubu.html,3.0,51,386-0025,長野県,上田市,天神1-2-31,,〒386-0025 長野県上田市天神1-2-31,4254.0,12315.0,34
+5250,3150163,"皇家酒店
+Royal Hotel",Royal Hotel,3.8,3.9,13940,3.8,3.8,3.8,4909.0,Royal Hotel,https://www.tripadvisor.com/Hotel_Review-g1120814-d1158601-Reviews-Royal_Hotel-Yomitan_son_Nakagami_gun_Okinawa_Prefecture_Kyushu_Okinawa.html,4.0,265,904-0304,沖縄県,中頭郡読谷村,楚辺1315,,〒904-0304 沖縄県中頭郡読谷村楚辺1315,8613.0,27517.0,40
+5261,3150670,"清水城大酒店
+Shimizu City Hotel",Shimizu City Hotel,3.9,4.3,6834,4.3,4.3,4.2,6668.0,Shimizu City Hotel,https://www.tripadvisor.com/Hotel_Review-g298124-d1138140-Reviews-Shimizu_City_Hotel-Shizuoka_Shizuoka_Prefecture_Chubu.html,3.5,60,424-0816,静岡県,静岡市,清水区真砂町2-2,,〒424-0816 静岡県静岡市清水区真砂町2-2,5486.0,11084.0,92
+5265,3151651,"秋田阿尔法酒店
+Hotel Alpha Inn Akita",Hotel Alpha Inn Akita,3.7,3.7,10871,3.7,3.7,3.7,6229.0,Hotel Alpha Inn Akita,https://www.tripadvisor.com/Hotel_Review-g298239-d1082071-Reviews-Hotel_Alpha_Inn_Akita-Akita_Akita_Prefecture_Tohoku.html,3.0,147,010-0922,秋田県,秋田市,旭北栄町1-48,,〒010-0922 秋田県秋田市旭北栄町1-48,4253.0,7611.0,52
+5295,3156747,"美图庭院酒店
+Court Hotel Mito",Court Hotel Mito,4.1,3.9,12893,3.9,4.0,4.0,4001.0,Court Hotel Mito,https://www.tripadvisor.com/Hotel_Review-g298166-d1075232-Reviews-Court_Hotel_Mito-Mito_Ibaraki_Prefecture_Kanto.html,3.5,216,310-0803,茨城県,水戸市,城南2-8-22,,〒310-0803 茨城県水戸市城南2-8-22,2013.0,21365.0,236
+5310,3157648,"高田码头酒店
+Takada Terminal Hotel",Takada Terminal Hotel,3.8,3.8,9363,3.8,3.8,3.8,8362.0,Takada Terminal Hotel,https://www.tripadvisor.com/Hotel_Review-g1021353-d1081948-Reviews-Takada_Terminal_Hotel-Joetsu_Niigata_Prefecture_Chubu.html,3.5,108,943-0831,新潟県,上越市,仲町4-5-2,,〒943-0831 新潟県上越市仲町4-5-2,6267.0,11974.0,58
+5317,3157830,"东海酒店
+Hotel Tohkai",Hotel Tohkai,2.8,2.8,15846,2.8,2.8,2.8,7681.0,Hotel Tohkai,https://www.tripadvisor.com/Hotel_Review-g298169-d1049667-Reviews-Hotel_Tohkai-Atsugi_Kanagawa_Prefecture_Kanto.html,4.0,367,243-0018,神奈川県,厚木市,中町3-6-16,,〒243-0018 神奈川県厚木市中町3-6-16,7261.0,19102.0,75
+5384,3265874,"大阪帝国酒店
+Imperial Hotel Osaka",Imperial Hotel Osaka,4.6,4.3,1282,4.0,4.1,4.3,21326.0,Imperial Hotel Osaka,https://www.tripadvisor.com/Hotel_Review-g298566-d302431-Reviews-Imperial_Hotel_Osaka-Osaka_Osaka_Prefecture_Kinki.html,4.5,3,530-0042,大阪府,大阪市北区,北区天満橋1-8-50,,〒530-0042 大阪府大阪市北区北区天満橋1-8-50,16324.0,46530.0,381
+5387,3274245,"水戸潮流酒店
+Hotel Trend Mito",Hotel Trend Mito,4.0,4.0,12900,3.9,3.9,3.9,4237.0,Hotel Trend Mito,https://www.tripadvisor.com/Hotel_Review-g298166-d1057429-Reviews-Hotel_Trend_Mito-Mito_Ibaraki_Prefecture_Kanto.html,3.5,216,310-0803,茨城県,水戸市,城南2-6-1,,〒310-0803 茨城県水戸市城南2-6-1,4586.0,14541.0,60
+5449,3640548,"新宿华盛顿附楼酒店
+Shinjuku Washington Hotel Annex",Shinjuku Washington Hotel Annex,4.5,4.5,422,4.2,4.6,4.5,12645.0,Shinjuku Washington Hotel Annex,https://www.tripadvisor.com/Hotel_Review-g1066457-d7115937-Reviews-Shinjuku_Washington_Hotel_Annex-Shinjuku_Tokyo_Tokyo_Prefecture_Kanto.html,3.5,1,160-8336,東京都,新宿区西新宿,3-2-9,,〒160-8336 東京都新宿区西新宿3-2-9,12326.0,20322.0,337
+5489,3695898,"丰田假日酒店
+Plaza Hotel Toyota",Plaza Hotel Toyota,4.1,4.1,12041,4.1,4.1,4.1,7764.0,Plaza Hotel Toyota,https://www.tripadvisor.com/Hotel_Review-g1019661-d1077967-Reviews-Plaza_Hotel_Toyota-Toyota_Aichi_Prefecture_Chubu.html,3.5,182,470-1201,愛知県,豊田市,豊栄町1-88,,〒470-1201 愛知県豊田市豊栄町1-88,4141.0,15223.0,72
+5538,3798282,"名古屋中心酒店
+Hotel Centmain Nagoya",Hotel Centmain Nagoya,4.5,4.2,3657,4.1,4.2,4.3,3900.0,Hotel Centmain Nagoya,https://www.tripadvisor.com/Hotel_Review-g298106-d1080618-Reviews-Hotel_Centmain_Nagoya-Nagoya_Aichi_Prefecture_Chubu.html,3.5,20,460-0008,愛知県,名古屋市中区,中区栄5-5-10,,〒460-0008 愛知県名古屋市中区中区栄5-5-10,4703.0,13550.0,138
+5555,4064224,"大阪难波灿路都大饭店
+Hotel Sunroute Osaka Namba",Hotel Sunroute Osaka Namba,4.8,4.6,1373,4.4,4.6,4.6,9083.0,Hotel Sunroute Osaka Namba,https://www.tripadvisor.com/Hotel_Review-g298566-d10128482-Reviews-Hotel_Sunroute_Osaka_Namba-Osaka_Osaka_Prefecture_Kinki.html,4.0,3,542-0073,大阪府,大阪市中央区道頓堀,中央区日本橋1-1-13,,〒542-0073 大阪府大阪市中央区道頓堀中央区日本橋1-1-13,6774.0,19323.0,698
+5579,4396884,"白马高山宾馆
+Hakuba Alpine Hotel",Hakuba Alpine Hotel,5.0,5.0,1637,4.0,4.0,4.5,35000.0,Hakuba Alpine Hotel,https://www.tripadvisor.com/Hotel_Review-g1120615-d1129956-Reviews-Hakuba_Alpine_Hotel-Hakuba_mura_Kitaazumi_gun_Nagano_Prefecture_Chubu.html,4.0,4,399-9301,長野県,北安曇郡白馬村,北城八方5706,,〒399-9301 長野県北安曇郡白馬村北城八方5706,16880.0,31427.0,18
+5594,4532789,"郡山景附楼酒店
+Koriyama View Hotel Annex",Koriyama View Hotel Annex,4.4,4.4,10907,4.4,4.4,4.4,6212.0,Koriyama View Hotel Annex,https://www.tripadvisor.com/Hotel_Review-g298245-d583553-Reviews-Koriyama_View_Hotel_Annex-Koriyama_Fukushima_Prefecture_Tohoku.html,4.0,148,963-8004,福島県,郡山市,中町10-10,,〒963-8004 福島県郡山市中町10-10,7835.0,17573.0,157
+5688,5546180,"十和田湖畔酒店
+Towadako Lakeside Hotel",Towadako Lakeside Hotel,4.2,4.3,13659,4.2,4.2,4.2,6557.0,Towadako Lakeside Hotel,https://www.tripadvisor.com/Hotel_Review-g1059454-d1091950-Reviews-Towadako_Lakeside_Hotel-Towada_Aomori_Prefecture_Tohoku.html,4.0,250,018-5501,青森県,十和田市,奥瀬十和田湖畔休屋486,,〒018-5501 青森県十和田市奥瀬十和田湖畔休屋486,13870.0,26622.0,20
+5762,6070289,"哈库巴公园酒店
+Hakuba Park Hotel",Hakuba Park Hotel,3.4,3.7,1601,3.4,3.4,3.5,13311.0,Hakuba Park Hotel,https://www.tripadvisor.com/Hotel_Review-g1120615-d1127335-Reviews-Hakuba_Park_Hotel-Hakuba_mura_Kitaazumi_gun_Nagano_Prefecture_Chubu.html,2.5,4,399-9211,長野県,北安曇郡白馬村,神城22114-18,,〒399-9211 長野県北安曇郡白馬村神城22114-18,13178.0,40864.0,44

@@ -1,0 +1,41 @@
+SVM_training_table_structure
+
+############
+# Raw Data #
+############
+
+# training data
+training_sentences.csv
+    RID,CommentFileNum,SentenceNumber,Sentence,Positive
+
+##################
+# Processed Data #
+##################
+
+# Correct keywords list
+SVM_Influences.csv
+    RID,DictionaryName,j,Word,Weight
+
+entropies.csv
+    Word_ID,Word,Positive_Entropy,Negative_Entropy
+
+###########
+# Deleted #
+###########
+
+# Counts to calculate entropy, too big, unneeded if I used gensim
+PosiNegaWords.csv
+    RID,j,Word,i,Ni-p,Ni-n
+
+# It was a correlation experiment between the placement of the sentence being positive to the whole comment being positive
+Sentence_Influence.csv
+    RID,Description,R,PVal,MIC
+
+# Old wrong SVMs included
+SVM_Influences.csv
+    RID,DictionaryName,j,Word,Weight
+
+# Old wrong SVMs included
+SVM_Influences_DIF.csv
+    RID,DictionaryName,j,Word,Weight
+

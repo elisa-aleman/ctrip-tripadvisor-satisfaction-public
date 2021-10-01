@@ -1,0 +1,39 @@
+############
+# Raw Data #
+############
+
+hotels.csv
+    RID,HotelID,HotelName,HotelScore,LocationScore,ServicesScore,FacilitiesScore,HealthScore,HotelPrice
+
+comments.csv
+    RID,HotelID,CommentPage,UserName,Language,CommentID,Comment,ReviewType,Score,Date
+
+    Date yyyy-mm-dd
+
+##################
+# Processed Data #
+##################
+
+# With <kao>xxxx</kao> tags
+comments_segmented_kaotag.csv
+    RID,HotelID,CommentPage,CommentID,Segmented_Comment
+
+# With kaomojis replaced into the text
+comments_segmented.csv
+    RID,HotelID,CommentPage,CommentID,Segmented_Comment
+
+# Chinese comments only
+# With <kao>xxxx</kao> tags
+comments_segmented_kaotag_zh-cn_chinese_only.csv
+    RID,HotelID,CommentPage,CommentID,Segmented_Comment
+
+# Chinese comments only
+# With kaomojis replaced into the text
+comments_segmented_zh-cn_chinese_only.csv
+    RID,HotelID,CommentPage,CommentID,Segmented_Comment
+
+
+# Chinese only segmented sentences
+sentences_zh-cn_chinese_only.csv
+    RID,HotelID,CommentPage,CommentID,SentenceNumber,Sentence
+

@@ -1,0 +1,5 @@
+0_SVM_training-tripadvisor-table-structures.txt
+
+training_sentences.csv
+    hotel_id,comment_id,sentence_num,sentence,emotion_val,date
+    

@@ -1,0 +1,111 @@
+Keyword,Translation,KeywordList,WordValue,POS_Tag
+可以,"can, possible, be able",positive,grammatical,VV
+地方,region,positive,subject,NN
+很多,"quite many, a lot of",positive,grammatical,CD
+问题,problem,positive,grammatical,NN
+干净,clean,positive,subject,VA
+大,big,positive,subject,VA
+交通,transportation,positive,subject,NN
+相当,considerably,positive,grammatical,AD
+非常,extremely,positive,grammatical,AD
+热情,cordial,positive,subject,VA
+周边,periphery,positive,subject,NN
+景色,scenery,positive,subject,NN
+推荐,recommend,positive,subject,VV
+很,quite,positive,grammatical,AD
+订,"to agree, to conclude",negative,grammatical,VV
+不错,"not bad, pretty good",positive,grammatical,VA
+日本,Japan,positive,subject,NR
+早餐,breakfast,positive,subject,NN
+棒,"great, excellent",positive,grammatical,VA
+一流,top quality,positive,grammatical,VA
+附近,nearby,positive,subject,NN
+以后,"later, afterwards",positive,grammatical,AD
+离,from (distances),positive,grammatical,P
+庭院,courtyard,positive,subject,NN
+环境,environment,positive,subject,NN
+塔楼,tower,positive,subject,NN
+蛮,"very, quite",positive,grammatical,AD
+下次,next time,positive,subject,DT+M
+住,stay (hotel),positive,grammatical,VV
+赤坂,Akasaka,negative,subject,NN
+见,to see,negative,grammatical,VV
+地铁,subway,positive,subject,NN
+就,"in case of, regarding",positive,grammatical,AD
+饭,food,positive,subject,NN
+好吃,delicious,positive,subject,VA
+客房,room,positive,subject,NN
+烤肉,Yakiniku,positive,subject,VV
+坐,take,positive,subject,VV
+这个,this,positive,grammatical,PN
+近,close,positive,subject,VA
+地铁站,station,positive,subject,NN
+选择,choose,positive,subject,VV
+是否,wether,positive,grammatical,VV
+真心,sincere,positive,subject,VA
+园林,garden,positive,subject,NN
+舒服,comfortable,positive,subject,VA
+享用,enjoy,positive,subject,VV
+时候,time,positive,subject,NN
+而且,moreover,positive,grammatical,AD
+里,inside,positive,grammatical,NN
+挺,"really, very",positive,grammatical,AD
+欣赏,appreciate,positive,subject,VV
+最,the most,positive,grammatical,AD
+瀑布,waterfall,positive,subject,NN
+过,cross,positive,subject,VV
+五星级,five-star hotel,positive,subject,JJ
+有名,famous,positive,subject,VE+M
+美景,beautiful scenery,positive,subject,NN
+吃,to eat,positive,grammatical,VV
+花园,flower garden,positive,subject,NN
+边,side,positive,grammatical,NN
+赞,praise,positive,subject,VV
+三,three,positive,grammatical,CD
+日式,japanese-style,positive,subject,JJ
+总之,"in short, in general",positive,grammatical,AD
+总体,"completely, overall",positive,grammatical,NN
+窗,window,positive,subject,NN
+风景,landscape,positive,subject,NN
+远,far,positive,subject,VA
+漂亮,beautiful,positive,subject,VA
+美食,gourmet,positive,subject,NN
+出行,travel,positive,subject,NN
+还算,fairly,positive,grammatical,AD+VV
+还可以,passably good,positive,grammatical,AD+VV
+人员,staff,positive,subject,NN
+此,this,positive,grammatical,PN
+距离,distance,negative,subject,NN
+老,old,negative,subject,VA
+陈旧,old-fashioned,negative,subject,VA
+购物,shopping,positive,subject,NN
+便利,convenient,positive,subject,VA
+新,new,positive,subject,VA
+可,"can, be able to",negative,grammatical,AD
+银座,Ginza,positive,subject,NN
+华人,Chinese person,negative,subject,NN
+卫生,hygiene,positive,subject,NN
+只,only,negative,grammatical,AD
+能,be able (or not),negative,grammatical,VV
+更,more,negative,grammatical,AD
+如果,"in case, in the event that",negative,grammatical,CS
+没有,"have not, are not",negative,grammatical,VE
+算,"regard, calculate",positive,grammatical,VV
+只有,only,negative,grammatical,AD
+之,*a possesive particle*,negative,grammatical,PN
+中文,Chinese language,negative,subject,NN
+以上,"more than, above",negative,grammatical,PN
+地理,geography,negative,subject,NN
+需要,"need, require, demand",negative,grammatical,VV
+竟然,unexpected,negative,grammatical,AD
+吧,"right?, Ok? , I presume",negative,grammatical,SP
+看到,to see,negative,grammatical,VV
+但,"yet, but, however",negative,grammatical,AD
+多,many,negative,grammatical,VA
+有点,a little,negative,grammatical,AD
+说,I say,negative,grammatical,VV
+比较,comparison,negative,grammatical,AD
+价格,price,negative,subject,NN
+一般,"general, generally",negative,grammatical,VA
+再,again,negative,grammatical,AD
+就是,precisely,negative,grammatical,AD+VC

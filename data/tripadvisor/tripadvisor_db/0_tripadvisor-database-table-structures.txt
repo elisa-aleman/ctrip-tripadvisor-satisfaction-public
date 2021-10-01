@@ -1,0 +1,25 @@
+############
+# Raw Data #
+############
+
+hotels.csv
+    hotel_id,hotel_name,hotel_url,hotel_rating,city_id,
+       postal_code,prefecture,locality,street,ext_address,
+       address,price_lower,price_upper,rooms
+
+
+comments.csv
+    hotel_id,username,language,comment_id,comment,score,date
+
+##################
+# Processed Data #
+##################
+
+
+comments_english_only.csv
+    hotel_id,username,language,comment_id,comment,score,date
+
+
+sentences_english_only.csv
+    hotel_id,comment_id,sentence_num,sentence,date
+
