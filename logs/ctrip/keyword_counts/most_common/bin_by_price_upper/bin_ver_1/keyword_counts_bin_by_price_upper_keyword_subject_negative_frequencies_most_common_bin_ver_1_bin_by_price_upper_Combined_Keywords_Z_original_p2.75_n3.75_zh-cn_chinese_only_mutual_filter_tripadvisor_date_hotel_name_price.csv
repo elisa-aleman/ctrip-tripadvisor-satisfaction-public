@@ -1,0 +1,276 @@
+0: All Prices,1: 0 to 5000 yen,"2: 5000 to 10,000 yen","3: 10,000 to 15,000 yen","4: 15,000 to 20,000 yen","5: 20,000 to 100,000 yen","6: 100,000 to 200,000 yen"
+多 (many) : 2971,一般 (general) : 0,价格 (price) : 31,多 (many) : 136,多 (many) : 402,多 (many) : 2326,多 (many) : 78
+价格 (price) : 1838,一般 一般 (General general) : 0,多 (many) : 29,价格 (price) : 98,价格 (price) : 296,价格 (price) : 1359,价格 (price) : 54
+一般 (general) : 1713,一般 不足 (Generally insufficient) : 0,一般 (general) : 28,一般 (general) : 91,能 (can) : 219,一般 (general) : 1325,一般 (general) : 51
+能 (can) : 1353,一般 东西 (General stuff) : 0,能 (can) : 18,能 (can) : 52,一般 (general) : 218,能 (can) : 1045,说 (Say) : 44
+说 (Say) : 1196,一般 交通 (General traffic) : 0,看到 (see) : 15,说 (Say) : 46,说 (Say) : 171,说 (Say) : 926,需要 (need) : 24
+中文 (Chinese) : 733,一般 人 (normal person) : 0,需要 (need) : 13,距离 (distance) : 43,地理 (geography) : 125,中文 (Chinese) : 586,中文 (Chinese) : 19
+需要 (need) : 696,一般 价格 (General price) : 0,距离 (distance) : 11,需要 (need) : 42,需要 (need) : 100,需要 (need) : 517,能 (can) : 19
+地理 (geography) : 691,一般 位置 (General location) : 0,地理 (geography) : 10,陈旧 (obsolete) : 34,中文 (Chinese) : 93,地理 (geography) : 513,看到 (see) : 15
+看到 (see) : 550,一般 其它 (General other) : 0,中文 (Chinese) : 9,地理 (geography) : 31,距离 (distance) : 84,订 (Order) : 428,距离 (distance) : 15
+订 (Order) : 533,一般 卫生 (General hygiene) : 0,说 (Say) : 9,看到 (see) : 31,看到 (see) : 70,看到 (see) : 419,订 (Order) : 13
+距离 (distance) : 434,一般 印象 (General impression) : 0,不 多 (not much) : 7,老 (old) : 30,订 (Order) : 61,距离 (distance) : 281,地理 (geography) : 12
+陈旧 (obsolete) : 319,一般 口味 (General taste) : 0,订 (Order) : 6,中文 (Chinese) : 26,不 多 (not much) : 47,陈旧 (obsolete) : 236,不 多 (not much) : 8
+老 (old) : 297,一般 口感 (General taste) : 0,一般 设施 (General facilities) : 5,订 (Order) : 25,陈旧 (obsolete) : 43,老 (old) : 234,一般 服务 (General service) : 7
+不 多 (not much) : 277,一般 味道 (General taste) : 0,多 品种 (multi breed) : 4,陈旧 设施 (Obsolete facilities) : 17,老 (old) : 26,多 人 (Multiple people) : 210,陈旧 (obsolete) : 6
+多 人 (Multiple people) : 246,一般 品牌 (General brand) : 0,多 店 (Multi shop) : 4,不 多 (not much) : 11,陈旧 设施 (Obsolete facilities) : 25,不 多 (not much) : 204,一般 早餐 (Average breakfast) : 5
+陈旧 设施 (Obsolete facilities) : 184,一般 品种 (General variety) : 0,一般 早餐 (Average breakfast) : 3,一般 设施 (General facilities) : 10,多 人 (Multiple people) : 24,陈旧 设施 (Obsolete facilities) : 138,老 (old) : 5
+一般 设施 (General facilities) : 137,一般 地方 (General place) : 0,一般 味道 (General taste) : 2,见 (see) : 10,一般 设施 (General facilities) : 23,一般 设施 (General facilities) : 97,陈旧 设施 (Obsolete facilities) : 4
+一般 服务 (General service) : 115,一般 地段 (General location) : 0,一般 好 (Fair good) : 2,多 人 (Multiple people) : 9,一般 酒店 (Average hotel) : 21,一般 服务 (General service) : 95,多 东西 (Many things) : 3
+一般 酒店 (Average hotel) : 106,一般 地点 (General location) : 0,一般 效果 (General effect) : 2,一般 位置 (General location) : 8,不 说 (Did not say) : 17,没有 说 (Did not say) : 80,没有 中文 (no Chinese) : 3
+没有 说 (Did not say) : 103,一般 大小 (General size) : 0,一般 服务 (General service) : 2,老 酒店 (Old hotel) : 8,多 品种 (multi breed) : 17,一般 酒店 (Average hotel) : 77,没有 说 (Did not say) : 3
+一般 早餐 (Average breakfast) : 97,一般 好 (Fair good) : 0,没有 中文 (no Chinese) : 2,老 设施 (Old facility) : 7,一般 早餐 (Average breakfast) : 14,一般 早餐 (Average breakfast) : 70,见 (see) : 3
+不 说 (Did not say) : 89,一般 宵夜 (Average supper) : 0,老 (old) : 2,一般 酒店 (Average hotel) : 6,没有 说 (Did not say) : 14,不 说 (Did not say) : 67,一般 位置 (General location) : 2
+多 品种 (multi breed) : 89,一般 宾馆 (General Hotel) : 0,一般 一般 (General general) : 0,多 品种 (multi breed) : 6,多 店 (Multi shop) : 13,多 品种 (multi breed) : 60,一般 好 (Fair good) : 2
+老 酒店 (Old hotel) : 74,一般 小 (Average small) : 0,一般 不足 (Generally insufficient) : 0,多 行李 (Much luggage) : 6,多 东西 (Many things) : 12,一般 一般 (General general) : 56,一般 房间 (Average room) : 2
+多 行李 (Much luggage) : 66,一般 希尔顿 (General Hilton) : 0,一般 东西 (General stuff) : 0,没有 说 (Did not say) : 6,老 酒店 (Old hotel) : 11,老 酒店 (Old hotel) : 54,一般 设施 (General facilities) : 2
+见 (see) : 59,一般 态度 (General attitude) : 0,一般 交通 (General traffic) : 0,一般 早餐 (Average breakfast) : 5,见 (see) : 9,多 行李 (Much luggage) : 52,一般 酒店 (Average hotel) : 2
+老 设施 (Old facility) : 58,一般 性价比 (Average value for money) : 0,一般 人 (normal person) : 0,多 地方 (Many places) : 5,一般 卫生 (General hygiene) : 8,老 设施 (Old facility) : 41,不 说 (Did not say) : 2
+一般 一般 (General general) : 56,一般 总体 (General overall) : 0,一般 价格 (General price) : 0,一般 服务 (General service) : 4,一般 环境 (General environment) : 8,一般 性价比 (Average value for money) : 38,多 人 (Multiple people) : 2
+多 东西 (Many things) : 53,一般 情况 (generally) : 0,一般 位置 (General location) : 0,多 话 (Chatty) : 4,多 地方 (Many places) : 8,没有 一般 (No average) : 38,多 品种 (multi breed) : 2
+多 地方 (Many places) : 52,一般 感觉 (General feeling) : 0,一般 其它 (General other) : 0,没有 多 (No more) : 4,多 居酒屋 (Multiple izakaya) : 8,多 地方 (Many places) : 37,多 地方 (Many places) : 2
+一般 性价比 (Average value for money) : 44,一般 房间 (Average room) : 0,一般 卫生 (General hygiene) : 0,陈旧 点 (Stale point) : 4,多 行李 (Much luggage) : 8,见 (see) : 36,多 平米 (Multiple square meters) : 2
+没有 一般 (No average) : 44,一般 效果 (General effect) : 0,一般 印象 (General impression) : 0,一般 感觉 (General feeling) : 3,一般 服务 (General service) : 7,多 东西 (Many things) : 35,多 选择 (multiple choice) : 2
+没有 多 (No more) : 44,一般 方面 (General aspect) : 0,一般 口味 (General taste) : 0,一般 环境 (General environment) : 3,多 吃 (Eat more) : 7,没有 多 (No more) : 35,没有 多 (No more) : 2
+一般 位置 (General location) : 42,一般 旅馆 (General Hotel) : 0,一般 口感 (General taste) : 0,不 需要 (Not needed) : 3,老 设施 (Old facility) : 7,一般 态度 (General attitude) : 32,没有 看到 (did not see) : 2
+一般 环境 (General environment) : 40,一般 早餐 (Average breakfast) : 0,一般 品牌 (General brand) : 0,多 酒店 (Multiple hotels) : 3,一般 位置 (General location) : 6,多 游客 (Many tourists) : 32,老 设施 (Old facility) : 2
+多 店 (Multi shop) : 40,一般 早饭 (Average breakfast) : 0,一般 品种 (General variety) : 0,多 饭店 (Many restaurants) : 3,一般 态度 (General attitude) : 5,一般 房间 (Average room) : 31,一般 一般 (General general) : 0
+一般 态度 (General attitude) : 39,一般 晚餐 (Average dinner) : 0,一般 地方 (General place) : 0,没有 一般 (No average) : 3,多 周边 (Surrounding) : 5,多 选择 (multiple choice) : 31,一般 不足 (Generally insufficient) : 0
+多 种类 (Many kinds) : 39,一般 景色 (General scenery) : 0,一般 地段 (General location) : 0,老 建筑 (Old building) : 3,多 商场 (Many malls) : 5,不 订 (Not order) : 30,一般 东西 (General stuff) : 0
+多 选择 (multiple choice) : 38,一般 景观 (General landscape) : 0,一般 地点 (General location) : 0,一般 味道 (General taste) : 2,多 种类 (Many kinds) : 5,多 种类 (Many kinds) : 30,一般 交通 (General traffic) : 0
+一般 房间 (Average room) : 37,一般 服务 (General service) : 0,一般 大小 (General size) : 0,一般 态度 (General attitude) : 2,多 饭店 (Many restaurants) : 5,多 客人 (Multiple guests) : 29,一般 人 (normal person) : 0
+多 吃 (Eat more) : 37,一般 条件 (General condition) : 0,一般 宵夜 (Average supper) : 0,一般 性价比 (Average value for money) : 2,没有 需要 (No need) : 5,没有 订 (Not ordered) : 29,一般 价格 (General price) : 0
+多 游客 (Many tourists) : 35,一般 比较 (General comparison) : 0,一般 宾馆 (General Hotel) : 0,一般 总体 (General overall) : 2,一般 感觉 (General feeling) : 4,多 吃 (Eat more) : 28,一般 其它 (General other) : 0
+不 订 (Not order) : 34,一般 水平 (The general level) : 0,一般 小 (Average small) : 0,不 说 (Did not say) : 2,多 线路 (Multiple lines) : 4,多 酒店 (Multiple hotels) : 28,一般 卫生 (General hygiene) : 0
+多 客人 (Multiple guests) : 34,一般 水质 (General water quality) : 0,一般 希尔顿 (General Hilton) : 0,多 东西 (Many things) : 2,没有 中文 (no Chinese) : 4,一般 环境 (General environment) : 27,一般 印象 (General impression) : 0
+多 酒店 (Multiple hotels) : 32,一般 沙滩 (Average beach) : 0,一般 态度 (General attitude) : 0,多 办公室 (Multiple office) : 2,一般 性价比 (Average value for money) : 3,一般 位置 (General location) : 26,一般 口味 (General taste) : 0
+没有 订 (Not ordered) : 32,一般 温泉 (General hot spring) : 0,一般 性价比 (Average value for money) : 0,多 吃 (Eat more) : 2,一般 条件 (General condition) : 3,多 店 (Multi shop) : 21,一般 口感 (General taste) : 0
+一般 卫生 (General hygiene) : 30,一般 状况 (General condition) : 0,一般 总体 (General overall) : 0,多 店 (Multi shop) : 2,不 订 (Not order) : 3,没有 中文 (no Chinese) : 21,一般 味道 (General taste) : 0
+没有 中文 (no Chinese) : 30,一般 环境 (General environment) : 0,一般 情况 (generally) : 0,多 种类 (Many kinds) : 2,华人 (Chinese) : 3,一般 卫生 (General hygiene) : 20,一般 品牌 (General brand) : 0
+一般 感觉 (General feeling) : 24,一般 用品 (General supplies) : 0,一般 感觉 (General feeling) : 0,多 饭馆 (Many restaurants) : 2,多 住 (Live more) : 3,多 餐厅 (Multiple restaurants) : 20,一般 品种 (General variety) : 0
+多 餐厅 (Multiple restaurants) : 24,一般 真心 (So honest) : 0,一般 房间 (Average room) : 0,没有 看到 (did not see) : 2,多 分钟 (Many minutes) : 3,没有 看到 (did not see) : 19,一般 地方 (General place) : 0
+不 需要 (Not needed) : 23,一般 硬件 (General hardware) : 0,一般 方面 (General aspect) : 0,没有 需要 (No need) : 2,多 吃饭 (Eat more) : 3,一般 味道 (General taste) : 17,一般 地段 (General location) : 0
+没有 看到 (did not see) : 23,一般 种类 (General type) : 0,一般 旅馆 (General Hotel) : 0,陈旧 家具 (Obsolete furniture) : 2,多 处 (Many places) : 3,一般 感觉 (General feeling) : 17,一般 地点 (General location) : 0
+一般 味道 (General taste) : 22,一般 程度 (Average) : 0,一般 早饭 (Average breakfast) : 0,陈旧 设备 (Obsolete equipment) : 2,多 客人 (Multiple guests) : 3,不 需要 (Not needed) : 17,一般 大小 (General size) : 0
+多 话 (Chatty) : 22,一般 空气 (General air) : 0,一般 晚餐 (Average dinner) : 0,陈旧 酒店 (Outdated hotel) : 2,多 话 (Chatty) : 3,多 话 (Chatty) : 15,一般 宵夜 (Average supper) : 0
+一般 条件 (General condition) : 18,一般 空间 (General space) : 0,一般 景色 (General scenery) : 0,一般 一般 (General general) : 0,多 选择 (multiple choice) : 3,一般 装修 (General decoration) : 14,一般 宾馆 (General Hotel) : 0
+陈旧 设备 (Obsolete equipment) : 18,一般 缺点 (General disadvantages) : 0,一般 景观 (General landscape) : 0,一般 不足 (Generally insufficient) : 0,多 餐厅 (Multiple restaurants) : 3,一般 条件 (General condition) : 13,一般 小 (Average small) : 0
+多 分钟 (Many minutes) : 17,一般 网速 (General Internet speed) : 0,一般 条件 (General condition) : 0,一般 东西 (General stuff) : 0,没有 多 (No more) : 3,不 中文 (No Chinese) : 13,一般 希尔顿 (General Hilton) : 0
+多 饭店 (Many restaurants) : 17,一般 自助餐 (Average buffet) : 0,一般 比较 (General comparison) : 0,一般 交通 (General traffic) : 0,陈旧 设备 (Obsolete equipment) : 3,多 分钟 (Many minutes) : 13,一般 态度 (General attitude) : 0
+多 房间 (Multiple rooms) : 16,一般 英文 (General English) : 0,一般 水平 (The general level) : 0,一般 人 (normal person) : 0,一般 情况 (generally) : 2,多 房间 (Multiple rooms) : 13,一般 性价比 (Average value for money) : 0
+一般 装修 (General decoration) : 15,一般 英语 (General English) : 0,一般 水质 (General water quality) : 0,一般 价格 (General price) : 0,一般 房间 (Average room) : 2,老 店 (Old shop) : 13,一般 总体 (General overall) : 0
+不 中文 (No Chinese) : 15,一般 装修 (General decoration) : 0,一般 沙滩 (Average beach) : 0,一般 其它 (General other) : 0,一般 种类 (General type) : 2,陈旧 设备 (Obsolete equipment) : 13,一般 情况 (generally) : 0
+华人 (Chinese) : 15,一般 设备 (General equipment) : 0,一般 温泉 (General hot spring) : 0,一般 卫生 (General hygiene) : 0,一般 英语 (General English) : 2,一般 大小 (General size) : 12,一般 感觉 (General feeling) : 0
+老 店 (Old shop) : 15,一般 设施 (General facilities) : 0,一般 状况 (General condition) : 0,一般 印象 (General impression) : 0,一般 隔音 (Soundproof) : 2,华人 (Chinese) : 12,一般 效果 (General effect) : 0
+不 能 (Can't) : 13,一般 话 (General) : 0,一般 环境 (General environment) : 0,一般 口味 (General taste) : 0,一般 需求 (General demand) : 2,多 商店 (Multiple stores) : 12,一般 方面 (General aspect) : 0
+多 商场 (Many malls) : 13,一般 质量 (General quality) : 0,一般 用品 (General supplies) : 0,一般 口感 (General taste) : 0,不 能 (Can't) : 2,老 装修 (Old decoration) : 11,一般 旅馆 (General Hotel) : 0
+一般 大小 (General size) : 12,一般 选择 (General choice) : 0,一般 真心 (So honest) : 0,一般 品牌 (General brand) : 0,不 见 (Not see) : 2,一般 温泉 (General hot spring) : 10,一般 早饭 (Average breakfast) : 0
+多 吃饭 (Eat more) : 12,一般 酒店 (Average hotel) : 0,一般 硬件 (General hardware) : 0,一般 品种 (General variety) : 0,不 需要 (Not needed) : 2,不 能 (Can't) : 10,一般 晚餐 (Average dinner) : 0
+多 商店 (Multiple stores) : 12,一般 隔音 (Soundproof) : 0,一般 种类 (General type) : 0,一般 地方 (General place) : 0,多 外国人 (Many foreigners) : 2,多 设施 (Multiple facilities) : 10,一般 景色 (General scenery) : 0
+多 居酒屋 (Multiple izakaya) : 12,一般 需求 (General demand) : 0,一般 程度 (Average) : 0,一般 地段 (General location) : 0,多 店铺 (Multiple shops) : 2,一般 英语 (General English) : 9,一般 景观 (General landscape) : 0
+多 美食 (More gourmet) : 12,一般 面积 (General area) : 0,一般 空气 (General air) : 0,一般 地点 (General location) : 0,多 房间 (Multiple rooms) : 2,多 吃饭 (Eat more) : 9,一般 条件 (General condition) : 0
+没有 需要 (No need) : 12,一般 风景 (Average scenery) : 0,一般 空间 (General space) : 0,一般 大小 (General size) : 0,多 旁边 (Much beside) : 2,多 美食 (More gourmet) : 9,一般 比较 (General comparison) : 0
+一般 英语 (General English) : 11,一般 食物 (General food) : 0,一般 缺点 (General disadvantages) : 0,一般 好 (Fair good) : 0,多 时候 (Many times) : 2,多 饭店 (Many restaurants) : 9,一般 水平 (The general level) : 0
+多 设施 (Multiple facilities) : 11,一般 餐厅 (Average restaurant) : 0,一般 网速 (General Internet speed) : 0,一般 宵夜 (Average supper) : 0,多 景点 (Multiple attractions) : 2,没有 陈旧 (Not stale) : 9,一般 水质 (General water quality) : 0
+没有 陈旧 (Not stale) : 11,不 一般 (abnormal) : 0,一般 自助餐 (Average buffet) : 0,一般 宾馆 (General Hotel) : 0,多 步行 (More walking) : 2,老 楼 (Old building) : 9,一般 沙滩 (Average beach) : 0
+老 装修 (Old decoration) : 11,不 中文 (No Chinese) : 0,一般 英文 (General English) : 0,一般 小 (Average small) : 0,多 游客 (Many tourists) : 2,老 酒 (Old wine) : 9,一般 温泉 (General hot spring) : 0
+老 酒 (Old wine) : 11,不 多 (not much) : 0,一般 英语 (General English) : 0,一般 希尔顿 (General Hilton) : 0,多 米 (Many meters) : 2,多 商场 (Many malls) : 8,一般 状况 (General condition) : 0
+一般 温泉 (General hot spring) : 10,不 看到 (Not see) : 0,一般 装修 (General decoration) : 0,一般 情况 (generally) : 0,多 美食 (More gourmet) : 2,老 房间 (Old room) : 8,一般 环境 (General environment) : 0
+多 周边 (Surrounding) : 10,不 能 (Can't) : 0,一般 设备 (General equipment) : 0,一般 房间 (Average room) : 0,多 药妆 (Multiple cosmeceuticals) : 2,陈旧 房间 (Outdated room) : 8,一般 用品 (General supplies) : 0
+陈旧 房间 (Outdated room) : 10,不 见 (Not see) : 0,一般 话 (General) : 0,一般 效果 (General effect) : 0,多 超市 (Multi supermarket) : 2,一般 沙滩 (Average beach) : 7,一般 真心 (So honest) : 0
+陈旧 酒店 (Outdated hotel) : 10,不 订 (Not order) : 0,一般 质量 (General quality) : 0,一般 方面 (General aspect) : 0,没有 一般 (No average) : 2,多 价格 (Much price) : 7,一般 硬件 (General hardware) : 0
+一般 隔音 (Soundproof) : 9,不 说 (Did not say) : 0,一般 选择 (General choice) : 0,一般 旅馆 (General Hotel) : 0,没有 订 (Not ordered) : 2,多 旅行团 (Multiple tours) : 7,一般 种类 (General type) : 0
+多 价格 (Much price) : 9,不 需要 (Not needed) : 0,一般 酒店 (Average hotel) : 0,一般 早饭 (Average breakfast) : 0,老 外观 (Old appearance) : 2,多 项目 (Multiple items) : 7,一般 程度 (Average) : 0
+多 外国人 (Many foreigners) : 9,中文 (Chinese) : 0,一般 隔音 (Soundproof) : 0,一般 晚餐 (Average dinner) : 0,陈旧 酒店 (Outdated hotel) : 2,一般 东西 (General stuff) : 6,一般 空气 (General air) : 0
+老 房间 (Old room) : 9,价格 (price) : 0,一般 需求 (General demand) : 0,一般 景色 (General scenery) : 0,一般 一般 (General general) : 0,一般 自助餐 (Average buffet) : 6,一般 空间 (General space) : 0
+老 楼 (Old building) : 9,冷淡 多 (Much colder) : 0,一般 面积 (General area) : 0,一般 景观 (General landscape) : 0,一般 不足 (Generally insufficient) : 0,一般 隔音 (Soundproof) : 6,一般 缺点 (General disadvantages) : 0
+多 景点 (Multiple attractions) : 8,华人 (Chinese) : 0,一般 风景 (Average scenery) : 0,一般 条件 (General condition) : 0,一般 东西 (General stuff) : 0,多 人数 (More people) : 6,一般 网速 (General Internet speed) : 0
+多 餐馆 (Many restaurants) : 8,地理 (geography) : 0,一般 食物 (General food) : 0,一般 比较 (General comparison) : 0,一般 交通 (General traffic) : 0,多 周围 (Around) : 6,一般 自助餐 (Average buffet) : 0
+陈旧 点 (Stale point) : 8,多 (many) : 0,一般 餐厅 (Average restaurant) : 0,一般 水平 (The general level) : 0,一般 人 (normal person) : 0,多 团队 (Multiple team) : 6,一般 英文 (General English) : 0
+一般 价格 (General price) : 7,多 下面 (More below) : 0,不 一般 (abnormal) : 0,一般 水质 (General water quality) : 0,一般 价格 (General price) : 0,多 外国人 (Many foreigners) : 6,一般 英语 (General English) : 0
+一般 沙滩 (Average beach) : 7,多 东西 (Many things) : 0,不 中文 (No Chinese) : 0,一般 沙滩 (Average beach) : 0,一般 其它 (General other) : 0,多 景点 (Multiple attractions) : 6,一般 装修 (General decoration) : 0
+一般 真心 (So honest) : 7,多 交通费 (More transportation) : 0,不 看到 (Not see) : 0,一般 温泉 (General hot spring) : 0,一般 印象 (General impression) : 0,多 班次 (Multiple shifts) : 6,一般 设备 (General equipment) : 0
+多 住 (Live more) : 7,多 京都 (Much Kyoto) : 0,不 能 (Can't) : 0,一般 状况 (General condition) : 0,一般 口味 (General taste) : 0,多 附近 (Many nearby) : 6,一般 话 (General) : 0
+多 团队 (Multiple team) : 7,多 亮点 (Many highlights) : 0,不 见 (Not see) : 0,一般 用品 (General supplies) : 0,一般 口感 (General taste) : 0,多 餐馆 (Many restaurants) : 6,一般 质量 (General quality) : 0
+多 旅行团 (Multiple tours) : 7,多 人 (Multiple people) : 0,不 订 (Not order) : 0,一般 真心 (So honest) : 0,一般 味道 (General taste) : 0,没有 价格 (No price) : 6,一般 选择 (General choice) : 0
+多 附近 (Many nearby) : 7,多 人员 (Multiple people) : 0,不 说 (Did not say) : 0,一般 硬件 (General hardware) : 0,一般 品牌 (General brand) : 0,陈旧 酒店 (Outdated hotel) : 6,一般 隔音 (Soundproof) : 0
+多 项目 (Multiple items) : 7,多 人数 (More people) : 0,不 需要 (Not needed) : 0,一般 种类 (General type) : 0,一般 品种 (General variety) : 0,一般 价格 (General price) : 5,一般 需求 (General demand) : 0
+一般 东西 (General stuff) : 6,多 什么 (More what) : 0,冷淡 多 (Much colder) : 0,一般 程度 (Average) : 0,一般 地方 (General place) : 0,一般 品种 (General variety) : 5,一般 面积 (General area) : 0
+一般 口味 (General taste) : 6,多 价 (Multi-price) : 0,华人 (Chinese) : 0,一般 空气 (General air) : 0,一般 地段 (General location) : 0,一般 早饭 (Average breakfast) : 5,一般 风景 (Average scenery) : 0
+一般 好 (Fair good) : 6,多 价格 (Much price) : 0,多 下面 (More below) : 0,一般 空间 (General space) : 0,一般 地点 (General location) : 0,一般 水平 (The general level) : 5,一般 食物 (General food) : 0
+一般 效果 (General effect) : 6,多 优点 (Many advantages) : 0,多 东西 (Many things) : 0,一般 缺点 (General disadvantages) : 0,一般 大小 (General size) : 0,一般 用品 (General supplies) : 5,一般 餐厅 (Average restaurant) : 0
+一般 早饭 (Average breakfast) : 6,多 位置 (Multiple locations) : 0,多 交通费 (More transportation) : 0,一般 网速 (General Internet speed) : 0,一般 好 (Fair good) : 0,一般 真心 (So honest) : 5,不 一般 (abnormal) : 0
+一般 自助餐 (Average buffet) : 6,多 住 (Live more) : 0,多 京都 (Much Kyoto) : 0,一般 自助餐 (Average buffet) : 0,一般 宵夜 (Average supper) : 0,一般 程度 (Average) : 5,不 中文 (No Chinese) : 0
+一般 设备 (General equipment) : 6,多 便利店 (Convenience store) : 0,多 亮点 (Many highlights) : 0,一般 英文 (General English) : 0,一般 宾馆 (General Hotel) : 0,一般 质量 (General quality) : 5,不 看到 (Not see) : 0
+一般 质量 (General quality) : 6,多 公园 (Multiple park) : 0,多 人 (Multiple people) : 0,一般 英语 (General English) : 0,一般 小 (Average small) : 0,多 国人 (Multinational) : 5,不 能 (Can't) : 0
+多 人数 (More people) : 6,多 内地 (Much Mainland) : 0,多 人员 (Multiple people) : 0,一般 装修 (General decoration) : 0,一般 希尔顿 (General Hilton) : 0,多 房价 (Multiple house prices) : 5,不 见 (Not see) : 0
+多 周围 (Around) : 6,多 出口 (More export) : 0,多 人数 (More people) : 0,一般 设备 (General equipment) : 0,一般 总体 (General overall) : 0,多 日元 (Much yen) : 5,不 订 (Not order) : 0
+多 班次 (Multiple shifts) : 6,多 分钟 (Many minutes) : 0,多 什么 (More what) : 0,一般 话 (General) : 0,一般 效果 (General effect) : 0,多 时间 (Much time) : 5,不 需要 (Not needed) : 0
+多 线路 (Multiple lines) : 6,多 办公室 (Multiple office) : 0,多 价 (Multi-price) : 0,一般 质量 (General quality) : 0,一般 方面 (General aspect) : 0,多 班车 (Multiple shuttle) : 5,冷淡 多 (Much colder) : 0
+多 餐饮 (More meals) : 6,多 办公楼 (Office building) : 0,多 价格 (Much price) : 0,一般 选择 (General choice) : 0,一般 旅馆 (General Hotel) : 0,多 空间 (Multiple space) : 5,华人 (Chinese) : 0
+没有 价格 (No price) : 6,多 原因 (Many reasons) : 0,多 优点 (Many advantages) : 0,一般 隔音 (Soundproof) : 0,一般 早饭 (Average breakfast) : 0,多 缺点 (Many disadvantages) : 5,多 下面 (More below) : 0
+老 设备 (Old equipment) : 6,多 吃 (Eat more) : 0,多 位置 (Multiple locations) : 0,一般 需求 (General demand) : 0,一般 晚餐 (Average dinner) : 0,多 餐饮 (More meals) : 5,多 交通费 (More transportation) : 0
+一般 品种 (General variety) : 5,多 吃饭 (Eat more) : 0,多 住 (Live more) : 0,一般 面积 (General area) : 0,一般 景色 (General scenery) : 0,没有 需要 (No need) : 5,多 京都 (Much Kyoto) : 0
+一般 地段 (General location) : 5,多 周围 (Around) : 0,多 便利店 (Convenience store) : 0,一般 风景 (Average scenery) : 0,一般 景观 (General landscape) : 0,一般 口味 (General taste) : 4,多 亮点 (Many highlights) : 0
+一般 方面 (General aspect) : 5,多 周边 (Surrounding) : 0,多 公园 (Multiple park) : 0,一般 食物 (General food) : 0,一般 比较 (General comparison) : 0,一般 地段 (General location) : 4,多 人员 (Multiple people) : 0
+一般 水平 (The general level) : 5,多 品牌 (Multiple brands) : 0,多 内地 (Much Mainland) : 0,一般 餐厅 (Average restaurant) : 0,一般 水平 (The general level) : 0,一般 方面 (General aspect) : 4,多 人数 (More people) : 0
+一般 用品 (General supplies) : 5,多 品种 (multi breed) : 0,多 出口 (More export) : 0,不 一般 (abnormal) : 0,一般 水质 (General water quality) : 0,一般 景色 (General scenery) : 4,多 什么 (More what) : 0
+一般 硬件 (General hardware) : 5,多 品类 (Multiple categories) : 0,多 分钟 (Many minutes) : 0,不 中文 (No Chinese) : 0,一般 沙滩 (Average beach) : 0,一般 硬件 (General hardware) : 4,多 价 (Multi-price) : 0
+一般 程度 (Average) : 5,多 商场 (Many malls) : 0,多 办公室 (Multiple office) : 0,不 看到 (Not see) : 0,一般 温泉 (General hot spring) : 0,一般 英文 (General English) : 4,多 价格 (Much price) : 0
+不 见 (Not see) : 5,多 商店 (Multiple stores) : 0,多 办公楼 (Office building) : 0,不 能 (Can't) : 0,一般 状况 (General condition) : 0,一般 餐厅 (Average restaurant) : 4,多 优点 (Many advantages) : 0
+多 国人 (Multinational) : 5,多 团队 (Multiple team) : 0,多 原因 (Many reasons) : 0,不 见 (Not see) : 0,一般 用品 (General supplies) : 0,多 人员 (Multiple people) : 4,多 位置 (Multiple locations) : 0
+多 店铺 (Multiple shops) : 5,多 国人 (Multinational) : 0,多 吃 (Eat more) : 0,不 订 (Not order) : 0,一般 真心 (So honest) : 0,多 住 (Live more) : 4,多 住 (Live more) : 0
+多 感觉 (Feel more) : 5,多 国家 (Many countries) : 0,多 吃饭 (Eat more) : 0,冷淡 多 (Much colder) : 0,一般 硬件 (General hardware) : 0,多 周边 (Surrounding) : 4,多 便利店 (Convenience store) : 0
+多 房价 (Multiple house prices) : 5,多 地方 (Many places) : 0,多 周围 (Around) : 0,华人 (Chinese) : 0,一般 程度 (Average) : 0,多 学生 (Multiple students) : 4,多 公园 (Multiple park) : 0
+多 日元 (Much yen) : 5,多 块 (Multiple pieces) : 0,多 周边 (Surrounding) : 0,多 下面 (More below) : 0,一般 空气 (General air) : 0,多 感觉 (Feel more) : 4,多 内地 (Much Mainland) : 0
+多 早餐 (Multiple breakfast) : 5,多 处 (Many places) : 0,多 品牌 (Multiple brands) : 0,多 交通费 (More transportation) : 0,一般 空间 (General space) : 0,多 样子 (Much look) : 4,多 出口 (More export) : 0
+多 时候 (Many times) : 5,多 外国人 (Many foreigners) : 0,多 品类 (Multiple categories) : 0,多 京都 (Much Kyoto) : 0,一般 缺点 (General disadvantages) : 0,多 购物点 (More shopping spots) : 4,多 分钟 (Many minutes) : 0
+多 时间 (Much time) : 5,多 大巴 (How big bus) : 0,多 商场 (Many malls) : 0,多 亮点 (Many highlights) : 0,一般 网速 (General Internet speed) : 0,多 车次 (Multiple trains) : 4,多 办公室 (Multiple office) : 0
+多 班车 (Multiple shuttle) : 5,多 好评 (Much praise) : 0,多 商店 (Multiple stores) : 0,多 人员 (Multiple people) : 0,一般 自助餐 (Average buffet) : 0,老 设备 (Old equipment) : 4,多 办公楼 (Office building) : 0
+多 空间 (Multiple space) : 5,多 子 (Many sons) : 0,多 团队 (Multiple team) : 0,多 人数 (More people) : 0,一般 英文 (General English) : 0,陈旧 感觉 (Stale feeling) : 4,多 原因 (Many reasons) : 0
+多 米 (Many meters) : 5,多 学生 (Multiple students) : 0,多 国人 (Multinational) : 0,多 什么 (More what) : 0,一般 装修 (General decoration) : 0,陈旧 装修 (Old decoration) : 4,多 吃 (Eat more) : 0
+多 缺点 (Many disadvantages) : 5,多 孩子 (Many kids) : 0,多 国家 (Many countries) : 0,多 价 (Multi-price) : 0,一般 设备 (General equipment) : 0,一般 不足 (Generally insufficient) : 3,多 吃饭 (Eat more) : 0
+多 超市 (Multi supermarket) : 5,多 客 (Many customers) : 0,多 地方 (Many places) : 0,多 价格 (Much price) : 0,一般 话 (General) : 0,一般 交通 (General traffic) : 3,多 周围 (Around) : 0
+陈旧 装修 (Old decoration) : 5,多 客人 (Multiple guests) : 0,多 块 (Multiple pieces) : 0,多 优点 (Many advantages) : 0,一般 质量 (General quality) : 0,一般 品牌 (General brand) : 3,多 周边 (Surrounding) : 0
+一般 总体 (General overall) : 4,多 小吃 (Multiple snacks) : 0,多 处 (Many places) : 0,多 位置 (Multiple locations) : 0,一般 选择 (General choice) : 0,一般 效果 (General effect) : 3,多 品牌 (Multiple brands) : 0
+一般 情况 (generally) : 4,多 居酒屋 (Multiple izakaya) : 0,多 外国人 (Many foreigners) : 0,多 住 (Live more) : 0,一般 面积 (General area) : 0,一般 晚餐 (Average dinner) : 3,多 品类 (Multiple categories) : 0
+一般 景色 (General scenery) : 4,多 平米 (Multiple square meters) : 0,多 大巴 (How big bus) : 0,多 便利店 (Convenience store) : 0,一般 风景 (Average scenery) : 0,一般 状况 (General condition) : 3,多 商场 (Many malls) : 0
+一般 种类 (General type) : 4,多 店 (Multi shop) : 0,多 好评 (Much praise) : 0,多 公园 (Multiple park) : 0,一般 食物 (General food) : 0,一般 空气 (General air) : 3,多 商店 (Multiple stores) : 0
+一般 英文 (General English) : 4,多 店铺 (Multiple shops) : 0,多 子 (Many sons) : 0,多 内地 (Much Mainland) : 0,一般 餐厅 (Average restaurant) : 0,一般 设备 (General equipment) : 3,多 团队 (Multiple team) : 0
+一般 餐厅 (Average restaurant) : 4,多 开 (More open) : 0,多 学生 (Multiple students) : 0,多 出口 (More export) : 0,不 一般 (abnormal) : 0,一般 风景 (Average scenery) : 3,多 国人 (Multinational) : 0
+多 人员 (Multiple people) : 4,多 态度 (More attitude) : 0,多 孩子 (Many kids) : 0,多 分钟 (Many minutes) : 0,不 中文 (No Chinese) : 0,一般 食物 (General food) : 3,多 国家 (Many countries) : 0
+多 出口 (More export) : 4,多 性价比 (Much cost-effective) : 0,多 客 (Many customers) : 0,多 办公楼 (Office building) : 0,不 看到 (Not see) : 0,不 见 (Not see) : 3,多 块 (Multiple pieces) : 0
+多 块 (Multiple pieces) : 4,多 情况 (Many situations) : 0,多 客人 (Multiple guests) : 0,多 原因 (Many reasons) : 0,冷淡 多 (Much colder) : 0,冷淡 多 (Much colder) : 3,多 处 (Many places) : 0
+多 学生 (Multiple students) : 4,多 感觉 (Feel more) : 0,多 小吃 (Multiple snacks) : 0,多 吃饭 (Eat more) : 0,多 下面 (More below) : 0,多 位置 (Multiple locations) : 3,多 外国人 (Many foreigners) : 0
+多 平米 (Multiple square meters) : 4,多 我们 (Much we) : 0,多 居酒屋 (Multiple izakaya) : 0,多 周围 (Around) : 0,多 交通费 (More transportation) : 0,多 品牌 (Multiple brands) : 3,多 大巴 (How big bus) : 0
+多 房 (Multiple rooms) : 4,多 房 (Multiple rooms) : 0,多 平米 (Multiple square meters) : 0,多 周边 (Surrounding) : 0,多 京都 (Much Kyoto) : 0,多 品类 (Multiple categories) : 3,多 好评 (Much praise) : 0
+多 样子 (Much look) : 4,多 房价 (Multiple house prices) : 0,多 店铺 (Multiple shops) : 0,多 品牌 (Multiple brands) : 0,多 亮点 (Many highlights) : 0,多 块 (Multiple pieces) : 3,多 子 (Many sons) : 0
+多 步行 (More walking) : 4,多 房费 (More room rate) : 0,多 开 (More open) : 0,多 品类 (Multiple categories) : 0,多 人员 (Multiple people) : 0,多 好评 (Much praise) : 3,多 学生 (Multiple students) : 0
+多 购物点 (More shopping spots) : 4,多 房间 (Multiple rooms) : 0,多 态度 (More attitude) : 0,多 商场 (Many malls) : 0,多 人数 (More people) : 0,多 居酒屋 (Multiple izakaya) : 3,多 孩子 (Many kids) : 0
+多 车次 (Multiple trains) : 4,多 折扣 (More discount) : 0,多 性价比 (Much cost-effective) : 0,多 商店 (Multiple stores) : 0,多 什么 (More what) : 0,多 店铺 (Multiple shops) : 3,多 客 (Many customers) : 0
+多 钱 (Rich) : 4,多 数 (Most) : 0,多 情况 (Many situations) : 0,多 团队 (Multiple team) : 0,多 价 (Multi-price) : 0,多 新宿站 (Shinjuku Station) : 3,多 客人 (Multiple guests) : 0
+没有 距离 (No distance) : 4,多 新宿站 (Shinjuku Station) : 0,多 感觉 (Feel more) : 0,多 国人 (Multinational) : 0,多 价格 (Much price) : 0,多 方便 (Much convenient) : 3,多 小吃 (Multiple snacks) : 0
+老 建筑 (Old building) : 4,多 方 (Multiple) : 0,多 我们 (Much we) : 0,多 国家 (Many countries) : 0,多 优点 (Many advantages) : 0,多 早餐 (Multiple breakfast) : 3,多 居酒屋 (Multiple izakaya) : 0
+老 感觉 (Old feeling) : 4,多 方便 (Much convenient) : 0,多 房 (Multiple rooms) : 0,多 块 (Multiple pieces) : 0,多 位置 (Multiple locations) : 0,多 时候 (Many times) : 3,多 店 (Multi shop) : 0
+陈旧 感觉 (Stale feeling) : 4,多 旁边 (Much beside) : 0,多 房价 (Multiple house prices) : 0,多 处 (Many places) : 0,多 便利店 (Convenience store) : 0,多 朋友 (Many friends) : 3,多 店铺 (Multiple shops) : 0
+一般 不足 (Generally insufficient) : 3,多 旅客 (Multiple travelers) : 0,多 房费 (More room rate) : 0,多 外国人 (Many foreigners) : 0,多 公园 (Multiple park) : 0,多 服务 (Multiple services) : 3,多 开 (More open) : 0
+一般 交通 (General traffic) : 3,多 旅游团 (Multiple tours) : 0,多 房间 (Multiple rooms) : 0,多 大巴 (How big bus) : 0,多 内地 (Much Mainland) : 0,多 服务员 (Multiple waiters) : 3,多 态度 (More attitude) : 0
+一般 品牌 (General brand) : 3,多 旅行团 (Multiple tours) : 0,多 折扣 (More discount) : 0,多 好评 (Much praise) : 0,多 出口 (More export) : 0,多 百货 (Department store) : 3,多 性价比 (Much cost-effective) : 0
+一般 地点 (General location) : 3,多 日元 (Much yen) : 0,多 数 (Most) : 0,多 子 (Many sons) : 0,多 办公室 (Multiple office) : 0,多 米 (Many meters) : 3,多 情况 (Many situations) : 0
+一般 宾馆 (General Hotel) : 3,多 日币 (Multi Japanese Yen) : 0,多 新宿站 (Shinjuku Station) : 0,多 学生 (Multiple students) : 0,多 办公楼 (Office building) : 0,多 美人 (How beautiful) : 3,多 感觉 (Feel more) : 0
+一般 晚餐 (Average dinner) : 3,多 早餐 (Multiple breakfast) : 0,多 方 (Multiple) : 0,多 孩子 (Many kids) : 0,多 原因 (Many reasons) : 0,多 超市 (Multi supermarket) : 3,多 我们 (Much we) : 0
+一般 状况 (General condition) : 3,多 时候 (Many times) : 0,多 方便 (Much convenient) : 0,多 客 (Many customers) : 0,多 周围 (Around) : 0,多 钱 (Rich) : 3,多 房 (Multiple rooms) : 0
+一般 空气 (General air) : 3,多 时间 (Much time) : 0,多 旁边 (Much beside) : 0,多 客人 (Multiple guests) : 0,多 品牌 (Multiple brands) : 0,没有 距离 (No distance) : 3,多 房价 (Multiple house prices) : 0
+一般 需求 (General demand) : 3,多 晚 (How late) : 0,多 旅客 (Multiple travelers) : 0,多 小吃 (Multiple snacks) : 0,多 品类 (Multiple categories) : 0,老 感觉 (Old feeling) : 3,多 房费 (More room rate) : 0
+一般 风景 (Average scenery) : 3,多 景点 (Multiple attractions) : 0,多 旅游团 (Multiple tours) : 0,多 居酒屋 (Multiple izakaya) : 0,多 商店 (Multiple stores) : 0,老 相对比 (Old relative) : 3,多 房间 (Multiple rooms) : 0
+一般 食物 (General food) : 3,多 朋友 (Many friends) : 0,多 旅行团 (Multiple tours) : 0,多 平米 (Multiple square meters) : 0,多 团队 (Multiple team) : 0,一般 人 (normal person) : 2,多 折扣 (More discount) : 0
+不 看到 (Not see) : 3,多 服务 (Multiple services) : 0,多 日元 (Much yen) : 0,多 店铺 (Multiple shops) : 0,多 国人 (Multinational) : 0,一般 其它 (General other) : 2,多 数 (Most) : 0
+冷淡 多 (Much colder) : 3,多 服务员 (Multiple waiters) : 0,多 日币 (Multi Japanese Yen) : 0,多 开 (More open) : 0,多 国家 (Many countries) : 0,一般 印象 (General impression) : 2,多 新宿站 (Shinjuku Station) : 0
+多 位置 (Multiple locations) : 3,多 来 (More come) : 0,多 早餐 (Multiple breakfast) : 0,多 态度 (More attitude) : 0,多 块 (Multiple pieces) : 0,一般 口感 (General taste) : 2,多 方 (Multiple) : 0
+多 品牌 (Multiple brands) : 3,多 样子 (Much look) : 0,多 时候 (Many times) : 0,多 性价比 (Much cost-effective) : 0,多 大巴 (How big bus) : 0,一般 地点 (General location) : 2,多 方便 (Much convenient) : 0
+多 品类 (Multiple categories) : 3,多 步行 (More walking) : 0,多 时间 (Much time) : 0,多 情况 (Many situations) : 0,多 好评 (Much praise) : 0,一般 好 (Fair good) : 2,多 旁边 (Much beside) : 0
+多 处 (Many places) : 3,多 游客 (Many tourists) : 0,多 晚 (How late) : 0,多 感觉 (Feel more) : 0,多 子 (Many sons) : 0,一般 宵夜 (Average supper) : 2,多 旅客 (Multiple travelers) : 0
+多 好评 (Much praise) : 3,多 玩 (Play more) : 0,多 景点 (Multiple attractions) : 0,多 我们 (Much we) : 0,多 学生 (Multiple students) : 0,一般 宾馆 (General Hotel) : 2,多 旅游团 (Multiple tours) : 0
+多 小吃 (Multiple snacks) : 3,多 班次 (Multiple shifts) : 0,多 朋友 (Many friends) : 0,多 房 (Multiple rooms) : 0,多 孩子 (Many kids) : 0,一般 希尔顿 (General Hilton) : 2,多 旅行团 (Multiple tours) : 0
+多 我们 (Much we) : 3,多 班车 (Multiple shuttle) : 0,多 服务 (Multiple services) : 0,多 房价 (Multiple house prices) : 0,多 客 (Many customers) : 0,一般 情况 (generally) : 2,多 日元 (Much yen) : 0
+多 新宿站 (Shinjuku Station) : 3,多 百货 (Department store) : 0,多 服务员 (Multiple waiters) : 0,多 房费 (More room rate) : 0,多 小吃 (Multiple snacks) : 0,一般 景观 (General landscape) : 2,多 日币 (Multi Japanese Yen) : 0
+多 方便 (Much convenient) : 3,多 真 (How true) : 0,多 来 (More come) : 0,多 房间 (Multiple rooms) : 0,多 平米 (Multiple square meters) : 0,一般 比较 (General comparison) : 2,多 早餐 (Multiple breakfast) : 0
+多 旁边 (Much beside) : 3,多 种类 (Many kinds) : 0,多 样子 (Much look) : 0,多 折扣 (More discount) : 0,多 开 (More open) : 0,一般 水质 (General water quality) : 2,多 时候 (Many times) : 0
+多 日币 (Multi Japanese Yen) : 3,多 空间 (Multiple space) : 0,多 步行 (More walking) : 0,多 数 (Most) : 0,多 态度 (More attitude) : 0,一般 种类 (General type) : 2,多 时间 (Much time) : 0
+多 朋友 (Many friends) : 3,多 米 (Many meters) : 0,多 游客 (Many tourists) : 0,多 新宿站 (Shinjuku Station) : 0,多 性价比 (Much cost-effective) : 0,一般 缺点 (General disadvantages) : 2,多 晚 (How late) : 0
+多 服务 (Multiple services) : 3,多 类 (Multiple types) : 0,多 玩 (Play more) : 0,多 方 (Multiple) : 0,多 情况 (Many situations) : 0,一般 话 (General) : 2,多 景点 (Multiple attractions) : 0
+多 服务员 (Multiple waiters) : 3,多 线路 (Multiple lines) : 0,多 班次 (Multiple shifts) : 0,多 方便 (Much convenient) : 0,多 感觉 (Feel more) : 0,一般 选择 (General choice) : 2,多 朋友 (Many friends) : 0
+多 玩 (Play more) : 3,多 缘故 (More sake) : 0,多 班车 (Multiple shuttle) : 0,多 旁边 (Much beside) : 0,多 我们 (Much we) : 0,一般 面积 (General area) : 2,多 服务 (Multiple services) : 0
+多 百货 (Department store) : 3,多 缺点 (Many disadvantages) : 0,多 百货 (Department store) : 0,多 旅客 (Multiple travelers) : 0,多 房 (Multiple rooms) : 0,不 看到 (Not see) : 2,多 服务员 (Multiple waiters) : 0
+多 类 (Multiple types) : 3,多 美人 (How beautiful) : 0,多 真 (How true) : 0,多 旅游团 (Multiple tours) : 0,多 房价 (Multiple house prices) : 0,多 下面 (More below) : 2,多 来 (More come) : 0
+多 美人 (How beautiful) : 3,多 美食 (More gourmet) : 0,多 种类 (Many kinds) : 0,多 旅行团 (Multiple tours) : 0,多 房费 (More room rate) : 0,多 交通费 (More transportation) : 2,多 样子 (Much look) : 0
+多 老外 (Much foreigner) : 3,多 老外 (Much foreigner) : 0,多 空间 (Multiple space) : 0,多 日元 (Much yen) : 0,多 折扣 (More discount) : 0,多 亮点 (Many highlights) : 2,多 步行 (More walking) : 0
+多 逛 (More shopping) : 3,多 肥牛 (More fat cow) : 0,多 米 (Many meters) : 0,多 日币 (Multi Japanese Yen) : 0,多 数 (Most) : 0,多 价 (Multi-price) : 2,多 游客 (Many tourists) : 0
+没有 老 (No old) : 3,多 背包客 (Multiple backpackers) : 0,多 类 (Multiple types) : 0,多 早餐 (Multiple breakfast) : 0,多 新宿站 (Shinjuku Station) : 0,多 便利店 (Convenience store) : 2,多 玩 (Play more) : 0
+没有 见 (No see) : 3,多 花样 (Multiple) : 0,多 线路 (Multiple lines) : 0,多 时候 (Many times) : 0,多 方 (Multiple) : 0,多 公园 (Multiple park) : 2,多 班次 (Multiple shifts) : 0
+老 外观 (Old appearance) : 3,多 药妆 (Multiple cosmeceuticals) : 0,多 缘故 (More sake) : 0,多 时间 (Much time) : 0,多 方便 (Much convenient) : 0,多 内地 (Much Mainland) : 2,多 班车 (Multiple shuttle) : 0
+老 相对比 (Old relative) : 3,多 药店 (Multiple pharmacies) : 0,多 缺点 (Many disadvantages) : 0,多 晚 (How late) : 0,多 旅客 (Multiple travelers) : 0,多 出口 (More export) : 2,多 百货 (Department store) : 0
+陈旧 家具 (Obsolete furniture) : 3,多 蔬菜 (More vegetables) : 0,多 美人 (How beautiful) : 0,多 景点 (Multiple attractions) : 0,多 旅游团 (Multiple tours) : 0,多 办公楼 (Office building) : 2,多 真 (How true) : 0
+一般 人 (normal person) : 2,多 行李 (Much luggage) : 0,多 美食 (More gourmet) : 0,多 朋友 (Many friends) : 0,多 旅行团 (Multiple tours) : 0,多 原因 (Many reasons) : 2,多 种类 (Many kinds) : 0
+一般 其它 (General other) : 2,多 衣服 (Multiple clothes) : 0,多 老外 (Much foreigner) : 0,多 服务 (Multiple services) : 0,多 日元 (Much yen) : 0,多 国家 (Many countries) : 2,多 空间 (Multiple space) : 0
+一般 印象 (General impression) : 2,多 设施 (Multiple facilities) : 0,多 肥牛 (More fat cow) : 0,多 服务员 (Multiple waiters) : 0,多 日币 (Multi Japanese Yen) : 0,多 大巴 (How big bus) : 2,多 米 (Many meters) : 0
+一般 口感 (General taste) : 2,多 话 (Chatty) : 0,多 背包客 (Multiple backpackers) : 0,多 来 (More come) : 0,多 早餐 (Multiple breakfast) : 0,多 子 (Many sons) : 2,多 类 (Multiple types) : 0
+一般 地方 (General place) : 2,多 购物点 (More shopping spots) : 0,多 花样 (Multiple) : 0,多 样子 (Much look) : 0,多 时间 (Much time) : 0,多 客 (Many customers) : 2,多 线路 (Multiple lines) : 0
+一般 宵夜 (Average supper) : 2,多 超市 (Multi supermarket) : 0,多 药妆 (Multiple cosmeceuticals) : 0,多 步行 (More walking) : 0,多 晚 (How late) : 0,多 平米 (Multiple square meters) : 2,多 缘故 (More sake) : 0
+一般 小 (Average small) : 2,多 车 (Multiple cars) : 0,多 药店 (Multiple pharmacies) : 0,多 游客 (Many tourists) : 0,多 朋友 (Many friends) : 0,多 开 (More open) : 2,多 缺点 (Many disadvantages) : 0
+一般 希尔顿 (General Hilton) : 2,多 车子 (Many cars) : 0,多 蔬菜 (More vegetables) : 0,多 玩 (Play more) : 0,多 服务 (Multiple services) : 0,多 我们 (Much we) : 2,多 美人 (How beautiful) : 0
+一般 旅馆 (General Hotel) : 2,多 车次 (Multiple trains) : 0,多 行李 (Much luggage) : 0,多 班次 (Multiple shifts) : 0,多 服务员 (Multiple waiters) : 0,多 房 (Multiple rooms) : 2,多 美食 (More gourmet) : 0
+一般 景观 (General landscape) : 2,多 选择 (multiple choice) : 0,多 衣服 (Multiple clothes) : 0,多 班车 (Multiple shuttle) : 0,多 来 (More come) : 0,多 房费 (More room rate) : 2,多 老外 (Much foreigner) : 0
+一般 比较 (General comparison) : 2,多 逛 (More shopping) : 0,多 设施 (Multiple facilities) : 0,多 百货 (Department store) : 0,多 样子 (Much look) : 0,多 折扣 (More discount) : 2,多 肥牛 (More fat cow) : 0
+一般 水质 (General water quality) : 2,多 酒店 (Multiple hotels) : 0,多 话 (Chatty) : 0,多 真 (How true) : 0,多 玩 (Play more) : 0,多 数 (Most) : 2,多 背包客 (Multiple backpackers) : 0
+一般 空间 (General space) : 2,多 钱 (Rich) : 0,多 购物点 (More shopping spots) : 0,多 空间 (Multiple space) : 0,多 班次 (Multiple shifts) : 0,多 旅客 (Multiple travelers) : 2,多 花样 (Multiple) : 0
+一般 缺点 (General disadvantages) : 2,多 银座 (More Ginza) : 0,多 超市 (Multi supermarket) : 0,多 米 (Many meters) : 0,多 班车 (Multiple shuttle) : 0,多 日币 (Multi Japanese Yen) : 2,多 药妆 (Multiple cosmeceuticals) : 0
+一般 网速 (General Internet speed) : 2,多 门口 (Multiple doorways) : 0,多 车 (Multiple cars) : 0,多 类 (Multiple types) : 0,多 百货 (Department store) : 0,多 晚 (How late) : 2,多 药店 (Multiple pharmacies) : 0
+一般 话 (General) : 2,多 问题 (Multiple problems) : 0,多 车子 (Many cars) : 0,多 线路 (Multiple lines) : 0,多 真 (How true) : 0,多 步行 (More walking) : 2,多 蔬菜 (More vegetables) : 0
+一般 选择 (General choice) : 2,多 附近 (Many nearby) : 0,多 车次 (Multiple trains) : 0,多 缘故 (More sake) : 0,多 空间 (Multiple space) : 0,多 玩 (Play more) : 2,多 行李 (Much luggage) : 0
+一般 面积 (General area) : 2,多 项目 (Multiple items) : 0,多 选择 (multiple choice) : 0,多 缺点 (Many disadvantages) : 0,多 类 (Multiple types) : 0,多 线路 (Multiple lines) : 2,多 衣服 (Multiple clothes) : 0
+不 一般 (abnormal) : 2,多 频道 (Multiple channels) : 0,多 逛 (More shopping) : 0,多 美人 (How beautiful) : 0,多 缘故 (More sake) : 0,多 缘故 (More sake) : 2,多 设施 (Multiple facilities) : 0
+多 下面 (More below) : 2,多 风景 (Many scenery) : 0,多 酒店 (Multiple hotels) : 0,多 美食 (More gourmet) : 0,多 缺点 (Many disadvantages) : 0,多 老外 (Much foreigner) : 2,多 话 (Chatty) : 0
+多 交通费 (More transportation) : 2,多 餐厅 (Multiple restaurants) : 0,多 钱 (Rich) : 0,多 老外 (Much foreigner) : 0,多 美人 (How beautiful) : 0,多 肥牛 (More fat cow) : 2,多 购物点 (More shopping spots) : 0
+多 京都 (Much Kyoto) : 2,多 餐饮 (More meals) : 0,多 银座 (More Ginza) : 0,多 肥牛 (More fat cow) : 0,多 老外 (Much foreigner) : 0,多 背包客 (Multiple backpackers) : 2,多 超市 (Multi supermarket) : 0
+多 亮点 (Many highlights) : 2,多 餐饮店 (Many restaurants) : 0,多 门口 (Multiple doorways) : 0,多 背包客 (Multiple backpackers) : 0,多 肥牛 (More fat cow) : 0,多 花样 (Multiple) : 2,多 车 (Multiple cars) : 0
+多 什么 (More what) : 2,多 餐馆 (Many restaurants) : 0,多 问题 (Multiple problems) : 0,多 花样 (Multiple) : 0,多 背包客 (Multiple backpackers) : 0,多 药店 (Multiple pharmacies) : 2,多 车子 (Many cars) : 0
+多 价 (Multi-price) : 2,多 饭店 (Many restaurants) : 0,多 附近 (Many nearby) : 0,多 药妆 (Multiple cosmeceuticals) : 0,多 花样 (Multiple) : 0,多 蔬菜 (More vegetables) : 2,多 车次 (Multiple trains) : 0
+多 优点 (Many advantages) : 2,多 饭馆 (Many restaurants) : 0,多 项目 (Multiple items) : 0,多 药店 (Multiple pharmacies) : 0,多 药店 (Multiple pharmacies) : 0,多 衣服 (Multiple clothes) : 2,多 逛 (More shopping) : 0
+多 便利店 (Convenience store) : 2,多 饮食 (More diet) : 0,多 频道 (Multiple channels) : 0,多 蔬菜 (More vegetables) : 0,多 蔬菜 (More vegetables) : 0,多 逛 (More shopping) : 2,多 酒店 (Multiple hotels) : 0
+多 公园 (Multiple park) : 2,多 饮食店 (Many restaurants) : 0,多 风景 (Many scenery) : 0,多 衣服 (Multiple clothes) : 0,多 衣服 (Multiple clothes) : 0,多 银座 (More Ginza) : 2,多 钱 (Rich) : 0
+多 内地 (Much Mainland) : 2,好 多 (A lot) : 0,多 餐厅 (Multiple restaurants) : 0,多 设施 (Multiple facilities) : 0,多 设施 (Multiple facilities) : 0,多 门口 (Multiple doorways) : 2,多 银座 (More Ginza) : 0
+多 办公室 (Multiple office) : 2,巨 多 (Huge) : 0,多 餐饮 (More meals) : 0,多 购物点 (More shopping spots) : 0,多 购物点 (More shopping spots) : 0,多 频道 (Multiple channels) : 2,多 门口 (Multiple doorways) : 0
+多 办公楼 (Office building) : 2,没有 一般 (No average) : 0,多 餐饮店 (Many restaurants) : 0,多 超市 (Multi supermarket) : 0,多 车 (Multiple cars) : 0,多 风景 (Many scenery) : 2,多 问题 (Multiple problems) : 0
+多 原因 (Many reasons) : 2,没有 中文 (no Chinese) : 0,多 餐馆 (Many restaurants) : 0,多 车 (Multiple cars) : 0,多 车子 (Many cars) : 0,多 饮食 (More diet) : 2,多 附近 (Many nearby) : 0
+多 国家 (Many countries) : 2,没有 价格 (No price) : 0,多 饭店 (Many restaurants) : 0,多 车子 (Many cars) : 0,多 车次 (Multiple trains) : 0,好 多 (A lot) : 2,多 项目 (Multiple items) : 0
+多 大巴 (How big bus) : 2,没有 多 (No more) : 0,多 饭馆 (Many restaurants) : 0,多 车次 (Multiple trains) : 0,多 逛 (More shopping) : 0,巨 多 (Huge) : 2,多 频道 (Multiple channels) : 0
+多 子 (Many sons) : 2,没有 看到 (did not see) : 0,多 饮食 (More diet) : 0,多 选择 (multiple choice) : 0,多 酒店 (Multiple hotels) : 0,没有 老 (No old) : 2,多 风景 (Many scenery) : 0
+多 孩子 (Many kids) : 2,没有 老 (No old) : 0,多 饮食店 (Many restaurants) : 0,多 逛 (More shopping) : 0,多 钱 (Rich) : 0,没有 能 (No can) : 2,多 餐厅 (Multiple restaurants) : 0
+多 客 (Many customers) : 2,没有 能 (No can) : 0,好 多 (A lot) : 0,多 钱 (Rich) : 0,多 银座 (More Ginza) : 0,老 先生 (Old sir) : 2,多 餐饮 (More meals) : 0
+多 开 (More open) : 2,没有 见 (No see) : 0,巨 多 (Huge) : 0,多 银座 (More Ginza) : 0,多 门口 (Multiple doorways) : 0,老 房子 (old house) : 2,多 餐饮店 (Many restaurants) : 0
+多 态度 (More attitude) : 2,没有 订 (Not ordered) : 0,没有 一般 (No average) : 0,多 门口 (Multiple doorways) : 0,多 问题 (Multiple problems) : 0,老 服务 (Old service) : 2,多 餐馆 (Many restaurants) : 0
+多 性价比 (Much cost-effective) : 2,没有 说 (Did not say) : 0,没有 价格 (No price) : 0,多 问题 (Multiple problems) : 0,多 附近 (Many nearby) : 0,老 烟鬼 (Old smoker) : 2,多 饭店 (Many restaurants) : 0
+多 情况 (Many situations) : 2,没有 距离 (No distance) : 0,没有 多 (No more) : 0,多 附近 (Many nearby) : 0,多 项目 (Multiple items) : 0,老 硬件 (Old hardware) : 2,多 饭馆 (Many restaurants) : 0
+多 房费 (More room rate) : 2,没有 陈旧 (Not stale) : 0,没有 看到 (did not see) : 0,多 项目 (Multiple items) : 0,多 频道 (Multiple channels) : 0,老 馆 (Old hall) : 2,多 饮食 (More diet) : 0
+多 折扣 (More discount) : 2,没有 需要 (No need) : 0,没有 老 (No old) : 0,多 频道 (Multiple channels) : 0,多 风景 (Many scenery) : 0,赤坂 (Akasaka) : 2,多 饮食店 (Many restaurants) : 0
+多 数 (Most) : 2,看到 (see) : 0,没有 能 (No can) : 0,多 风景 (Many scenery) : 0,多 餐饮 (More meals) : 0,超级 多 (Super much) : 2,好 多 (A lot) : 0
+多 方 (Multiple) : 2,老 (old) : 0,没有 见 (No see) : 0,多 餐厅 (Multiple restaurants) : 0,多 餐饮店 (Many restaurants) : 0,陈旧 有些 (Outdated somewhat) : 2,巨 多 (Huge) : 0
+多 旅客 (Multiple travelers) : 2,老 先生 (Old sir) : 0,没有 订 (Not ordered) : 0,多 餐饮 (More meals) : 0,多 餐馆 (Many restaurants) : 0,陈旧 点 (Stale point) : 2,没有 一般 (No average) : 0
+多 旅游团 (Multiple tours) : 2,老 外观 (Old appearance) : 0,没有 说 (Did not say) : 0,多 餐饮店 (Many restaurants) : 0,多 饭馆 (Many restaurants) : 0,一般 地方 (General place) : 0,没有 价格 (No price) : 0
+多 晚 (How late) : 2,老 店 (Old shop) : 0,没有 距离 (No distance) : 0,多 餐馆 (Many restaurants) : 0,多 饮食 (More diet) : 0,一般 小 (Average small) : 0,没有 老 (No old) : 0
+多 来 (More come) : 2,老 建筑 (Old building) : 0,没有 陈旧 (Not stale) : 0,多 饮食 (More diet) : 0,多 饮食店 (Many restaurants) : 0,一般 总体 (General overall) : 0,没有 能 (No can) : 0
+多 真 (How true) : 2,老 感觉 (Old feeling) : 0,没有 需要 (No need) : 0,多 饮食店 (Many restaurants) : 0,好 多 (A lot) : 0,一般 旅馆 (General Hotel) : 0,没有 见 (No see) : 0
+多 缘故 (More sake) : 2,老 房子 (old house) : 0,老 先生 (Old sir) : 0,好 多 (A lot) : 0,巨 多 (Huge) : 0,一般 空间 (General space) : 0,没有 订 (Not ordered) : 0
+多 肥牛 (More fat cow) : 2,老 房间 (Old room) : 0,老 外观 (Old appearance) : 0,巨 多 (Huge) : 0,没有 价格 (No price) : 0,一般 网速 (General Internet speed) : 0,没有 距离 (No distance) : 0
+多 背包客 (Multiple backpackers) : 2,老 服务 (Old service) : 0,老 店 (Old shop) : 0,没有 中文 (no Chinese) : 0,没有 看到 (did not see) : 0,一般 需求 (General demand) : 0,没有 陈旧 (Not stale) : 0
+多 花样 (Multiple) : 2,老 楼 (Old building) : 0,老 建筑 (Old building) : 0,没有 价格 (No price) : 0,没有 老 (No old) : 0,不 一般 (abnormal) : 0,没有 需要 (No need) : 0
+多 药妆 (Multiple cosmeceuticals) : 2,老 点 (Old point) : 0,老 感觉 (Old feeling) : 0,没有 老 (No old) : 0,没有 能 (No can) : 0,多 京都 (Much Kyoto) : 0,老 先生 (Old sir) : 0
+多 药店 (Multiple pharmacies) : 2,老 烟鬼 (Old smoker) : 0,老 房子 (old house) : 0,没有 能 (No can) : 0,没有 见 (No see) : 0,多 什么 (More what) : 0,老 外观 (Old appearance) : 0
+多 蔬菜 (More vegetables) : 2,老 相对比 (Old relative) : 0,老 房间 (Old room) : 0,没有 见 (No see) : 0,没有 距离 (No distance) : 0,多 优点 (Many advantages) : 0,老 店 (Old shop) : 0
+多 衣服 (Multiple clothes) : 2,老 硬件 (Old hardware) : 0,老 服务 (Old service) : 0,没有 订 (Not ordered) : 0,没有 陈旧 (Not stale) : 0,多 办公室 (Multiple office) : 0,老 建筑 (Old building) : 0
+多 车 (Multiple cars) : 2,老 街 (Old street) : 0,老 楼 (Old building) : 0,没有 距离 (No distance) : 0,老 先生 (Old sir) : 0,多 处 (Many places) : 0,老 感觉 (Old feeling) : 0
+多 车子 (Many cars) : 2,老 装修 (Old decoration) : 0,老 点 (Old point) : 0,没有 陈旧 (Not stale) : 0,老 店 (Old shop) : 0,多 孩子 (Many kids) : 0,老 房子 (old house) : 0
+多 银座 (More Ginza) : 2,老 设备 (Old equipment) : 0,老 烟鬼 (Old smoker) : 0,老 先生 (Old sir) : 0,老 建筑 (Old building) : 0,多 小吃 (Multiple snacks) : 0,老 房间 (Old room) : 0
+多 门口 (Multiple doorways) : 2,老 设施 (Old facility) : 0,老 相对比 (Old relative) : 0,老 外观 (Old appearance) : 0,老 感觉 (Old feeling) : 0,多 态度 (More attitude) : 0,老 服务 (Old service) : 0
+多 问题 (Multiple problems) : 2,老 酒 (Old wine) : 0,老 硬件 (Old hardware) : 0,老 店 (Old shop) : 0,老 房子 (old house) : 0,多 性价比 (Much cost-effective) : 0,老 楼 (Old building) : 0
+多 频道 (Multiple channels) : 2,老 酒店 (Old hotel) : 0,老 街 (Old street) : 0,老 感觉 (Old feeling) : 0,老 房间 (Old room) : 0,多 情况 (Many situations) : 0,老 点 (Old point) : 0
+多 风景 (Many scenery) : 2,老 馆 (Old hall) : 0,老 装修 (Old decoration) : 0,老 房子 (old house) : 0,老 服务 (Old service) : 0,多 方 (Multiple) : 0,老 烟鬼 (Old smoker) : 0
+多 餐饮店 (Many restaurants) : 2,能 (can) : 0,老 设备 (Old equipment) : 0,老 房间 (Old room) : 0,老 楼 (Old building) : 0,多 旁边 (Much beside) : 0,老 相对比 (Old relative) : 0
+多 饭馆 (Many restaurants) : 2,见 (see) : 0,老 设施 (Old facility) : 0,老 服务 (Old service) : 0,老 点 (Old point) : 0,多 旅游团 (Multiple tours) : 0,老 硬件 (Old hardware) : 0
+多 饮食 (More diet) : 2,订 (Order) : 0,老 酒 (Old wine) : 0,老 楼 (Old building) : 0,老 烟鬼 (Old smoker) : 0,多 来 (More come) : 0,老 街 (Old street) : 0
+多 饮食店 (Many restaurants) : 2,说 (Say) : 0,老 酒店 (Old hotel) : 0,老 点 (Old point) : 0,老 相对比 (Old relative) : 0,多 真 (How true) : 0,老 装修 (Old decoration) : 0
+好 多 (A lot) : 2,赤坂 (Akasaka) : 0,老 馆 (Old hall) : 0,老 烟鬼 (Old smoker) : 0,老 硬件 (Old hardware) : 0,多 类 (Multiple types) : 0,老 设备 (Old equipment) : 0
+巨 多 (Huge) : 2,超级 多 (Super much) : 0,见 (see) : 0,老 相对比 (Old relative) : 0,老 街 (Old street) : 0,多 药妆 (Multiple cosmeceuticals) : 0,老 酒 (Old wine) : 0
+没有 能 (No can) : 2,距离 (distance) : 0,赤坂 (Akasaka) : 0,老 硬件 (Old hardware) : 0,老 装修 (Old decoration) : 0,多 车 (Multiple cars) : 0,老 酒店 (Old hotel) : 0
+老 先生 (Old sir) : 2,陈旧 (obsolete) : 0,超级 多 (Super much) : 0,老 街 (Old street) : 0,老 设备 (Old equipment) : 0,多 车子 (Many cars) : 0,老 馆 (Old hall) : 0
+老 房子 (old house) : 2,陈旧 家具 (Obsolete furniture) : 0,陈旧 (obsolete) : 0,老 装修 (Old decoration) : 0,老 酒 (Old wine) : 0,多 问题 (Multiple problems) : 0,赤坂 (Akasaka) : 0
+老 服务 (Old service) : 2,陈旧 感觉 (Stale feeling) : 0,陈旧 家具 (Obsolete furniture) : 0,老 设备 (Old equipment) : 0,老 馆 (Old hall) : 0,多 餐饮店 (Many restaurants) : 0,超级 多 (Super much) : 0
+老 点 (Old point) : 2,陈旧 房间 (Outdated room) : 0,陈旧 感觉 (Stale feeling) : 0,老 酒 (Old wine) : 0,赤坂 (Akasaka) : 0,多 饭馆 (Many restaurants) : 0,陈旧 家具 (Obsolete furniture) : 0
+老 烟鬼 (Old smoker) : 2,陈旧 有些 (Outdated somewhat) : 0,陈旧 房间 (Outdated room) : 0,老 馆 (Old hall) : 0,超级 多 (Super much) : 0,多 饮食店 (Many restaurants) : 0,陈旧 感觉 (Stale feeling) : 0
+老 硬件 (Old hardware) : 2,陈旧 点 (Stale point) : 0,陈旧 有些 (Outdated somewhat) : 0,赤坂 (Akasaka) : 0,陈旧 家具 (Obsolete furniture) : 0,没有 见 (No see) : 0,陈旧 房间 (Outdated room) : 0
+老 街 (Old street) : 2,陈旧 装修 (Old decoration) : 0,陈旧 点 (Stale point) : 0,超级 多 (Super much) : 0,陈旧 感觉 (Stale feeling) : 0,老 外观 (Old appearance) : 0,陈旧 有些 (Outdated somewhat) : 0
+老 馆 (Old hall) : 2,陈旧 设备 (Obsolete equipment) : 0,陈旧 装修 (Old decoration) : 0,陈旧 感觉 (Stale feeling) : 0,陈旧 房间 (Outdated room) : 0,老 建筑 (Old building) : 0,陈旧 点 (Stale point) : 0
+赤坂 (Akasaka) : 2,陈旧 设施 (Obsolete facilities) : 0,陈旧 设备 (Obsolete equipment) : 0,陈旧 房间 (Outdated room) : 0,陈旧 有些 (Outdated somewhat) : 0,老 点 (Old point) : 0,陈旧 装修 (Old decoration) : 0
+超级 多 (Super much) : 2,陈旧 酒店 (Outdated hotel) : 0,陈旧 设施 (Obsolete facilities) : 0,陈旧 有些 (Outdated somewhat) : 0,陈旧 点 (Stale point) : 0,老 街 (Old street) : 0,陈旧 设备 (Obsolete equipment) : 0
+陈旧 有些 (Outdated somewhat) : 2,需要 (need) : 0,陈旧 酒店 (Outdated hotel) : 0,陈旧 装修 (Old decoration) : 0,陈旧 装修 (Old decoration) : 0,陈旧 家具 (Obsolete furniture) : 0,陈旧 酒店 (Outdated hotel) : 0

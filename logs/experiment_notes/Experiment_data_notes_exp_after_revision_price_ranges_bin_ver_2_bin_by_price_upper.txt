@@ -1,0 +1,293 @@
+Experiment After Revision: Split by price ranges
+####
+Bin version: 2
+Bin by: price_upper
+####
+Using Ctrip_db2 and Tripadvisor_db mutually filtered by:
+    date, so that it's the same time period
+    hotel name, so that they're the same hotels
+    price, removing any hotels without price data
+####
+Mutual Filter results:
+    Number of Hotels: 557
+Date range:
+    Earliest: 2014-07-06 00:00:00
+    Latest: 2017-07-18 00:00:00
+Price range:
+    Lowest: 2013.0
+    Highest: 187444.0
+
+    
+########################
+######## Ctrip: ########
+########################
+Database: Ctrip_db2__mutual_filter_tripadvisor_date_hotel_name
+Filepath: ctrip/ctrip_db2/sentences_depparsed_predicted_Combined_Keywords_Z_original_p2.75_n3.75_zh-cn_chinese_only_mutual_filter_tripadvisor_date_hotel_name_price.csv
+    
+    
+    ####
+    ### Price Layer: 0: All Prices Yen
+    ##
+    Number of hotels: 557
+    Number of reviews: 48070
+    Number of sentences: 101963
+        Positive sentences: 88543
+        Negative sentences: 13420
+    Date range:
+        Earliest: 2014-07-09 00:00:00
+        Latest: 2017-07-18 00:00:00
+
+        
+    ####
+    ### Price Layer: 1: 0 to 2500 Yen
+    ##
+    Number of hotels: 0
+    Number of reviews: 0
+    Number of sentences: 0
+        Positive sentences: 0
+        Negative sentences: 0
+    Date range:
+        Earliest: NaT
+        Latest: NaT
+
+        
+    ####
+    ### Price Layer: 2: 2500 to 5000 Yen
+    ##
+    Number of hotels: 0
+    Number of reviews: 0
+    Number of sentences: 0
+        Positive sentences: 0
+        Negative sentences: 0
+    Date range:
+        Earliest: NaT
+        Latest: NaT
+
+        
+    ####
+    ### Price Layer: 3: 5000 to 10000 Yen
+    ##
+    Number of hotels: 22
+    Number of reviews: 452
+    Number of sentences: 1108
+        Positive sentences: 924
+        Negative sentences: 184
+    Date range:
+        Earliest: 2014-07-29 00:00:00
+        Latest: 2017-07-13 00:00:00
+
+        
+    ####
+    ### Price Layer: 4: 10000 to 15000 Yen
+    ##
+    Number of hotels: 112
+    Number of reviews: 2176
+    Number of sentences: 4240
+        Positive sentences: 3566
+        Negative sentences: 674
+    Date range:
+        Earliest: 2014-07-11 00:00:00
+        Latest: 2017-07-15 00:00:00
+
+        
+    ####
+    ### Price Layer: 5: 15000 to 20000 Yen
+    ##
+    Number of hotels: 138
+    Number of reviews: 7043
+    Number of sentences: 14726
+        Positive sentences: 12775
+        Negative sentences: 1951
+    Date range:
+        Earliest: 2014-07-12 00:00:00
+        Latest: 2017-07-18 00:00:00
+
+        
+    ####
+    ### Price Layer: 6: 20000 to 30000 Yen
+    ##
+    Number of hotels: 129
+    Number of reviews: 11845
+    Number of sentences: 24413
+        Positive sentences: 21068
+        Negative sentences: 3345
+    Date range:
+        Earliest: 2014-07-12 00:00:00
+        Latest: 2017-07-18 00:00:00
+
+        
+    ####
+    ### Price Layer: 7: 30000 to 50000 Yen
+    ##
+    Number of hotels: 83
+    Number of reviews: 8283
+    Number of sentences: 17939
+        Positive sentences: 15642
+        Negative sentences: 2297
+    Date range:
+        Earliest: 2014-07-12 00:00:00
+        Latest: 2017-07-14 00:00:00
+
+        
+    ####
+    ### Price Layer: 8: 50000 to 100000 Yen
+    ##
+    Number of hotels: 59
+    Number of reviews: 16670
+    Number of sentences: 36255
+        Positive sentences: 31638
+        Negative sentences: 4617
+    Date range:
+        Earliest: 2014-07-09 00:00:00
+        Latest: 2017-07-16 00:00:00
+
+        
+    ####
+    ### Price Layer: 9: 100000 to 200000 Yen
+    ##
+    Number of hotels: 14
+    Number of reviews: 1601
+    Number of sentences: 3282
+        Positive sentences: 2930
+        Negative sentences: 352
+    Date range:
+        Earliest: 2014-07-12 00:00:00
+        Latest: 2017-07-12 00:00:00
+
+        
+########################
+##### Tripadvisor: #####
+########################
+Database: Tripadvisor__ctrip_db2_filtered_date_hotel_name
+Filepath: tripadvisor/tripadvisor_db/sentences_depparsed_predicted_english_only_filtered_ctrip_db2_date_hotel-name_price.csv
+    
+    ####
+    ### Price Layer: 0: All Prices Yen
+    ##
+    Number of hotels: 557
+    Number of reviews: 41137
+    Number of sentences: 348039
+        Positive sentences: 165308
+        Negative sentences: 182731
+    Date range:
+        Earliest: 2014-07-06 00:00:00
+        Latest: 2017-07-18 00:00:00
+    
+        
+    ####
+    ### Price Layer: 1: 0 to 2500 Yen
+    ##
+    Number of hotels: 0
+    Number of reviews: 0
+    Number of sentences: 0
+        Positive sentences: 0
+        Negative sentences: 0
+    Date range:
+        Earliest: NaT
+        Latest: NaT
+    
+        
+    ####
+    ### Price Layer: 2: 2500 to 5000 Yen
+    ##
+    Number of hotels: 0
+    Number of reviews: 0
+    Number of sentences: 0
+        Positive sentences: 0
+        Negative sentences: 0
+    Date range:
+        Earliest: NaT
+        Latest: NaT
+    
+        
+    ####
+    ### Price Layer: 3: 5000 to 10000 Yen
+    ##
+    Number of hotels: 22
+    Number of reviews: 459
+    Number of sentences: 3988
+        Positive sentences: 1875
+        Negative sentences: 2113
+    Date range:
+        Earliest: 2014-07-06 00:00:00
+        Latest: 2017-07-13 00:00:00
+    
+        
+    ####
+    ### Price Layer: 4: 10000 to 15000 Yen
+    ##
+    Number of hotels: 112
+    Number of reviews: 2865
+    Number of sentences: 24107
+        Positive sentences: 11619
+        Negative sentences: 12488
+    Date range:
+        Earliest: 2014-07-06 00:00:00
+        Latest: 2017-07-18 00:00:00
+    
+        
+    ####
+    ### Price Layer: 5: 15000 to 20000 Yen
+    ##
+    Number of hotels: 138
+    Number of reviews: 4384
+    Number of sentences: 37342
+        Positive sentences: 17449
+        Negative sentences: 19893
+    Date range:
+        Earliest: 2014-07-06 00:00:00
+        Latest: 2017-07-18 00:00:00
+    
+        
+    ####
+    ### Price Layer: 6: 20000 to 30000 Yen
+    ##
+    Number of hotels: 129
+    Number of reviews: 13772
+    Number of sentences: 115830
+        Positive sentences: 55381
+        Negative sentences: 60449
+    Date range:
+        Earliest: 2014-07-06 00:00:00
+        Latest: 2017-07-18 00:00:00
+    
+        
+    ####
+    ### Price Layer: 7: 30000 to 50000 Yen
+    ##
+    Number of hotels: 83
+    Number of reviews: 7001
+    Number of sentences: 58409
+        Positive sentences: 28493
+        Negative sentences: 29916
+    Date range:
+        Earliest: 2014-07-06 00:00:00
+        Latest: 2017-07-18 00:00:00
+    
+        
+    ####
+    ### Price Layer: 8: 50000 to 100000 Yen
+    ##
+    Number of hotels: 59
+    Number of reviews: 9646
+    Number of sentences: 81940
+        Positive sentences: 38217
+        Negative sentences: 43723
+    Date range:
+        Earliest: 2014-07-06 00:00:00
+        Latest: 2017-07-18 00:00:00
+    
+        
+    ####
+    ### Price Layer: 9: 100000 to 200000 Yen
+    ##
+    Number of hotels: 14
+    Number of reviews: 3010
+    Number of sentences: 26423
+        Positive sentences: 12274
+        Negative sentences: 14149
+    Date range:
+        Earliest: 2014-07-08 00:00:00
+        Latest: 2017-07-18 00:00:00
+    
+        

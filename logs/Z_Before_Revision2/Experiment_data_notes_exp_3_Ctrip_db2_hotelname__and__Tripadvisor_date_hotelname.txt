@@ -1,0 +1,32 @@
+Experiment 3:
+    Ctrip_db2_hotelname__and__Tripadvisor_date_hotelname
+    ###########
+    ## Ctrip:
+    ##
+    Database: Ctrip_db2__mutual_filter_tripadvisor_date_hotel_name
+    Filepath: ctrip/ctrip_db2/sentences_predicted_Combined_Keywords_Z_original_p2.75_n3.75_zh-cn_chinese_only_mutual_filter_tripadvisor_date_hotel_name.csv
+    Number of hotels: 580
+    Number of sentences: 105076
+    Number of positive sentences: 91239
+    Number of negative sentences: 13837
+    Date range:
+        Earliest: 2014-07-09
+        Latest: 2017-07-18
+
+    ###########
+    ## Tripadvisor:
+    ##
+    Database: Tripadvisor__ctrip_db2_filtered_date_hotel_name
+    Filepath: tripadvisor/tripadvisor_db/sentences_predicted_english_only_filtered_ctrip_db2_date_hotel-name.csv
+    Number of hotels: 580
+    Number of sentences: 352022
+    Number of positive sentences: 167224
+    Number of negative sentences: 184798
+    Date range:
+        Earliest: 2014-07-06
+        Latest: 2017-07-18
+    ######
+    General date range of experiment:
+        Earliest: 2014-07-06
+        Latest: 2017-07-18
+    

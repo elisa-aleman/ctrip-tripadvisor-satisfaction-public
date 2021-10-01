@@ -1,0 +1,738 @@
+0: All Prices,1: 0 to 2500,2: 2500 to 5000 yen,"3: 5000 to 10,000 yen","4: 10,000 to 15,000 yen","5: 15,000 to 20,000 yen","6: 20,000 to 30,000 yen","7: 30,000 to 50,000 yen","8: 50,000 to 100,000 yen","9: 100,000 to 200,000 yen"
+hilton : 1176,ability : 0,ability : 0,worst : 6,dated : 40,poor : 57,negative : 162,poor : 92,hilton : 1077,hilton : 54
+negative : 487,abit : 0,abit : 0,walkway : 5,downside : 29,bother : 43,poor : 136,pricey : 92,pricey : 163,pricey : 40
+pricey : 462,accord : 0,accord : 0,funny : 4,poor : 29,dated : 41,dated : 131,negative : 86,dated : 150,negative : 39
+poor : 460,accurate : 0,accurate : 0,unable : 4,negative : 28,working : 41,downside : 131,downside : 66,negative : 134,working : 35
+dated : 431,accurate information : 0,accurate information : 0,worse : 4,disappointing : 26,downside : 40,pricey : 120,dated : 65,disappointing : 129,sense : 34
+downside : 407,accurate reviews : 0,accurate reviews : 0,annoying : 3,worst : 24,disappointing : 38,bother : 119,worst : 64,poor : 124,minor : 33
+disappointing : 376,advanced : 0,advanced : 0,dirty : 3,aware : 23,annoying : 36,disappointing : 112,bother : 59,downside : 110,downside : 29
+working : 344,advanced book : 0,advanced book : 0,drawback : 3,uncomfortable : 23,negative : 36,uncomfortable : 103,working : 58,worst : 98,aware : 21
+worst : 327,advanced reservation : 0,advanced reservation : 0,funny smell : 3,cigarette : 22,worst : 36,aware : 99,aware : 57,working : 91,lighting : 20
+bother : 318,advanced toilet : 0,advanced toilet : 0,poor : 3,pricey : 22,aware : 33,working : 96,carpet : 55,walkway : 82,disappointing : 19
+aware : 303,affair : 0,affair : 0,renovation : 3,minor : 21,cigarette : 31,minor : 93,uncomfortable : 55,carpet : 71,poor : 19
+minor : 258,affect : 0,affect : 0,aware : 2,working : 21,rude : 28,smallest : 88,dirty : 51,aware : 68,annoying : 16
+uncomfortable : 253,aircon : 0,aircon : 0,carpet : 2,bother : 20,uncomfortable : 26,worst : 86,disappointing : 50,minor : 63,bother : 16
+carpet : 240,annoying : 0,annoying : 0,carrying : 2,paper : 19,paper : 25,cigarette : 79,cigarette : 46,sense : 63,mixed : 15
+annoying : 220,annoying elevator : 0,annoying elevator : 0,cigarette : 2,unable : 19,pricey : 24,annoying : 70,unable : 43,bother : 61,disappointment : 14
+sense : 220,annoying habit : 0,annoying habit : 0,correct : 2,european : 18,cramped : 23,carpet : 67,european : 41,outdated : 58,paper : 14
+cigarette : 219,annoying noise : 0,annoying noise : 0,curtain : 2,annoying : 17,unable : 23,cramped : 67,bottled : 38,lighting : 51,bedside : 13
+unable : 215,annoying part : 0,annoying part : 0,disappointing : 2,wet : 17,aircon : 22,dirty : 67,mixed : 34,unable : 51,cigarette : 13
+european : 206,annoying room : 0,annoying room : 0,disturb : 2,rude : 16,bottled : 22,unable : 67,paper : 34,european : 47,drawback : 13
+smallest : 192,annoying step : 0,annoying step : 0,downside : 2,carpet : 14,drawback : 22,european : 66,annoying : 33,paper : 47,smallest : 13
+dirty : 188,annoying thing : 0,annoying thing : 0,electrical : 2,drawback : 14,european : 22,wardrobe : 66,terrible : 33,rude : 46,european : 12
+paper : 182,annoying wifi : 0,annoying wifi : 0,electrical outlet : 2,plastic : 14,plastic : 22,plastic : 65,minor : 32,annoying : 45,worst : 12
+rude : 181,argue : 0,argue : 0,horrible : 2,cramped : 13,carpet : 21,rude : 60,smallest : 32,terrible : 43,write : 12
+lighting : 180,aware : 0,aware : 0,horrible noise : 2,sense : 13,sense : 21,sense : 59,write : 31,disappointment : 37,awkward : 11
+bottled : 164,aware guest : 0,aware guest : 0,lighting : 2,smallest : 13,stuffy : 19,disappointment : 58,bottled water : 30,bottled : 36,correct : 11
+plastic : 159,aware hotel : 0,aware hotel : 0,shelf : 2,lighting : 12,terrible : 19,mixed : 55,sense : 29,dirty : 36,rude : 11
+terrible : 159,aware management : 0,aware management : 0,shock : 2,terrible : 12,wardrobe : 19,lighting : 54,correct : 28,renovation : 35,carpet : 10
+cramped : 155,aware person : 0,aware person : 0,stale : 2,dirty : 11,wet : 19,bottled : 50,renovation : 28,uncomfortable : 33,cramped : 10
+disappointment : 152,aware room : 0,aware room : 0,stick : 2,outdated : 11,cottage : 18,terrible : 48,weird : 28,weird : 33,plate : 10
+drawback : 143,aware something : 0,aware something : 0,terrible : 2,mixed : 10,plug : 18,weird : 48,lighting : 26,bottled water : 32,policy : 10
+mixed : 143,aware thing : 0,aware thing : 0,uncomfortable : 2,correct : 9,smallest : 18,renovation : 47,cramped : 25,improve : 32,bottled : 9
+walkway : 143,aware traveler : 0,aware traveler : 0,unsure : 2,crazy : 9,bottled water : 17,drawback : 45,wardrobe : 25,crazy : 31,exciting : 9
+wet : 143,awkward : 0,awkward : 0,working : 2,useless : 9,weird : 16,improve : 44,wet : 25,wet : 31,renovation : 9
+weird : 139,awkward bathroom : 0,awkward bathroom : 0,worst room : 2,write : 9,worse : 16,paper : 42,disappointment : 24,ridiculous : 30,stick : 9
+renovation : 137,awkward bit : 0,awkward bit : 0,yellow : 2,aircon : 8,carrying : 15,bottled water : 41,plastic : 24,worse : 29,stuffy : 9
+bottled water : 134,awkward configuration : 0,awkward configuration : 0,ability : 0,curtain : 8,lighting : 15,policy : 40,drawback : 23,mediocre : 28,training : 9
+wardrobe : 134,awkward layout : 0,awkward layout : 0,abit : 0,disappointment : 8,ridiculous : 15,horrible : 39,tough : 22,only negative : 28,wardrobe : 9
+outdated : 128,awkward position : 0,awkward position : 0,accord : 0,smallest room : 8,dirty : 14,wet : 39,rude : 20,plastic : 27,waste : 9
+write : 126,awkward shower : 0,awkward shower : 0,accurate : 0,stuffy : 8,minor : 14,skip : 37,uncomfortable bed : 20,skip : 27,wet : 9
+improve : 114,awkward situation : 0,awkward situation : 0,accurate information : 0,bottled : 7,write : 14,smallest room : 37,worse : 20,smallest : 27,bottled water : 8
+correct : 110,awkward time : 0,awkward time : 0,accurate reviews : 0,dangerous : 7,tough : 13,awkward : 36,aircon : 18,cigarette : 26,criticism : 8
+crazy : 107,background : 0,background : 0,advanced : 0,funny : 7,walkway : 13,only negative : 35,opinion : 18,gripe : 26,dead : 8
+skip : 104,backpacker : 0,backpacker : 0,advanced book : 0,sunday : 7,policy : 12,crazy : 33,skip : 18,write : 26,device : 8
+policy : 102,ball : 0,ball : 0,advanced reservation : 0,wardrobe : 7,renovation : 12,plug : 33,improve : 17,correct : 24,london : 8
+worse : 102,bang : 0,bang : 0,advanced toilet : 0,waste : 7,skip : 12,write : 33,outdated : 17,opinion : 24,only negative : 8
+only negative : 100,bare : 0,bare : 0,affair : 0,worse : 7,crazy : 11,claustrophobic : 32,struggle : 17,drawback : 23,opinion : 8
+opinion : 92,bare bone : 0,bare bone : 0,affect : 0,bedside : 6,disappointment : 11,outdated : 31,awkward : 16,mold : 23,rollaway : 8
+plug : 92,bare foot : 0,bare foot : 0,aircon : 0,bottled water : 6,electrical : 11,aircon : 30,carrying : 16,plug : 23,shelf : 8
+carrying : 91,bare footed : 0,bare footed : 0,annoying elevator : 0,improve : 6,horrible : 11,electrical : 30,crazy : 16,policy : 23,uncomfortable : 8
+awkward : 90,bare minimum : 0,bare minimum : 0,annoying habit : 0,not bother : 6,smallest room : 11,opinion : 30,funny : 16,carrying : 22,waitress : 8
+aircon : 88,bare necessity : 0,bare necessity : 0,annoying noise : 0,skip : 6,only negative : 10,funny : 29,only negative : 16,mixed : 22,improvement : 7
+funny : 86,bare room : 0,bare room : 0,annoying part : 0,tough : 6,poor service : 10,gripe : 29,mold : 14,funny : 21,plug : 7
+horrible : 86,bare wall : 0,bare wall : 0,annoying room : 0,trash : 6,correct : 9,struggle : 29,policy : 14,romantic : 19,unable : 7
+stuffy : 85,bedside : 0,bedside : 0,annoying step : 0,weird : 6,curtain : 9,waste : 29,meat : 13,device : 18,walkway : 7
+ridiculous : 83,big negative : 0,big negative : 0,annoying thing : 0,accurate : 5,disturb : 8,carrying : 28,negative thing : 13,exciting : 18,crazy : 6
+tough : 83,blanket : 0,blanket : 0,annoying wifi : 0,blanket : 5,improve : 8,stale : 28,ridiculous : 13,waste : 18,dirty : 6
+smallest room : 80,bother : 0,bother : 0,argue : 0,carrying : 5,inch : 8,burger : 27,smallest room : 13,awkward : 17,improve : 6
+electrical : 79,bottled : 0,bottled : 0,aware guest : 0,concrete : 5,outdated : 8,correct : 27,smallish : 13,electrical : 17,plastic : 6
+waste : 77,bottled drink : 0,bottled drink : 0,aware hotel : 0,improvement : 5,struggle : 8,curtain : 27,horrible : 12,horrible : 17,pricing : 6
+curtain : 76,bottled tea : 0,bottled tea : 0,aware management : 0,inch : 5,unfriendly : 8,hilton : 27,improvement : 12,improvement : 17,pricy : 6
+gripe : 73,bottled water : 0,bottled water : 0,aware person : 0,meat : 5,unsure : 8,meat : 27,dirty carpet : 11,plate : 17,rollaway bed : 6
+struggle : 70,burger : 0,burger : 0,aware room : 0,mold : 5,worst hotel : 8,not bother : 26,unacceptable : 11,cramped : 16,weird : 6
+not bother : 68,camping : 0,camping : 0,aware something : 0,opinion : 5,electrical outlet : 7,smallish : 25,unfriendly : 11,poor service : 16,cramped room : 5
+bedside : 67,carpet : 0,carpet : 0,aware thing : 0,reviewer : 5,negative point : 7,stuffy : 25,cupboard : 10,pricing : 16,curtain : 5
+stale : 66,carrying : 0,carrying : 0,aware traveler : 0,stick : 5,not bother : 7,trash : 25,curtain : 10,stick : 16,electrical : 5
+mold : 65,cigarette : 0,cigarette : 0,awkward : 0,waitress : 5,opinion : 7,cramped room : 24,dangerous : 10,training : 16,meat : 5
+meat : 63,claim : 0,claim : 0,awkward bathroom : 0,walkway : 5,stale : 7,uncomfortable bed : 24,device : 10,bedside : 15,negative comment : 5
+uncomfortable bed : 63,claustrophobic : 0,claustrophobic : 0,awkward bit : 0,cramped room : 4,stuffy room : 7,bedside : 23,electrical : 10,curtain : 15,not bother : 5
+device : 62,claustrophobic feel : 0,claustrophobic feel : 0,awkward configuration : 0,device : 4,sunday : 7,tough : 23,hilton : 10,stale : 15,ability : 4
+improvement : 62,claustrophobic person : 0,claustrophobic person : 0,awkward layout : 0,disturb : 4,training : 7,worse : 23,negative comment : 10,tough : 15,electrical outlet : 4
+plate : 61,claustrophobic room : 0,claustrophobic room : 0,awkward position : 0,electrical : 4,uncomfortable bed : 7,criticism : 22,not bother : 10,not bother : 14,negative point : 4
+stick : 60,concrete : 0,concrete : 0,awkward shower : 0,negative thing : 4,abit : 6,concrete : 21,reviewer : 10,pricy : 14,poor service : 4
+training : 59,confuse : 0,confuse : 0,awkward situation : 0,plate : 4,crew : 6,plate : 21,romantic : 10,ugly : 14,pricey hotel : 4
+smallish : 57,correct : 0,correct : 0,awkward time : 0,romantic : 4,gripe : 6,walkway : 21,stuffy : 10,unfriendly : 14,pricey side : 4
+trash : 56,correct amount : 0,correct amount : 0,background : 0,shelf : 4,hilton : 6,cupboard : 20,walkway : 10,rollaway : 13,ridiculous : 4
+mediocre : 55,correct breakfast : 0,correct breakfast : 0,backpacker : 0,training : 4,mixed : 6,dusty : 20,waste : 10,stuffy : 13,romantic : 4
+poor service : 55,correct bus : 0,correct bus : 0,ball : 0,uncomfortable bed : 4,paint : 6,ridiculous : 20,worst hotel : 10,trash : 13,rule : 4
+sunday : 55,correct exit : 0,correct exit : 0,bang : 0,warning : 4,poor breakfast : 6,sunday : 20,criticism : 9,unacceptable : 13,skip : 4
+criticism : 52,correct hotel : 0,correct hotel : 0,bare : 0,worst hotel : 4,reviewer : 6,training : 20,not working : 9,dirty carpet : 12,smallest detail : 4
+romantic : 52,correct information : 0,correct information : 0,bare bone : 0,yellow : 4,stick : 6,bare : 19,pricing : 9,negative thing : 12,stressful : 4
+burger : 49,correct location : 0,correct location : 0,bare foot : 0,ability : 3,awkward : 5,mold : 19,rule : 9,pricey restaurant : 12,sunday : 4
+exciting : 49,correct number : 0,correct number : 0,bare footed : 0,affect : 3,burger : 5,device : 17,stain : 9,struggle : 12,tough : 4
+negative thing : 49,correct order : 0,correct order : 0,bare minimum : 0,awkward : 3,claustrophobic : 5,disturb : 17,stale : 9,sunday : 12,warning : 4
+unacceptable : 49,correct password : 0,correct password : 0,bare necessity : 0,bang : 3,dangerous : 5,unacceptable : 17,stick : 9,unsure : 12,carrying : 3
+unsure : 48,correct place : 0,correct place : 0,bare room : 0,dead : 3,funny : 5,abit : 16,abit : 8,drain : 11,concrete : 3
+cramped room : 47,correct price : 0,correct price : 0,bare wall : 0,dresser : 3,improvement : 5,fashion : 16,fashion : 8,minor issue : 11,crew : 3
+concrete : 46,correct room : 0,correct room : 0,bedside : 0,duvet : 3,insist : 5,improvement : 16,negative point : 8,remind : 11,cupboard : 3
+pricy : 46,correct service : 0,correct service : 0,big negative : 0,electrical outlet : 3,not working : 5,not working : 16,plug : 8,rude staff : 11,dated : 3
+waitress : 46,correct spelling : 0,correct spelling : 0,blanket : 0,insist : 3,pain : 5,shock : 16,poor service : 8,waitress : 11,funny : 3
+claustrophobic : 45,correct time : 0,correct time : 0,bother : 0,minor issue : 3,poor hotel : 5,negative thing : 15,shelf : 8,aircon : 10,gesture : 3
+shelf : 45,correct way : 0,correct way : 0,bottled : 0,negative point : 3,smallish : 5,poor breakfast : 15,smallish room : 8,criticism : 10,gripe : 3
+useless : 45,cottage : 0,cottage : 0,bottled drink : 0,negative review : 3,trash : 5,unsure : 15,unsure : 8,feedback : 10,handful : 3
+abit : 43,cramped : 0,cramped : 0,bottled tea : 0,not working : 3,unacceptable : 5,useless : 15,wet room : 8,insist : 10,liking : 3
+disturb : 43,cramped area : 0,cramped area : 0,bottled water : 0,only negative : 3,bedside : 4,warning : 15,bang : 7,meat : 10,mediocre : 3
+worst hotel : 43,cramped bathroom : 0,cramped bathroom : 0,burger : 0,plug : 3,claim : 4,feedback : 14,bare : 7,pain : 10,minor complaint : 3
+cupboard : 42,cramped bedroom : 0,cramped bedroom : 0,camping : 0,policy : 3,cramped room : 4,poor service : 14,concrete : 7,pricey hotel : 10,negative thing : 3
+pricing : 42,cramped feel : 0,cramped feel : 0,claim : 0,poor breakfast : 3,device : 4,pricy : 14,dead : 7,reviewer : 10,pricey room : 3
+poor breakfast : 41,cramped hotel : 0,cramped hotel : 0,claustrophobic : 0,poor service : 3,dusty : 4,london : 13,dirty room : 7,abit : 9,smallest room : 3
+reviewer : 41,cramped lobby : 0,cramped lobby : 0,claustrophobic feel : 0,renovation : 3,fashion : 4,minor issue : 13,duvet : 7,burger : 9,smallish : 3
+unfriendly : 41,cramped quarters : 0,cramped quarters : 0,claustrophobic person : 0,rude staff : 3,feedback : 4,problematic : 13,feedback : 7,crew : 9,stale : 3
+not working : 40,cramped room : 0,cramped room : 0,claustrophobic room : 0,smallish : 3,london : 4,smallish room : 13,friday : 7,inconsistent : 9,struggle : 3
+feedback : 38,cramped size : 0,cramped size : 0,concrete : 0,abit : 2,mediocre : 4,stick : 13,pain : 7,negative comment : 9,tear : 3
+dusty : 37,cramped space : 0,cramped space : 0,confuse : 0,argue : 2,not aware : 4,claim : 12,plate : 7,negative reviews : 9,unacceptable : 3
+electrical outlet : 37,crap : 0,crap : 0,correct amount : 0,confuse : 2,not disturb : 4,crew : 12,poor breakfast : 7,outdated room : 9,useless : 3
+fashion : 37,crazy : 0,crazy : 0,correct breakfast : 0,correct way : 2,pricy : 4,gesture : 12,poor english : 7,poor breakfast : 9,wet room : 3
+minor issue : 37,crazy amount : 0,crazy amount : 0,correct bus : 0,criticism : 2,shelf : 4,inch : 12,pricey breakfast : 7,poor quality : 9,worse : 3
+negative point : 37,crazy busy : 0,crazy busy : 0,correct exit : 0,cupboard : 2,stiff : 4,neck : 12,waitress : 7,rollaway bed : 9,affect : 2
+pain : 37,crazy city : 0,crazy city : 0,correct hotel : 0,dirty floor : 2,unfriendly staff : 4,romantic : 12,yellow : 7,unreasonable : 9,dead area : 2
+warning : 37,crazy expensive : 0,crazy expensive : 0,correct information : 0,disappointing restaurant : 2,useless : 4,shelf : 12,accurate : 6,worst hotel : 9,disappointing recommendation : 2
+dangerous : 36,crazy hour : 0,crazy hour : 0,correct location : 0,drunk : 2,waitress : 4,affair : 11,bare foot : 6,dusty : 8,disturb : 2
+london : 36,crazy kid : 0,crazy kid : 0,correct number : 0,exciting : 2,warning : 4,mediocre : 11,bedside : 6,electrical outlet : 8,fashion : 2
+negative comment : 36,crazy night : 0,crazy night : 0,correct order : 0,friday : 2,waste : 4,negative comment : 11,disturb : 6,handful : 8,feedback : 2
+dirty carpet : 34,crazy number : 0,crazy number : 0,correct password : 0,funny smell : 2,wet room : 4,negative point : 11,drunk : 6,pricey food : 8,insist : 2
+wet room : 34,crazy price : 0,crazy price : 0,correct place : 0,garbage : 2,yellow : 4,pain : 11,exciting : 6,rule : 8,little uncomfortable : 2
+crew : 33,crazy shopper : 0,crazy shopper : 0,correct price : 0,gripe : 2,ability : 3,rude staff : 11,gripe : 6,smallest room : 8,minor detail : 2
+dead : 33,crazy shopping : 0,crazy shopping : 0,correct room : 0,handful : 2,affect : 3,uncomfortable pillow : 11,pricey restaurant : 6,smallish : 8,minor downside : 2
+bare : 32,crazy station : 0,crazy station : 0,correct service : 0,horrible : 2,argue : 3,waitress : 11,pricy : 6,wardrobe : 8,minor issue : 2
+insist : 32,crazy time : 0,crazy time : 0,correct spelling : 0,involve : 2,bang : 3,wet room : 11,shock : 6,warning : 8,minor negative : 2
+inch : 31,crazy view : 0,crazy view : 0,correct time : 0,joke : 2,bottled drink : 3,worst hotel : 11,sticky : 6,ability : 7,minor quibble : 2
+remind : 31,crew : 0,crew : 0,correct way : 0,liking : 2,claustrophobic room : 3,ability : 10,stressful : 6,concrete : 7,minor thing : 2
+rollaway : 31,criticism : 0,criticism : 0,cottage : 0,london : 2,concrete : 3,bang : 10,uncomfortable mattress : 6,cramped room : 7,mixed experience : 2
+rude staff : 31,cry : 0,cry : 0,cramped : 0,mediocre hotel : 2,cupboard : 3,dirty room : 10,burger : 5,disappointing experience : 7,neck : 2
+rule : 31,cupboard : 0,cupboard : 0,cramped area : 0,minor drawback : 2,disappointing breakfast : 3,drain : 10,crap : 5,gesture : 7,negative experience : 2
+yellow : 31,curtain : 0,curtain : 0,cramped bathroom : 0,mixed onsen : 2,drain : 3,pricing : 10,gesture : 5,gotemba : 7,outdated : 2
+gesture : 30,dangerous : 0,dangerous : 0,cramped bedroom : 0,negative experience : 2,dusty room : 3,ugly : 10,insist : 5,mediocre breakfast : 7,pain : 2
+drain : 29,dangerous road : 0,dangerous road : 0,cramped feel : 0,negative reviews : 2,exciting : 3,yellow : 10,mediocre : 5,minor negative : 7,poor choice : 2
+shock : 29,dangerous step : 0,dangerous step : 0,cramped hotel : 0,not aware : 2,friday : 3,background : 9,minor issue : 5,not working : 7,poor experience : 2
+smallish room : 29,dated : 0,dated : 0,cramped lobby : 0,not uncomfortable : 2,handful : 3,dangerous : 9,neck : 5,pricey side : 7,pricey place : 2
+ability : 28,dead : 0,dead : 0,cramped quarters : 0,other negative : 2,meat : 3,drunk : 9,paint : 5,shelf : 7,romantic view : 2
+stain : 28,dead area : 0,dead area : 0,cramped room : 0,outdated decor : 2,minor issue : 3,duvet : 9,poor connection : 5,stain : 7,rude person : 2
+bang : 27,dead end : 0,dead end : 0,cramped size : 0,outdated room : 2,mold : 3,electrical outlet : 9,poor quality : 5,stale smell : 7,rude service : 2
+drunk : 27,device : 0,device : 0,cramped space : 0,pain : 2,negative reviews : 3,liking : 9,pricey room : 5,terrible service : 7,rude staff : 2
+poor quality : 27,dirty : 0,dirty : 0,crap : 0,paint : 2,not worst : 3,poor english : 9,remind : 5,uncomfortable bed : 7,sharp : 2
+pricey restaurant : 27,dirty area : 0,dirty area : 0,crazy : 0,patch : 2,poor experience : 3,poor quality : 9,stiff : 5,affect : 6,smallish room : 2
+ugly : 27,dirty bathroom : 0,dirty bathroom : 0,crazy amount : 0,poor conditioning : 2,poor isolation : 3,remind : 9,stuffy room : 5,argue : 6,stale smoke : 2
+claim : 26,dirty blanket : 0,dirty blanket : 0,crazy busy : 0,poor view : 2,poor selection : 3,reviewer : 9,sunday : 5,background : 6,stuffy hotel : 2
+duvet : 26,dirty carpet : 0,dirty carpet : 0,crazy city : 0,pricy : 2,refuse : 3,sharp : 9,terrible breakfast : 5,claim : 6,suffer : 2
+liking : 25,dirty carpeting : 0,dirty carpeting : 0,crazy expensive : 0,remind : 2,rude staff : 3,stiff : 9,trash : 5,confuse : 6,trash : 2
+pricey hotel : 25,dirty chair : 0,dirty chair : 0,crazy hour : 0,romantic trip : 2,smallish room : 3,stuffy room : 9,uncomfortable pillow : 5,fashion : 6,unreasonable : 2
+stiff : 25,dirty clothe : 0,dirty clothe : 0,crazy kid : 0,rule : 2,soundproofing : 3,dirty carpet : 8,uncomfortable room : 5,negative nothing : 6,unsure : 2
+unreasonable : 25,dirty cup : 0,dirty cup : 0,crazy night : 0,sharp : 2,stain : 3,exciting : 8,advanced : 4,outdated furniture : 6,worst experience : 2
+friday : 24,dirty curtain : 0,dirty curtain : 0,crazy number : 0,stale : 2,stale cigarette : 3,friday : 8,claustrophobic : 4,poor english : 6,abit : 0
+neck : 24,dirty dish : 0,dirty dish : 0,crazy price : 0,stiff : 2,stressful : 3,garbage : 8,confuse : 4,tear : 6,accord : 0
+poor english : 24,dirty feel : 0,dirty feel : 0,crazy shopper : 0,terrible service : 2,terrible service : 3,not aware : 8,disappointing stay : 4,unfriendly staff : 6,accurate : 0
+accurate : 23,dirty filter : 0,dirty filter : 0,crazy shopping : 0,uncomfortable night : 2,terrible wifi : 3,poor selection : 8,drain : 4,useless : 6,accurate information : 0
+dirty room : 23,dirty floor : 0,dirty floor : 0,crazy station : 0,uncomfortable pillow : 2,weird thing : 3,refuse : 8,electrical outlet : 4,wet room : 6,accurate reviews : 0
+negative reviews : 23,dirty glass : 0,dirty glass : 0,crazy time : 0,wet area : 2,wet clothe : 3,social : 8,handful : 4,dead : 5,advanced : 0
+rollaway bed : 23,dirty hallway : 0,dirty hallway : 0,crazy view : 0,wet floor : 2,worst experience : 3,stain : 8,inconsistent : 4,drunk : 5,advanced book : 0
+sharp : 23,dirty hotel : 0,dirty hotel : 0,crew : 0,wet room : 2,accurate : 2,stale smell : 8,liking : 4,dusty room : 5,advanced reservation : 0
+stressful : 23,dirty linen : 0,dirty linen : 0,criticism : 0,wet weather : 2,advanced : 2,unreasonable : 8,london : 4,duvet : 5,advanced toilet : 0
+stuffy room : 23,dirty luggage : 0,dirty luggage : 0,cry : 0,worst experience : 2,annoying elevator : 2,blanket : 7,minor point : 4,liking : 5,affair : 0
+background : 22,dirty restaurant : 0,dirty restaurant : 0,cupboard : 0,worst thing : 2,annoying step : 2,disappointing breakfast : 7,outdated hotel : 4,london : 5,aircon : 0
+handful : 22,dirty room : 0,dirty room : 0,dangerous : 0,accord : 0,annoying thing : 2,hanger : 7,poor location : 4,neck : 5,annoying elevator : 0
+paint : 22,dirty rug : 0,dirty rug : 0,dangerous road : 0,accurate information : 0,background : 2,insist : 7,poor reception : 4,negative experience : 5,annoying habit : 0
+inconsistent : 21,dirty sheet : 0,dirty sheet : 0,dangerous step : 0,accurate reviews : 0,blanket : 2,not disturb : 7,poor wifi : 4,paint : 5,annoying noise : 0
+problematic : 21,dirty stain : 0,dirty stain : 0,dated : 0,advanced : 0,camping : 2,rule : 7,pricey hotel : 4,pricey buffet : 5,annoying part : 0
+affect : 20,dirty toilet : 0,dirty toilet : 0,dead : 0,advanced book : 0,cramped bathroom : 2,worst part : 7,stale smell : 4,pricey room : 5,annoying room : 0
+cottage : 20,dirty towel : 0,dirty towel : 0,dead area : 0,advanced reservation : 0,dead : 2,advanced : 6,useless : 4,slight negative : 5,annoying step : 0
+outdated room : 20,dirty wall : 0,dirty wall : 0,dead end : 0,advanced toilet : 0,dirty room : 2,annoying thing : 6,affair : 3,suffer : 5,annoying thing : 0
+stale smell : 20,dirty water : 0,dirty water : 0,device : 0,affair : 0,disappointing hotel : 2,dead : 6,camping : 3,worst experience : 5,annoying wifi : 0
+uncomfortable pillow : 20,disappointing : 0,disappointing : 0,dirty area : 0,annoying elevator : 0,disappointing selection : 2,negative experience : 6,correct exit : 3,annoying thing : 4,argue : 0
+garbage : 19,disappointing area : 0,disappointing area : 0,dirty bathroom : 0,annoying habit : 0,disappointing stay : 2,negative nothing : 6,cramped room : 3,disappointing breakfast : 4,aware guest : 0
+terrible service : 19,disappointing bathroom : 0,disappointing bathroom : 0,dirty blanket : 0,annoying noise : 0,dog : 2,negative reviews : 6,crew : 3,disappointing thing : 4,aware hotel : 0
+affair : 18,disappointing breakfast : 0,disappointing breakfast : 0,dirty carpet : 0,annoying part : 0,drunk : 2,outdated room : 6,folk : 3,disturb : 4,aware management : 0
+disappointing breakfast : 18,disappointing buffet : 0,disappointing buffet : 0,dirty carpeting : 0,annoying room : 0,duvet : 2,poor value : 6,gotemba : 3,dog : 4,aware person : 0
+not aware : 18,disappointing choice : 0,disappointing choice : 0,dirty chair : 0,annoying step : 0,existent : 2,pricey breakfast : 6,hanger : 3,folk : 4,aware room : 0
+not disturb : 18,disappointing dinner : 0,disappointing dinner : 0,dirty clothe : 0,annoying thing : 0,existent space : 2,pricey restaurant : 6,minor thing : 3,garbage : 4,aware something : 0
+pricey room : 18,disappointing experience : 0,disappointing experience : 0,dirty cup : 0,annoying wifi : 0,fry : 2,rollaway : 6,mixed reviews : 3,hotspot : 4,aware thing : 0
+pricey side : 18,disappointing fact : 0,disappointing fact : 0,dirty curtain : 0,aware guest : 0,garbage : 2,stale smoke : 6,negative nothing : 3,inch : 4,aware traveler : 0
+refuse : 18,disappointing food : 0,disappointing food : 0,dirty dish : 0,aware hotel : 0,gesture : 2,terrible experience : 6,negative side : 3,mediocre service : 4,awkward bathroom : 0
+tear : 18,disappointing gym : 0,disappointing gym : 0,dirty feel : 0,aware management : 0,horrible room : 2,unfriendly : 6,not disturb : 3,minor complaint : 4,awkward bit : 0
+worst experience : 18,disappointing hotel : 0,disappointing hotel : 0,dirty filter : 0,aware person : 0,inconsistent : 2,affect : 5,pricey side : 3,negative point : 4,awkward configuration : 0
+advanced : 17,disappointing location : 0,disappointing location : 0,dirty floor : 0,aware room : 0,liking : 2,bare minimum : 5,sharp : 3,negative side : 4,awkward layout : 0
+blanket : 17,disappointing lounge : 0,disappointing lounge : 0,dirty glass : 0,aware something : 0,little disappointing : 2,existent : 5,stale smoke : 3,outdated hotel : 4,awkward position : 0
+poor selection : 17,disappointing meal : 0,disappointing meal : 0,dirty hallway : 0,aware thing : 0,mediocre breakfast : 2,inconsistent : 5,stuffy smell : 3,poor location : 4,awkward shower : 0
+pricey breakfast : 17,disappointing place : 0,disappointing place : 0,dirty hotel : 0,aware traveler : 0,minor problem : 2,minor annoyance : 5,tear : 3,poor selection : 4,awkward situation : 0
+argue : 16,disappointing point : 0,disappointing point : 0,dirty linen : 0,awkward bathroom : 0,negative anything : 2,minor complaint : 5,terrible smell : 3,poor standard : 4,awkward time : 0
+confuse : 16,disappointing pool : 0,disappointing pool : 0,dirty luggage : 0,awkward bit : 0,packet : 2,minor point : 5,worst room : 3,pricey price : 4,background : 0
+minor complaint : 16,disappointing quality : 0,disappointing quality : 0,dirty restaurant : 0,awkward configuration : 0,plate : 2,negative side : 5,worst service : 3,problematic : 4,backpacker : 0
+negative experience : 16,disappointing recommendation : 0,disappointing recommendation : 0,dirty room : 0,awkward layout : 0,poor condition : 2,pricey hotel : 5,annoying thing : 2,refuse : 4,ball : 0
+negative nothing : 16,disappointing restaurant : 0,disappointing restaurant : 0,dirty rug : 0,awkward position : 0,poor food : 2,pricey room : 5,aware room : 2,stressful : 4,bang : 0
+annoying thing : 15,disappointing room : 0,disappointing room : 0,dirty sheet : 0,awkward shower : 0,poor management : 2,worst breakfast : 5,aware thing : 2,worst thing : 4,bare : 0
+disappointing experience : 15,disappointing selection : 0,disappointing selection : 0,dirty stain : 0,awkward situation : 0,poor quality : 2,worst experience : 5,background : 2,yellow : 4,bare bone : 0
+stale smoke : 15,disappointing service : 0,disappointing service : 0,dirty toilet : 0,awkward time : 0,poor signal : 2,argue : 4,backpacker : 2,accurate : 3,bare foot : 0
+unfriendly staff : 15,disappointing stay : 0,disappointing stay : 0,dirty towel : 0,background : 0,pricey hotel : 2,ball : 4,ball : 2,advanced : 3,bare footed : 0
+worst part : 15,disappointing thing : 0,disappointing thing : 0,dirty wall : 0,backpacker : 0,pricey restaurant : 2,big negative : 4,bare footed : 2,bare : 3,bare minimum : 0
+dusty room : 14,disappointing view : 0,disappointing view : 0,dirty water : 0,ball : 0,remind : 2,disappointing experience : 4,claim : 2,correct amount : 3,bare necessity : 0
+hanger : 14,disappointing way : 0,disappointing way : 0,disappointing area : 0,bare : 0,ridiculous amount : 2,disappointing stay : 4,correct hotel : 2,cupboard : 3,bare room : 0
+negative side : 14,disappointment : 0,disappointment : 0,disappointing bathroom : 0,bare bone : 0,sharp : 2,funny thing : 4,correct information : 2,dangerous : 3,bare wall : 0
+suffer : 14,disturb : 0,disturb : 0,disappointing breakfast : 0,bare foot : 0,stale smoke : 2,hotspot : 4,cottage : 2,dirty room : 3,big negative : 0
+disappointing stay : 13,dog : 0,dog : 0,disappointing buffet : 0,bare footed : 0,terrible connection : 2,minor gripe : 4,cramped space : 2,disappointing dinner : 3,blanket : 0
+gotemba : 13,downside : 0,downside : 0,disappointing choice : 0,bare minimum : 0,terrible experience : 2,minor problem : 4,crazy shopper : 2,disappointing room : 3,bottled drink : 0
+minor negative : 13,drain : 0,drain : 0,disappointing dinner : 0,bare necessity : 0,terrible stay : 2,negative aspect : 4,dirty clothe : 2,disappointing stay : 3,bottled tea : 0
+terrible breakfast : 13,drawback : 0,drawback : 0,disappointing experience : 0,bare room : 0,uncomfortable pillow : 2,not smallest : 4,dirty luggage : 2,existent : 3,burger : 0
+existent : 12,dresser : 0,dresser : 0,disappointing fact : 0,bare wall : 0,wet towel : 2,packet : 4,dirty restaurant : 2,friday : 3,camping : 0
+joke : 12,drunk : 0,drunk : 0,disappointing food : 0,big negative : 0,worst part : 2,paint : 4,disappointing breakfast : 2,horrible room : 3,claim : 0
+minor problem : 12,drunk man : 0,drunk man : 0,disappointing gym : 0,bottled drink : 0,worst service : 2,rollaway bed : 4,disappointing hotel : 2,horrible smell : 3,claustrophobic : 0
+social : 12,drunk person : 0,drunk person : 0,disappointing hotel : 0,bottled tea : 0,accord : 0,soundproofing : 4,disappointing room : 2,joke : 3,claustrophobic feel : 0
+sticky : 12,dusty : 0,dusty : 0,disappointing location : 0,burger : 0,accurate information : 0,stressful : 4,dresser : 2,minor inconvenience : 3,claustrophobic person : 0
+mediocre breakfast : 11,dusty area : 0,dusty area : 0,disappointing lounge : 0,camping : 0,accurate reviews : 0,suffer : 4,dusty room : 2,minor problem : 3,claustrophobic room : 0
+ball : 10,dusty carpet : 0,dusty carpet : 0,disappointing meal : 0,claim : 0,advanced book : 0,tear : 4,exciting area : 2,mixed feeling : 3,confuse : 0
+dresser : 10,dusty room : 0,dusty room : 0,disappointing place : 0,claustrophobic : 0,advanced reservation : 0,terrible breakfast : 4,exciting breakfast : 2,not waste : 3,correct amount : 0
+folk : 10,duvet : 0,duvet : 0,disappointing point : 0,claustrophobic feel : 0,advanced toilet : 0,terrible service : 4,garbage : 2,other negative : 3,correct breakfast : 0
+hotspot : 10,electrical : 0,electrical : 0,disappointing pool : 0,claustrophobic person : 0,affair : 0,terrible wifi : 4,horrible service : 2,poor light : 3,correct bus : 0
+minor inconvenience : 10,electrical appliance : 0,electrical appliance : 0,disappointing quality : 0,claustrophobic room : 0,annoying habit : 0,uncomfortable night : 4,hotspot : 2,poor room : 3,correct exit : 0
+minor point : 10,electrical equipment : 0,electrical equipment : 0,disappointing recommendation : 0,correct amount : 0,annoying noise : 0,weird thing : 4,inch : 2,prepay : 3,correct hotel : 0
+minor thing : 10,electrical outlet : 0,electrical outlet : 0,disappointing restaurant : 0,correct breakfast : 0,annoying part : 0,awkward position : 3,involve : 2,pricey breakfast : 3,correct information : 0
+outdated hotel : 10,electrical point : 0,electrical point : 0,disappointing room : 0,correct bus : 0,annoying room : 0,bottled tea : 3,joke : 2,pricey rate : 3,correct location : 0
+pricey food : 10,electrical socket : 0,electrical socket : 0,disappointing selection : 0,correct exit : 0,annoying wifi : 0,camping : 3,minor complaint : 2,ridiculous price : 3,correct number : 0
+slight negative : 10,electrical store : 0,electrical store : 0,disappointing service : 0,correct hotel : 0,aware guest : 0,correct exit : 3,minor downside : 2,romantic feel : 3,correct order : 0
+soundproofing : 10,european : 0,european : 0,disappointing stay : 0,correct information : 0,aware hotel : 0,dirty bathroom : 3,minor inconvenience : 2,shock : 3,correct password : 0
+terrible wifi : 10,exciting : 0,exciting : 0,disappointing thing : 0,correct location : 0,aware management : 0,disappointing thing : 3,minor problem : 2,stale croissant : 3,correct place : 0
+worst service : 10,exciting area : 0,exciting area : 0,disappointing view : 0,correct number : 0,aware person : 0,disappointing view : 3,mixed room : 2,stiff : 3,correct price : 0
+worst thing : 10,exciting breakfast : 0,exciting breakfast : 0,disappointing way : 0,correct order : 0,aware room : 0,dusty room : 3,mixed style : 2,terrible food : 3,correct room : 0
+camping : 9,exciting elevator : 0,exciting elevator : 0,disappointment : 0,correct password : 0,aware something : 0,gotemba : 3,mixed western : 2,terrible light : 3,correct service : 0
+disappointing thing : 9,exciting nothing : 0,exciting nothing : 0,dog : 0,correct place : 0,aware thing : 0,horrible smell : 3,negative feedback : 2,unable staff : 3,correct spelling : 0
+funny smell : 9,exciting part : 0,exciting part : 0,drain : 0,correct price : 0,aware traveler : 0,inconsistent service : 3,negative reviews : 2,wet weather : 3,correct time : 0
+horrible room : 9,exciting place : 0,exciting place : 0,dresser : 0,correct room : 0,awkward bathroom : 0,joke : 3,not dirty : 2,worst part : 3,correct way : 0
+not worst : 9,exciting shinjuku : 0,exciting shinjuku : 0,drunk : 0,correct service : 0,awkward bit : 0,little weird : 3,not insist : 2,advanced reservation : 2,cottage : 0
+other negative : 9,existent : 0,existent : 0,drunk man : 0,correct spelling : 0,awkward configuration : 0,minor inconvenience : 3,not write : 2,affair : 2,cramped area : 0
+poor connection : 9,existent conditioning : 0,existent conditioning : 0,drunk person : 0,correct time : 0,awkward layout : 0,minor niggle : 3,other negative : 2,annoying habit : 2,cramped bathroom : 0
+poor hotel : 9,existent noise : 0,existent noise : 0,dusty : 0,cottage : 0,awkward position : 0,minor thing : 3,outdated bathroom : 2,annoying noise : 2,cramped bedroom : 0
+poor location : 9,existent service : 0,existent service : 0,dusty area : 0,cramped area : 0,awkward shower : 0,mixed bag : 3,outdated decor : 2,aware hotel : 2,cramped feel : 0
+pricey buffet : 9,existent space : 0,existent space : 0,dusty carpet : 0,cramped bathroom : 0,awkward situation : 0,not cramped : 3,poor amenity : 2,aware something : 2,cramped hotel : 0
+terrible experience : 9,fashion : 0,fashion : 0,dusty room : 0,cramped bedroom : 0,awkward time : 0,not dirty : 3,poor experience : 2,awkward position : 2,cramped lobby : 0
+weird smell : 9,feedback : 0,feedback : 0,duvet : 0,cramped feel : 0,backpacker : 0,poor pressure : 3,poor selection : 2,ball : 2,cramped quarters : 0
+weird thing : 9,folk : 0,folk : 0,electrical appliance : 0,cramped hotel : 0,ball : 0,poor signal : 3,poor skill : 2,bang : 2,cramped size : 0
+worst room : 9,friday : 0,friday : 0,electrical equipment : 0,cramped lobby : 0,bare : 0,poor skill : 3,poor weather : 2,bare wall : 2,cramped space : 0
+disappointing hotel : 8,fry : 0,fry : 0,electrical point : 0,cramped quarters : 0,bare bone : 0,pricey side : 3,pricey bar : 2,big negative : 2,crap : 0
+dog : 8,funny : 0,funny : 0,electrical socket : 0,cramped size : 0,bare foot : 0,small negative : 3,pricey bit : 2,blanket : 2,crazy amount : 0
+involve : 8,funny experience : 0,funny experience : 0,electrical store : 0,cramped space : 0,bare footed : 0,stale cigarette : 3,pricey buffet : 2,claustrophobic : 2,crazy busy : 0
+negative aspect : 8,funny smell : 0,funny smell : 0,european : 0,crap : 0,bare minimum : 0,stale tobacco : 3,pricey food : 2,correct room : 2,crazy city : 0
+not smallest : 8,funny thing : 0,funny thing : 0,exciting : 0,crazy amount : 0,bare necessity : 0,stale urine : 3,rollaway : 2,correct way : 2,crazy expensive : 0
+packet : 8,garbage : 0,garbage : 0,exciting area : 0,crazy busy : 0,bare room : 0,sticky : 3,rollaway bed : 2,cramped area : 2,crazy hour : 0
+poor skill : 8,gesture : 0,gesture : 0,exciting breakfast : 0,crazy city : 0,bare wall : 0,stiff bed : 3,romantic hotel : 2,cramped bedroom : 2,crazy kid : 0
+smallest detail : 8,gotemba : 0,gotemba : 0,exciting elevator : 0,crazy expensive : 0,big negative : 0,terrible hotel : 3,smallest bed : 2,dirty cup : 2,crazy night : 0
+troublesome : 8,gripe : 0,gripe : 0,exciting nothing : 0,crazy hour : 0,bottled tea : 0,troublesome : 3,smallish bed : 2,dirty rug : 2,crazy number : 0
+uncomfortable mattress : 8,handful : 0,handful : 0,exciting part : 0,crazy kid : 0,claustrophobic feel : 0,uncomfortable experience : 3,social : 2,dirty wall : 2,crazy price : 0
+uncomfortable night : 8,hanger : 0,hanger : 0,exciting place : 0,crazy night : 0,claustrophobic person : 0,unfriendly staff : 3,soundproofing : 2,disappointing gym : 2,crazy shopper : 0
+wet towel : 8,hilton : 0,hilton : 0,exciting shinjuku : 0,crazy number : 0,confuse : 0,weird smell : 3,stiff bed : 2,disappointing hotel : 2,crazy shopping : 0
+big negative : 7,horrible : 0,horrible : 0,existent : 0,crazy price : 0,correct amount : 0,worst service : 3,suffer : 2,disappointing lounge : 2,crazy station : 0
+bottled drink : 7,horrible bed : 0,horrible bed : 0,existent conditioning : 0,crazy shopper : 0,correct breakfast : 0,advanced toilet : 2,terrible noise : 2,disappointing quality : 2,crazy time : 0
+crap : 7,horrible breakfast : 0,horrible breakfast : 0,existent noise : 0,crazy shopping : 0,correct bus : 0,aware thing : 2,terrible pillow : 2,disappointing service : 2,crazy view : 0
+cry : 7,horrible door : 0,horrible door : 0,existent service : 0,crazy station : 0,correct exit : 0,awkward bathroom : 2,terrible service : 2,disappointing way : 2,cry : 0
+funny thing : 7,horrible experience : 0,horrible experience : 0,existent space : 0,crazy time : 0,correct hotel : 0,bare necessity : 2,terrible stench : 2,dresser : 2,dangerous : 0
+horrible service : 7,horrible floor : 0,horrible floor : 0,fashion : 0,crazy view : 0,correct information : 0,bottled drink : 2,terrible wifi : 2,drunk person : 2,dangerous road : 0
+horrible smell : 7,horrible food : 0,horrible food : 0,feedback : 0,crew : 0,correct location : 0,claustrophobic person : 2,training : 2,dusty carpet : 2,dangerous step : 0
+minor downside : 7,horrible hotel : 0,horrible hotel : 0,folk : 0,cry : 0,correct number : 0,claustrophobic room : 2,translator : 2,electrical socket : 2,dead end : 0
+negative anything : 7,horrible noise : 0,horrible noise : 0,friday : 0,dangerous road : 0,correct order : 0,confuse : 2,unfriendly staff : 2,exciting part : 2,dirty area : 0
+not dirty : 7,horrible pillow : 0,horrible pillow : 0,fry : 0,dangerous step : 0,correct password : 0,correct bus : 2,unreasonable : 2,exciting shinjuku : 2,dirty bathroom : 0
+outdated bathroom : 7,horrible room : 0,horrible room : 0,funny experience : 0,dead area : 0,correct place : 0,cramped space : 2,warning : 2,existent service : 2,dirty blanket : 0
+outdated furniture : 7,horrible service : 0,horrible service : 0,funny thing : 0,dead end : 0,correct price : 0,crazy city : 2,weird pillow : 2,hanger : 2,dirty carpet : 0
+poor experience : 7,horrible smell : 0,horrible smell : 0,garbage : 0,dirty area : 0,correct room : 0,crazy expensive : 2,weird smell : 2,horrible experience : 2,dirty carpeting : 0
+poor standard : 7,horrible start : 0,horrible start : 0,gesture : 0,dirty bathroom : 0,correct service : 0,crazy number : 2,wet day : 2,horrible food : 2,dirty chair : 0
+poor value : 7,horrible wifi : 0,horrible wifi : 0,gotemba : 0,dirty blanket : 0,correct spelling : 0,cry : 2,wet towel : 2,horrible service : 2,dirty clothe : 0
+poor wifi : 7,hotspot : 0,hotspot : 0,gripe : 0,dirty carpet : 0,correct time : 0,dirty chair : 2,worst part : 2,involve : 2,dirty cup : 0
+stale cigarette : 7,improve : 0,improve : 0,handful : 0,dirty carpeting : 0,correct way : 0,dirty clothe : 2,wouldn : 2,mediocre everything : 2,dirty curtain : 0
+wet weather : 7,improvement : 0,improvement : 0,hanger : 0,dirty chair : 0,cramped area : 0,dirty dish : 2,ability : 0,mediocre restaurant : 2,dirty dish : 0
+worst breakfast : 7,inch : 0,inch : 0,hilton : 0,dirty clothe : 0,cramped bedroom : 0,dirty glass : 2,accord : 0,mediocre room : 2,dirty feel : 0
+bare foot : 6,inconsistent : 0,inconsistent : 0,horrible bed : 0,dirty cup : 0,cramped feel : 0,dirty hallway : 2,accurate information : 0,minor drawback : 2,dirty filter : 0
+claustrophobic room : 6,inconsistent service : 0,inconsistent service : 0,horrible breakfast : 0,dirty curtain : 0,cramped hotel : 0,dirty hotel : 2,accurate reviews : 0,minor glitch : 2,dirty floor : 0
+correct exit : 6,inconsistent signal : 0,inconsistent signal : 0,horrible door : 0,dirty dish : 0,cramped lobby : 0,dirty stain : 2,advanced book : 0,minor gripe : 2,dirty glass : 0
+dirty bathroom : 6,insist : 0,insist : 0,horrible experience : 0,dirty feel : 0,cramped quarters : 0,dirty wall : 2,advanced reservation : 0,minor item : 2,dirty hallway : 0
+dirty clothe : 6,involve : 0,involve : 0,horrible floor : 0,dirty filter : 0,cramped size : 0,disappointing bathroom : 2,advanced toilet : 0,negative anything : 2,dirty hotel : 0
+dirty wall : 6,joke : 0,joke : 0,horrible food : 0,dirty glass : 0,cramped space : 0,disappointing choice : 2,affect : 0,negative feedback : 2,dirty linen : 0
+disappointing bathroom : 6,lighting : 0,lighting : 0,horrible hotel : 0,dirty hallway : 0,crap : 0,disappointing hotel : 2,annoying elevator : 0,negative note : 2,dirty luggage : 0
+disappointing dinner : 6,liking : 0,liking : 0,horrible pillow : 0,dirty hotel : 0,crazy amount : 0,disappointing lounge : 2,annoying habit : 0,negative part : 2,dirty restaurant : 0
+disappointing room : 6,little awkward : 0,little awkward : 0,horrible room : 0,dirty linen : 0,crazy busy : 0,dresser : 2,annoying noise : 0,negative remark : 2,dirty room : 0
+exciting area : 6,little cramped : 0,little cramped : 0,horrible service : 0,dirty luggage : 0,crazy city : 0,drunk person : 2,annoying part : 0,not aware : 2,dirty rug : 0
+exciting breakfast : 6,little disappointing : 0,little disappointing : 0,horrible smell : 0,dirty restaurant : 0,crazy expensive : 0,electrical point : 2,annoying room : 0,not dated : 2,dirty sheet : 0
+minor annoyance : 6,little pricey : 0,little pricey : 0,horrible start : 0,dirty room : 0,crazy hour : 0,exciting area : 2,annoying step : 0,not disturb : 2,dirty stain : 0
+minor gripe : 6,little uncomfortable : 0,little uncomfortable : 0,horrible wifi : 0,dirty rug : 0,crazy kid : 0,exciting breakfast : 2,annoying wifi : 0,not smallest : 2,dirty toilet : 0
+mixed bag : 6,little weird : 0,little weird : 0,hotspot : 0,dirty sheet : 0,crazy night : 0,existent conditioning : 2,argue : 0,not worst : 2,dirty towel : 0
+mixed feeling : 6,little wet : 0,little wet : 0,improve : 0,dirty stain : 0,crazy number : 0,existent service : 2,aware guest : 0,outdated bathroom : 2,dirty wall : 0
+mixed reviews : 6,london : 0,london : 0,improvement : 0,dirty toilet : 0,crazy price : 0,folk : 2,aware hotel : 0,outdated facility : 2,dirty water : 0
+negative feedback : 6,main negative : 0,main negative : 0,inch : 0,dirty towel : 0,crazy shopper : 0,funny smell : 2,aware management : 0,outdated furnishing : 2,disappointing area : 0
+negative review : 6,meat : 0,meat : 0,inconsistent : 0,dirty wall : 0,crazy shopping : 0,handful : 2,aware person : 0,poor amenity : 2,disappointing bathroom : 0
+not affect : 6,mediocre : 0,mediocre : 0,inconsistent service : 0,dirty water : 0,crazy station : 0,horrible hotel : 2,aware something : 0,poor attitude : 2,disappointing breakfast : 0
+outdated decor : 6,mediocre breakfast : 0,mediocre breakfast : 0,inconsistent signal : 0,disappointing area : 0,crazy time : 0,horrible room : 2,aware traveler : 0,poor bedding : 2,disappointing buffet : 0
+poor food : 6,mediocre buffet : 0,mediocre buffet : 0,insist : 0,disappointing bathroom : 0,crazy view : 0,horrible service : 2,awkward bathroom : 0,poor design : 2,disappointing choice : 0
+poor level : 6,mediocre everything : 0,mediocre everything : 0,involve : 0,disappointing breakfast : 0,criticism : 0,horrible wifi : 2,awkward bit : 0,poor level : 2,disappointing dinner : 0
+poor light : 6,mediocre food : 0,mediocre food : 0,joke : 0,disappointing buffet : 0,cry : 0,mediocre buffet : 2,awkward configuration : 0,poor skill : 2,disappointing experience : 0
+poor room : 6,mediocre hotel : 0,mediocre hotel : 0,liking : 0,disappointing choice : 0,dangerous road : 0,minor con : 2,awkward layout : 0,poor wifi : 2,disappointing fact : 0
+poor signal : 6,mediocre quality : 0,mediocre quality : 0,little awkward : 0,disappointing dinner : 0,dangerous step : 0,minor criticism : 2,awkward position : 0,pricey hyatt : 2,disappointing food : 0
+prepay : 6,mediocre restaurant : 0,mediocre restaurant : 0,little cramped : 0,disappointing experience : 0,dead area : 0,minor downside : 2,awkward shower : 0,pricey service : 2,disappointing gym : 0
+ridiculous price : 6,mediocre room : 0,mediocre room : 0,little disappointing : 0,disappointing fact : 0,dead end : 0,minor hiccup : 2,awkward situation : 0,ridiculous problem : 2,disappointing hotel : 0
+smallest bathroom : 6,mediocre service : 0,mediocre service : 0,little pricey : 0,disappointing food : 0,dirty area : 0,minor irritation : 2,awkward time : 0,romantic getaway : 2,disappointing location : 0
+terrible food : 6,minor : 0,minor : 0,little uncomfortable : 0,disappointing gym : 0,dirty bathroom : 0,mixed capsule : 2,bare bone : 0,sharp : 2,disappointing lounge : 0
+terrible hotel : 6,minor annoyance : 0,minor annoyance : 0,little weird : 0,disappointing hotel : 0,dirty blanket : 0,mixed experience : 2,bare minimum : 0,smallest bathroom : 2,disappointing meal : 0
+terrible pillow : 6,minor complaint : 0,minor complaint : 0,little wet : 0,disappointing location : 0,dirty carpet : 0,mixed reviews : 2,bare necessity : 0,sticky : 2,disappointing place : 0
+terrible smell : 6,minor con : 0,minor con : 0,london : 0,disappointing lounge : 0,dirty carpeting : 0,mixed style : 2,bare room : 0,stuffy room : 2,disappointing point : 0
+translator : 6,minor concern : 0,minor concern : 0,main negative : 0,disappointing meal : 0,dirty chair : 0,negative factor : 2,bare wall : 0,terrible breakfast : 2,disappointing pool : 0
+uncomfortable room : 6,minor criticism : 0,minor criticism : 0,meat : 0,disappointing place : 0,dirty clothe : 0,not affect : 2,big negative : 0,terrible coffee : 2,disappointing quality : 0
+wet area : 6,minor detail : 0,minor detail : 0,mediocre : 0,disappointing point : 0,dirty cup : 0,not claustrophobic : 2,blanket : 0,terrible design : 2,disappointing restaurant : 0
+wet clothe : 6,minor disappointment : 0,minor disappointment : 0,mediocre breakfast : 0,disappointing pool : 0,dirty curtain : 0,not existent : 2,bottled drink : 0,terrible hilton : 2,disappointing room : 0
+wet floor : 6,minor downside : 0,minor downside : 0,mediocre buffet : 0,disappointing quality : 0,dirty dish : 0,not uncomfortable : 2,bottled tea : 0,terrible nothing : 2,disappointing selection : 0
+aware thing : 5,minor drawback : 0,minor drawback : 0,mediocre everything : 0,disappointing recommendation : 0,dirty feel : 0,not waste : 2,claustrophobic feel : 0,terrible terrible : 2,disappointing service : 0
+awkward position : 5,minor glitch : 0,minor glitch : 0,mediocre food : 0,disappointing room : 0,dirty filter : 0,not worst : 2,claustrophobic person : 0,translator : 2,disappointing stay : 0
+backpacker : 5,minor gripe : 0,minor gripe : 0,mediocre hotel : 0,disappointing selection : 0,dirty floor : 0,not write : 2,claustrophobic room : 0,waive : 2,disappointing thing : 0
+bare minimum : 5,minor hiccup : 0,minor hiccup : 0,mediocre quality : 0,disappointing service : 0,dirty glass : 0,outdated hotel : 2,correct amount : 0,weird smell : 2,disappointing view : 0
+cramped space : 5,minor inconvenience : 0,minor inconvenience : 0,mediocre restaurant : 0,disappointing stay : 0,dirty hallway : 0,poor attitude : 2,correct breakfast : 0,wet bathroom : 2,disappointing way : 0
+disappointing service : 5,minor irritation : 0,minor irritation : 0,mediocre room : 0,disappointing thing : 0,dirty hotel : 0,poor bar : 2,correct bus : 0,wet clothe : 2,dog : 0
+existent service : 5,minor issue : 0,minor issue : 0,mediocre service : 0,disappointing view : 0,dirty linen : 0,poor command : 2,correct location : 0,wet facility : 2,drain : 0
+fry : 5,minor item : 0,minor item : 0,minor : 0,disappointing way : 0,dirty luggage : 0,poor husband : 2,correct number : 0,wet plate : 2,dresser : 0
+mediocre service : 5,minor negative : 0,minor negative : 0,minor annoyance : 0,dog : 0,dirty restaurant : 0,poor layout : 2,correct order : 0,wet spot : 2,drunk : 0
+minor drawback : 5,minor niggle : 0,minor niggle : 0,minor complaint : 0,drain : 0,dirty rug : 0,poor level : 2,correct password : 0,wet towel : 2,drunk man : 0
+not cramped : 5,minor point : 0,minor point : 0,minor con : 0,drunk man : 0,dirty sheet : 0,poor management : 2,correct place : 0,worst hyatt : 2,drunk person : 0
+not pricey : 5,minor problem : 0,minor problem : 0,minor concern : 0,drunk person : 0,dirty stain : 0,poor nothing : 2,correct price : 0,accord : 0,dusty : 0
+not uncomfortable : 5,minor quibble : 0,minor quibble : 0,minor criticism : 0,dusty : 0,dirty toilet : 0,poor option : 2,correct room : 0,accurate information : 0,dusty area : 0
+not waste : 5,minor reason : 0,minor reason : 0,minor detail : 0,dusty area : 0,dirty towel : 0,poor reviews : 2,correct service : 0,accurate reviews : 0,dusty carpet : 0
+not write : 5,minor thing : 0,minor thing : 0,minor disappointment : 0,dusty carpet : 0,dirty wall : 0,poor score : 2,correct spelling : 0,advanced book : 0,dusty room : 0
+poor attitude : 5,minor variation : 0,minor variation : 0,minor downside : 0,dusty room : 0,dirty water : 0,poor ventilation : 2,correct time : 0,advanced toilet : 0,duvet : 0
+poor choice : 5,mixed : 0,mixed : 0,minor drawback : 0,electrical appliance : 0,disappointing area : 0,prepay : 2,correct way : 0,annoying elevator : 0,electrical appliance : 0
+poor condition : 5,mixed area : 0,mixed area : 0,minor glitch : 0,electrical equipment : 0,disappointing bathroom : 0,pricey cost : 2,cramped area : 0,annoying part : 0,electrical equipment : 0
+poor insulation : 5,mixed bag : 0,mixed bag : 0,minor gripe : 0,electrical point : 0,disappointing buffet : 0,problematic lack : 2,cramped bathroom : 0,annoying room : 0,electrical point : 0
+poor reception : 5,mixed buffet : 0,mixed buffet : 0,minor hiccup : 0,electrical socket : 0,disappointing choice : 0,real negative : 2,cramped bedroom : 0,annoying step : 0,electrical socket : 0
+pricey price : 5,mixed capsule : 0,mixed capsule : 0,minor inconvenience : 0,electrical store : 0,disappointing dinner : 0,rude attitude : 2,cramped feel : 0,annoying wifi : 0,electrical store : 0
+softness : 5,mixed cocktail : 0,mixed cocktail : 0,minor irritation : 0,exciting area : 0,disappointing experience : 0,rude member : 2,cramped hotel : 0,aware guest : 0,exciting area : 0
+stiff bed : 5,mixed drink : 0,mixed drink : 0,minor issue : 0,exciting breakfast : 0,disappointing fact : 0,rude receptionist : 2,cramped lobby : 0,aware management : 0,exciting breakfast : 0
+stuffy hotel : 5,mixed experience : 0,mixed experience : 0,minor item : 0,exciting elevator : 0,disappointing food : 0,rude tourist : 2,cramped quarters : 0,aware person : 0,exciting elevator : 0
+terrible coffee : 5,mixed feel : 0,mixed feel : 0,minor negative : 0,exciting nothing : 0,disappointing gym : 0,rude word : 2,cramped size : 0,aware room : 0,exciting nothing : 0
+terrible connection : 5,mixed feeling : 0,mixed feeling : 0,minor niggle : 0,exciting part : 0,disappointing location : 0,sachet : 2,crazy amount : 0,aware thing : 0,exciting part : 0
+terrible stay : 5,mixed fruit : 0,mixed fruit : 0,minor point : 0,exciting place : 0,disappointing lounge : 0,sharp corner : 2,crazy busy : 0,aware traveler : 0,exciting place : 0
+unable hotel : 5,mixed gender : 0,mixed gender : 0,minor problem : 0,exciting shinjuku : 0,disappointing meal : 0,slight negative : 2,crazy city : 0,awkward bathroom : 0,exciting shinjuku : 0
+annoying noise : 4,mixed onsen : 0,mixed onsen : 0,minor quibble : 0,existent : 0,disappointing place : 0,smallest bathroom : 2,crazy expensive : 0,awkward bit : 0,existent : 0
+aware something : 4,mixed reviews : 0,mixed reviews : 0,minor reason : 0,existent conditioning : 0,disappointing point : 0,smallest detail : 2,crazy hour : 0,awkward configuration : 0,existent conditioning : 0
+correct information : 4,mixed room : 0,mixed room : 0,minor thing : 0,existent noise : 0,disappointing pool : 0,smallest hotel : 2,crazy kid : 0,awkward layout : 0,existent noise : 0
+correct way : 4,mixed stay : 0,mixed stay : 0,minor variation : 0,existent service : 0,disappointing quality : 0,smallish one : 2,crazy night : 0,awkward shower : 0,existent service : 0
+cramped bathroom : 4,mixed style : 0,mixed style : 0,mixed : 0,existent space : 0,disappointing recommendation : 0,social standard : 2,crazy number : 0,awkward situation : 0,existent space : 0
+crazy city : 4,mixed western : 0,mixed western : 0,mixed area : 0,fashion : 0,disappointing restaurant : 0,softness : 2,crazy price : 0,awkward time : 0,folk : 0
+dirty cup : 4,mold : 0,mold : 0,mixed bag : 0,feedback : 0,disappointing room : 0,terrible food : 2,crazy shopping : 0,backpacker : 0,friday : 0
+dirty hotel : 4,most disappointing : 0,most disappointing : 0,mixed buffet : 0,folk : 0,disappointing service : 0,terrible pillow : 2,crazy station : 0,bare bone : 0,fry : 0
+dirty towel : 4,neck : 0,neck : 0,mixed capsule : 0,fry : 0,disappointing thing : 0,terrible room : 2,crazy time : 0,bare foot : 0,funny experience : 0
+disappointing lounge : 4,negative : 0,negative : 0,mixed cocktail : 0,funny experience : 0,disappointing view : 0,terrible view : 2,crazy view : 0,bare footed : 0,funny smell : 0
+disappointing selection : 4,negative anything : 0,negative anything : 0,mixed drink : 0,funny thing : 0,disappointing way : 0,tough time : 2,cry : 0,bare minimum : 0,funny thing : 0
+drunk person : 4,negative aspect : 0,negative aspect : 0,mixed experience : 0,gesture : 0,dresser : 0,translator : 2,dangerous road : 0,bare necessity : 0,garbage : 0
+dusty carpet : 4,negative comment : 0,negative comment : 0,mixed feel : 0,gotemba : 0,drunk man : 0,ugly view : 2,dangerous step : 0,bare room : 0,gotemba : 0
+electrical socket : 4,negative difference : 0,negative difference : 0,mixed feeling : 0,hanger : 0,drunk person : 0,unable hotel : 2,dead area : 0,bottled drink : 0,hanger : 0
+exciting nothing : 4,negative experience : 0,negative experience : 0,mixed fruit : 0,hilton : 0,dusty area : 0,uncomfortable chair : 2,dead end : 0,bottled tea : 0,horrible : 0
+exciting part : 4,negative factor : 0,negative factor : 0,mixed gender : 0,horrible bed : 0,dusty carpet : 0,uncomfortable sleep : 2,dirty area : 0,camping : 0,horrible bed : 0
+horrible breakfast : 4,negative feedback : 0,negative feedback : 0,mixed onsen : 0,horrible breakfast : 0,electrical appliance : 0,weird experience : 2,dirty bathroom : 0,claustrophobic feel : 0,horrible breakfast : 0
+inconsistent service : 4,negative hotel : 0,negative hotel : 0,mixed reviews : 0,horrible door : 0,electrical equipment : 0,weird pillow : 2,dirty blanket : 0,claustrophobic person : 0,horrible door : 0
+little pricey : 4,negative impression : 0,negative impression : 0,mixed room : 0,horrible experience : 0,electrical point : 0,wet area : 2,dirty carpeting : 0,claustrophobic room : 0,horrible experience : 0
+mediocre buffet : 4,negative issue : 0,negative issue : 0,mixed stay : 0,horrible floor : 0,electrical socket : 0,wet floor : 2,dirty chair : 0,correct breakfast : 0,horrible floor : 0
+mediocre food : 4,negative item : 0,negative item : 0,mixed style : 0,horrible food : 0,electrical store : 0,worst food : 2,dirty cup : 0,correct bus : 0,horrible food : 0
+mediocre hotel : 4,negative lack : 0,negative lack : 0,mixed western : 0,horrible hotel : 0,exciting area : 0,worst room : 2,dirty curtain : 0,correct exit : 0,horrible hotel : 0
+mediocre room : 4,negative mark : 0,negative mark : 0,mold : 0,horrible noise : 0,exciting breakfast : 0,yellow wall : 2,dirty dish : 0,correct hotel : 0,horrible noise : 0
+minor criticism : 4,negative note : 0,negative note : 0,most disappointing : 0,horrible pillow : 0,exciting elevator : 0,accord : 0,dirty feel : 0,correct information : 0,horrible pillow : 0
+minor detail : 4,negative nothing : 0,negative nothing : 0,neck : 0,horrible room : 0,exciting nothing : 0,accurate : 0,dirty filter : 0,correct location : 0,horrible room : 0
+minor niggle : 4,negative part : 0,negative part : 0,negative : 0,horrible service : 0,exciting part : 0,accurate information : 0,dirty floor : 0,correct number : 0,horrible service : 0
+minor quibble : 4,negative point : 0,negative point : 0,negative anything : 0,horrible smell : 0,exciting place : 0,accurate reviews : 0,dirty glass : 0,correct order : 0,horrible smell : 0
+mixed experience : 4,negative remark : 0,negative remark : 0,negative aspect : 0,horrible start : 0,exciting shinjuku : 0,advanced book : 0,dirty hallway : 0,correct password : 0,horrible start : 0
+mixed style : 4,negative review : 0,negative review : 0,negative comment : 0,horrible wifi : 0,existent conditioning : 0,advanced reservation : 0,dirty hotel : 0,correct place : 0,horrible wifi : 0
+negative remark : 4,negative reviews : 0,negative reviews : 0,negative difference : 0,hotspot : 0,existent noise : 0,annoying elevator : 0,dirty linen : 0,correct price : 0,hotspot : 0
+not dated : 4,negative side : 0,negative side : 0,negative experience : 0,inconsistent : 0,existent service : 0,annoying habit : 0,dirty rug : 0,correct service : 0,inch : 0
+not insist : 4,negative something : 0,negative something : 0,negative factor : 0,inconsistent service : 0,folk : 0,annoying noise : 0,dirty sheet : 0,correct spelling : 0,inconsistent : 0
+not rude : 4,negative thing : 0,negative thing : 0,negative feedback : 0,inconsistent signal : 0,funny experience : 0,annoying part : 0,dirty stain : 0,correct time : 0,inconsistent service : 0
+patch : 4,negative way : 0,negative way : 0,negative hotel : 0,little awkward : 0,funny smell : 0,annoying room : 0,dirty toilet : 0,cottage : 0,inconsistent signal : 0
+poor amenity : 4,not accurate : 0,not accurate : 0,negative impression : 0,little cramped : 0,funny thing : 0,annoying step : 0,dirty towel : 0,cramped bathroom : 0,involve : 0
+poor design : 4,not affect : 0,not affect : 0,negative issue : 0,little disappointing : 0,gotemba : 0,annoying wifi : 0,dirty wall : 0,cramped feel : 0,joke : 0
+poor layout : 4,not aware : 0,not aware : 0,negative item : 0,little pricey : 0,hanger : 0,aware guest : 0,dirty water : 0,cramped hotel : 0,little awkward : 0
+poor management : 4,not bother : 0,not bother : 0,negative lack : 0,little uncomfortable : 0,horrible bed : 0,aware hotel : 0,disappointing area : 0,cramped lobby : 0,little cramped : 0
+poor pressure : 4,not claustrophobic : 0,not claustrophobic : 0,negative mark : 0,little weird : 0,horrible breakfast : 0,aware management : 0,disappointing bathroom : 0,cramped quarters : 0,little disappointing : 0
+pricey bit : 4,not correct : 0,not correct : 0,negative note : 0,little wet : 0,horrible door : 0,aware person : 0,disappointing buffet : 0,cramped size : 0,little pricey : 0
+pricey place : 4,not cramped : 0,not cramped : 0,negative nothing : 0,main negative : 0,horrible experience : 0,aware room : 0,disappointing choice : 0,cramped space : 0,little weird : 0
+pricey service : 4,not criticism : 0,not criticism : 0,negative part : 0,mediocre : 0,horrible floor : 0,aware something : 0,disappointing dinner : 0,crap : 0,little wet : 0
+ridiculous amount : 4,not dated : 0,not dated : 0,negative point : 0,mediocre breakfast : 0,horrible food : 0,aware traveler : 0,disappointing experience : 0,crazy amount : 0,main negative : 0
+romantic hotel : 4,not dirty : 0,not dirty : 0,negative remark : 0,mediocre buffet : 0,horrible hotel : 0,awkward bit : 0,disappointing fact : 0,crazy busy : 0,mediocre breakfast : 0
+romantic trip : 4,not disturb : 0,not disturb : 0,negative review : 0,mediocre everything : 0,horrible noise : 0,awkward configuration : 0,disappointing food : 0,crazy city : 0,mediocre buffet : 0
+rude person : 4,not exciting : 0,not exciting : 0,negative reviews : 0,mediocre food : 0,horrible pillow : 0,awkward layout : 0,disappointing gym : 0,crazy expensive : 0,mediocre everything : 0
+rude receptionist : 4,not existent : 0,not existent : 0,negative side : 0,mediocre quality : 0,horrible service : 0,awkward shower : 0,disappointing location : 0,crazy hour : 0,mediocre food : 0
+rude service : 4,not horrible : 0,not horrible : 0,negative something : 0,mediocre restaurant : 0,horrible smell : 0,awkward situation : 0,disappointing lounge : 0,crazy kid : 0,mediocre hotel : 0
+smallest bed : 4,not insist : 0,not insist : 0,negative thing : 0,mediocre room : 0,horrible start : 0,awkward time : 0,disappointing meal : 0,crazy night : 0,mediocre quality : 0
+smallish bed : 4,not liking : 0,not liking : 0,negative way : 0,mediocre service : 0,horrible wifi : 0,backpacker : 0,disappointing place : 0,crazy number : 0,mediocre restaurant : 0
+stale croissant : 4,not pricey : 0,not pricey : 0,not accurate : 0,minor annoyance : 0,hotspot : 0,bare bone : 0,disappointing point : 0,crazy price : 0,mediocre room : 0
+stale urine : 4,not romantic : 0,not romantic : 0,not affect : 0,minor complaint : 0,inconsistent service : 0,bare foot : 0,disappointing pool : 0,crazy shopper : 0,mediocre service : 0
+terrible light : 4,not rude : 0,not rude : 0,not aware : 0,minor con : 0,inconsistent signal : 0,bare footed : 0,disappointing quality : 0,crazy shopping : 0,minor annoyance : 0
+terrible room : 4,not smallest : 0,not smallest : 0,not bother : 0,minor concern : 0,involve : 0,bare room : 0,disappointing recommendation : 0,crazy station : 0,minor con : 0
+tough time : 4,not uncomfortable : 0,not uncomfortable : 0,not claustrophobic : 0,minor criticism : 0,joke : 0,bare wall : 0,disappointing restaurant : 0,crazy time : 0,minor concern : 0
+uncomfortable chair : 4,not waste : 0,not waste : 0,not correct : 0,minor detail : 0,little awkward : 0,claustrophobic feel : 0,disappointing selection : 0,crazy view : 0,minor criticism : 0
+uncomfortable experience : 4,not working : 0,not working : 0,not cramped : 0,minor disappointment : 0,little cramped : 0,correct amount : 0,disappointing service : 0,cry : 0,minor disappointment : 0
+waive : 4,not worst : 0,not worst : 0,not criticism : 0,minor downside : 0,little pricey : 0,correct breakfast : 0,disappointing thing : 0,dangerous road : 0,minor drawback : 0
+weird pillow : 4,not write : 0,not write : 0,not dated : 0,minor glitch : 0,little uncomfortable : 0,correct hotel : 0,disappointing view : 0,dangerous step : 0,minor glitch : 0
+accurate reviews : 3,only negative : 0,only negative : 0,not dirty : 0,minor gripe : 0,little weird : 0,correct information : 0,disappointing way : 0,dead area : 0,minor gripe : 0
+advanced toilet : 3,opinion : 0,opinion : 0,not disturb : 0,minor hiccup : 0,little wet : 0,correct location : 0,dog : 0,dead end : 0,minor hiccup : 0
+annoying step : 3,other negative : 0,other negative : 0,not exciting : 0,minor inconvenience : 0,main negative : 0,correct number : 0,drunk man : 0,dirty area : 0,minor inconvenience : 0
+aware hotel : 3,outdated : 0,outdated : 0,not existent : 0,minor irritation : 0,mediocre buffet : 0,correct order : 0,drunk person : 0,dirty bathroom : 0,minor irritation : 0
+aware person : 3,outdated bathroom : 0,outdated bathroom : 0,not horrible : 0,minor item : 0,mediocre everything : 0,correct password : 0,dusty : 0,dirty blanket : 0,minor item : 0
+aware traveler : 3,outdated decor : 0,outdated decor : 0,not insist : 0,minor negative : 0,mediocre food : 0,correct place : 0,dusty area : 0,dirty carpeting : 0,minor niggle : 0
+bottled tea : 3,outdated decoration : 0,outdated decoration : 0,not liking : 0,minor niggle : 0,mediocre hotel : 0,correct price : 0,dusty carpet : 0,dirty chair : 0,minor point : 0
+correct amount : 3,outdated facility : 0,outdated facility : 0,not pricey : 0,minor point : 0,mediocre quality : 0,correct room : 0,electrical appliance : 0,dirty clothe : 0,minor problem : 0
+correct bus : 3,outdated furnishing : 0,outdated furnishing : 0,not romantic : 0,minor problem : 0,mediocre restaurant : 0,correct service : 0,electrical equipment : 0,dirty curtain : 0,minor reason : 0
+correct hotel : 3,outdated furniture : 0,outdated furniture : 0,not rude : 0,minor quibble : 0,mediocre room : 0,correct spelling : 0,electrical point : 0,dirty dish : 0,minor variation : 0
+correct order : 3,outdated hotel : 0,outdated hotel : 0,not smallest : 0,minor reason : 0,mediocre service : 0,correct time : 0,electrical socket : 0,dirty feel : 0,mixed area : 0
+correct price : 3,outdated interior : 0,outdated interior : 0,not uncomfortable : 0,minor thing : 0,minor annoyance : 0,correct way : 0,electrical store : 0,dirty filter : 0,mixed bag : 0
+cramped area : 3,outdated machine : 0,outdated machine : 0,not waste : 0,minor variation : 0,minor complaint : 0,cottage : 0,exciting elevator : 0,dirty floor : 0,mixed buffet : 0
+crazy expensive : 3,outdated room : 0,outdated room : 0,not working : 0,mixed area : 0,minor con : 0,cramped area : 0,exciting nothing : 0,dirty glass : 0,mixed capsule : 0
+dead area : 3,packet : 0,packet : 0,not worst : 0,mixed bag : 0,minor concern : 0,cramped bathroom : 0,exciting part : 0,dirty hallway : 0,mixed cocktail : 0
+dirty blanket : 3,pain : 0,pain : 0,not write : 0,mixed buffet : 0,minor criticism : 0,cramped bedroom : 0,exciting place : 0,dirty hotel : 0,mixed drink : 0
+dirty chair : 3,paint : 0,paint : 0,only negative : 0,mixed capsule : 0,minor detail : 0,cramped feel : 0,exciting shinjuku : 0,dirty linen : 0,mixed feel : 0
+dirty dish : 3,paper : 0,paper : 0,opinion : 0,mixed cocktail : 0,minor disappointment : 0,cramped hotel : 0,existent : 0,dirty luggage : 0,mixed feeling : 0
+dirty floor : 3,patch : 0,patch : 0,other negative : 0,mixed drink : 0,minor downside : 0,cramped lobby : 0,existent conditioning : 0,dirty restaurant : 0,mixed fruit : 0
+dirty luggage : 3,patron : 0,patron : 0,outdated : 0,mixed experience : 0,minor drawback : 0,cramped quarters : 0,existent noise : 0,dirty sheet : 0,mixed gender : 0
+disappointing choice : 3,plain rude : 0,plain rude : 0,outdated bathroom : 0,mixed feel : 0,minor glitch : 0,cramped size : 0,existent service : 0,dirty stain : 0,mixed onsen : 0
+disappointing food : 3,plastic : 0,plastic : 0,outdated decor : 0,mixed feeling : 0,minor gripe : 0,crap : 0,existent space : 0,dirty toilet : 0,mixed reviews : 0
+disappointing quality : 3,plate : 0,plate : 0,outdated decoration : 0,mixed fruit : 0,minor hiccup : 0,crazy amount : 0,fry : 0,dirty towel : 0,mixed room : 0
+disappointing view : 3,plug : 0,plug : 0,outdated facility : 0,mixed gender : 0,minor inconvenience : 0,crazy busy : 0,funny experience : 0,dirty water : 0,mixed stay : 0
+drunk man : 3,policy : 0,policy : 0,outdated furnishing : 0,mixed reviews : 0,minor irritation : 0,crazy hour : 0,funny smell : 0,disappointing area : 0,mixed style : 0
+exciting place : 3,poor : 0,poor : 0,outdated furniture : 0,mixed room : 0,minor item : 0,crazy kid : 0,funny thing : 0,disappointing bathroom : 0,mixed western : 0
+exciting shinjuku : 3,poor access : 0,poor access : 0,outdated hotel : 0,mixed stay : 0,minor negative : 0,crazy night : 0,horrible bed : 0,disappointing buffet : 0,mold : 0
+funny experience : 3,poor alternative : 0,poor alternative : 0,outdated interior : 0,mixed style : 0,minor niggle : 0,crazy price : 0,horrible breakfast : 0,disappointing choice : 0,most disappointing : 0
+horrible experience : 3,poor amenity : 0,poor amenity : 0,outdated machine : 0,mixed western : 0,minor point : 0,crazy shopper : 0,horrible door : 0,disappointing fact : 0,negative anything : 0
+horrible food : 3,poor arrangement : 0,poor arrangement : 0,outdated room : 0,most disappointing : 0,minor quibble : 0,crazy shopping : 0,horrible experience : 0,disappointing food : 0,negative aspect : 0
+horrible hotel : 3,poor attitude : 0,poor attitude : 0,packet : 0,neck : 0,minor reason : 0,crazy station : 0,horrible floor : 0,disappointing location : 0,negative difference : 0
+little disappointing : 3,poor bar : 0,poor bar : 0,pain : 0,negative anything : 0,minor thing : 0,crazy time : 0,horrible food : 0,disappointing meal : 0,negative factor : 0
+little weird : 3,poor bedding : 0,poor bedding : 0,paint : 0,negative aspect : 0,minor variation : 0,crazy view : 0,horrible hotel : 0,disappointing place : 0,negative feedback : 0
+mediocre everything : 3,poor breakfast : 0,poor breakfast : 0,paper : 0,negative comment : 0,mixed area : 0,dangerous road : 0,horrible noise : 0,disappointing point : 0,negative hotel : 0
+mediocre restaurant : 3,poor check : 0,poor check : 0,patch : 0,negative difference : 0,mixed bag : 0,dangerous step : 0,horrible pillow : 0,disappointing pool : 0,negative impression : 0
+minor disappointment : 3,poor choice : 0,poor choice : 0,patron : 0,negative factor : 0,mixed buffet : 0,dead area : 0,horrible room : 0,disappointing recommendation : 0,negative issue : 0
+minor glitch : 3,poor coffee : 0,poor coffee : 0,plain rude : 0,negative feedback : 0,mixed capsule : 0,dead end : 0,horrible smell : 0,disappointing restaurant : 0,negative item : 0
+minor hiccup : 3,poor command : 0,poor command : 0,plastic : 0,negative hotel : 0,mixed cocktail : 0,dirty area : 0,horrible start : 0,disappointing selection : 0,negative lack : 0
+minor item : 3,poor condition : 0,poor condition : 0,plate : 0,negative impression : 0,mixed drink : 0,dirty blanket : 0,horrible wifi : 0,disappointing view : 0,negative mark : 0
+mixed buffet : 3,poor conditioning : 0,poor conditioning : 0,plug : 0,negative issue : 0,mixed experience : 0,dirty carpeting : 0,inconsistent service : 0,drunk man : 0,negative note : 0
+mixed drink : 3,poor connection : 0,poor connection : 0,policy : 0,negative item : 0,mixed feel : 0,dirty cup : 0,inconsistent signal : 0,dusty area : 0,negative nothing : 0
+mixed feel : 3,poor delivery : 0,poor delivery : 0,poor access : 0,negative lack : 0,mixed feeling : 0,dirty curtain : 0,little awkward : 0,electrical appliance : 0,negative part : 0
+mixed onsen : 3,poor design : 0,poor design : 0,poor alternative : 0,negative mark : 0,mixed fruit : 0,dirty feel : 0,little cramped : 0,electrical equipment : 0,negative remark : 0
+mixed room : 3,poor english : 0,poor english : 0,poor amenity : 0,negative note : 0,mixed gender : 0,dirty filter : 0,little disappointing : 0,electrical point : 0,negative review : 0
+negative impression : 3,poor experience : 0,poor experience : 0,poor arrangement : 0,negative nothing : 0,mixed onsen : 0,dirty floor : 0,little pricey : 0,electrical store : 0,negative reviews : 0
+negative issue : 3,poor facility : 0,poor facility : 0,poor attitude : 0,negative part : 0,mixed reviews : 0,dirty linen : 0,little uncomfortable : 0,exciting area : 0,negative side : 0
+negative part : 3,poor food : 0,poor food : 0,poor bar : 0,negative remark : 0,mixed room : 0,dirty luggage : 0,little weird : 0,exciting breakfast : 0,negative something : 0
+not accurate : 3,poor girl : 0,poor girl : 0,poor bedding : 0,negative side : 0,mixed stay : 0,dirty restaurant : 0,little wet : 0,exciting elevator : 0,negative way : 0
+not claustrophobic : 3,poor hotel : 0,poor hotel : 0,poor breakfast : 0,negative something : 0,mixed style : 0,dirty rug : 0,main negative : 0,exciting nothing : 0,not accurate : 0
+not correct : 3,poor husband : 0,poor husband : 0,poor check : 0,negative way : 0,mixed western : 0,dirty sheet : 0,mediocre breakfast : 0,exciting place : 0,not affect : 0
+not liking : 3,poor hygiene : 0,poor hygiene : 0,poor choice : 0,not accurate : 0,most disappointing : 0,dirty toilet : 0,mediocre buffet : 0,existent conditioning : 0,not aware : 0
+patron : 3,poor impression : 0,poor impression : 0,poor coffee : 0,not affect : 0,neck : 0,dirty towel : 0,mediocre everything : 0,existent noise : 0,not claustrophobic : 0
+plain rude : 3,poor insulation : 0,poor insulation : 0,poor command : 0,not claustrophobic : 0,negative aspect : 0,dirty water : 0,mediocre food : 0,existent space : 0,not correct : 0
+poor command : 3,poor internet : 0,poor internet : 0,poor condition : 0,not correct : 0,negative comment : 0,disappointing area : 0,mediocre hotel : 0,fry : 0,not cramped : 0
+poor conditioning : 3,poor isolation : 0,poor isolation : 0,poor conditioning : 0,not cramped : 0,negative difference : 0,disappointing buffet : 0,mediocre quality : 0,funny experience : 0,not criticism : 0
+poor husband : 3,poor item : 0,poor item : 0,poor connection : 0,not criticism : 0,negative experience : 0,disappointing dinner : 0,mediocre restaurant : 0,funny smell : 0,not dated : 0
+poor impression : 3,poor japanese : 0,poor japanese : 0,poor delivery : 0,not dated : 0,negative factor : 0,disappointing fact : 0,mediocre room : 0,funny thing : 0,not dirty : 0
+poor isolation : 3,poor knowledge : 0,poor knowledge : 0,poor design : 0,not dirty : 0,negative feedback : 0,disappointing food : 0,mediocre service : 0,horrible bed : 0,not disturb : 0
+poor nothing : 3,poor layout : 0,poor layout : 0,poor english : 0,not disturb : 0,negative hotel : 0,disappointing gym : 0,minor annoyance : 0,horrible breakfast : 0,not exciting : 0
+poor rating : 3,poor level : 0,poor level : 0,poor experience : 0,not exciting : 0,negative impression : 0,disappointing location : 0,minor con : 0,horrible door : 0,not existent : 0
+poor review : 3,poor light : 0,poor light : 0,poor facility : 0,not existent : 0,negative issue : 0,disappointing meal : 0,minor concern : 0,horrible floor : 0,not horrible : 0
+poor reviews : 3,poor location : 0,poor location : 0,poor food : 0,not horrible : 0,negative item : 0,disappointing place : 0,minor criticism : 0,horrible hotel : 0,not insist : 0
+poor signage : 3,poor lounge : 0,poor lounge : 0,poor girl : 0,not insist : 0,negative lack : 0,disappointing point : 0,minor detail : 0,horrible noise : 0,not liking : 0
+poor ventilation : 3,poor maintenance : 0,poor maintenance : 0,poor hotel : 0,not liking : 0,negative mark : 0,disappointing pool : 0,minor disappointment : 0,horrible pillow : 0,not pricey : 0
+poor view : 3,poor management : 0,poor management : 0,poor husband : 0,not pricey : 0,negative note : 0,disappointing quality : 0,minor drawback : 0,horrible start : 0,not romantic : 0
+poor weather : 3,poor meal : 0,poor meal : 0,poor hygiene : 0,not romantic : 0,negative nothing : 0,disappointing recommendation : 0,minor glitch : 0,horrible wifi : 0,not rude : 0
+pricey bar : 3,poor menu : 0,poor menu : 0,poor impression : 0,not rude : 0,negative part : 0,disappointing restaurant : 0,minor gripe : 0,inconsistent service : 0,not smallest : 0
+pricey rate : 3,poor night : 0,poor night : 0,poor insulation : 0,not smallest : 0,negative remark : 0,disappointing room : 0,minor hiccup : 0,inconsistent signal : 0,not uncomfortable : 0
+real negative : 3,poor nothing : 0,poor nothing : 0,poor internet : 0,not waste : 0,negative review : 0,disappointing selection : 0,minor irritation : 0,little awkward : 0,not waste : 0
+romantic feel : 3,poor option : 0,poor option : 0,poor isolation : 0,not worst : 0,negative side : 0,disappointing service : 0,minor item : 0,little cramped : 0,not working : 0
+romantic view : 3,poor pressure : 0,poor pressure : 0,poor item : 0,not write : 0,negative something : 0,disappointing way : 0,minor negative : 0,little disappointing : 0,not worst : 0
+rude attitude : 3,poor proof : 0,poor proof : 0,poor japanese : 0,outdated bathroom : 0,negative thing : 0,dog : 0,minor niggle : 0,little pricey : 0,not write : 0
+sachet : 3,poor proofing : 0,poor proofing : 0,poor knowledge : 0,outdated decoration : 0,negative way : 0,drunk man : 0,minor quibble : 0,little uncomfortable : 0,other negative : 0
+sharp corner : 3,poor quality : 0,poor quality : 0,poor layout : 0,outdated facility : 0,not accurate : 0,dusty area : 0,minor reason : 0,little weird : 0,outdated bathroom : 0
+small negative : 3,poor rating : 0,poor rating : 0,poor level : 0,outdated furnishing : 0,not affect : 0,dusty carpet : 0,minor variation : 0,little wet : 0,outdated decor : 0
+smallest thing : 3,poor reception : 0,poor reception : 0,poor light : 0,outdated furniture : 0,not claustrophobic : 0,electrical appliance : 0,mixed area : 0,main negative : 0,outdated decoration : 0
+smallish side : 3,poor review : 0,poor review : 0,poor location : 0,outdated hotel : 0,not correct : 0,electrical equipment : 0,mixed bag : 0,mediocre buffet : 0,outdated facility : 0
+stale tobacco : 3,poor reviews : 0,poor reviews : 0,poor lounge : 0,outdated interior : 0,not cramped : 0,electrical socket : 0,mixed buffet : 0,mediocre food : 0,outdated furnishing : 0
+stiff pillow : 3,poor room : 0,poor room : 0,poor maintenance : 0,outdated machine : 0,not criticism : 0,electrical store : 0,mixed capsule : 0,mediocre hotel : 0,outdated furniture : 0
+stuffy smell : 3,poor score : 0,poor score : 0,poor management : 0,packet : 0,not dated : 0,exciting elevator : 0,mixed cocktail : 0,mediocre quality : 0,outdated hotel : 0
+terrible bed : 3,poor selection : 0,poor selection : 0,poor meal : 0,patron : 0,not dirty : 0,exciting nothing : 0,mixed drink : 0,minor annoyance : 0,outdated interior : 0
+unable staff : 3,poor service : 0,poor service : 0,poor menu : 0,plain rude : 0,not exciting : 0,exciting part : 0,mixed experience : 0,minor con : 0,outdated machine : 0
+uncomfortable stay : 3,poor signage : 0,poor signage : 0,poor night : 0,poor access : 0,not existent : 0,exciting place : 0,mixed feel : 0,minor concern : 0,outdated room : 0
+weird layout : 3,poor signal : 0,poor signal : 0,poor nothing : 0,poor alternative : 0,not horrible : 0,exciting shinjuku : 0,mixed feeling : 0,minor criticism : 0,packet : 0
+wet bathroom : 3,poor skill : 0,poor skill : 0,poor option : 0,poor amenity : 0,not insist : 0,existent noise : 0,mixed fruit : 0,minor detail : 0,paint : 0
+wet day : 3,poor soundproofing : 0,poor soundproofing : 0,poor pressure : 0,poor arrangement : 0,not liking : 0,existent space : 0,mixed gender : 0,minor disappointment : 0,patch : 0
+wet hair : 3,poor staff : 0,poor staff : 0,poor proof : 0,poor attitude : 0,not pricey : 0,fry : 0,mixed onsen : 0,minor downside : 0,patron : 0
+wet sauna : 3,poor standard : 0,poor standard : 0,poor proofing : 0,poor bar : 0,not romantic : 0,funny experience : 0,mixed stay : 0,minor hiccup : 0,plain rude : 0
+worst bed : 3,poor treatment : 0,poor treatment : 0,poor quality : 0,poor bedding : 0,not rude : 0,horrible bed : 0,most disappointing : 0,minor irritation : 0,poor access : 0
+worst meal : 3,poor understand : 0,poor understand : 0,poor rating : 0,poor check : 0,not smallest : 0,horrible breakfast : 0,negative anything : 0,minor niggle : 0,poor alternative : 0
+yellow sign : 3,poor value : 0,poor value : 0,poor reception : 0,poor choice : 0,not uncomfortable : 0,horrible door : 0,negative aspect : 0,minor point : 0,poor amenity : 0
+accord : 2,poor variety : 0,poor variety : 0,poor review : 0,poor coffee : 0,not waste : 0,horrible experience : 0,negative difference : 0,minor quibble : 0,poor arrangement : 0
+accurate information : 2,poor ventilation : 0,poor ventilation : 0,poor reviews : 0,poor command : 0,not write : 0,horrible floor : 0,negative experience : 0,minor reason : 0,poor attitude : 0
+advanced book : 2,poor view : 0,poor view : 0,poor room : 0,poor condition : 0,other negative : 0,horrible food : 0,negative factor : 0,minor thing : 0,poor bar : 0
+advanced reservation : 2,poor weather : 0,poor weather : 0,poor score : 0,poor connection : 0,outdated bathroom : 0,horrible noise : 0,negative hotel : 0,minor variation : 0,poor bedding : 0
+annoying elevator : 2,poor wifi : 0,poor wifi : 0,poor selection : 0,poor delivery : 0,outdated decor : 0,horrible pillow : 0,negative impression : 0,mixed area : 0,poor breakfast : 0
+annoying habit : 2,poor wine : 0,poor wine : 0,poor service : 0,poor design : 0,outdated decoration : 0,horrible start : 0,negative issue : 0,mixed bag : 0,poor check : 0
+annoying part : 2,prepay : 0,prepay : 0,poor signage : 0,poor english : 0,outdated facility : 0,inconsistent signal : 0,negative item : 0,mixed buffet : 0,poor coffee : 0
+annoying room : 2,pricey : 0,pricey : 0,poor signal : 0,poor experience : 0,outdated furnishing : 0,involve : 0,negative lack : 0,mixed capsule : 0,poor command : 0
+annoying wifi : 2,pricey bar : 0,pricey bar : 0,poor skill : 0,poor facility : 0,outdated furniture : 0,little awkward : 0,negative mark : 0,mixed cocktail : 0,poor condition : 0
+aware guest : 2,pricey bit : 0,pricey bit : 0,poor soundproofing : 0,poor food : 0,outdated hotel : 0,little cramped : 0,negative note : 0,mixed drink : 0,poor conditioning : 0
+aware management : 2,pricey breakfast : 0,pricey breakfast : 0,poor staff : 0,poor girl : 0,outdated interior : 0,little disappointing : 0,negative part : 0,mixed experience : 0,poor connection : 0
+aware room : 2,pricey buffet : 0,pricey buffet : 0,poor standard : 0,poor hotel : 0,outdated machine : 0,little pricey : 0,negative remark : 0,mixed feel : 0,poor delivery : 0
+awkward bathroom : 2,pricey choice : 0,pricey choice : 0,poor treatment : 0,poor husband : 0,outdated room : 0,little uncomfortable : 0,negative review : 0,mixed fruit : 0,poor design : 0
+awkward bit : 2,pricey complaint : 0,pricey complaint : 0,poor understand : 0,poor hygiene : 0,patch : 0,little wet : 0,negative something : 0,mixed gender : 0,poor english : 0
+awkward configuration : 2,pricey cost : 0,pricey cost : 0,poor value : 0,poor impression : 0,patron : 0,main negative : 0,negative way : 0,mixed onsen : 0,poor facility : 0
+awkward layout : 2,pricey dinner : 0,pricey dinner : 0,poor variety : 0,poor insulation : 0,plain rude : 0,mediocre breakfast : 0,not accurate : 0,mixed reviews : 0,poor food : 0
+awkward shower : 2,pricey end : 0,pricey end : 0,poor ventilation : 0,poor internet : 0,poor access : 0,mediocre everything : 0,not affect : 0,mixed room : 0,poor girl : 0
+awkward situation : 2,pricey food : 0,pricey food : 0,poor view : 0,poor isolation : 0,poor alternative : 0,mediocre food : 0,not aware : 0,mixed stay : 0,poor hotel : 0
+awkward time : 2,pricey hotel : 0,pricey hotel : 0,poor weather : 0,poor item : 0,poor amenity : 0,mediocre hotel : 0,not claustrophobic : 0,mixed style : 0,poor husband : 0
+bare bone : 2,pricey hyatt : 0,pricey hyatt : 0,poor wifi : 0,poor japanese : 0,poor arrangement : 0,mediocre quality : 0,not correct : 0,mixed western : 0,poor hygiene : 0
+bare footed : 2,pricey place : 0,pricey place : 0,poor wine : 0,poor knowledge : 0,poor attitude : 0,mediocre restaurant : 0,not cramped : 0,most disappointing : 0,poor impression : 0
+bare necessity : 2,pricey price : 0,pricey price : 0,prepay : 0,poor layout : 0,poor bar : 0,mediocre room : 0,not criticism : 0,negative aspect : 0,poor insulation : 0
+bare room : 2,pricey rate : 0,pricey rate : 0,pricey : 0,poor level : 0,poor bedding : 0,mediocre service : 0,not dated : 0,negative difference : 0,poor internet : 0
+bare wall : 2,pricey restaurant : 0,pricey restaurant : 0,pricey bar : 0,poor light : 0,poor check : 0,minor concern : 0,not exciting : 0,negative factor : 0,poor isolation : 0
+claustrophobic feel : 2,pricey room : 0,pricey room : 0,pricey bit : 0,poor location : 0,poor choice : 0,minor detail : 0,not existent : 0,negative hotel : 0,poor item : 0
+claustrophobic person : 2,pricey service : 0,pricey service : 0,pricey breakfast : 0,poor lounge : 0,poor coffee : 0,minor disappointment : 0,not horrible : 0,negative impression : 0,poor japanese : 0
+correct breakfast : 2,pricey side : 0,pricey side : 0,pricey buffet : 0,poor maintenance : 0,poor command : 0,minor drawback : 0,not liking : 0,negative issue : 0,poor knowledge : 0
+correct location : 2,pricey tokyo : 0,pricey tokyo : 0,pricey choice : 0,poor management : 0,poor conditioning : 0,minor glitch : 0,not pricey : 0,negative item : 0,poor layout : 0
+correct number : 2,pricing : 0,pricing : 0,pricey complaint : 0,poor meal : 0,poor connection : 0,minor item : 0,not romantic : 0,negative lack : 0,poor level : 0
+correct password : 2,pricy : 0,pricy : 0,pricey cost : 0,poor menu : 0,poor delivery : 0,minor negative : 0,not rude : 0,negative mark : 0,poor light : 0
+correct place : 2,problematic : 0,problematic : 0,pricey dinner : 0,poor night : 0,poor design : 0,minor quibble : 0,not smallest : 0,negative review : 0,poor location : 0
+correct room : 2,problematic lack : 0,problematic lack : 0,pricey end : 0,poor nothing : 0,poor english : 0,minor reason : 0,not uncomfortable : 0,negative something : 0,poor lounge : 0
+correct service : 2,problematic wifi : 0,problematic wifi : 0,pricey food : 0,poor option : 0,poor facility : 0,minor variation : 0,not waste : 0,negative way : 0,poor maintenance : 0
+correct spelling : 2,quite pricey : 0,quite pricey : 0,pricey hotel : 0,poor pressure : 0,poor girl : 0,mixed area : 0,not worst : 0,not accurate : 0,poor management : 0
+correct time : 2,real negative : 0,real negative : 0,pricey hyatt : 0,poor proof : 0,poor husband : 0,mixed buffet : 0,outdated decoration : 0,not affect : 0,poor meal : 0
+cramped bedroom : 2,refuse : 0,refuse : 0,pricey place : 0,poor proofing : 0,poor hygiene : 0,mixed cocktail : 0,outdated facility : 0,not claustrophobic : 0,poor menu : 0
+cramped feel : 2,remind : 0,remind : 0,pricey price : 0,poor quality : 0,poor impression : 0,mixed drink : 0,outdated furnishing : 0,not correct : 0,poor night : 0
+cramped hotel : 2,renovation : 0,renovation : 0,pricey rate : 0,poor rating : 0,poor insulation : 0,mixed feel : 0,outdated furniture : 0,not cramped : 0,poor nothing : 0
+cramped lobby : 2,reviewer : 0,reviewer : 0,pricey restaurant : 0,poor reception : 0,poor internet : 0,mixed feeling : 0,outdated interior : 0,not criticism : 0,poor option : 0
+cramped quarters : 2,ridiculous : 0,ridiculous : 0,pricey room : 0,poor review : 0,poor item : 0,mixed fruit : 0,outdated machine : 0,not dirty : 0,poor pressure : 0
+cramped size : 2,ridiculous amount : 0,ridiculous amount : 0,pricey service : 0,poor reviews : 0,poor japanese : 0,mixed gender : 0,outdated room : 0,not exciting : 0,poor proof : 0
+crazy amount : 2,ridiculous price : 0,ridiculous price : 0,pricey side : 0,poor room : 0,poor knowledge : 0,mixed onsen : 0,packet : 0,not existent : 0,poor proofing : 0
+crazy busy : 2,ridiculous problem : 0,ridiculous problem : 0,pricey tokyo : 0,poor score : 0,poor layout : 0,mixed room : 0,patch : 0,not horrible : 0,poor quality : 0
+crazy hour : 2,rollaway : 0,rollaway : 0,pricing : 0,poor selection : 0,poor level : 0,mixed stay : 0,patron : 0,not insist : 0,poor rating : 0
+crazy kid : 2,rollaway bed : 0,rollaway bed : 0,pricy : 0,poor signage : 0,poor light : 0,mixed western : 0,plain rude : 0,not liking : 0,poor reception : 0
+crazy night : 2,romantic : 0,romantic : 0,problematic : 0,poor signal : 0,poor location : 0,most disappointing : 0,poor access : 0,not pricey : 0,poor review : 0
+crazy number : 2,romantic feel : 0,romantic feel : 0,problematic lack : 0,poor skill : 0,poor lounge : 0,negative anything : 0,poor alternative : 0,not romantic : 0,poor reviews : 0
+crazy price : 2,romantic getaway : 0,romantic getaway : 0,problematic wifi : 0,poor soundproofing : 0,poor maintenance : 0,negative difference : 0,poor arrangement : 0,not rude : 0,poor room : 0
+crazy shopper : 2,romantic hotel : 0,romantic hotel : 0,quite pricey : 0,poor staff : 0,poor meal : 0,negative feedback : 0,poor attitude : 0,not uncomfortable : 0,poor score : 0
+crazy shopping : 2,romantic stay : 0,romantic stay : 0,real negative : 0,poor standard : 0,poor menu : 0,negative hotel : 0,poor bar : 0,not write : 0,poor selection : 0
+crazy station : 2,romantic trip : 0,romantic trip : 0,refuse : 0,poor treatment : 0,poor night : 0,negative impression : 0,poor bedding : 0,outdated decor : 0,poor signage : 0
+crazy time : 2,romantic view : 0,romantic view : 0,remind : 0,poor understand : 0,poor nothing : 0,negative issue : 0,poor check : 0,outdated decoration : 0,poor signal : 0
+crazy view : 2,romantic weekend : 0,romantic weekend : 0,reviewer : 0,poor value : 0,poor option : 0,negative item : 0,poor choice : 0,outdated interior : 0,poor skill : 0
+dangerous road : 2,rude : 0,rude : 0,ridiculous : 0,poor variety : 0,poor pressure : 0,negative lack : 0,poor coffee : 0,outdated machine : 0,poor soundproofing : 0
+dangerous step : 2,rude attitude : 0,rude attitude : 0,ridiculous amount : 0,poor ventilation : 0,poor proof : 0,negative mark : 0,poor command : 0,packet : 0,poor staff : 0
+dead end : 2,rude behaviour : 0,rude behaviour : 0,ridiculous price : 0,poor weather : 0,poor proofing : 0,negative note : 0,poor condition : 0,patch : 0,poor standard : 0
+dirty area : 2,rude lady : 0,rude lady : 0,ridiculous problem : 0,poor wifi : 0,poor rating : 0,negative part : 0,poor conditioning : 0,patron : 0,poor treatment : 0
+dirty carpeting : 2,rude member : 0,rude member : 0,rollaway : 0,poor wine : 0,poor reception : 0,negative remark : 0,poor delivery : 0,plain rude : 0,poor understand : 0
+dirty curtain : 2,rude person : 0,rude person : 0,rollaway bed : 0,prepay : 0,poor review : 0,negative review : 0,poor design : 0,poor access : 0,poor value : 0
+dirty feel : 2,rude receptionist : 0,rude receptionist : 0,romantic : 0,pricey bar : 0,poor reviews : 0,negative something : 0,poor facility : 0,poor alternative : 0,poor variety : 0
+dirty filter : 2,rude service : 0,rude service : 0,romantic feel : 0,pricey bit : 0,poor room : 0,negative way : 0,poor food : 0,poor arrangement : 0,poor ventilation : 0
+dirty glass : 2,rude staff : 0,rude staff : 0,romantic getaway : 0,pricey breakfast : 0,poor score : 0,not accurate : 0,poor girl : 0,poor bar : 0,poor view : 0
+dirty hallway : 2,rude tourist : 0,rude tourist : 0,romantic hotel : 0,pricey buffet : 0,poor signage : 0,not correct : 0,poor hotel : 0,poor check : 0,poor weather : 0
+dirty linen : 2,rude word : 0,rude word : 0,romantic stay : 0,pricey choice : 0,poor skill : 0,not criticism : 0,poor husband : 0,poor choice : 0,poor wifi : 0
+dirty restaurant : 2,rule : 0,rule : 0,romantic trip : 0,pricey complaint : 0,poor soundproofing : 0,not dated : 0,poor hygiene : 0,poor coffee : 0,poor wine : 0
+dirty rug : 2,sachet : 0,sachet : 0,romantic view : 0,pricey cost : 0,poor staff : 0,not exciting : 0,poor impression : 0,poor command : 0,prepay : 0
+dirty sheet : 2,sense : 0,sense : 0,romantic weekend : 0,pricey dinner : 0,poor standard : 0,not horrible : 0,poor insulation : 0,poor condition : 0,pricey bar : 0
+dirty stain : 2,sharp : 0,sharp : 0,rude : 0,pricey end : 0,poor treatment : 0,not insist : 0,poor internet : 0,poor conditioning : 0,pricey bit : 0
+dirty toilet : 2,sharp corner : 0,sharp corner : 0,rude attitude : 0,pricey food : 0,poor understand : 0,not liking : 0,poor isolation : 0,poor connection : 0,pricey breakfast : 0
+dirty water : 2,sharp eye : 0,sharp eye : 0,rude behaviour : 0,pricey hotel : 0,poor value : 0,not pricey : 0,poor item : 0,poor delivery : 0,pricey buffet : 0
+disappointing area : 2,sharp left : 0,sharp left : 0,rude lady : 0,pricey hyatt : 0,poor variety : 0,not romantic : 0,poor japanese : 0,poor experience : 0,pricey choice : 0
+disappointing buffet : 2,shelf : 0,shelf : 0,rude member : 0,pricey place : 0,poor ventilation : 0,not rude : 0,poor knowledge : 0,poor facility : 0,pricey complaint : 0
+disappointing fact : 2,shock : 0,shock : 0,rude person : 0,pricey price : 0,poor view : 0,other negative : 0,poor layout : 0,poor food : 0,pricey cost : 0
+disappointing gym : 2,skip : 0,skip : 0,rude receptionist : 0,pricey rate : 0,poor weather : 0,outdated bathroom : 0,poor level : 0,poor girl : 0,pricey dinner : 0
+disappointing location : 2,slight negative : 0,slight negative : 0,rude service : 0,pricey restaurant : 0,poor wifi : 0,outdated decor : 0,poor light : 0,poor hotel : 0,pricey end : 0
+disappointing meal : 2,small negative : 0,small negative : 0,rude staff : 0,pricey room : 0,poor wine : 0,outdated decoration : 0,poor lounge : 0,poor husband : 0,pricey food : 0
+disappointing place : 2,smallest : 0,smallest : 0,rude tourist : 0,pricey service : 0,prepay : 0,outdated facility : 0,poor maintenance : 0,poor hygiene : 0,pricey hyatt : 0
+disappointing point : 2,smallest bathroom : 0,smallest bathroom : 0,rude word : 0,pricey side : 0,pricey bar : 0,outdated furnishing : 0,poor management : 0,poor impression : 0,pricey price : 0
+disappointing pool : 2,smallest bed : 0,smallest bed : 0,rule : 0,pricey tokyo : 0,pricey bit : 0,outdated furniture : 0,poor meal : 0,poor insulation : 0,pricey rate : 0
+disappointing recommendation : 2,smallest detail : 0,smallest detail : 0,sachet : 0,pricing : 0,pricey breakfast : 0,outdated interior : 0,poor menu : 0,poor internet : 0,pricey restaurant : 0
+disappointing restaurant : 2,smallest hotel : 0,smallest hotel : 0,sense : 0,problematic : 0,pricey buffet : 0,outdated machine : 0,poor night : 0,poor isolation : 0,pricey service : 0
+disappointing way : 2,smallest portion : 0,smallest portion : 0,sharp : 0,problematic lack : 0,pricey choice : 0,patch : 0,poor nothing : 0,poor item : 0,pricey tokyo : 0
+dusty area : 2,smallest room : 0,smallest room : 0,sharp corner : 0,problematic wifi : 0,pricey complaint : 0,patron : 0,poor option : 0,poor japanese : 0,problematic : 0
+electrical appliance : 2,smallest size : 0,smallest size : 0,sharp eye : 0,quite pricey : 0,pricey cost : 0,plain rude : 0,poor pressure : 0,poor knowledge : 0,problematic lack : 0
+electrical equipment : 2,smallest thing : 0,smallest thing : 0,sharp left : 0,real negative : 0,pricey dinner : 0,poor access : 0,poor proof : 0,poor layout : 0,problematic wifi : 0
+electrical point : 2,smallish : 0,smallish : 0,skip : 0,refuse : 0,pricey end : 0,poor alternative : 0,poor proofing : 0,poor lounge : 0,quite pricey : 0
+electrical store : 2,smallish bed : 0,smallish bed : 0,slight negative : 0,ridiculous : 0,pricey food : 0,poor amenity : 0,poor rating : 0,poor maintenance : 0,real negative : 0
+exciting elevator : 2,smallish one : 0,smallish one : 0,small negative : 0,ridiculous amount : 0,pricey hyatt : 0,poor arrangement : 0,poor review : 0,poor management : 0,refuse : 0
+existent conditioning : 2,smallish room : 0,smallish room : 0,smallest : 0,ridiculous price : 0,pricey place : 0,poor bedding : 0,poor reviews : 0,poor meal : 0,remind : 0
+existent noise : 2,smallish side : 0,smallish side : 0,smallest bathroom : 0,ridiculous problem : 0,pricey price : 0,poor check : 0,poor room : 0,poor menu : 0,reviewer : 0
+existent space : 2,social : 0,social : 0,smallest bed : 0,rollaway : 0,pricey rate : 0,poor choice : 0,poor score : 0,poor night : 0,ridiculous amount : 0
+horrible bed : 2,social networking : 0,social networking : 0,smallest detail : 0,rollaway bed : 0,pricey room : 0,poor coffee : 0,poor signage : 0,poor nothing : 0,ridiculous price : 0
+horrible door : 2,social standard : 0,social standard : 0,smallest hotel : 0,romantic feel : 0,pricey service : 0,poor condition : 0,poor signal : 0,poor option : 0,ridiculous problem : 0
+horrible floor : 2,softness : 0,softness : 0,smallest portion : 0,romantic getaway : 0,pricey side : 0,poor conditioning : 0,poor soundproofing : 0,poor pressure : 0,romantic feel : 0
+horrible noise : 2,soundproofing : 0,soundproofing : 0,smallest room : 0,romantic hotel : 0,pricey tokyo : 0,poor connection : 0,poor staff : 0,poor proof : 0,romantic getaway : 0
+horrible pillow : 2,stain : 0,stain : 0,smallest size : 0,romantic stay : 0,pricing : 0,poor delivery : 0,poor standard : 0,poor proofing : 0,romantic hotel : 0
+horrible start : 2,stale : 0,stale : 0,smallest thing : 0,romantic view : 0,problematic : 0,poor design : 0,poor treatment : 0,poor rating : 0,romantic stay : 0
+horrible wifi : 2,stale cigarette : 0,stale cigarette : 0,smallish : 0,romantic weekend : 0,problematic lack : 0,poor experience : 0,poor understand : 0,poor reception : 0,romantic trip : 0
+inconsistent signal : 2,stale croissant : 0,stale croissant : 0,smallish bed : 0,rude attitude : 0,problematic wifi : 0,poor facility : 0,poor value : 0,poor review : 0,romantic weekend : 0
+little awkward : 2,stale pastry : 0,stale pastry : 0,smallish one : 0,rude behaviour : 0,quite pricey : 0,poor food : 0,poor variety : 0,poor reviews : 0,rude attitude : 0
+little cramped : 2,stale smell : 0,stale smell : 0,smallish room : 0,rude lady : 0,real negative : 0,poor girl : 0,poor ventilation : 0,poor score : 0,rude behaviour : 0
+little uncomfortable : 2,stale smoke : 0,stale smoke : 0,smallish side : 0,rude member : 0,ridiculous price : 0,poor hotel : 0,poor view : 0,poor signage : 0,rude lady : 0
+little wet : 2,stale tobacco : 0,stale tobacco : 0,social : 0,rude person : 0,ridiculous problem : 0,poor hygiene : 0,poor wine : 0,poor signal : 0,rude member : 0
+main negative : 2,stale urine : 0,stale urine : 0,social networking : 0,rude receptionist : 0,rollaway : 0,poor impression : 0,prepay : 0,poor soundproofing : 0,rude receptionist : 0
+mediocre quality : 2,stick : 0,stick : 0,social standard : 0,rude service : 0,rollaway bed : 0,poor insulation : 0,pricey choice : 0,poor staff : 0,rude tourist : 0
+minor con : 2,sticky : 0,sticky : 0,softness : 0,rude tourist : 0,romantic : 0,poor internet : 0,pricey complaint : 0,poor treatment : 0,rude word : 0
+minor concern : 2,sticky residue : 0,sticky residue : 0,soundproofing : 0,rude word : 0,romantic feel : 0,poor isolation : 0,pricey cost : 0,poor understand : 0,sachet : 0
+minor irritation : 2,stiff : 0,stiff : 0,stain : 0,sachet : 0,romantic getaway : 0,poor item : 0,pricey dinner : 0,poor value : 0,sharp corner : 0
+minor reason : 2,stiff bed : 0,stiff bed : 0,stale cigarette : 0,sharp corner : 0,romantic hotel : 0,poor japanese : 0,pricey end : 0,poor variety : 0,sharp eye : 0
+minor variation : 2,stiff mattress : 0,stiff mattress : 0,stale croissant : 0,sharp eye : 0,romantic stay : 0,poor knowledge : 0,pricey hyatt : 0,poor ventilation : 0,sharp left : 0
+mixed area : 2,stiff pillow : 0,stiff pillow : 0,stale pastry : 0,sharp left : 0,romantic trip : 0,poor light : 0,pricey place : 0,poor view : 0,shock : 0
+mixed capsule : 2,stressful : 0,stressful : 0,stale smell : 0,shock : 0,romantic view : 0,poor location : 0,pricey price : 0,poor weather : 0,slight negative : 0
+mixed cocktail : 2,stressful bit : 0,stressful bit : 0,stale smoke : 0,slight negative : 0,romantic weekend : 0,poor lounge : 0,pricey rate : 0,poor wine : 0,small negative : 0
+mixed fruit : 2,stressful breakfast : 0,stressful breakfast : 0,stale tobacco : 0,small negative : 0,rude attitude : 0,poor maintenance : 0,pricey service : 0,pricey bar : 0,smallest bathroom : 0
+mixed gender : 2,stressful day : 0,stressful day : 0,stale urine : 0,smallest bathroom : 0,rude behaviour : 0,poor meal : 0,pricey tokyo : 0,pricey bit : 0,smallest bed : 0
+mixed stay : 2,stressful time : 0,stressful time : 0,sticky : 0,smallest bed : 0,rude lady : 0,poor menu : 0,problematic : 0,pricey choice : 0,smallest hotel : 0
+mixed western : 2,struggle : 0,struggle : 0,sticky residue : 0,smallest detail : 0,rude member : 0,poor night : 0,problematic lack : 0,pricey complaint : 0,smallest portion : 0
+most disappointing : 2,stuffy : 0,stuffy : 0,stiff : 0,smallest hotel : 0,rude person : 0,poor proof : 0,problematic wifi : 0,pricey cost : 0,smallest size : 0
+negative difference : 2,stuffy hotel : 0,stuffy hotel : 0,stiff bed : 0,smallest portion : 0,rude receptionist : 0,poor proofing : 0,quite pricey : 0,pricey dinner : 0,smallest thing : 0
+negative factor : 2,stuffy room : 0,stuffy room : 0,stiff mattress : 0,smallest size : 0,rude service : 0,poor rating : 0,real negative : 0,pricey end : 0,smallish bed : 0
+negative hotel : 2,stuffy smell : 0,stuffy smell : 0,stiff pillow : 0,smallest thing : 0,rude tourist : 0,poor reception : 0,refuse : 0,pricey place : 0,smallish one : 0
+negative item : 2,stuffy window : 0,stuffy window : 0,stressful : 0,smallish bed : 0,rude word : 0,poor review : 0,ridiculous amount : 0,pricey tokyo : 0,smallish side : 0
+negative lack : 2,suffer : 0,suffer : 0,stressful bit : 0,smallish one : 0,rule : 0,poor room : 0,ridiculous price : 0,problematic lack : 0,social : 0
+negative mark : 2,sunday : 0,sunday : 0,stressful breakfast : 0,smallish room : 0,sachet : 0,poor signage : 0,ridiculous problem : 0,problematic wifi : 0,social networking : 0
+negative note : 2,tear : 0,tear : 0,stressful day : 0,smallish side : 0,sharp corner : 0,poor soundproofing : 0,romantic feel : 0,quite pricey : 0,social standard : 0
+negative something : 2,terrible : 0,terrible : 0,stressful time : 0,social : 0,sharp eye : 0,poor staff : 0,romantic getaway : 0,real negative : 0,softness : 0
+negative way : 2,terrible bathroom : 0,terrible bathroom : 0,struggle : 0,social networking : 0,sharp left : 0,poor standard : 0,romantic stay : 0,ridiculous amount : 0,soundproofing : 0
+not criticism : 2,terrible bed : 0,terrible bed : 0,stuffy : 0,social standard : 0,shock : 0,poor treatment : 0,romantic trip : 0,romantic hotel : 0,stain : 0
+not exciting : 2,terrible breakfast : 0,terrible breakfast : 0,stuffy hotel : 0,softness : 0,slight negative : 0,poor understand : 0,romantic view : 0,romantic stay : 0,stale cigarette : 0
+not existent : 2,terrible buffet : 0,terrible buffet : 0,stuffy room : 0,soundproofing : 0,small negative : 0,poor variety : 0,romantic weekend : 0,romantic trip : 0,stale croissant : 0
+not horrible : 2,terrible coffee : 0,terrible coffee : 0,stuffy smell : 0,stain : 0,smallest bathroom : 0,poor view : 0,rude attitude : 0,romantic view : 0,stale pastry : 0
+not romantic : 2,terrible connection : 0,terrible connection : 0,stuffy window : 0,stale cigarette : 0,smallest bed : 0,poor weather : 0,rude behaviour : 0,romantic weekend : 0,stale smell : 0
+outdated decoration : 2,terrible design : 0,terrible design : 0,suffer : 0,stale croissant : 0,smallest detail : 0,poor wifi : 0,rude lady : 0,rude attitude : 0,stale tobacco : 0
+outdated facility : 2,terrible experience : 0,terrible experience : 0,sunday : 0,stale pastry : 0,smallest hotel : 0,poor wine : 0,rude member : 0,rude behaviour : 0,stale urine : 0
+outdated furnishing : 2,terrible food : 0,terrible food : 0,tear : 0,stale smell : 0,smallest portion : 0,pricey bar : 0,rude person : 0,rude lady : 0,sticky : 0
+outdated interior : 2,terrible gym : 0,terrible gym : 0,terrible bathroom : 0,stale smoke : 0,smallest size : 0,pricey bit : 0,rude receptionist : 0,rude member : 0,sticky residue : 0
+outdated machine : 2,terrible hilton : 0,terrible hilton : 0,terrible bed : 0,stale tobacco : 0,smallest thing : 0,pricey buffet : 0,rude service : 0,rude person : 0,stiff : 0
+poor access : 2,terrible hotel : 0,terrible hotel : 0,terrible breakfast : 0,stale urine : 0,smallish bed : 0,pricey choice : 0,rude staff : 0,rude receptionist : 0,stiff bed : 0
+poor alternative : 2,terrible light : 0,terrible light : 0,terrible buffet : 0,sticky : 0,smallish one : 0,pricey complaint : 0,rude tourist : 0,rude service : 0,stiff mattress : 0
+poor arrangement : 2,terrible location : 0,terrible location : 0,terrible coffee : 0,sticky residue : 0,smallish side : 0,pricey dinner : 0,rude word : 0,rude tourist : 0,stiff pillow : 0
+poor bar : 2,terrible noise : 0,terrible noise : 0,terrible connection : 0,stiff bed : 0,social : 0,pricey end : 0,sachet : 0,rude word : 0,stressful bit : 0
+poor bedding : 2,terrible nothing : 0,terrible nothing : 0,terrible design : 0,stiff mattress : 0,social networking : 0,pricey food : 0,sharp corner : 0,sachet : 0,stressful breakfast : 0
+poor check : 2,terrible pillow : 0,terrible pillow : 0,terrible experience : 0,stiff pillow : 0,social standard : 0,pricey hyatt : 0,sharp eye : 0,sharp corner : 0,stressful day : 0
+poor coffee : 2,terrible room : 0,terrible room : 0,terrible food : 0,stressful : 0,softness : 0,pricey place : 0,sharp left : 0,sharp eye : 0,stressful time : 0
+poor delivery : 2,terrible service : 0,terrible service : 0,terrible gym : 0,stressful bit : 0,stale croissant : 0,pricey price : 0,slight negative : 0,sharp left : 0,stuffy room : 0
+poor facility : 2,terrible signal : 0,terrible signal : 0,terrible hilton : 0,stressful breakfast : 0,stale pastry : 0,pricey rate : 0,small negative : 0,small negative : 0,stuffy smell : 0
+poor girl : 2,terrible smell : 0,terrible smell : 0,terrible hotel : 0,stressful day : 0,stale smell : 0,pricey service : 0,smallest bathroom : 0,smallest bed : 0,stuffy window : 0
+poor hygiene : 2,terrible staff : 0,terrible staff : 0,terrible light : 0,stressful time : 0,stale tobacco : 0,pricey tokyo : 0,smallest detail : 0,smallest detail : 0,terrible : 0
+poor internet : 2,terrible stay : 0,terrible stay : 0,terrible location : 0,struggle : 0,stale urine : 0,problematic wifi : 0,smallest hotel : 0,smallest hotel : 0,terrible bathroom : 0
+poor item : 2,terrible stench : 0,terrible stench : 0,terrible noise : 0,stuffy hotel : 0,sticky : 0,quite pricey : 0,smallest portion : 0,smallest portion : 0,terrible bed : 0
+poor japanese : 2,terrible terrible : 0,terrible terrible : 0,terrible nothing : 0,stuffy room : 0,sticky residue : 0,ridiculous amount : 0,smallest size : 0,smallest size : 0,terrible breakfast : 0
+poor knowledge : 2,terrible view : 0,terrible view : 0,terrible pillow : 0,stuffy smell : 0,stiff bed : 0,ridiculous price : 0,smallest thing : 0,smallest thing : 0,terrible buffet : 0
+poor lounge : 2,terrible wifi : 0,terrible wifi : 0,terrible room : 0,stuffy window : 0,stiff mattress : 0,ridiculous problem : 0,smallish one : 0,smallish bed : 0,terrible coffee : 0
+poor maintenance : 2,tough : 0,tough : 0,terrible service : 0,suffer : 0,stiff pillow : 0,romantic feel : 0,smallish side : 0,smallish one : 0,terrible connection : 0
+poor meal : 2,tough choice : 0,tough choice : 0,terrible signal : 0,tear : 0,stressful bit : 0,romantic getaway : 0,social networking : 0,smallish room : 0,terrible design : 0
+poor menu : 2,tough flight : 0,tough flight : 0,terrible smell : 0,terrible bathroom : 0,stressful breakfast : 0,romantic hotel : 0,social standard : 0,smallish side : 0,terrible experience : 0
+poor night : 2,tough time : 0,tough time : 0,terrible staff : 0,terrible bed : 0,stressful day : 0,romantic stay : 0,softness : 0,social : 0,terrible food : 0
+poor option : 2,training : 0,training : 0,terrible stay : 0,terrible breakfast : 0,stressful time : 0,romantic trip : 0,stale cigarette : 0,social networking : 0,terrible gym : 0
+poor proof : 2,translator : 0,translator : 0,terrible stench : 0,terrible buffet : 0,stuffy hotel : 0,romantic view : 0,stale croissant : 0,social standard : 0,terrible hilton : 0
+poor proofing : 2,trash : 0,trash : 0,terrible terrible : 0,terrible coffee : 0,stuffy smell : 0,romantic weekend : 0,stale pastry : 0,softness : 0,terrible hotel : 0
+poor score : 2,troublesome : 0,troublesome : 0,terrible view : 0,terrible connection : 0,stuffy window : 0,rude behaviour : 0,stale tobacco : 0,soundproofing : 0,terrible light : 0
+poor soundproofing : 2,ugly : 0,ugly : 0,terrible wifi : 0,terrible design : 0,suffer : 0,rude lady : 0,stale urine : 0,stale cigarette : 0,terrible location : 0
+poor staff : 2,ugly room : 0,ugly room : 0,tough : 0,terrible experience : 0,tear : 0,rude person : 0,sticky residue : 0,stale pastry : 0,terrible noise : 0
+poor treatment : 2,ugly view : 0,ugly view : 0,tough choice : 0,terrible food : 0,terrible bathroom : 0,rude service : 0,stiff mattress : 0,stale smoke : 0,terrible nothing : 0
+poor understand : 2,unable : 0,unable : 0,tough flight : 0,terrible gym : 0,terrible bed : 0,sharp eye : 0,stiff pillow : 0,stale tobacco : 0,terrible pillow : 0
+poor variety : 2,unable hotel : 0,unable hotel : 0,tough time : 0,terrible hilton : 0,terrible breakfast : 0,sharp left : 0,stressful bit : 0,stale urine : 0,terrible room : 0
+poor wine : 2,unable receptionist : 0,unable receptionist : 0,training : 0,terrible hotel : 0,terrible buffet : 0,smallest bed : 0,stressful breakfast : 0,sticky residue : 0,terrible service : 0
+pricey choice : 2,unable staff : 0,unable staff : 0,translator : 0,terrible light : 0,terrible coffee : 0,smallest portion : 0,stressful day : 0,stiff bed : 0,terrible signal : 0
+pricey complaint : 2,unacceptable : 0,unacceptable : 0,trash : 0,terrible location : 0,terrible design : 0,smallest size : 0,stressful time : 0,stiff mattress : 0,terrible smell : 0
+pricey cost : 2,unacceptable service : 0,unacceptable service : 0,troublesome : 0,terrible noise : 0,terrible food : 0,smallest thing : 0,stuffy hotel : 0,stiff pillow : 0,terrible staff : 0
+pricey dinner : 2,uncomfortable : 0,uncomfortable : 0,ugly : 0,terrible nothing : 0,terrible gym : 0,smallish bed : 0,stuffy window : 0,stressful bit : 0,terrible stay : 0
+pricey end : 2,uncomfortable bed : 0,uncomfortable bed : 0,ugly room : 0,terrible pillow : 0,terrible hilton : 0,smallish side : 0,terrible bathroom : 0,stressful breakfast : 0,terrible stench : 0
+pricey hyatt : 2,uncomfortable chair : 0,uncomfortable chair : 0,ugly view : 0,terrible room : 0,terrible hotel : 0,social networking : 0,terrible bed : 0,stressful day : 0,terrible terrible : 0
+pricey tokyo : 2,uncomfortable couple : 0,uncomfortable couple : 0,unable hotel : 0,terrible signal : 0,terrible light : 0,stale croissant : 0,terrible buffet : 0,stressful time : 0,terrible view : 0
+problematic lack : 2,uncomfortable experience : 0,uncomfortable experience : 0,unable receptionist : 0,terrible smell : 0,terrible location : 0,stale pastry : 0,terrible coffee : 0,stuffy hotel : 0,terrible wifi : 0
+problematic wifi : 2,uncomfortable mattress : 0,uncomfortable mattress : 0,unable staff : 0,terrible staff : 0,terrible noise : 0,sticky residue : 0,terrible connection : 0,stuffy smell : 0,tough choice : 0
+quite pricey : 2,uncomfortable night : 0,uncomfortable night : 0,unacceptable : 0,terrible stay : 0,terrible nothing : 0,stiff mattress : 0,terrible design : 0,stuffy window : 0,tough flight : 0
+ridiculous problem : 2,uncomfortable person : 0,uncomfortable person : 0,unacceptable service : 0,terrible stench : 0,terrible pillow : 0,stiff pillow : 0,terrible experience : 0,terrible bathroom : 0,tough time : 0
+romantic getaway : 2,uncomfortable pillow : 0,uncomfortable pillow : 0,uncomfortable bed : 0,terrible terrible : 0,terrible room : 0,stressful bit : 0,terrible food : 0,terrible bed : 0,translator : 0
+romantic stay : 2,uncomfortable room : 0,uncomfortable room : 0,uncomfortable chair : 0,terrible view : 0,terrible signal : 0,stressful breakfast : 0,terrible gym : 0,terrible buffet : 0,troublesome : 0
+romantic weekend : 2,uncomfortable seating : 0,uncomfortable seating : 0,uncomfortable couple : 0,terrible wifi : 0,terrible smell : 0,stressful day : 0,terrible hilton : 0,terrible connection : 0,ugly : 0
+rude behaviour : 2,uncomfortable sleep : 0,uncomfortable sleep : 0,uncomfortable experience : 0,tough choice : 0,terrible staff : 0,stressful time : 0,terrible hotel : 0,terrible experience : 0,ugly room : 0
+rude lady : 2,uncomfortable sleeping : 0,uncomfortable sleeping : 0,uncomfortable mattress : 0,tough flight : 0,terrible stench : 0,stuffy hotel : 0,terrible light : 0,terrible gym : 0,ugly view : 0
+rude member : 2,uncomfortable stay : 0,uncomfortable stay : 0,uncomfortable night : 0,tough time : 0,terrible terrible : 0,stuffy smell : 0,terrible location : 0,terrible hotel : 0,unable hotel : 0
+rude tourist : 2,uncomfortable thing : 0,uncomfortable thing : 0,uncomfortable person : 0,translator : 0,terrible view : 0,stuffy window : 0,terrible nothing : 0,terrible location : 0,unable receptionist : 0
+rude word : 2,uncomfortable view : 0,uncomfortable view : 0,uncomfortable pillow : 0,troublesome : 0,tough choice : 0,terrible bathroom : 0,terrible room : 0,terrible noise : 0,unable staff : 0
+sharp eye : 2,unfriendly : 0,unfriendly : 0,uncomfortable room : 0,ugly : 0,tough flight : 0,terrible bed : 0,terrible signal : 0,terrible pillow : 0,unacceptable service : 0
+sharp left : 2,unfriendly lady : 0,unfriendly lady : 0,uncomfortable seating : 0,ugly room : 0,tough time : 0,terrible buffet : 0,terrible staff : 0,terrible room : 0,uncomfortable bed : 0
+smallest hotel : 2,unfriendly reception : 0,unfriendly reception : 0,uncomfortable sleep : 0,ugly view : 0,translator : 0,terrible coffee : 0,terrible stay : 0,terrible signal : 0,uncomfortable chair : 0
+smallest portion : 2,unfriendly staff : 0,unfriendly staff : 0,uncomfortable sleeping : 0,unable hotel : 0,troublesome : 0,terrible connection : 0,terrible terrible : 0,terrible smell : 0,uncomfortable couple : 0
+smallest size : 2,unreasonable : 0,unreasonable : 0,uncomfortable stay : 0,unable receptionist : 0,ugly : 0,terrible design : 0,terrible view : 0,terrible staff : 0,uncomfortable experience : 0
+smallish one : 2,unreasonable price : 0,unreasonable price : 0,uncomfortable thing : 0,unable staff : 0,ugly room : 0,terrible gym : 0,tough choice : 0,terrible stay : 0,uncomfortable mattress : 0
+social networking : 2,unsure : 0,unsure : 0,uncomfortable view : 0,unacceptable : 0,ugly view : 0,terrible hilton : 0,tough flight : 0,terrible stench : 0,uncomfortable night : 0
+social standard : 2,useless : 0,useless : 0,unfriendly : 0,unacceptable service : 0,unable hotel : 0,terrible light : 0,tough time : 0,terrible view : 0,uncomfortable person : 0
+stale pastry : 2,useless staff : 0,useless staff : 0,unfriendly lady : 0,uncomfortable chair : 0,unable receptionist : 0,terrible location : 0,troublesome : 0,terrible wifi : 0,uncomfortable pillow : 0
+sticky residue : 2,waitress : 0,waitress : 0,unfriendly reception : 0,uncomfortable couple : 0,unable staff : 0,terrible noise : 0,ugly : 0,tough choice : 0,uncomfortable room : 0
+stiff mattress : 2,waive : 0,waive : 0,unfriendly staff : 0,uncomfortable experience : 0,unacceptable service : 0,terrible nothing : 0,ugly room : 0,tough flight : 0,uncomfortable seating : 0
+stressful bit : 2,walkway : 0,walkway : 0,unreasonable : 0,uncomfortable mattress : 0,uncomfortable chair : 0,terrible signal : 0,ugly view : 0,tough time : 0,uncomfortable sleep : 0
+stressful breakfast : 2,wardrobe : 0,wardrobe : 0,unreasonable price : 0,uncomfortable person : 0,uncomfortable couple : 0,terrible smell : 0,unable hotel : 0,troublesome : 0,uncomfortable sleeping : 0
+stressful day : 2,warning : 0,warning : 0,useless : 0,uncomfortable room : 0,uncomfortable experience : 0,terrible staff : 0,unable receptionist : 0,ugly room : 0,uncomfortable stay : 0
+stressful time : 2,waste : 0,waste : 0,useless staff : 0,uncomfortable seating : 0,uncomfortable mattress : 0,terrible stay : 0,unable staff : 0,ugly view : 0,uncomfortable thing : 0
+stuffy window : 2,weird : 0,weird : 0,waitress : 0,uncomfortable sleep : 0,uncomfortable night : 0,terrible stench : 0,unacceptable service : 0,unable hotel : 0,uncomfortable view : 0
+terrible bathroom : 2,weird ball : 0,weird ball : 0,waive : 0,uncomfortable sleeping : 0,uncomfortable person : 0,terrible terrible : 0,uncomfortable chair : 0,unable receptionist : 0,unfriendly : 0
+terrible buffet : 2,weird bathroom : 0,weird bathroom : 0,wardrobe : 0,uncomfortable stay : 0,uncomfortable room : 0,tough choice : 0,uncomfortable couple : 0,unacceptable service : 0,unfriendly lady : 0
+terrible design : 2,weird experience : 0,weird experience : 0,warning : 0,uncomfortable thing : 0,uncomfortable seating : 0,tough flight : 0,uncomfortable experience : 0,uncomfortable chair : 0,unfriendly reception : 0
+terrible gym : 2,weird layout : 0,weird layout : 0,waste : 0,uncomfortable view : 0,uncomfortable sleep : 0,ugly room : 0,uncomfortable night : 0,uncomfortable couple : 0,unfriendly staff : 0
+terrible hilton : 2,weird pillow : 0,weird pillow : 0,weird : 0,unfriendly : 0,uncomfortable sleeping : 0,unable receptionist : 0,uncomfortable person : 0,uncomfortable experience : 0,unreasonable price : 0
+terrible location : 2,weird show : 0,weird show : 0,weird ball : 0,unfriendly lady : 0,uncomfortable stay : 0,unable staff : 0,uncomfortable seating : 0,uncomfortable mattress : 0,useless staff : 0
+terrible noise : 2,weird smell : 0,weird smell : 0,weird bathroom : 0,unfriendly reception : 0,uncomfortable thing : 0,unacceptable service : 0,uncomfortable sleep : 0,uncomfortable night : 0,waive : 0
+terrible nothing : 2,weird system : 0,weird system : 0,weird experience : 0,unfriendly staff : 0,uncomfortable view : 0,uncomfortable couple : 0,uncomfortable sleeping : 0,uncomfortable person : 0,weird ball : 0
+terrible signal : 2,weird thing : 0,weird thing : 0,weird layout : 0,unreasonable : 0,unfriendly lady : 0,uncomfortable mattress : 0,uncomfortable stay : 0,uncomfortable pillow : 0,weird bathroom : 0
+terrible staff : 2,weird window : 0,weird window : 0,weird pillow : 0,unreasonable price : 0,unfriendly reception : 0,uncomfortable person : 0,uncomfortable thing : 0,uncomfortable room : 0,weird experience : 0
+terrible stench : 2,wet : 0,wet : 0,weird show : 0,unsure : 0,unreasonable : 0,uncomfortable room : 0,uncomfortable view : 0,uncomfortable seating : 0,weird layout : 0
+terrible terrible : 2,wet area : 0,wet area : 0,weird smell : 0,useless staff : 0,unreasonable price : 0,uncomfortable seating : 0,unfriendly lady : 0,uncomfortable sleep : 0,weird pillow : 0
+terrible view : 2,wet bar : 0,wet bar : 0,weird system : 0,waive : 0,useless staff : 0,uncomfortable sleeping : 0,unfriendly reception : 0,uncomfortable sleeping : 0,weird show : 0
+tough choice : 2,wet bathroom : 0,wet bathroom : 0,weird thing : 0,weird ball : 0,waive : 0,uncomfortable stay : 0,unreasonable price : 0,uncomfortable stay : 0,weird smell : 0
+tough flight : 2,wet clothe : 0,wet clothe : 0,weird window : 0,weird bathroom : 0,weird ball : 0,uncomfortable thing : 0,useless staff : 0,uncomfortable thing : 0,weird system : 0
+ugly room : 2,wet day : 0,wet day : 0,wet : 0,weird experience : 0,weird bathroom : 0,uncomfortable view : 0,waive : 0,uncomfortable view : 0,weird thing : 0
+ugly view : 2,wet facility : 0,wet facility : 0,wet area : 0,weird layout : 0,weird experience : 0,unfriendly lady : 0,weird ball : 0,unfriendly lady : 0,weird window : 0
+unable receptionist : 2,wet floor : 0,wet floor : 0,wet bar : 0,weird pillow : 0,weird layout : 0,unfriendly reception : 0,weird bathroom : 0,unfriendly reception : 0,wet area : 0
+unacceptable service : 2,wet hair : 0,wet hair : 0,wet bathroom : 0,weird show : 0,weird pillow : 0,unreasonable price : 0,weird experience : 0,unreasonable price : 0,wet bar : 0
+uncomfortable couple : 2,wet luggage : 0,wet luggage : 0,wet clothe : 0,weird smell : 0,weird show : 0,useless staff : 0,weird layout : 0,useless staff : 0,wet bathroom : 0
+uncomfortable person : 2,wet plate : 0,wet plate : 0,wet day : 0,weird system : 0,weird smell : 0,waive : 0,weird show : 0,weird ball : 0,wet clothe : 0
+uncomfortable seating : 2,wet room : 0,wet room : 0,wet facility : 0,weird thing : 0,weird system : 0,weird ball : 0,weird system : 0,weird bathroom : 0,wet day : 0
+uncomfortable sleep : 2,wet sauna : 0,wet sauna : 0,wet floor : 0,weird window : 0,weird window : 0,weird bathroom : 0,weird thing : 0,weird experience : 0,wet facility : 0
+uncomfortable sleeping : 2,wet spot : 0,wet spot : 0,wet hair : 0,wet bar : 0,wet area : 0,weird layout : 0,weird window : 0,weird layout : 0,wet floor : 0
+uncomfortable thing : 2,wet tissue : 0,wet tissue : 0,wet luggage : 0,wet bathroom : 0,wet bar : 0,weird show : 0,wet area : 0,weird pillow : 0,wet hair : 0
+uncomfortable view : 2,wet towel : 0,wet towel : 0,wet plate : 0,wet clothe : 0,wet bathroom : 0,weird system : 0,wet bar : 0,weird show : 0,wet luggage : 0
+unfriendly lady : 2,wet weather : 0,wet weather : 0,wet room : 0,wet day : 0,wet day : 0,weird window : 0,wet bathroom : 0,weird system : 0,wet plate : 0
+unfriendly reception : 2,working : 0,working : 0,wet sauna : 0,wet facility : 0,wet facility : 0,wet bar : 0,wet clothe : 0,weird thing : 0,wet sauna : 0
+unreasonable price : 2,worse : 0,worse : 0,wet spot : 0,wet hair : 0,wet floor : 0,wet bathroom : 0,wet facility : 0,weird window : 0,wet spot : 0
+useless staff : 2,worst : 0,worst : 0,wet tissue : 0,wet luggage : 0,wet hair : 0,wet clothe : 0,wet floor : 0,wet area : 0,wet tissue : 0
+weird ball : 2,worst attitude : 0,worst attitude : 0,wet towel : 0,wet plate : 0,wet luggage : 0,wet day : 0,wet hair : 0,wet bar : 0,wet towel : 0
+weird bathroom : 2,worst bed : 0,worst bed : 0,wet weather : 0,wet sauna : 0,wet plate : 0,wet facility : 0,wet luggage : 0,wet day : 0,wet weather : 0
+weird experience : 2,worst breakfast : 0,worst breakfast : 0,worst attitude : 0,wet spot : 0,wet sauna : 0,wet hair : 0,wet plate : 0,wet floor : 0,worst attitude : 0
+weird show : 2,worst choice : 0,worst choice : 0,worst bed : 0,wet tissue : 0,wet spot : 0,wet luggage : 0,wet sauna : 0,wet hair : 0,worst bed : 0
+weird system : 2,worst decision : 0,worst decision : 0,worst breakfast : 0,wet towel : 0,wet tissue : 0,wet plate : 0,wet spot : 0,wet luggage : 0,worst breakfast : 0
+weird window : 2,worst enemy : 0,worst enemy : 0,worst choice : 0,worst attitude : 0,wet weather : 0,wet sauna : 0,wet tissue : 0,wet sauna : 0,worst choice : 0
+wet bar : 2,worst experience : 0,worst experience : 0,worst decision : 0,worst bed : 0,worst attitude : 0,wet spot : 0,wet weather : 0,wet tissue : 0,worst decision : 0
+wet facility : 2,worst food : 0,worst food : 0,worst enemy : 0,worst breakfast : 0,worst bed : 0,wet tissue : 0,worst attitude : 0,worst attitude : 0,worst enemy : 0
+wet luggage : 2,worst gym : 0,worst gym : 0,worst experience : 0,worst choice : 0,worst breakfast : 0,wet towel : 0,worst bed : 0,worst bed : 0,worst food : 0
+wet plate : 2,worst hotel : 0,worst hotel : 0,worst food : 0,worst decision : 0,worst choice : 0,wet weather : 0,worst breakfast : 0,worst breakfast : 0,worst gym : 0
+wet spot : 2,worst hyatt : 0,worst hyatt : 0,worst gym : 0,worst enemy : 0,worst decision : 0,worst attitude : 0,worst choice : 0,worst choice : 0,worst hotel : 0
+wet tissue : 2,worst lounge : 0,worst lounge : 0,worst hotel : 0,worst food : 0,worst enemy : 0,worst bed : 0,worst decision : 0,worst decision : 0,worst hyatt : 0
+worst attitude : 2,worst meal : 0,worst meal : 0,worst hyatt : 0,worst gym : 0,worst food : 0,worst choice : 0,worst enemy : 0,worst enemy : 0,worst lounge : 0
+worst choice : 2,worst night : 0,worst night : 0,worst lounge : 0,worst hyatt : 0,worst gym : 0,worst decision : 0,worst experience : 0,worst food : 0,worst meal : 0
+worst decision : 2,worst part : 0,worst part : 0,worst meal : 0,worst lounge : 0,worst hyatt : 0,worst enemy : 0,worst food : 0,worst gym : 0,worst night : 0
+worst enemy : 2,worst place : 0,worst place : 0,worst night : 0,worst meal : 0,worst lounge : 0,worst gym : 0,worst gym : 0,worst lounge : 0,worst part : 0
+worst food : 2,worst problem : 0,worst problem : 0,worst part : 0,worst night : 0,worst meal : 0,worst hyatt : 0,worst hyatt : 0,worst meal : 0,worst place : 0
+worst gym : 2,worst quality : 0,worst quality : 0,worst place : 0,worst part : 0,worst night : 0,worst lounge : 0,worst lounge : 0,worst night : 0,worst problem : 0
+worst hyatt : 2,worst room : 0,worst room : 0,worst problem : 0,worst place : 0,worst place : 0,worst meal : 0,worst meal : 0,worst place : 0,worst quality : 0
+worst lounge : 2,worst sandwich : 0,worst sandwich : 0,worst quality : 0,worst problem : 0,worst problem : 0,worst night : 0,worst night : 0,worst problem : 0,worst room : 0
+worst night : 2,worst service : 0,worst service : 0,worst sandwich : 0,worst quality : 0,worst quality : 0,worst place : 0,worst place : 0,worst quality : 0,worst sandwich : 0
+worst place : 2,worst stay : 0,worst stay : 0,worst service : 0,worst room : 0,worst room : 0,worst problem : 0,worst problem : 0,worst room : 0,worst service : 0
+worst problem : 2,worst thing : 0,worst thing : 0,worst stay : 0,worst sandwich : 0,worst sandwich : 0,worst quality : 0,worst quality : 0,worst sandwich : 0,worst stay : 0
+worst quality : 2,wouldn : 0,wouldn : 0,worst thing : 0,worst service : 0,worst stay : 0,worst sandwich : 0,worst sandwich : 0,worst service : 0,worst thing : 0
+worst sandwich : 2,write : 0,write : 0,wouldn : 0,worst stay : 0,worst thing : 0,worst stay : 0,worst stay : 0,worst stay : 0,wouldn : 0
+worst stay : 2,yellow : 0,yellow : 0,write : 0,wouldn : 0,wouldn : 0,worst thing : 0,worst thing : 0,wouldn : 0,yellow : 0
+wouldn : 2,yellow light : 0,yellow light : 0,yellow light : 0,yellow light : 0,yellow light : 0,wouldn : 0,yellow light : 0,yellow light : 0,yellow light : 0
+yellow light : 2,yellow line : 0,yellow line : 0,yellow line : 0,yellow line : 0,yellow line : 0,yellow light : 0,yellow line : 0,yellow line : 0,yellow line : 0
+yellow line : 2,yellow sign : 0,yellow sign : 0,yellow sign : 0,yellow sign : 0,yellow sign : 0,yellow line : 0,yellow sign : 0,yellow sign : 0,yellow sign : 0
+yellow stain : 2,yellow stain : 0,yellow stain : 0,yellow stain : 0,yellow stain : 0,yellow stain : 0,yellow sign : 0,yellow stain : 0,yellow stain : 0,yellow stain : 0
+yellow wall : 2,yellow wall : 0,yellow wall : 0,yellow wall : 0,yellow wall : 0,yellow wall : 0,yellow stain : 0,yellow wall : 0,yellow wall : 0,yellow wall : 0

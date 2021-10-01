@@ -1,0 +1,18 @@
+# ーーーーーーーーーーー
+# ＊Filter all databases to only include hotels that have price data
+# ＊Stanford NLP Parser to Parse the grammatical dependencies of all texts, save it somewhere.
+# ＊Identify Keywords that are adjectives, and keywords that are subjects
+# ＊For each adjective keyword
+# 　　＊Collect the sentences that include this keyword（extract only positive texts for positive keywords)
+# 　　＊SNLPP identify the noun that the adjective refers to, and count
+# 　　＊Make a list of the pairs and the counts
+# 　　＊Combine with original frequency lists for "all prices" category
+# ＊Split by price
+# ＊For each price layer
+# 　　＊Count each non-adjective subject keyword
+# 　　＊For each adjective keyword
+# 　　　　＊Collect the sentences that include this keyword（extract only positive texts for positive keywords)
+# 　　　　＊SNLPP identify the noun that the adjective refers to, and count
+# 　　　　＊Make a list of the pairs and the counts
+# 　　　　＊Combine with original frequency lists for this price category
+# ーーーーーーーーーーー

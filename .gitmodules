@@ -1,0 +1,6 @@
+[submodule "python/rbo"]
+	path = python/rbo
+	url = https://github.com/elisa-aleman/rbo/
+[submodule "python/EntropyBasedSVM"]
+	path = python/EntropyBasedSVM
+	url = https://github.com/elisa-aleman/EntropyBasedSVM

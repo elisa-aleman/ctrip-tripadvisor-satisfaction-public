@@ -1,0 +1,14 @@
+Best Performing Positive SVM
+Alpha: 2.75, C: 2.5
+F1: 0.91 F1_stdv: 0.01
+Acc: 0.87 Acc_stdv:0.02
+##########
+Best Performing Negative SVM
+Alpha: 3.75, C: 0.5
+F1: 0.67 F1_stdv: 0.11
+Acc: 0.85 Acc_stdv:0.05
+##########
+Combined
+C: 0.5
+F1: 0.95 F1_stdv: 0.01
+Acc: 0.92 Acc_stdv:0.03

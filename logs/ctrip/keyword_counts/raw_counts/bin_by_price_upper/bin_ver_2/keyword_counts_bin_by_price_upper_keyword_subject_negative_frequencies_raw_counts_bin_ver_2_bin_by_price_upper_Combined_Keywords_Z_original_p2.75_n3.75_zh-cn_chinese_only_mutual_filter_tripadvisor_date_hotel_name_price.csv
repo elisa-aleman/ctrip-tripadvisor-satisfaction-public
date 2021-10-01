@@ -1,0 +1,276 @@
+keyword,translated_keyword,0: All Prices,1: 0 to 2500,2: 2500 to 5000 yen,"3: 5000 to 10,000 yen","4: 10,000 to 15,000 yen","5: 15,000 to 20,000 yen","6: 20,000 to 30,000 yen","7: 30,000 to 50,000 yen","8: 50,000 to 100,000 yen","9: 100,000 to 200,000 yen"
+一般,general,1713,0,0,28,91,218,504,311,510,51
+一般 一般,General general,56,0,0,0,0,0,56,0,0,0
+一般 不足,Generally insufficient,3,0,0,0,0,0,0,2,0,0
+一般 东西,General stuff,6,0,0,0,0,0,0,4,2,0
+一般 交通,General traffic,3,0,0,0,0,0,0,0,0,0
+一般 人,normal person,2,0,0,0,0,0,0,0,0,0
+一般 价格,General price,7,0,0,0,0,0,3,0,2,0
+一般 位置,General location,42,0,0,0,8,6,12,6,8,2
+一般 其它,General other,2,0,0,0,0,0,0,0,2,0
+一般 卫生,General hygiene,30,0,0,0,0,8,9,6,5,0
+一般 印象,General impression,2,0,0,0,0,0,0,0,0,0
+一般 口味,General taste,6,0,0,0,0,0,0,2,0,0
+一般 口感,General taste,2,0,0,0,0,0,0,0,2,0
+一般 味道,General taste,22,0,0,2,2,0,8,4,5,0
+一般 品牌,General brand,3,0,0,0,0,0,2,0,0,0
+一般 品种,General variety,5,0,0,0,0,0,0,0,4,0
+一般 地方,General place,2,0,0,0,0,0,0,0,0,0
+一般 地段,General location,5,0,0,0,0,0,0,2,0,0
+一般 地点,General location,3,0,0,0,0,0,0,0,0,0
+一般 大小,General size,12,0,0,0,0,0,5,0,7,0
+一般 好,Fair good,6,0,0,2,0,0,0,0,2,2
+一般 宵夜,Average supper,2,0,0,0,0,0,2,0,0,0
+一般 宾馆,General Hotel,3,0,0,0,0,0,0,0,0,0
+一般 小,Average small,2,0,0,0,0,0,0,0,0,0
+一般 希尔顿,General Hilton,2,0,0,0,0,0,0,0,0,0
+一般 态度,General attitude,39,0,0,0,2,5,14,6,12,0
+一般 性价比,Average value for money,44,0,0,0,2,3,17,9,12,0
+一般 总体,General overall,4,0,0,0,2,0,0,0,0,0
+一般 情况,generally,4,0,0,0,0,2,0,0,0,0
+一般 感觉,General feeling,24,0,0,0,3,4,5,4,8,0
+一般 房间,Average room,37,0,0,0,0,2,9,9,13,2
+一般 效果,General effect,6,0,0,2,0,0,0,0,0,0
+一般 方面,General aspect,5,0,0,0,0,0,2,0,2,0
+一般 旅馆,General Hotel,2,0,0,0,0,0,0,0,0,0
+一般 早餐,Average breakfast,97,0,0,3,5,14,21,19,30,5
+一般 早饭,Average breakfast,6,0,0,0,0,0,3,0,0,0
+一般 晚餐,Average dinner,3,0,0,0,0,0,0,0,3,0
+一般 景色,General scenery,4,0,0,0,0,0,0,2,2,0
+一般 景观,General landscape,2,0,0,0,0,0,0,0,0,0
+一般 服务,General service,115,0,0,2,4,7,34,22,39,7
+一般 条件,General condition,18,0,0,0,0,3,5,3,5,0
+一般 比较,General comparison,2,0,0,0,0,0,0,0,2,0
+一般 水平,The general level,5,0,0,0,0,0,3,0,0,0
+一般 水质,General water quality,2,0,0,0,0,0,0,2,0,0
+一般 沙滩,Average beach,7,0,0,0,0,0,0,2,5,0
+一般 温泉,General hot spring,10,0,0,0,0,0,0,3,7,0
+一般 状况,General condition,3,0,0,0,0,0,0,0,2,0
+一般 环境,General environment,40,0,0,0,3,8,12,7,8,0
+一般 用品,General supplies,5,0,0,0,0,0,3,0,2,0
+一般 真心,So honest,7,0,0,0,0,0,3,0,2,0
+一般 硬件,General hardware,5,0,0,0,0,0,0,0,2,0
+一般 种类,General type,4,0,0,0,0,2,0,0,0,0
+一般 程度,Average,5,0,0,0,0,0,2,0,3,0
+一般 空气,General air,3,0,0,0,0,0,2,0,0,0
+一般 空间,General space,2,0,0,0,0,0,0,0,0,0
+一般 缺点,General disadvantages,2,0,0,0,0,0,0,0,0,0
+一般 网速,General Internet speed,2,0,0,0,0,0,0,0,0,0
+一般 自助餐,Average buffet,6,0,0,0,0,0,0,0,6,0
+一般 英文,General English,4,0,0,0,0,0,0,0,2,0
+一般 英语,General English,11,0,0,0,0,2,3,5,0,0
+一般 装修,General decoration,15,0,0,0,0,0,0,8,5,0
+一般 设备,General equipment,6,0,0,0,0,0,0,0,2,0
+一般 设施,General facilities,137,0,0,5,10,23,42,23,32,2
+一般 话,General,2,0,0,0,0,0,0,0,2,0
+一般 质量,General quality,6,0,0,0,0,0,0,0,4,0
+一般 选择,General choice,2,0,0,0,0,0,0,2,0,0
+一般 酒店,Average hotel,106,0,0,0,6,21,37,15,25,2
+一般 隔音,Soundproof,9,0,0,0,0,2,3,0,2,0
+一般 需求,General demand,3,0,0,0,0,2,0,0,0,0
+一般 面积,General area,2,0,0,0,0,0,2,0,0,0
+一般 风景,Average scenery,3,0,0,0,0,0,0,0,2,0
+一般 食物,General food,3,0,0,0,0,0,0,2,0,0
+一般 餐厅,Average restaurant,4,0,0,0,0,0,0,0,4,0
+不 一般,abnormal,2,0,0,0,0,0,0,0,0,0
+不 中文,No Chinese,15,0,0,0,0,0,6,4,3,0
+不 多,not much,277,0,0,7,11,47,71,41,92,8
+不 看到,Not see,3,0,0,0,0,0,0,0,0,0
+不 能,Can't,13,0,0,0,0,2,0,2,8,0
+不 见,Not see,5,0,0,0,0,2,0,0,0,0
+不 订,Not order,34,0,0,0,0,3,8,6,16,0
+不 说,Did not say,89,0,0,0,2,17,20,15,32,2
+不 需要,Not needed,23,0,0,0,3,2,9,5,3,0
+中文,Chinese,733,0,0,9,26,93,155,94,337,19
+价格,price,1838,0,0,31,98,296,472,326,561,54
+冷淡 多,Much colder,3,0,0,0,0,0,0,3,0,0
+华人,Chinese,15,0,0,0,0,3,2,2,8,0
+地理,geography,691,0,0,10,31,125,164,110,239,12
+多,many,2971,0,0,29,136,402,708,460,1158,78
+多 下面,More below,2,0,0,0,0,0,0,0,0,0
+多 东西,Many things,53,0,0,0,2,12,11,7,17,3
+多 交通费,More transportation,2,0,0,0,0,0,0,0,2,0
+多 京都,Much Kyoto,2,0,0,0,0,0,0,0,0,0
+多 亮点,Many highlights,2,0,0,0,0,0,0,0,0,0
+多 人,Multiple people,246,0,0,0,9,24,43,36,131,2
+多 人员,Multiple people,4,0,0,0,0,0,0,0,3,0
+多 人数,More people,6,0,0,0,0,0,6,0,0,0
+多 什么,More what,2,0,0,0,0,0,0,0,0,0
+多 价,Multi-price,2,0,0,0,0,0,0,0,0,0
+多 价格,Much price,9,0,0,0,0,0,0,2,4,0
+多 优点,Many advantages,2,0,0,0,0,0,0,0,0,0
+多 位置,Multiple locations,3,0,0,0,0,0,0,0,2,0
+多 住,Live more,7,0,0,0,0,3,0,2,0,0
+多 便利店,Convenience store,2,0,0,0,0,0,0,0,0,0
+多 公园,Multiple park,2,0,0,0,0,0,0,0,0,0
+多 内地,Much Mainland,2,0,0,0,0,0,0,0,2,0
+多 出口,More export,4,0,0,0,0,0,0,0,0,0
+多 分钟,Many minutes,17,0,0,0,0,3,5,0,8,0
+多 办公室,Multiple office,2,0,0,0,2,0,0,0,0,0
+多 办公楼,Office building,2,0,0,0,0,0,0,0,0,0
+多 原因,Many reasons,2,0,0,0,0,0,0,0,0,0
+多 吃,Eat more,37,0,0,0,2,7,10,9,9,0
+多 吃饭,Eat more,12,0,0,0,0,3,5,3,0,0
+多 周围,Around,6,0,0,0,0,0,4,0,2,0
+多 周边,Surrounding,10,0,0,0,0,5,3,0,0,0
+多 品牌,Multiple brands,3,0,0,0,0,0,0,0,2,0
+多 品种,multi breed,89,0,0,4,6,17,18,12,30,2
+多 品类,Multiple categories,3,0,0,0,0,0,3,0,0,0
+多 商场,Many malls,13,0,0,0,0,5,4,2,2,0
+多 商店,Multiple stores,12,0,0,0,0,0,8,0,3,0
+多 团队,Multiple team,7,0,0,0,0,0,5,0,0,0
+多 国人,Multinational,5,0,0,0,0,0,0,2,2,0
+多 国家,Many countries,2,0,0,0,0,0,0,2,0,0
+多 地方,Many places,52,0,0,0,5,8,14,14,9,2
+多 块,Multiple pieces,4,0,0,0,0,0,0,2,0,0
+多 处,Many places,3,0,0,0,0,3,0,0,0,0
+多 外国人,Many foreigners,9,0,0,0,0,2,2,0,4,0
+多 大巴,How big bus,2,0,0,0,0,0,0,0,0,0
+多 好评,Much praise,3,0,0,0,0,0,0,0,2,0
+多 子,Many sons,2,0,0,0,0,0,0,0,2,0
+多 学生,Multiple students,4,0,0,0,0,0,4,0,0,0
+多 孩子,Many kids,2,0,0,0,0,0,0,0,0,0
+多 客,Many customers,2,0,0,0,0,0,0,0,0,0
+多 客人,Multiple guests,34,0,0,0,0,3,9,3,17,0
+多 小吃,Multiple snacks,3,0,0,0,0,0,0,0,0,0
+多 居酒屋,Multiple izakaya,12,0,0,0,0,8,0,0,2,0
+多 平米,Multiple square meters,4,0,0,0,0,0,0,0,2,2
+多 店,Multi shop,40,0,0,4,2,13,12,3,6,0
+多 店铺,Multiple shops,5,0,0,0,0,2,3,0,0,0
+多 开,More open,2,0,0,0,0,0,0,0,2,0
+多 态度,More attitude,2,0,0,0,0,0,0,0,0,0
+多 性价比,Much cost-effective,2,0,0,0,0,0,0,0,0,0
+多 情况,Many situations,2,0,0,0,0,0,0,0,0,0
+多 感觉,Feel more,5,0,0,0,0,0,2,0,0,0
+多 我们,Much we,3,0,0,0,0,0,0,0,2,0
+多 房,Multiple rooms,4,0,0,0,0,0,2,0,0,0
+多 房价,Multiple house prices,5,0,0,0,0,0,0,0,3,0
+多 房费,More room rate,2,0,0,0,0,0,2,0,0,0
+多 房间,Multiple rooms,16,0,0,0,0,2,4,0,8,0
+多 折扣,More discount,2,0,0,0,0,0,2,0,0,0
+多 数,Most,2,0,0,0,0,0,0,0,0,0
+多 新宿站,Shinjuku Station,3,0,0,0,0,0,0,0,3,0
+多 方,Multiple,2,0,0,0,0,0,0,0,0,0
+多 方便,Much convenient,3,0,0,0,0,0,2,0,0,0
+多 旁边,Much beside,3,0,0,0,0,2,0,0,0,0
+多 旅客,Multiple travelers,2,0,0,0,0,0,0,0,0,0
+多 旅游团,Multiple tours,2,0,0,0,0,0,0,0,0,0
+多 旅行团,Multiple tours,7,0,0,0,0,0,4,2,0,0
+多 日元,Much yen,5,0,0,0,0,0,0,0,5,0
+多 日币,Multi Japanese Yen,3,0,0,0,0,0,0,0,0,0
+多 早餐,Multiple breakfast,5,0,0,0,0,0,2,0,0,0
+多 时候,Many times,5,0,0,0,0,2,0,2,0,0
+多 时间,Much time,5,0,0,0,0,0,2,0,3,0
+多 晚,How late,2,0,0,0,0,0,0,0,2,0
+多 景点,Multiple attractions,8,0,0,0,0,2,0,3,3,0
+多 朋友,Many friends,3,0,0,0,0,0,0,0,2,0
+多 服务,Multiple services,3,0,0,0,0,0,2,0,0,0
+多 服务员,Multiple waiters,3,0,0,0,0,0,0,0,3,0
+多 来,More come,2,0,0,0,0,0,0,0,0,0
+多 样子,Much look,4,0,0,0,0,0,0,0,2,0
+多 步行,More walking,4,0,0,0,0,2,0,2,0,0
+多 游客,Many tourists,35,0,0,0,0,2,14,4,14,0
+多 玩,Play more,3,0,0,0,0,0,0,0,0,0
+多 班次,Multiple shifts,6,0,0,0,0,0,0,0,4,0
+多 班车,Multiple shuttle,5,0,0,0,0,0,0,0,5,0
+多 百货,Department store,3,0,0,0,0,0,0,0,2,0
+多 真,How true,2,0,0,0,0,0,0,0,0,0
+多 种类,Many kinds,39,0,0,0,2,5,8,4,18,0
+多 空间,Multiple space,5,0,0,0,0,0,0,0,4,0
+多 米,Many meters,5,0,0,0,0,2,0,2,0,0
+多 类,Multiple types,3,0,0,0,0,0,0,0,0,0
+多 线路,Multiple lines,6,0,0,0,0,4,0,2,0,0
+多 缘故,More sake,2,0,0,0,0,0,0,0,0,0
+多 缺点,Many disadvantages,5,0,0,0,0,0,0,0,4,0
+多 美人,How beautiful,3,0,0,0,0,0,0,0,2,0
+多 美食,More gourmet,12,0,0,0,0,2,3,0,6,0
+多 老外,Much foreigner,3,0,0,0,0,0,0,0,0,0
+多 肥牛,More fat cow,2,0,0,0,0,0,0,0,2,0
+多 背包客,Multiple backpackers,2,0,0,0,0,0,2,0,0,0
+多 花样,Multiple,2,0,0,0,0,0,0,0,0,0
+多 药妆,Multiple cosmeceuticals,2,0,0,0,0,2,0,0,0,0
+多 药店,Multiple pharmacies,2,0,0,0,0,0,2,0,0,0
+多 蔬菜,More vegetables,2,0,0,0,0,0,0,0,0,0
+多 行李,Much luggage,66,0,0,0,6,8,15,7,30,0
+多 衣服,Multiple clothes,2,0,0,0,0,0,0,0,0,0
+多 设施,Multiple facilities,11,0,0,0,0,0,2,2,6,0
+多 话,Chatty,22,0,0,0,4,3,4,2,9,0
+多 购物点,More shopping spots,4,0,0,0,0,0,4,0,0,0
+多 超市,Multi supermarket,5,0,0,0,0,2,0,0,3,0
+多 车,Multiple cars,2,0,0,0,0,0,0,0,0,0
+多 车子,Many cars,2,0,0,0,0,0,0,0,0,0
+多 车次,Multiple trains,4,0,0,0,0,0,0,0,2,0
+多 选择,multiple choice,38,0,0,0,0,3,9,6,16,2
+多 逛,More shopping,3,0,0,0,0,0,0,0,0,0
+多 酒店,Multiple hotels,32,0,0,0,3,0,15,5,8,0
+多 钱,Rich,4,0,0,0,0,0,0,0,3,0
+多 银座,More Ginza,2,0,0,0,0,0,0,0,0,0
+多 门口,Multiple doorways,2,0,0,0,0,0,0,0,0,0
+多 问题,Multiple problems,2,0,0,0,0,0,0,0,0,0
+多 附近,Many nearby,7,0,0,0,0,0,3,2,0,0
+多 项目,Multiple items,7,0,0,0,0,0,0,0,5,0
+多 频道,Multiple channels,2,0,0,0,0,0,0,0,2,0
+多 风景,Many scenery,2,0,0,0,0,0,0,0,2,0
+多 餐厅,Multiple restaurants,24,0,0,0,0,3,4,0,16,0
+多 餐饮,More meals,6,0,0,0,0,0,3,2,0,0
+多 餐饮店,Many restaurants,2,0,0,0,0,0,0,0,0,0
+多 餐馆,Many restaurants,8,0,0,0,0,0,4,0,0,0
+多 饭店,Many restaurants,17,0,0,0,3,5,3,3,3,0
+多 饭馆,Many restaurants,2,0,0,0,2,0,0,0,0,0
+多 饮食,More diet,2,0,0,0,0,0,2,0,0,0
+多 饮食店,Many restaurants,2,0,0,0,0,0,0,0,0,0
+好 多,A lot,2,0,0,0,0,0,0,0,0,0
+巨 多,Huge,2,0,0,0,0,0,0,0,0,0
+没有 一般,No average,44,0,0,0,3,2,11,9,18,0
+没有 中文,no Chinese,30,0,0,2,0,4,4,8,9,3
+没有 价格,No price,6,0,0,0,0,0,0,0,4,0
+没有 多,No more,44,0,0,0,4,3,12,7,16,2
+没有 看到,did not see,23,0,0,0,2,0,2,2,15,2
+没有 老,No old,3,0,0,0,0,0,0,0,2,0
+没有 能,No can,2,0,0,0,0,0,0,0,2,0
+没有 见,No see,3,0,0,0,0,0,0,0,0,0
+没有 订,Not ordered,32,0,0,0,0,2,13,7,9,0
+没有 说,Did not say,103,0,0,0,6,14,24,22,34,3
+没有 距离,No distance,4,0,0,0,0,0,0,0,2,0
+没有 陈旧,Not stale,11,0,0,0,0,0,0,4,4,0
+没有 需要,No need,12,0,0,0,2,5,2,2,0,0
+看到,see,550,0,0,15,31,70,124,140,155,15
+老,old,297,0,0,2,30,26,55,45,134,5
+老 先生,Old sir,2,0,0,0,0,0,0,0,2,0
+老 外观,Old appearance,3,0,0,0,0,2,0,0,0,0
+老 店,Old shop,15,0,0,0,0,0,3,3,7,0
+老 建筑,Old building,4,0,0,0,3,0,0,0,0,0
+老 感觉,Old feeling,4,0,0,0,0,0,0,0,2,0
+老 房子,old house,2,0,0,0,0,0,0,0,0,0
+老 房间,Old room,9,0,0,0,0,0,3,2,3,0
+老 服务,Old service,2,0,0,0,0,0,0,0,2,0
+老 楼,Old building,9,0,0,0,0,0,3,2,4,0
+老 点,Old point,2,0,0,0,0,0,0,0,0,0
+老 烟鬼,Old smoker,2,0,0,0,0,0,2,0,0,0
+老 相对比,Old relative,3,0,0,0,0,0,3,0,0,0
+老 硬件,Old hardware,2,0,0,0,0,0,0,0,2,0
+老 街,Old street,2,0,0,0,0,0,0,0,0,0
+老 装修,Old decoration,11,0,0,0,0,0,0,0,9,0
+老 设备,Old equipment,6,0,0,0,0,0,0,0,2,0
+老 设施,Old facility,58,0,0,0,7,7,8,7,26,2
+老 酒,Old wine,11,0,0,0,0,0,0,0,7,0
+老 酒店,Old hotel,74,0,0,0,8,11,9,11,34,0
+老 馆,Old hall,2,0,0,0,0,0,0,0,0,0
+能,can,1353,0,0,18,52,219,329,280,436,19
+见,see,59,0,0,0,10,9,8,10,18,3
+订,Order,533,0,0,6,25,61,134,134,160,13
+说,Say,1196,0,0,9,46,171,254,201,471,44
+赤坂,Akasaka,2,0,0,0,0,0,2,0,0,0
+超级 多,Super much,2,0,0,0,0,0,0,0,0,0
+距离,distance,434,0,0,11,43,84,116,68,97,15
+陈旧,obsolete,319,0,0,0,34,43,75,71,90,6
+陈旧 家具,Obsolete furniture,3,0,0,0,2,0,0,0,0,0
+陈旧 感觉,Stale feeling,4,0,0,0,0,0,0,0,2,0
+陈旧 房间,Outdated room,10,0,0,0,0,0,0,3,5,0
+陈旧 有些,Outdated somewhat,2,0,0,0,0,0,0,0,0,0
+陈旧 点,Stale point,8,0,0,0,4,0,0,0,0,0
+陈旧 装修,Old decoration,5,0,0,0,0,0,3,0,0,0
+陈旧 设备,Obsolete equipment,18,0,0,0,2,3,7,5,0,0
+陈旧 设施,Obsolete facilities,184,0,0,0,17,25,42,43,53,4
+陈旧 酒店,Outdated hotel,10,0,0,0,2,2,2,2,2,0
+需要,need,696,0,0,13,42,100,158,120,239,24

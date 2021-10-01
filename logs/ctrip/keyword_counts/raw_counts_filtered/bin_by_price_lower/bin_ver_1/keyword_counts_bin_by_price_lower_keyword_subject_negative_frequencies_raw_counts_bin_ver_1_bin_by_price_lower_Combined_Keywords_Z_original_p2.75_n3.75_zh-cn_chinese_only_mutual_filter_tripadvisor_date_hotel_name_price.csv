@@ -1,0 +1,106 @@
+keyword,translated_keyword,0: All Prices,1: 0 to 5000 yen,"2: 5000 to 10,000 yen","3: 10,000 to 15,000 yen","4: 15,000 to 20,000 yen","5: 20,000 to 100,000 yen","6: 100,000 to 200,000 yen"
+一般,general,1713,87,728,438,127,333,0
+一般 东西,General stuff,6,0,3,0,0,2,0
+一般 交通,General traffic,3,0,0,0,0,2,0
+一般 人,normal person,2,0,0,0,0,0,0
+一般 价格,General price,7,0,4,0,0,2,0
+一般 位置,General location,42,7,20,5,0,10,0
+一般 卫生,General hygiene,30,2,15,10,0,2,0
+一般 印象,General impression,2,0,0,0,0,0,0
+一般 口味,General taste,6,0,3,0,0,0,0
+一般 口感,General taste,2,0,0,0,0,2,0
+一般 味道,General taste,22,0,9,5,4,3,0
+一般 品牌,General brand,3,0,2,0,0,0,0
+一般 品种,General variety,5,0,0,0,2,2,0
+一般 地方,General place,2,0,0,0,0,0,0
+一般 地段,General location,5,0,2,0,0,0,0
+一般 地点,General location,3,0,2,0,0,0,0
+一般 大小,General size,12,0,4,4,0,4,0
+一般 宵夜,Average supper,2,0,2,0,0,0,0
+一般 宾馆,General Hotel,3,0,2,0,0,0,0
+一般 态度,General attitude,39,2,15,11,5,6,0
+一般 性价比,Average value for money,44,0,12,20,2,9,0
+一般 总体,General overall,4,2,2,0,0,0,0
+一般 情况,generally,4,0,0,2,0,0,0
+一般 感觉,General feeling,24,2,10,5,4,3,0
+一般 房间,Average room,37,0,8,19,5,4,0
+一般 效果,General effect,6,0,5,0,0,0,0
+一般 方面,General aspect,5,0,2,2,0,0,0
+一般 旅馆,General Hotel,2,0,0,0,0,0,0
+一般 早餐,Average breakfast,97,7,35,23,5,27,0
+一般 早饭,Average breakfast,6,0,4,0,2,0,0
+一般 晚餐,Average dinner,3,0,0,0,0,2,0
+一般 景色,General scenery,4,0,0,2,0,2,0
+一般 景观,General landscape,2,0,0,0,0,0,0
+一般 服务,General service,115,4,35,36,12,28,0
+一般 条件,General condition,18,2,10,4,0,2,0
+一般 水平,The general level,5,0,3,0,0,0,0
+一般 水质,General water quality,2,0,0,2,0,0,0
+一般 沙滩,Average beach,7,0,0,2,5,0,0
+一般 温泉,General hot spring,10,0,0,2,6,2,0
+一般 状况,General condition,3,0,0,0,0,0,0
+一般 环境,General environment,40,2,20,8,4,6,0
+一般 用品,General supplies,5,0,0,3,0,0,0
+一般 硬件,General hardware,5,0,2,0,0,2,0
+一般 种类,General type,4,0,3,0,0,0,0
+一般 程度,Average,5,0,2,2,0,0,0
+一般 空气,General air,3,0,0,0,0,0,0
+一般 空间,General space,2,0,0,0,0,0,0
+一般 缺点,General disadvantages,2,0,0,0,0,0,0
+一般 网速,General Internet speed,2,0,0,0,0,0,0
+一般 自助餐,Average buffet,6,0,0,0,0,6,0
+一般 英文,General English,4,0,3,0,0,0,0
+一般 英语,General English,11,0,6,4,0,0,0
+一般 装修,General decoration,15,0,2,7,0,6,0
+一般 设备,General equipment,6,0,3,0,0,3,0
+一般 设施,General facilities,137,10,69,41,2,15,0
+一般 话,General,2,0,0,0,0,2,0
+一般 质量,General quality,6,0,0,0,2,2,0
+一般 选择,General choice,2,0,0,2,0,0,0
+一般 酒店,Average hotel,106,4,45,34,5,18,0
+一般 隔音,Soundproof,9,0,5,2,0,0,0
+一般 需求,General demand,3,0,2,0,0,0,0
+一般 面积,General area,2,0,0,0,0,0,0
+一般 风景,Average scenery,3,0,0,0,0,2,0
+一般 食物,General food,3,0,0,0,0,0,0
+一般 餐厅,Average restaurant,4,0,0,0,2,2,0
+不 中文,No Chinese,15,0,8,6,0,0,0
+中文,Chinese,733,27,211,281,33,181,0
+价格,price,1838,118,699,545,121,355,0
+华人,Chinese,15,2,3,3,0,6,0
+地理,geography,691,22,260,284,20,105,0
+没有 中文,no Chinese,30,2,10,7,3,8,0
+没有 价格,No price,6,0,0,4,0,0,0
+没有 距离,No distance,4,0,3,0,0,0,0
+没有 陈旧,Not stale,11,0,2,3,0,4,0
+老,old,297,14,88,74,21,100,0
+老 先生,Old sir,2,0,0,0,2,0,0
+老 外观,Old appearance,3,0,2,0,0,0,0
+老 店,Old shop,15,0,5,2,0,8,0
+老 建筑,Old building,4,0,4,0,0,0,0
+老 感觉,Old feeling,4,0,0,0,0,2,0
+老 房子,old house,2,0,0,0,0,0,0
+老 房间,Old room,9,0,0,5,0,3,0
+老 服务,Old service,2,0,0,0,0,2,0
+老 楼,Old building,9,0,2,4,0,3,0
+老 点,Old point,2,0,2,0,0,0,0
+老 烟鬼,Old smoker,2,0,0,2,0,0,0
+老 硬件,Old hardware,2,0,0,0,0,2,0
+老 街,Old street,2,0,2,0,0,0,0
+老 装修,Old decoration,11,0,0,0,0,9,0
+老 设备,Old equipment,6,0,2,2,0,0,0
+老 设施,Old facility,58,5,18,13,2,20,0
+老 酒,Old wine,11,0,6,2,0,2,0
+老 酒店,Old hotel,74,5,24,15,6,24,0
+老 馆,Old hall,2,0,0,0,0,0,0
+赤坂,Akasaka,2,0,0,0,0,0,0
+距离,distance,434,46,207,84,16,81,0
+陈旧,obsolete,319,24,137,86,17,55,0
+陈旧 家具,Obsolete furniture,3,0,3,0,0,0,0
+陈旧 感觉,Stale feeling,4,0,0,2,0,0,0
+陈旧 房间,Outdated room,10,0,5,0,0,3,0
+陈旧 点,Stale point,8,0,5,0,0,0,0
+陈旧 装修,Old decoration,5,0,3,0,0,0,0
+陈旧 设备,Obsolete equipment,18,2,5,9,0,2,0
+陈旧 设施,Obsolete facilities,184,11,84,47,13,29,0
+陈旧 酒店,Outdated hotel,10,2,5,0,0,2,0
